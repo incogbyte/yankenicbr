@@ -4369,7 +4369,8 @@
       "189.14.80.0/20",
       "2804:2dc::/32",
       "177.136.88.0/21",
-      "179.51.172.0/22"
+      "179.51.172.0/22",
+      "128.201.220.0/22"
     ]
   },
   {
@@ -11567,7 +11568,7 @@
   },
   {
     "asn": 53215,
-    "organization": "China Construction Bank (Brasil) Banco MÃºltiplo SA",
+    "organization": "Bank of China (Brasil) Banco MÃºltiplo S/A",
     "document": "07.450.604/0007-74",
     "ip_blocks": [
       "186.232.246.0/24",
@@ -35921,7 +35922,6 @@
     "organization": "Telbe Telecom Valinhos LTDA",
     "document": "27.390.934/0001-33",
     "ip_blocks": [
-      "128.201.220.0/22",
       "2804:3f70::/32"
     ]
   },
@@ -69254,7 +69254,7 @@
   },
   {
     "asn": 271055,
-    "organization": "LUCAS DE SOUZA SILVA",
+    "organization": "C K TELECOMUNICACOES LTDA",
     "document": "17.351.343/0001-01",
     "ip_blocks": [
       "201.54.176.0/22",
@@ -70922,7 +70922,8 @@
       "2804:7898::/32",
       "164.163.192.0/22",
       "45.180.16.0/22",
-      "45.172.96.0/22"
+      "45.172.96.0/22",
+      "207.248.10.0/23"
     ]
   },
   {
@@ -71311,7 +71312,7 @@
     "document": "31.266.428/0001-04",
     "ip_blocks": [
       "2804:7960::/32",
-      "207.248.8.0/22"
+      "207.248.8.0/23"
     ]
   },
   {
@@ -82491,6 +82492,38 @@
     "document": "27.326.615/0001-69",
     "ip_blocks": [
       "2804:8cc4::/32"
+    ]
+  },
+  {
+    "asn": 274461,
+    "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
+    "document": "06.209.516/0001-27",
+    "ip_blocks": [
+      "2804:947c::/32"
+    ]
+  },
+  {
+    "asn": 274462,
+    "organization": "WEB FIBER TELECOMUNICAÃÃES",
+    "document": "44.247.607/0001-46",
+    "ip_blocks": [
+      "2804:9480::/32"
+    ]
+  },
+  {
+    "asn": 274463,
+    "organization": "DM TREVIZAN",
+    "document": "07.132.141/0001-07",
+    "ip_blocks": [
+      "2804:9484::/32"
+    ]
+  },
+  {
+    "asn": 274464,
+    "organization": "NEXUSLINK DATACENTER LTDA",
+    "document": "50.203.572/0001-46",
+    "ip_blocks": [
+      "2804:9488::/32"
     ]
   },
   {
