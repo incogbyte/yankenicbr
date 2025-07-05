@@ -5424,8 +5424,8 @@
   },
   {
     "asn": 28593,
-    "organization": "Hisecur Security Solution Ltda",
-    "document": "03.998.775/0001-96",
+    "organization": "NEXBOX TELECOMUNICACOES LTDA",
+    "document": "09.674.569/0001-07",
     "ip_blocks": [
       "201.7.160.0/22"
     ]
@@ -6879,7 +6879,7 @@
   },
   {
     "asn": 52601,
-    "organization": "FAXT TELECOMUNICACOES LTDA",
+    "organization": "BIZZ INTERNET LTDA",
     "document": "06.537.806/0001-08",
     "ip_blocks": [
       "177.124.72.0/21",
@@ -7391,15 +7391,6 @@
     "ip_blocks": [
       "177.67.136.0/21",
       "2804:49cc::/32"
-    ]
-  },
-  {
-    "asn": 52665,
-    "organization": "AUTOSERVIÃO PROCESSAMENTO DE DADOS LTDA",
-    "document": "07.306.406/0003-08",
-    "ip_blocks": [
-      "177.53.136.0/22",
-      "2804:c0c::/32"
     ]
   },
   {
@@ -13513,7 +13504,8 @@
     "ip_blocks": [
       "200.196.136.0/22",
       "2804:192c::/32",
-      "143.208.136.0/22"
+      "143.208.136.0/22",
+      "177.53.136.0/22"
     ]
   },
   {
@@ -24812,7 +24804,7 @@
   },
   {
     "asn": 263652,
-    "organization": "FAXT TELECOMUNICACOES LTDA",
+    "organization": "BIZZ INTERNET LTDA",
     "document": "06.537.806/0001-08",
     "ip_blocks": [
       "177.74.224.0/20",
@@ -26507,15 +26499,6 @@
       "143.0.216.0/22",
       "2804:29a8::/32",
       "177.74.180.0/22"
-    ]
-  },
-  {
-    "asn": 264028,
-    "organization": "JOKA ON LINE PROVEDORA DE INTERNET LTDA - ME",
-    "document": "08.887.834/0001-72",
-    "ip_blocks": [
-      "143.137.16.0/22",
-      "2804:29ac::/32"
     ]
   },
   {
@@ -49165,7 +49148,8 @@
     "ip_blocks": [
       "45.168.248.0/22",
       "2804:57c4::/32",
-      "45.7.92.0/22"
+      "45.7.92.0/22",
+      "143.137.16.0/22"
     ]
   },
   {
@@ -57928,7 +57912,8 @@
     "document": "26.692.914/0001-54",
     "ip_blocks": [
       "45.181.100.0/22",
-      "2804:60a8::/32"
+      "2804:60a8::/32",
+      "179.63.166.0/23"
     ]
   },
   {
@@ -69159,19 +69144,6 @@
     ]
   },
   {
-    "asn": 271045,
-    "organization": "Matheus Mota Torres LTDA",
-    "document": "31.864.533/0001-45",
-    "ip_blocks": [
-      "2804:756c::/32",
-      "177.67.160.0/22",
-      "177.67.164.0/22",
-      "45.65.164.0/22",
-      "201.54.186.0/23",
-      "201.54.184.0/24"
-    ]
-  },
-  {
     "asn": 271046,
     "organization": "M DE O CARVALHO",
     "document": "30.280.504/0001-73",
@@ -73433,7 +73405,7 @@
     "document": "25.385.036/0001-61",
     "ip_blocks": [
       "2804:7d78::/32",
-      "179.63.164.0/22"
+      "179.63.164.0/23"
     ]
   },
   {
@@ -74577,7 +74549,12 @@
     "document": "14.075.186/0001-52",
     "ip_blocks": [
       "2804:7fa4::/32",
-      "189.84.56.0/22"
+      "189.84.56.0/22",
+      "177.67.160.0/22",
+      "177.67.164.0/22",
+      "45.65.164.0/22",
+      "201.54.186.0/23",
+      "201.54.184.0/24"
     ]
   },
   {
@@ -81535,7 +81512,7 @@
   },
   {
     "asn": 273697,
-    "organization": "TO HOST DATACENTERS LTDA",
+    "organization": "TO HOST DATACENTERS S/A",
     "document": "48.992.712/0001-60",
     "ip_blocks": [
       "2804:8adc::/32",
@@ -82524,6 +82501,22 @@
     "document": "50.203.572/0001-46",
     "ip_blocks": [
       "2804:9488::/32"
+    ]
+  },
+  {
+    "asn": 274465,
+    "organization": "MV NET TELECOM",
+    "document": "14.305.613/0001-41",
+    "ip_blocks": [
+      "2804:948c::/32"
+    ]
+  },
+  {
+    "asn": 274466,
+    "organization": "NETFLEX TELECOMUNICACOES LTDA",
+    "document": "27.934.101/0001-96",
+    "ip_blocks": [
+      "2804:9490::/32"
     ]
   },
   {
