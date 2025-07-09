@@ -2990,8 +2990,9 @@
       "187.45.80.0/20",
       "187.86.0.0/20",
       "2804:88::/32",
-      "187.86.16.0/20",
-      "177.46.0.0/17"
+      "177.46.0.0/17",
+      "187.86.24.0/21",
+      "187.86.20.0/22"
     ]
   },
   {
@@ -5398,10 +5399,13 @@
       "200.188.208.0/21",
       "200.188.220.0/22",
       "200.188.216.0/23",
-      "200.152.16.0/20",
       "200.152.0.0/21",
       "200.152.8.0/22",
-      "201.23.96.0/19"
+      "201.23.96.0/19",
+      "200.152.16.0/21",
+      "200.152.24.0/22",
+      "200.152.28.0/24",
+      "200.152.30.0/24"
     ]
   },
   {
@@ -7407,7 +7411,8 @@
     "organization": "Intelle ComunicaÃ§Ãµes do Brasil Ltda",
     "document": "71.858.260/0001-40",
     "ip_blocks": [
-      "177.221.112.0/21"
+      "177.221.112.0/21",
+      "2804:94a4::/32"
     ]
   },
   {
@@ -7868,14 +7873,6 @@
     "ip_blocks": [
       "2804:2890::/32",
       "177.84.248.0/22"
-    ]
-  },
-  {
-    "asn": 52735,
-    "organization": "FLEX GESTAO DE RELACIONAMENTOS S.A.",
-    "document": "10.851.805/0001-00",
-    "ip_blocks": [
-      "177.84.202.0/23"
     ]
   },
   {
@@ -8961,7 +8958,8 @@
     "organization": "PW NETWORK INFORMATICA E TELECOMUNICACOES LTDA",
     "document": "11.083.471/0001-27",
     "ip_blocks": [
-      "177.129.176.0/21"
+      "177.129.176.0/21",
+      "2804:94a0::/32"
     ]
   },
   {
@@ -11540,7 +11538,7 @@
   },
   {
     "asn": 53213,
-    "organization": "NEGRISOLO COMUNICAÃÃO BANDA LARGA LTDA ME",
+    "organization": "BLV TECNOLOGIA LTDA",
     "document": "10.985.359/0001-19",
     "ip_blocks": [
       "186.250.64.0/21",
@@ -20072,7 +20070,8 @@
     "ip_blocks": [
       "186.250.28.0/22",
       "2804:ea8::/32",
-      "168.121.248.0/22"
+      "168.121.248.0/22",
+      "190.89.12.0/22"
     ]
   },
   {
@@ -30236,7 +30235,7 @@
   },
   {
     "asn": 264531,
-    "organization": "ULTRA TELECOM",
+    "organization": "HET INTERNET LTDA",
     "document": "13.481.749/0001-40",
     "ip_blocks": [
       "138.0.72.0/22",
@@ -33524,7 +33523,8 @@
     "ip_blocks": [
       "167.250.160.0/22",
       "2804:2c44::/32",
-      "179.0.68.0/22"
+      "179.0.68.0/22",
+      "187.86.16.0/22"
     ]
   },
   {
@@ -34662,15 +34662,6 @@
     "ip_blocks": [
       "168.181.188.0/22",
       "2804:2e70::/32"
-    ]
-  },
-  {
-    "asn": 265348,
-    "organization": "INTERVIXTELECOM EIRELI ME",
-    "document": "19.659.001/0001-70",
-    "ip_blocks": [
-      "168.181.144.0/22",
-      "2804:2e7c::/32"
     ]
   },
   {
@@ -39525,7 +39516,7 @@
   },
   {
     "asn": 266364,
-    "organization": "RABELO FLORES SERVIÃOS DE MULTIMIDIA EIRELI-IGBWEB",
+    "organization": "RABELO FLORES SERVIÃOS DE MULTIMIDIA LTDA-IGBWEB",
     "document": "19.841.456/0002-93",
     "ip_blocks": [
       "170.239.112.0/22",
@@ -42653,7 +42644,8 @@
     "document": "24.730.463/0001-77",
     "ip_blocks": [
       "45.227.180.0/22",
-      "2804:470c::/32"
+      "2804:470c::/32",
+      "45.184.240.0/22"
     ]
   },
   {
@@ -44021,15 +44013,6 @@
     ]
   },
   {
-    "asn": 267204,
-    "organization": "Global Net Ltda ME",
-    "document": "16.566.699/0001-91",
-    "ip_blocks": [
-      "45.231.64.0/22",
-      "2804:49d8::/32"
-    ]
-  },
-  {
     "asn": 267205,
     "organization": "JOTAZO TELECOM",
     "document": "10.851.788/0001-01",
@@ -44117,15 +44100,6 @@
     "ip_blocks": [
       "45.231.4.0/23",
       "2804:4a0c::/32"
-    ]
-  },
-  {
-    "asn": 267216,
-    "organization": "DTN TELECOM",
-    "document": "21.986.951/0001-51",
-    "ip_blocks": [
-      "45.231.172.0/22",
-      "2804:4a10::/32"
     ]
   },
   {
@@ -46295,7 +46269,8 @@
       "189.126.180.0/23",
       "189.126.182.0/23",
       "187.85.216.0/22",
-      "45.179.0.0/22"
+      "45.179.0.0/22",
+      "45.161.148.0/22"
     ]
   },
   {
@@ -53311,15 +53286,6 @@
     ]
   },
   {
-    "asn": 268603,
-    "organization": "CABONNET INTERNET LTDA",
-    "document": "47.082.017/0001-07",
-    "ip_blocks": [
-      "45.161.148.0/22",
-      "2804:53bc::/32"
-    ]
-  },
-  {
     "asn": 268604,
     "organization": "SILAS E F DE AQUINO ELETROELETRONICOS",
     "document": "11.586.921/0001-02",
@@ -53860,14 +53826,6 @@
       "45.165.84.0/22",
       "2804:54d0::/32",
       "177.72.108.0/22"
-    ]
-  },
-  {
-    "asn": 268672,
-    "organization": "LUIS DA SILVA SIQUEIRA JUNIOR 01962174581",
-    "document": "19.943.577/0001-65",
-    "ip_blocks": [
-      "2804:54d4::/32"
     ]
   },
   {
@@ -59407,15 +59365,6 @@
     ]
   },
   {
-    "asn": 269362,
-    "organization": "CYBERVIA INTERNET LTDA",
-    "document": "24.168.112/0001-14",
-    "ip_blocks": [
-      "45.184.240.0/22",
-      "2804:6374::/32"
-    ]
-  },
-  {
     "asn": 269363,
     "organization": "S GALVAO TELECOMUNICACOES",
     "document": "31.966.050/0001-51",
@@ -61575,15 +61524,6 @@
     ]
   },
   {
-    "asn": 269623,
-    "organization": "Solange maria silva dantas me",
-    "document": "24.219.097/0001-96",
-    "ip_blocks": [
-      "45.190.36.0/22",
-      "2804:675c::/32"
-    ]
-  },
-  {
     "asn": 269624,
     "organization": "DDR FIBRA OTICA SERVICO E COMERCIO DE TELECOMUNICA",
     "document": "32.195.565/0001-68",
@@ -61617,15 +61557,6 @@
     "ip_blocks": [
       "45.190.52.0/22",
       "2804:676c::/32"
-    ]
-  },
-  {
-    "asn": 269628,
-    "organization": "Matheus dos santos",
-    "document": "25.134.257/0001-67",
-    "ip_blocks": [
-      "45.190.56.0/22",
-      "2804:6770::/32"
     ]
   },
   {
@@ -63308,15 +63239,6 @@
     ]
   },
   {
-    "asn": 270347,
-    "organization": "SANTA HELENA TELECOMUNICACOES LTDA",
-    "document": "32.122.377/0001-00",
-    "ip_blocks": [
-      "190.89.12.0/22",
-      "2804:6a9c::/32"
-    ]
-  },
-  {
     "asn": 270348,
     "organization": "Sidia Instituto de Ciencia e Tecnologia",
     "document": "05.994.459/0001-71",
@@ -63341,15 +63263,6 @@
     "ip_blocks": [
       "190.89.20.0/22",
       "2804:6aa4::/32"
-    ]
-  },
-  {
-    "asn": 270351,
-    "organization": "MF CONECT",
-    "document": "29.277.855/0001-46",
-    "ip_blocks": [
-      "190.83.62.0/23",
-      "2804:6aa8::/32"
     ]
   },
   {
@@ -71159,7 +71072,7 @@
   },
   {
     "asn": 271291,
-    "organization": "CONECT SOLUCTION LTDA",
+    "organization": "CS+TELECOMUNICACOES LTDA",
     "document": "26.166.474/0001-00",
     "ip_blocks": [
       "2804:7934::/32",
@@ -74082,15 +73995,6 @@
     ]
   },
   {
-    "asn": 271649,
-    "organization": "ULTRA NET EVOLUTION WIFI LTDA",
-    "document": "39.156.243/0001-59",
-    "ip_blocks": [
-      "2804:7ed0::/32",
-      "190.9.92.0/22"
-    ]
-  },
-  {
     "asn": 271650,
     "organization": "LC NET TELECOMUNICAÃOES LTDA",
     "document": "32.744.671/0001-53",
@@ -75451,14 +75355,6 @@
     "document": "16.750.312/0001-52",
     "ip_blocks": [
       "2804:83fc::/32"
-    ]
-  },
-  {
-    "asn": 272233,
-    "organization": "Nortlink ServiÃ§os LTDA ME",
-    "document": "23.672.760/0001-40",
-    "ip_blocks": [
-      "2804:8400::/32"
     ]
   },
   {
@@ -78720,14 +78616,6 @@
     ]
   },
   {
-    "asn": 273354,
-    "organization": "Rio Ponte Net",
-    "document": "45.431.417/0001-47",
-    "ip_blocks": [
-      "2804:8d64::/32"
-    ]
-  },
-  {
     "asn": 273355,
     "organization": "System Computadores LTDA",
     "document": "06.120.084/0001-83",
@@ -79391,14 +79279,6 @@
     "document": "37.959.374/0001-49",
     "ip_blocks": [
       "2804:8e98::/32"
-    ]
-  },
-  {
-    "asn": 273437,
-    "organization": "MOVII DIGITAL SER DE COMUNICACAO MULTIMIDIA LTDA",
-    "document": "32.356.861/0001-01",
-    "ip_blocks": [
-      "2804:8e9c::/32"
     ]
   },
   {
@@ -81390,14 +81270,6 @@
     ]
   },
   {
-    "asn": 273699,
-    "organization": "MARCOS VINICIUS DE SOUZA MOTTA",
-    "document": "26.549.037/0001-67",
-    "ip_blocks": [
-      "2804:8ae4::/32"
-    ]
-  },
-  {
     "asn": 273700,
     "organization": "ESPECIALISTA SERVIÃOS DE INFORMATICA LTDA ME",
     "document": "10.533.367/0001-24",
@@ -82408,6 +82280,30 @@
     ]
   },
   {
+    "asn": 274469,
+    "organization": "CONNECTBR TELECOM",
+    "document": "33.452.427/0001-80",
+    "ip_blocks": [
+      "2804:94c0::/32"
+    ]
+  },
+  {
+    "asn": 274470,
+    "organization": "MMB FIBRA COMERCIO E SERVIÃOS LTDA",
+    "document": "34.626.305/0001-25",
+    "ip_blocks": [
+      "2804:94c4::/32"
+    ]
+  },
+  {
+    "asn": 274471,
+    "organization": "Wifi net serviÃ§os de telecomunicaÃ§Ãµes",
+    "document": "48.026.920/0001-05",
+    "ip_blocks": [
+      "2804:949c::/32"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -82947,7 +82843,9 @@
     "organization": "LH TELECOMUNICACOES LTDA",
     "document": "32.900.173/0001-52",
     "ip_blocks": [
-      "2804:91a4::/32"
+      "2804:91a4::/32",
+      "200.152.29.0/24",
+      "200.152.31.0/24"
     ]
   },
   {
