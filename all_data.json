@@ -10963,7 +10963,7 @@
   },
   {
     "asn": 53138,
-    "organization": "Conectlan Internet",
+    "organization": "Conectlan Internet Ltda",
     "document": "09.473.770/0001-26",
     "ip_blocks": [
       "186.192.240.0/20",
@@ -17818,7 +17818,7 @@
   },
   {
     "asn": 262632,
-    "organization": "Grajaunet Telecomunicacoes Eireli",
+    "organization": "Graja Fibra",
     "document": "10.224.849/0001-00",
     "ip_blocks": [
       "177.104.192.0/20",
@@ -61560,6 +61560,15 @@
     ]
   },
   {
+    "asn": 269628,
+    "organization": "Matheus dos santos",
+    "document": "25.134.257/0001-67",
+    "ip_blocks": [
+      "45.190.56.0/22",
+      "2804:6770::/32"
+    ]
+  },
+  {
     "asn": 269630,
     "organization": "JosÃ© Carlos Santana JÃºnior-ME",
     "document": "31.300.970/0001-36",
@@ -82301,6 +82310,78 @@
     "document": "48.026.920/0001-05",
     "ip_blocks": [
       "2804:949c::/32"
+    ]
+  },
+  {
+    "asn": 274472,
+    "organization": "H M FIGUEREDO",
+    "document": "21.905.011/0001-90",
+    "ip_blocks": [
+      "2804:94a8::/32"
+    ]
+  },
+  {
+    "asn": 274473,
+    "organization": "ENTERNET TELECOMUNICAÃÃES LTDA",
+    "document": "31.699.909/0001-03",
+    "ip_blocks": [
+      "2804:94ac::/32"
+    ]
+  },
+  {
+    "asn": 274474,
+    "organization": "R2 FIBRA TELECOM LTDA - ME",
+    "document": "27.547.142/0001-20",
+    "ip_blocks": [
+      "2804:94b0::/32"
+    ]
+  },
+  {
+    "asn": 274475,
+    "organization": "weblink net provedor de internet ltda",
+    "document": "51.464.511/0001-03",
+    "ip_blocks": [
+      "2804:94b4::/32"
+    ]
+  },
+  {
+    "asn": 274476,
+    "organization": "ALTERNATIVA INTERNET E SERVICOS LTDA",
+    "document": "48.535.485/0001-44",
+    "ip_blocks": [
+      "2804:94b8::/32"
+    ]
+  },
+  {
+    "asn": 274477,
+    "organization": "WERBI PROVEDOR E SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "35.717.510/0001-69",
+    "ip_blocks": [
+      "2804:94bc::/32"
+    ]
+  },
+  {
+    "asn": 274478,
+    "organization": "FERREIRA E GOMES TELECOMUNICACOES LTDA",
+    "document": "45.147.897/0001-19",
+    "ip_blocks": [
+      "2804:94c8::/32"
+    ]
+  },
+  {
+    "asn": 274479,
+    "organization": "WEB-FRAD.NET Flavio Ricardo Alves Dantas ME",
+    "document": "11.190.763/0001-69",
+    "ip_blocks": [
+      "2804:94cc::/32"
+    ]
+  },
+  {
+    "asn": 274480,
+    "organization": "Prenet LTDA",
+    "document": "14.131.094/0001-42",
+    "ip_blocks": [
+      "2804:94d0::/32"
     ]
   },
   {
