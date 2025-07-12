@@ -23687,7 +23687,7 @@
   },
   {
     "asn": 263519,
-    "organization": "Netlite Internet",
+    "organization": "Minas Nova Telecom LTDA",
     "document": "12.022.855/0001-00",
     "ip_blocks": [
       "191.243.240.0/22",
@@ -44100,6 +44100,15 @@
     "ip_blocks": [
       "45.231.4.0/23",
       "2804:4a0c::/32"
+    ]
+  },
+  {
+    "asn": 267216,
+    "organization": "DTN TELECOM",
+    "document": "21.986.951/0001-51",
+    "ip_blocks": [
+      "45.231.172.0/22",
+      "2804:4a10::/32"
     ]
   },
   {
@@ -82382,6 +82391,14 @@
     "document": "14.131.094/0001-42",
     "ip_blocks": [
       "2804:94d0::/32"
+    ]
+  },
+  {
+    "asn": 274481,
+    "organization": "SAGE LINK PROVEDOR DE INTERNET LTDA",
+    "document": "29.714.919/0001-29",
+    "ip_blocks": [
+      "2804:94d4::/32"
     ]
   },
   {
