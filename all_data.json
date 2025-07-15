@@ -2049,7 +2049,8 @@
     "document": "08.190.344/0001-12",
     "ip_blocks": [
       "200.160.144.0/20",
-      "2804:d8::/32"
+      "2804:d8::/32",
+      "186.251.214.0/23"
     ]
   },
   {
@@ -15393,8 +15394,8 @@
   },
   {
     "asn": 262331,
-    "organization": "Ceramica Urussanga SA",
-    "document": "86.530.318/0001-08",
+    "organization": "Duratex S/A",
+    "document": "97.837.181/0001-47",
     "ip_blocks": [
       "177.53.188.0/24"
     ]
@@ -19323,8 +19324,9 @@
     "organization": "Raptor Servicos de Telecomunicacoes LTDA",
     "document": "94.960.358/0001-00",
     "ip_blocks": [
-      "186.251.208.0/21",
-      "2804:2c8::/32"
+      "2804:2c8::/32",
+      "186.251.208.0/22",
+      "186.251.212.0/23"
     ]
   },
   {
@@ -22668,16 +22670,6 @@
     ]
   },
   {
-    "asn": 263391,
-    "organization": "PONTOCOMNET SERVIÃOS DE INTERNET LTDA",
-    "document": "03.983.810/0001-01",
-    "ip_blocks": [
-      "177.222.192.0/21",
-      "2804:1580::/32",
-      "170.247.248.0/22"
-    ]
-  },
-  {
     "asn": 263393,
     "organization": "ELI ANTONIO MARTINS ME",
     "document": "07.657.830/0001-35",
@@ -24767,7 +24759,9 @@
     "document": "03.983.810/0001-01",
     "ip_blocks": [
       "177.74.136.0/21",
-      "2804:10c4::/32"
+      "2804:10c4::/32",
+      "177.222.192.0/21",
+      "170.247.248.0/22"
     ]
   },
   {
@@ -38790,7 +38784,7 @@
   },
   {
     "asn": 266275,
-    "organization": "JEFFERSON KAYAM DA ROCHA",
+    "organization": "ITELECOM LTDA",
     "document": "97.546.395/0001-64",
     "ip_blocks": [
       "170.78.180.0/22",
@@ -44013,6 +44007,15 @@
     ]
   },
   {
+    "asn": 267204,
+    "organization": "Global Net Ltda ME",
+    "document": "16.566.699/0001-91",
+    "ip_blocks": [
+      "45.231.64.0/22",
+      "2804:49d8::/32"
+    ]
+  },
+  {
     "asn": 267205,
     "organization": "JOTAZO TELECOM",
     "document": "10.851.788/0001-01",
@@ -45298,7 +45301,7 @@
   },
   {
     "asn": 267364,
-    "organization": "Ivo Rodrigues de Oliveira",
+    "organization": "SOFWAY SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
     "document": "77.759.017/0001-51",
     "ip_blocks": [
       "45.234.72.0/22",
@@ -60703,7 +60706,7 @@
   },
   {
     "asn": 269525,
-    "organization": "Isp2 Internet",
+    "organization": "Free Wire Wireless Telecom",
     "document": "12.084.199/0001-62",
     "ip_blocks": [
       "45.187.250.0/23",
@@ -63281,6 +63284,15 @@
     "ip_blocks": [
       "190.89.20.0/22",
       "2804:6aa4::/32"
+    ]
+  },
+  {
+    "asn": 270351,
+    "organization": "AC Oliveira ComunicaÃ§Ã£o Ltda",
+    "document": "29.277.855/0001-46",
+    "ip_blocks": [
+      "190.83.62.0/23",
+      "2804:6aa8::/32"
     ]
   },
   {
@@ -72254,7 +72266,7 @@
   },
   {
     "asn": 271430,
-    "organization": "SINAL NET FIBRA",
+    "organization": "LOPES TELECOM LTDA",
     "document": "31.514.718/0001-20",
     "ip_blocks": [
       "2804:7b68::/32",
@@ -82399,6 +82411,22 @@
     "document": "29.714.919/0001-29",
     "ip_blocks": [
       "2804:94d4::/32"
+    ]
+  },
+  {
+    "asn": 274482,
+    "organization": "Ligue AÃ­ Telecom LTDA",
+    "document": "27.370.455/0001-55",
+    "ip_blocks": [
+      "2804:94d8::/32"
+    ]
+  },
+  {
+    "asn": 274483,
+    "organization": "Locaweb ServiÃ§os de Internet S/A",
+    "document": "02.351.877/0001-52",
+    "ip_blocks": [
+      "2804:94dc::/32"
     ]
   },
   {
