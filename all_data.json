@@ -20,9 +20,13 @@
       "200.19.224.0/20",
       "200.144.128.0/20",
       "200.144.32.0/19",
-      "200.144.64.0/18",
       "2001:12d8::/32",
-      "143.108.0.0/16"
+      "143.108.0.0/16",
+      "200.144.78.0/23",
+      "200.144.72.0/23",
+      "200.144.64.0/21",
+      "200.144.80.0/20",
+      "200.144.96.0/19"
     ]
   },
   {
@@ -4232,14 +4236,6 @@
       "143.208.60.0/22",
       "168.232.224.0/22",
       "170.238.132.0/22"
-    ]
-  },
-  {
-    "asn": 28266,
-    "organization": "Vante Provedor de Internet Ltda",
-    "document": "10.201.482/0001-00",
-    "ip_blocks": [
-      "2804:3fc::/32"
     ]
   },
   {
@@ -15589,16 +15585,6 @@
     ]
   },
   {
-    "asn": 262362,
-    "organization": "B. D. MATOS CIA LTDA - SINET INTERNET",
-    "document": "05.747.797/0001-09",
-    "ip_blocks": [
-      "177.128.16.0/21",
-      "2804:2618::/32",
-      "138.122.216.0/22"
-    ]
-  },
-  {
     "asn": 262363,
     "organization": "Wharehouse Informatica e Multimidia Ltda",
     "document": "06.980.218/0001-36",
@@ -17627,7 +17613,8 @@
     "document": "22.457.970/0001-53",
     "ip_blocks": [
       "177.101.32.0/20",
-      "2804:6c8::/32"
+      "2804:6c8::/32",
+      "177.92.240.0/21"
     ]
   },
   {
@@ -21319,7 +21306,6 @@
     "organization": "Lays Valeria Costa Almeida FranÃ§a - EPP",
     "document": "10.588.511/0001-20",
     "ip_blocks": [
-      "177.92.240.0/21",
       "2804:1730::/32"
     ]
   },
@@ -56736,7 +56722,8 @@
     "document": "44.404.731/0001-78",
     "ip_blocks": [
       "45.177.172.0/22",
-      "2804:5e84::/32"
+      "2804:5e84::/32",
+      "170.245.212.0/22"
     ]
   },
   {
@@ -60837,14 +60824,6 @@
     "ip_blocks": [
       "45.187.160.0/22",
       "2804:662c::/32"
-    ]
-  },
-  {
-    "asn": 269540,
-    "organization": "smc informatica telecomunicaÃ§Ãµes eireli-me",
-    "document": "18.887.931/0001-19",
-    "ip_blocks": [
-      "2804:6630::/32"
     ]
   },
   {
@@ -70897,7 +70876,6 @@
     "organization": "TUDO ON TELECOMUNICACOES",
     "document": "29.586.340/0001-28",
     "ip_blocks": [
-      "170.245.212.0/22",
       "2804:78c8::/32",
       "170.233.200.0/22"
     ]
@@ -73071,14 +73049,6 @@
     ]
   },
   {
-    "asn": 271537,
-    "organization": "Mino Host Hospedagem e Desenvolvimento de Sites",
-    "document": "33.502.944/0001-16",
-    "ip_blocks": [
-      "2804:7d14::/32"
-    ]
-  },
-  {
     "asn": 271538,
     "organization": "EB FOX TELECOM LTDA",
     "document": "35.700.387/0001-73",
@@ -74697,7 +74667,7 @@
   },
   {
     "asn": 271740,
-    "organization": "M A Goncalves Cavalcante ServiÃ§os e Comercio",
+    "organization": "Mais Fibra Telecom LTDA",
     "document": "33.417.164/0001-78",
     "ip_blocks": [
       "2804:8044::/32"
@@ -76617,14 +76587,6 @@
     ]
   },
   {
-    "asn": 272545,
-    "organization": "ULTRA NETWORK",
-    "document": "26.767.241/0001-54",
-    "ip_blocks": [
-      "2804:84e4::/32"
-    ]
-  },
-  {
     "asn": 272547,
     "organization": "Servicos de Infraestrutura e Datacenter",
     "document": "35.651.317/0001-72",
@@ -76658,14 +76620,6 @@
     "document": "38.658.601/0001-69",
     "ip_blocks": [
       "2804:84fc::/32"
-    ]
-  },
-  {
-    "asn": 272551,
-    "organization": "Acenet SoluÃ§Ãµes de Rede e Internet LTDA - ME",
-    "document": "15.768.759/0001-96",
-    "ip_blocks": [
-      "2804:8500::/32"
     ]
   },
   {
@@ -77100,14 +77054,6 @@
     "document": "92.399.112/0001-85",
     "ip_blocks": [
       "2801:80:3f00::/48"
-    ]
-  },
-  {
-    "asn": 272618,
-    "organization": "MAX FIBRA MAIS VELOZ LTDA",
-    "document": "33.780.659/0001-67",
-    "ip_blocks": [
-      "2804:8610::/32"
     ]
   },
   {
@@ -79036,14 +78982,6 @@
     ]
   },
   {
-    "asn": 273403,
-    "organization": "FRANCISCO DIEGO ARAUJO VIEIRA",
-    "document": "42.632.074/0001-90",
-    "ip_blocks": [
-      "2804:8e1c::/32"
-    ]
-  },
-  {
     "asn": 273404,
     "organization": "LABRUNYE A. T. LIMA",
     "document": "31.996.286/0001-30",
@@ -79130,14 +79068,6 @@
     "ip_blocks": [
       "2804:8e44::/32",
       "45.182.148.0/22"
-    ]
-  },
-  {
-    "asn": 273415,
-    "organization": "UPCONECT CONECTIVIDADE E INTERATIVIDADE LTDA",
-    "document": "40.080.687/0001-37",
-    "ip_blocks": [
-      "2804:8e48::/32"
     ]
   },
   {
@@ -79406,14 +79336,6 @@
     "document": "43.985.021/0001-16",
     "ip_blocks": [
       "2804:8ed4::/32"
-    ]
-  },
-  {
-    "asn": 273450,
-    "organization": "UNIMED CURITIBA - SOCIEDADE COOPERATIVA DE MEDICOS",
-    "document": "75.055.772/0001-20",
-    "ip_blocks": [
-      "2801:81:10::/47"
     ]
   },
   {
@@ -81067,14 +80989,6 @@
     ]
   },
   {
-    "asn": 273670,
-    "organization": "CITmax - CIT SERVICOS E INTERNET LTDA",
-    "document": "44.727.694/0001-39",
-    "ip_blocks": [
-      "2804:8a74::/32"
-    ]
-  },
-  {
     "asn": 273671,
     "organization": "Acesso com",
     "document": "07.054.967/0001-03",
@@ -81264,14 +81178,6 @@
     "document": "22.550.792/0001-00",
     "ip_blocks": [
       "2804:8ac8::/32"
-    ]
-  },
-  {
-    "asn": 273693,
-    "organization": "Cardif do Brasil Vida e Previdencia S/A",
-    "document": "03.546.261/0001-08",
-    "ip_blocks": [
-      "2801:80:3f80::/48"
     ]
   },
   {
@@ -83604,7 +83510,9 @@
     "organization": "COMPANHIA DE SANEAMENTO BASICO DO EST. DE SAO",
     "document": "43.776.517/0001-80",
     "ip_blocks": [
-      "2801:81:100::/48"
+      "2801:81:100::/48",
+      "200.144.74.0/23",
+      "200.144.76.0/23"
     ]
   },
   {
