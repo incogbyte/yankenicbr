@@ -2996,7 +2996,6 @@
       "187.86.0.0/20",
       "2804:88::/32",
       "177.46.0.0/17",
-      "187.86.24.0/21",
       "187.86.20.0/22"
     ]
   },
@@ -9418,7 +9417,8 @@
     "document": "09.165.783/0001-38",
     "ip_blocks": [
       "177.185.112.0/21",
-      "2804:28b0::/32"
+      "2804:28b0::/32",
+      "187.86.24.0/21"
     ]
   },
   {
@@ -15582,6 +15582,16 @@
     "ip_blocks": [
       "177.128.0.0/21",
       "2804:844::/32"
+    ]
+  },
+  {
+    "asn": 262362,
+    "organization": "B. D. MATOS CIA LTDA - SINET INTERNET",
+    "document": "05.747.797/0001-09",
+    "ip_blocks": [
+      "177.128.16.0/21",
+      "2804:2618::/32",
+      "138.122.216.0/22"
     ]
   },
   {
@@ -26845,15 +26855,6 @@
     ]
   },
   {
-    "asn": 264076,
-    "organization": "BREM TECHNOLOGY LTDA - ME",
-    "document": "21.140.662/0001-37",
-    "ip_blocks": [
-      "143.202.184.0/22",
-      "2804:2a84::/32"
-    ]
-  },
-  {
     "asn": 264077,
     "organization": "CLOUDX SERVICOS EM NUVEM LTDA",
     "document": "09.369.994/0001-92",
@@ -34645,6 +34646,15 @@
     ]
   },
   {
+    "asn": 265348,
+    "organization": "INTERVIXTELECOM LTDA",
+    "document": "19.659.001/0001-70",
+    "ip_blocks": [
+      "168.181.144.0/22",
+      "2804:2e7c::/32"
+    ]
+  },
+  {
     "asn": 265349,
     "organization": "LAN SOLUTIONS INFORMATICA LTDA.",
     "document": "06.292.238/0001-14",
@@ -38967,15 +38977,6 @@
     ]
   },
   {
-    "asn": 266298,
-    "organization": "MWA INTERNET. COM LTDA - ME",
-    "document": "20.969.356/0001-45",
-    "ip_blocks": [
-      "170.78.172.0/22",
-      "2804:35a4::/32"
-    ]
-  },
-  {
     "asn": 266299,
     "organization": "MARCOS SINDOR RIBEIRAO BRANCO EIRELI - ME",
     "document": "04.233.967/0001-74",
@@ -42170,16 +42171,6 @@
     "ip_blocks": [
       "45.226.60.0/22",
       "2804:460c::/32"
-    ]
-  },
-  {
-    "asn": 266966,
-    "organization": "NAVEX TELECOM",
-    "document": "26.507.177/0001-72",
-    "ip_blocks": [
-      "45.226.132.0/22",
-      "2804:4610::/32",
-      "201.148.160.0/22"
     ]
   },
   {
@@ -59843,15 +59834,6 @@
     ]
   },
   {
-    "asn": 269422,
-    "organization": "Gkg Net Telecon Eireli",
-    "document": "22.214.070/0001-85",
-    "ip_blocks": [
-      "45.186.100.0/22",
-      "2804:6458::/32"
-    ]
-  },
-  {
     "asn": 269423,
     "organization": "NETNOAR TELECOM",
     "document": "12.682.278/0001-75",
@@ -63779,15 +63761,6 @@
     ]
   },
   {
-    "asn": 270411,
-    "organization": "C A DA SILVA ME",
-    "document": "11.536.922/0001-34",
-    "ip_blocks": [
-      "190.89.224.0/22",
-      "2804:6b98::/32"
-    ]
-  },
-  {
     "asn": 270412,
     "organization": "VIP NET PROVEDOR DE INTERNET LTDA ME",
     "document": "25.408.231/0001-60",
@@ -67460,8 +67433,8 @@
   },
   {
     "asn": 270858,
-    "organization": "rodrigo torres lourerio me",
-    "document": "27.343.905/0001-10",
+    "organization": "Diamantino Telecom Provedor de Internet LTDA",
+    "document": "07.865.012/0001-28",
     "ip_blocks": [
       "179.0.188.0/22",
       "2804:7284::/32"
@@ -72605,15 +72578,6 @@
     ]
   },
   {
-    "asn": 271480,
-    "organization": "CIANET DF SILVA MARTINS EIRELI ME",
-    "document": "21.017.554/0001-71",
-    "ip_blocks": [
-      "2804:7c2c::/32",
-      "190.113.44.0/22"
-    ]
-  },
-  {
     "asn": 271481,
     "organization": "OndaNet Tecnologia Ltda",
     "document": "10.682.189/0001-01",
@@ -72629,15 +72593,6 @@
     "ip_blocks": [
       "2804:7c38::/32",
       "181.233.80.0/22"
-    ]
-  },
-  {
-    "asn": 271483,
-    "organization": "DAX INTERNET EIRELI",
-    "document": "31.899.284/0001-23",
-    "ip_blocks": [
-      "2804:7c3c::/32",
-      "168.121.244.0/22"
     ]
   },
   {
@@ -73659,15 +73614,6 @@
     "ip_blocks": [
       "2804:7e34::/32",
       "45.183.176.0/23"
-    ]
-  },
-  {
-    "asn": 271610,
-    "organization": "INFINITYCARD BRASIL LTDA",
-    "document": "45.963.447/0001-02",
-    "ip_blocks": [
-      "2804:7e38::/32",
-      "131.196.140.0/22"
     ]
   },
   {
@@ -82333,6 +82279,22 @@
     "document": "02.351.877/0001-52",
     "ip_blocks": [
       "2804:94dc::/32"
+    ]
+  },
+  {
+    "asn": 274484,
+    "organization": "Net Land LTDA",
+    "document": "10.361.352/0001-26",
+    "ip_blocks": [
+      "2804:94e0::/32"
+    ]
+  },
+  {
+    "asn": 274485,
+    "organization": "JDNET SISTEMA DE TELECOMUNICACAO LTDA",
+    "document": "28.610.190/0001-88",
+    "ip_blocks": [
+      "2804:94e4::/32"
     ]
   },
   {
