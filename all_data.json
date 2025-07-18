@@ -12630,7 +12630,8 @@
     "document": "11.703.500/0001-06",
     "ip_blocks": [
       "131.100.104.0/22",
-      "2804:1cb4::/32"
+      "2804:1cb4::/32",
+      "201.148.164.0/22"
     ]
   },
   {
@@ -14161,15 +14162,6 @@
     "ip_blocks": [
       "201.148.116.0/22",
       "2804:1a84::/32"
-    ]
-  },
-  {
-    "asn": 61865,
-    "organization": "L .T Oliveira Nunes Me",
-    "document": "12.372.742/0001-27",
-    "ip_blocks": [
-      "201.148.164.0/22",
-      "2804:1a8c::/32"
     ]
   },
   {
@@ -32367,8 +32359,8 @@
   },
   {
     "asn": 265059,
-    "organization": "TV CABO SAO PAULO LTDA",
-    "document": "00.699.284/0006-60",
+    "organization": "TV CABO SÃO PAULO LTDA",
+    "document": "00.699.284/0002-37",
     "ip_blocks": [
       "170.231.16.0/22",
       "2804:3224::/32"
@@ -34911,7 +34903,7 @@
   },
   {
     "asn": 265384,
-    "organization": "D N C de Brito Servicos",
+    "organization": "Online Provedor de Internet",
     "document": "11.928.432/0001-83",
     "ip_blocks": [
       "170.254.240.0/22",
@@ -54723,7 +54715,7 @@
   },
   {
     "asn": 268791,
-    "organization": "E C de CANO",
+    "organization": "AREA 51 PROVEDOR DE INTERNET LTDA",
     "document": "12.369.413/0001-27",
     "ip_blocks": [
       "45.172.64.0/22",
@@ -73941,6 +73933,15 @@
     ]
   },
   {
+    "asn": 271649,
+    "organization": "ULTRA NET EVOLUTION WIFI LTDA",
+    "document": "39.156.243/0001-59",
+    "ip_blocks": [
+      "2804:7ed0::/32",
+      "190.9.92.0/22"
+    ]
+  },
+  {
     "asn": 271650,
     "organization": "LC NET TELECOMUNICAÃOES LTDA",
     "document": "32.744.671/0001-53",
@@ -82295,6 +82296,14 @@
     "document": "28.610.190/0001-88",
     "ip_blocks": [
       "2804:94e4::/32"
+    ]
+  },
+  {
+    "asn": 274486,
+    "organization": "Rapidanet Telecom Ltda",
+    "document": "34.707.793/0001-03",
+    "ip_blocks": [
+      "2804:94e8::/32"
     ]
   },
   {
