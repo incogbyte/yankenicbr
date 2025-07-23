@@ -12010,7 +12010,9 @@
     "ip_blocks": [
       "2804:3300::/32",
       "170.254.136.0/22",
-      "179.48.148.0/22"
+      "179.48.148.0/22",
+      "131.196.16.0/22",
+      "45.163.212.0/22"
     ]
   },
   {
@@ -35918,16 +35920,6 @@
     ]
   },
   {
-    "asn": 265899,
-    "organization": "Novaes Hoki",
-    "document": "08.308.863/0001-32",
-    "ip_blocks": [
-      "131.196.16.0/22",
-      "2804:3f88::/32",
-      "45.163.212.0/22"
-    ]
-  },
-  {
     "asn": 265902,
     "organization": "VLZ TECNOLOGIAS EIRELI",
     "document": "23.274.706/0001-47",
@@ -38258,15 +38250,6 @@
     ]
   },
   {
-    "asn": 266205,
-    "organization": "NET BIOS",
-    "document": "05.552.711/0001-92",
-    "ip_blocks": [
-      "200.9.28.0/22",
-      "2804:3c58::/32"
-    ]
-  },
-  {
     "asn": 266206,
     "organization": "CABONNET INTERNET LTDA",
     "document": "47.082.017/0001-07",
@@ -39476,7 +39459,7 @@
   {
     "asn": 266364,
     "organization": "RABELO FLORES SERVIÃOS DE MULTIMIDIA LTDA-IGBWEB",
-    "document": "19.841.456/0002-93",
+    "document": "19.841.456/0001-02",
     "ip_blocks": [
       "170.239.112.0/22",
       "2804:36b0::/32"
@@ -42036,8 +42019,8 @@
   },
   {
     "asn": 266953,
-    "organization": "ARGO PROVEDOR DE INTERNET LTDA",
-    "document": "09.553.784/0001-50",
+    "organization": "ITMINDS CONSULTORIA EM TECNOLOGIA DA INFORMACAO",
+    "document": "13.382.694/0001-10",
     "ip_blocks": [
       "45.226.4.0/22",
       "2804:45d8::/32"
@@ -42673,7 +42656,7 @@
   },
   {
     "asn": 267037,
-    "organization": "ACITEL TELECOMUNICAÃOES LTDA",
+    "organization": "VLA TELECOMUNICACOES LTDA",
     "document": "07.717.774/0001-87",
     "ip_blocks": [
       "45.227.232.0/22",
@@ -54680,7 +54663,8 @@
     "document": "12.369.413/0001-27",
     "ip_blocks": [
       "45.172.64.0/22",
-      "2804:5ab8::/32"
+      "2804:5ab8::/32",
+      "200.9.28.0/22"
     ]
   },
   {
@@ -59787,6 +59771,15 @@
     ]
   },
   {
+    "asn": 269422,
+    "organization": "GKG NET TELECON LTDA",
+    "document": "22.214.070/0001-85",
+    "ip_blocks": [
+      "45.186.100.0/22",
+      "2804:6458::/32"
+    ]
+  },
+  {
     "asn": 269423,
     "organization": "NETNOAR TELECOM",
     "document": "12.682.278/0001-75",
@@ -60628,8 +60621,8 @@
   },
   {
     "asn": 269525,
-    "organization": "Free Wire Wireless Telecom",
-    "document": "12.084.199/0001-62",
+    "organization": "ISP2 Telecom",
+    "document": "37.361.943/0001-50",
     "ip_blocks": [
       "45.187.250.0/23",
       "2804:65f8::/32"
@@ -74353,7 +74346,11 @@
     "organization": "HUGO GLEYSON BARBOSA DA SILVA ME",
     "document": "27.488.117/0001-12",
     "ip_blocks": [
-      "2804:7fc4::/32"
+      "2804:7fc4::/32",
+      "177.86.142.0/24",
+      "186.232.242.0/24",
+      "201.131.103.0/24",
+      "45.229.151.0/24"
     ]
   },
   {
@@ -76467,6 +76464,14 @@
     "document": "33.115.423/0001-06",
     "ip_blocks": [
       "2804:84dc::/32"
+    ]
+  },
+  {
+    "asn": 272545,
+    "organization": "ULTRA NETWORK TELECOMUNICACOES LTDA",
+    "document": "26.767.241/0001-54",
+    "ip_blocks": [
+      "2804:84e4::/32"
     ]
   },
   {
