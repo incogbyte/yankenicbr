@@ -7873,6 +7873,14 @@
     ]
   },
   {
+    "asn": 52735,
+    "organization": "FLEX GESTAO DE RELACIONAMENTOS S.A.",
+    "document": "10.851.805/0001-00",
+    "ip_blocks": [
+      "177.84.202.0/23"
+    ]
+  },
+  {
     "asn": 52737,
     "organization": "Floriani ServiÃ§os de TelecomunicaÃ§Ã£o Ltda ME",
     "document": "10.450.535/0001-18",
@@ -53972,8 +53980,8 @@
   },
   {
     "asn": 268700,
-    "organization": "Salatiel dos Santos Teles Informatica",
-    "document": "11.624.057/0001-88",
+    "organization": "FLL - NETPLACE TELECOM",
+    "document": "35.366.628/0001-90",
     "ip_blocks": [
       "45.165.124.0/22",
       "2804:5548::/32"
@@ -57366,8 +57374,8 @@
     "organization": "ClickTek Telecom",
     "document": "21.136.529/0001-07",
     "ip_blocks": [
-      "45.179.104.0/22",
-      "2804:5fe0::/32"
+      "2804:5fe0::/32",
+      "45.179.104.0/23"
     ]
   },
   {
@@ -59201,7 +59209,7 @@
   },
   {
     "asn": 269351,
-    "organization": "TADEU DONIZETI DE MIRANDA COMUNICACOES MULTIMIDIA",
+    "organization": "GAT TELECOM COMUNICACOES LTDA",
     "document": "24.625.267/0001-32",
     "ip_blocks": [
       "45.185.0.0/22",
@@ -68797,7 +68805,8 @@
     "document": "26.773.346/0001-16",
     "ip_blocks": [
       "45.227.100.0/22",
-      "2804:751c::/32"
+      "2804:751c::/32",
+      "45.179.106.0/23"
     ]
   },
   {
@@ -75629,7 +75638,8 @@
     "organization": "LINKRM LTDA",
     "document": "26.618.855/0001-74",
     "ip_blocks": [
-      "2804:80e4::/32"
+      "2804:80e4::/32",
+      "138.219.8.0/22"
     ]
   },
   {
@@ -82286,6 +82296,30 @@
     "document": "02.623.550/0001-92",
     "ip_blocks": [
       "2804:94f4::/32"
+    ]
+  },
+  {
+    "asn": 274490,
+    "organization": "FACHINELI COMUNICACAO LTDA",
+    "document": "08.804.362/0001-47",
+    "ip_blocks": [
+      "2804:94f8::/32"
+    ]
+  },
+  {
+    "asn": 274491,
+    "organization": "CLICKNETSPEED ANILTON SANTOS DE SOUSA",
+    "document": "17.265.180/0001-36",
+    "ip_blocks": [
+      "2804:94fc::/32"
+    ]
+  },
+  {
+    "asn": 274492,
+    "organization": "INOV SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
+    "document": "45.761.429/0001-30",
+    "ip_blocks": [
+      "2804:9500::/32"
     ]
   },
   {
