@@ -12165,7 +12165,6 @@
     "organization": "HLP Mobile and Worldwide Tracking Ltda",
     "document": "30.966.443/0001-00",
     "ip_blocks": [
-      "177.124.156.0/22",
       "2804:7004::/32"
     ]
   },
@@ -16129,7 +16128,7 @@
   },
   {
     "asn": 262428,
-    "organization": "LINK 10",
+    "organization": "LINK10 BR",
     "document": "10.907.296/0001-82",
     "ip_blocks": [
       "177.44.144.0/20",
@@ -34298,8 +34297,8 @@
   },
   {
     "asn": 265304,
-    "organization": "Grandi Sistemas de InformaÃ§Ãµes LTDA ME",
-    "document": "08.339.512/0001-99",
+    "organization": "Brdsoft Solucoes de T.i e Telecomunicacoes LTDA",
+    "document": "52.020.887/0001-83",
     "ip_blocks": [
       "168.121.4.0/22",
       "2804:2dcc::/32"
@@ -36316,15 +36315,6 @@
     "ip_blocks": [
       "164.163.96.0/22",
       "2804:4048::/32"
-    ]
-  },
-  {
-    "asn": 265950,
-    "organization": "HLP Mobile and Worldwide Tracking Ltda",
-    "document": "30.966.443/0001-00",
-    "ip_blocks": [
-      "164.163.108.0/22",
-      "2804:404c::/32"
     ]
   },
   {
@@ -41562,7 +41552,7 @@
   },
   {
     "asn": 266634,
-    "organization": "KLINK TELECOMUNICAÃÃES EIRELI ME",
+    "organization": "KLINK TELECOMUNICAÃÃES LTDA",
     "document": "21.053.744/0001-44",
     "ip_blocks": [
       "128.201.64.0/22",
@@ -52231,7 +52221,7 @@
   },
   {
     "asn": 268478,
-    "organization": "Web Mais Internet",
+    "organization": "WebMais Internet",
     "document": "12.411.170/0001-48",
     "ip_blocks": [
       "45.161.232.0/22",
@@ -53101,7 +53091,7 @@
   },
   {
     "asn": 268589,
-    "organization": "BRDrive Tecnologia Ltda",
+    "organization": "BRDrive Datacenter Cloud Ti",
     "document": "08.937.631/0001-43",
     "ip_blocks": [
       "45.163.12.0/22",
@@ -72524,6 +72514,15 @@
     ]
   },
   {
+    "asn": 271480,
+    "organization": "CIANET DF SILVA MARTINS LTDA",
+    "document": "21.017.554/0001-71",
+    "ip_blocks": [
+      "2804:7c2c::/32",
+      "190.113.44.0/22"
+    ]
+  },
+  {
     "asn": 271481,
     "organization": "OndaNet Tecnologia Ltda",
     "document": "10.682.189/0001-01",
@@ -74708,7 +74707,10 @@
     "organization": "TA AQUINET.COM",
     "document": "32.033.959/0001-10",
     "ip_blocks": [
-      "2804:809c::/32"
+      "2804:809c::/32",
+      "200.2.88.0/23",
+      "45.162.86.0/24",
+      "45.181.43.0/24"
     ]
   },
   {
