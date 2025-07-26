@@ -4583,8 +4583,8 @@
   },
   {
     "asn": 28308,
-    "organization": "Orion TelecomunicaÃ§Ãµes Comercio e ServiÃ§os LTDA",
-    "document": "04.643.269/0001-47",
+    "organization": "ORN TELECOMUNICACOES LTDA",
+    "document": "58.049.088/0001-16",
     "ip_blocks": [
       "189.36.192.0/20",
       "2804:1460::/32"
@@ -37281,7 +37281,7 @@
   },
   {
     "asn": 266082,
-    "organization": "Powerserv Internet",
+    "organization": "PowerServ Internet",
     "document": "22.872.825/0001-39",
     "ip_blocks": [
       "45.5.72.0/22",
@@ -67449,7 +67449,7 @@
   },
   {
     "asn": 270866,
-    "organization": "MC Rebussi",
+    "organization": "M.C Rebussi e Cia LTDA",
     "document": "10.467.150/0001-63",
     "ip_blocks": [
       "131.255.0.0/22",
@@ -75787,7 +75787,11 @@
     "organization": "TERCIO FELIPE LOURENCO PEREIRA",
     "document": "13.231.742/0001-70",
     "ip_blocks": [
-      "2804:8128::/32"
+      "2804:8128::/32",
+      "45.169.96.0/24",
+      "45.162.87.0/24",
+      "45.177.55.0/24",
+      "45.174.8.0/24"
     ]
   },
   {
