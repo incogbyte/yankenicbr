@@ -40330,6 +40330,15 @@
     ]
   },
   {
+    "asn": 266471,
+    "organization": "Silva Oliveira ServiÃ§os de Informatica Ltda",
+    "document": "15.090.893/0001-80",
+    "ip_blocks": [
+      "170.83.48.0/22",
+      "2804:3858::/32"
+    ]
+  },
+  {
     "asn": 266473,
     "organization": "Navecom Informatica Ltda",
     "document": "11.268.017/0001-40",
@@ -46201,7 +46210,8 @@
       "189.126.182.0/23",
       "187.85.216.0/22",
       "45.179.0.0/22",
-      "45.161.148.0/22"
+      "45.161.148.0/22",
+      "45.187.236.0/22"
     ]
   },
   {
@@ -50911,7 +50921,7 @@
   },
   {
     "asn": 268313,
-    "organization": "Fernandes Rodrigues Consultores Associados",
+    "organization": "FR Consultoria e InovaÃ§Ã£o LTDA",
     "document": "11.125.730/0001-35",
     "ip_blocks": [
       "198.97.38.0/24",
@@ -60316,15 +60326,6 @@
     "ip_blocks": [
       "45.187.228.0/22",
       "2804:6568::/32"
-    ]
-  },
-  {
-    "asn": 269489,
-    "organization": "CABONNET INTERNET LTDA",
-    "document": "47.082.017/0001-07",
-    "ip_blocks": [
-      "45.187.236.0/22",
-      "2804:656c::/32"
     ]
   },
   {
@@ -70024,7 +70025,7 @@
   },
   {
     "asn": 271176,
-    "organization": "Christopher Eduardo Fistarol ME",
+    "organization": "BLUVELLOX TELECOMUNICACOES LTDA",
     "document": "28.550.928/0001-69",
     "ip_blocks": [
       "179.51.180.0/22",
@@ -72528,6 +72529,15 @@
     "ip_blocks": [
       "2804:7c38::/32",
       "181.233.80.0/22"
+    ]
+  },
+  {
+    "asn": 271483,
+    "organization": "DAX INTERNET LTDA",
+    "document": "31.899.284/0001-23",
+    "ip_blocks": [
+      "2804:7c3c::/32",
+      "168.121.244.0/22"
     ]
   },
   {
@@ -82330,6 +82340,46 @@
     "document": "45.761.429/0001-30",
     "ip_blocks": [
       "2804:9500::/32"
+    ]
+  },
+  {
+    "asn": 274493,
+    "organization": "ANAPOLISNET RIO TELECOMUNICAÃÃES",
+    "document": "49.633.956/0001-10",
+    "ip_blocks": [
+      "2804:9504::/32"
+    ]
+  },
+  {
+    "asn": 274494,
+    "organization": "NEW CLICK TELECOMUNICACOES LTDA",
+    "document": "30.022.435/0001-06",
+    "ip_blocks": [
+      "2804:9508::/32"
+    ]
+  },
+  {
+    "asn": 274495,
+    "organization": "JOSE SILVA DOS SANTOS",
+    "document": "52.733.887/0001-20",
+    "ip_blocks": [
+      "2804:950c::/32"
+    ]
+  },
+  {
+    "asn": 274496,
+    "organization": "GIGANET TELECOMUNICACOES LTDA",
+    "document": "44.554.398/0001-83",
+    "ip_blocks": [
+      "2804:9510::/32"
+    ]
+  },
+  {
+    "asn": 274497,
+    "organization": "JOAO SILVA DE SOUZA",
+    "document": "14.543.717/0001-94",
+    "ip_blocks": [
+      "2804:9514::/32"
     ]
   },
   {
