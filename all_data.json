@@ -26839,6 +26839,15 @@
     ]
   },
   {
+    "asn": 264076,
+    "organization": "BREM TECHNOLOGY LTDA",
+    "document": "21.140.662/0001-37",
+    "ip_blocks": [
+      "143.202.184.0/22",
+      "2804:2a84::/32"
+    ]
+  },
+  {
     "asn": 264077,
     "organization": "CLOUDX SERVICOS EM NUVEM LTDA",
     "document": "09.369.994/0001-92",
@@ -36922,6 +36931,15 @@
     "ip_blocks": [
       "45.4.28.0/22",
       "2804:3990::/32"
+    ]
+  },
+  {
+    "asn": 266037,
+    "organization": "OPENGATE INFORMATICA LTDA",
+    "document": "13.188.234/0001-56",
+    "ip_blocks": [
+      "45.4.48.0/22",
+      "2804:3994::/32"
     ]
   },
   {
@@ -47512,6 +47530,15 @@
     "ip_blocks": [
       "45.224.40.0/22",
       "2804:4498::/32"
+    ]
+  },
+  {
+    "asn": 267642,
+    "organization": "T. TELES LEITE TELECOMUNICACOES LTDA ME",
+    "document": "06.923.091/0001-13",
+    "ip_blocks": [
+      "45.71.192.0/22",
+      "2804:449c::/32"
     ]
   },
   {
@@ -61948,6 +61975,15 @@
     ]
   },
   {
+    "asn": 269685,
+    "organization": "NET SÃO JOSE LDTA - ME",
+    "document": "11.349.645/0001-50",
+    "ip_blocks": [
+      "45.191.208.0/22",
+      "2804:6854::/32"
+    ]
+  },
+  {
     "asn": 269686,
     "organization": "Marcos Duarte Tavares ME",
     "document": "05.794.291/0001-50",
@@ -69081,8 +69117,8 @@
   },
   {
     "asn": 271062,
-    "organization": "RL MultiFibra Internet",
-    "document": "13.120.364/0001-57",
+    "organization": "Nextlink telecom",
+    "document": "46.152.756/0001-57",
     "ip_blocks": [
       "179.48.4.0/22",
       "2804:75ac::/32"
