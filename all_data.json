@@ -21295,14 +21295,6 @@
     ]
   },
   {
-    "asn": 263130,
-    "organization": "Lays Valeria Costa Almeida FranÃ§a - EPP",
-    "document": "10.588.511/0001-20",
-    "ip_blocks": [
-      "2804:1730::/32"
-    ]
-  },
-  {
     "asn": 263131,
     "organization": "DGW RAIMAX SERVICOS DE VALOR ADICIONADO LTDA",
     "document": "31.134.994/0001-62",
@@ -52963,7 +52955,7 @@
   },
   {
     "asn": 268569,
-    "organization": "IBS TELECOM LTDA",
+    "organization": "SIMTEL INTERNET TELECOM LTDA",
     "document": "13.649.760/0001-76",
     "ip_blocks": [
       "45.163.88.0/22",
@@ -64882,7 +64874,7 @@
   },
   {
     "asn": 270552,
-    "organization": "WCL TELECOM",
+    "organization": "LANZA TELECOM LTDA",
     "document": "19.996.946/0001-88",
     "ip_blocks": [
       "189.50.216.0/22",
@@ -66854,8 +66846,8 @@
   },
   {
     "asn": 270789,
-    "organization": "TRANSAT TELECOMUNICACOES VIA SATELITE EIRELI",
-    "document": "21.557.625/0001-29",
+    "organization": "SITELBRA LTDA",
+    "document": "18.182.577/0001-27",
     "ip_blocks": [
       "187.110.152.0/22",
       "2804:7170::/32"
@@ -72477,14 +72469,6 @@
     ]
   },
   {
-    "asn": 271472,
-    "organization": "SPEEDNET TELECOM SERVIÃOS LTDA - ME",
-    "document": "16.481.751/0001-07",
-    "ip_blocks": [
-      "2804:7c0c::/32"
-    ]
-  },
-  {
     "asn": 271473,
     "organization": "NewFibra Telecomunicacoes - ME",
     "document": "37.310.057/0001-05",
@@ -73800,6 +73784,15 @@
     "ip_blocks": [
       "2804:7e98::/32",
       "179.0.108.0/22"
+    ]
+  },
+  {
+    "asn": 271635,
+    "organization": "SIMBR PARTICIPACOES LTDA",
+    "document": "24.689.264/0001-62",
+    "ip_blocks": [
+      "2804:7e9c::/32",
+      "190.103.189.0/24"
     ]
   },
   {
@@ -75322,14 +75315,6 @@
     "document": "13.346.057/0001-99",
     "ip_blocks": [
       "2804:8410::/32"
-    ]
-  },
-  {
-    "asn": 272238,
-    "organization": "RCL NET PROVEDOR DE SERVIÃOS DE TELECOMUNICAÃÃO",
-    "document": "34.858.382/0001-00",
-    "ip_blocks": [
-      "2804:8414::/32"
     ]
   },
   {
@@ -82440,6 +82425,14 @@
     "document": "27.858.577/0001-95",
     "ip_blocks": [
       "2804:951c::/32"
+    ]
+  },
+  {
+    "asn": 274500,
+    "organization": "TIAGO FERNANDES DA SILVA ME",
+    "document": "12.737.181/0001-12",
+    "ip_blocks": [
+      "2804:9520::/32"
     ]
   },
   {
