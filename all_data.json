@@ -47868,7 +47868,7 @@
   },
   {
     "asn": 267940,
-    "organization": "Olhar Digital Tecnologia Ltda",
+    "organization": "Olhar Digital Telecom Ltda",
     "document": "12.208.380/0001-33",
     "ip_blocks": [
       "45.165.216.0/22",
@@ -71269,7 +71269,7 @@
   },
   {
     "asn": 271323,
-    "organization": "CONNECT TELECOM",
+    "organization": "CONNECT TELECOM LTDA",
     "document": "18.578.613/0001-76",
     "ip_blocks": [
       "2804:79b8::/32",
@@ -82433,6 +82433,22 @@
     "document": "12.737.181/0001-12",
     "ip_blocks": [
       "2804:9520::/32"
+    ]
+  },
+  {
+    "asn": 274501,
+    "organization": "NPX COMERCIO E SERVICOS DE INFORMATICA LTDA",
+    "document": "13.157.606/0001-87",
+    "ip_blocks": [
+      "2804:9524::/32"
+    ]
+  },
+  {
+    "asn": 274502,
+    "organization": "Informais come e servi de infor e tele",
+    "document": "07.567.041/0001-03",
+    "ip_blocks": [
+      "2804:9528::/32"
     ]
   },
   {
