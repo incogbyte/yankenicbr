@@ -16046,7 +16046,9 @@
       "177.200.128.0/22",
       "179.63.176.0/23",
       "45.164.206.0/24",
-      "177.125.181.0/24"
+      "177.125.181.0/24",
+      "131.255.132.0/22",
+      "168.195.228.0/22"
     ]
   },
   {
@@ -23895,7 +23897,7 @@
   },
   {
     "asn": 263549,
-    "organization": "Entornet Banda Larga",
+    "organization": "Entornet Fibra",
     "document": "06.310.447/0001-43",
     "ip_blocks": [
       "191.6.56.0/21",
@@ -29846,16 +29848,6 @@
     ]
   },
   {
-    "asn": 264486,
-    "organization": "O T Tecnologia Em InformÃ¡tica Ltda",
-    "document": "09.226.387/0001-73",
-    "ip_blocks": [
-      "131.255.132.0/22",
-      "2804:2054::/32",
-      "168.195.228.0/22"
-    ]
-  },
-  {
     "asn": 264487,
     "organization": "AVATO TECNOLOGIA S.A",
     "document": "37.905.444/0001-86",
@@ -30645,8 +30637,8 @@
   },
   {
     "asn": 264588,
-    "organization": "SKILLNET TELECOM - CE",
-    "document": "05.379.257/0001-10",
+    "organization": "TDVK TELECOM LTDA",
+    "document": "51.517.494/0001-17",
     "ip_blocks": [
       "138.36.224.0/22",
       "2804:220c::/32"
@@ -50012,7 +50004,7 @@
   },
   {
     "asn": 268196,
-    "organization": "LinkNet Solucoes",
+    "organization": "LINKNET SOLUCOES EM TELECOMUNICACOES LTDA",
     "document": "21.251.911/0001-61",
     "ip_blocks": [
       "2804:4d70::/32",
@@ -53960,8 +53952,8 @@
   },
   {
     "asn": 268696,
-    "organization": "Tuddo Internet Ltda.",
-    "document": "28.958.182/0001-27",
+    "organization": "Tuddo Telecom Ltda.",
+    "document": "51.555.539/0001-48",
     "ip_blocks": [
       "45.165.244.0/22",
       "2804:5534::/32",
