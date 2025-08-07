@@ -33826,15 +33826,6 @@
     ]
   },
   {
-    "asn": 265256,
-    "organization": "renovalog telecom ltda - me",
-    "document": "18.739.308/0001-19",
-    "ip_blocks": [
-      "168.0.156.0/22",
-      "2804:2d00::/32"
-    ]
-  },
-  {
     "asn": 265257,
     "organization": "TR TELECOMUNICACOES LTDA",
     "document": "15.719.562/0001-67",
@@ -43213,8 +43204,8 @@
   },
   {
     "asn": 267108,
-    "organization": "MW TELECOM SOLUÃÃES EM TELECOMUNICAÃOES DO AGRESTE",
-    "document": "27.423.609/0001-20",
+    "organization": "ROTA SERVIÃOS EM TELECOMUNICAÃOES",
+    "document": "45.129.752/0001-95",
     "ip_blocks": [
       "45.229.108.0/22",
       "2804:4844::/32"
@@ -72879,8 +72870,8 @@
   },
   {
     "asn": 271525,
-    "organization": "Detrox Networks",
-    "document": "11.823.624/0001-25",
+    "organization": "RAGTEK TECNOLOGIA",
+    "document": "06.259.955/0001-44",
     "ip_blocks": [
       "2804:7ce4::/32",
       "179.63.16.0/22"
@@ -82441,6 +82432,14 @@
     "document": "07.567.041/0001-03",
     "ip_blocks": [
       "2804:9528::/32"
+    ]
+  },
+  {
+    "asn": 274503,
+    "organization": "BULLETI NET SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "26.569.744/0001-15",
+    "ip_blocks": [
+      "2804:952c::/32"
     ]
   },
   {
