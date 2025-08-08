@@ -38513,7 +38513,7 @@
   },
   {
     "asn": 266244,
-    "organization": "VUPPI INTERNET",
+    "organization": "ETBRA ELETRONICA E INFORMATICA LTDA",
     "document": "06.373.661/0001-49",
     "ip_blocks": [
       "192.144.104.0/22",
@@ -44950,7 +44950,7 @@
   },
   {
     "asn": 267329,
-    "organization": "YOUSER TELECOMUNICAÃÃES LTDA",
+    "organization": "LIDER CONEXOES DE INTERNET LTDA",
     "document": "11.281.510/0001-09",
     "ip_blocks": [
       "45.232.140.0/22",
@@ -82440,6 +82440,14 @@
     "document": "26.569.744/0001-15",
     "ip_blocks": [
       "2804:952c::/32"
+    ]
+  },
+  {
+    "asn": 274504,
+    "organization": "CUNHA INSTALACOES TELEFONICAS LTDA ME",
+    "document": "82.863.291/0001-06",
+    "ip_blocks": [
+      "2804:9530::/32"
     ]
   },
   {
