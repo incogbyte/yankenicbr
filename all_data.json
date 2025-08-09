@@ -1158,14 +1158,6 @@
     ]
   },
   {
-    "asn": 11751,
-    "organization": "INSTITUTO CYBER DE ENSINO E PESQUISA",
-    "document": "00.173.063/0001-40",
-    "ip_blocks": [
-      "200.14.35.0/24"
-    ]
-  },
-  {
     "asn": 11752,
     "organization": "NÃºcleo de Inf. e Coord. do Ponto BR - NIC.BR",
     "document": "05.506.560/0001-36",
@@ -12317,7 +12309,7 @@
   },
   {
     "asn": 61620,
-    "organization": "flowspec solutions ltda",
+    "organization": "FLOWSPEC SOLUTIONS",
     "document": "53.730.044/0001-33",
     "ip_blocks": [
       "2804:90d0::/32"
@@ -18576,8 +18568,8 @@
   },
   {
     "asn": 262749,
-    "organization": "Andries Cia Ltda",
-    "document": "02.831.522/0001-60",
+    "organization": "Telecom Leopoldina LTDA",
+    "document": "10.245.295/0001-10",
     "ip_blocks": [
       "189.89.80.0/20",
       "2804:184::/32"
@@ -28687,7 +28679,7 @@
   },
   {
     "asn": 264329,
-    "organization": "ESTRATEGIA REDES DE TELECOMUNICACOES LTDA",
+    "organization": "ESTRATEGIA REDES DE TELECOMUNICACOES LTDA.",
     "document": "22.304.325/0001-09",
     "ip_blocks": [
       "138.122.136.0/22",
@@ -41101,7 +41093,7 @@
   },
   {
     "asn": 266574,
-    "organization": "GMT Multimidia",
+    "organization": "GMT Multimidia Ltda",
     "document": "03.991.706/0001-50",
     "ip_blocks": [
       "160.238.232.0/22",
@@ -63753,7 +63745,7 @@
   },
   {
     "asn": 270415,
-    "organization": "LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA",
+    "organization": "LEVE INTERNET E REDES DE TELECOMUNICACOES LTDA.",
     "document": "04.838.161/0001-00",
     "ip_blocks": [
       "190.107.160.0/22",
@@ -75690,7 +75682,7 @@
   },
   {
     "asn": 272425,
-    "organization": "LIGHT TELECOM LTDA.",
+    "organization": "LIGHT TECNOLOGIA LTDA.",
     "document": "33.833.771/0001-19",
     "ip_blocks": [
       "2804:80fc::/32"
@@ -79986,7 +79978,7 @@
   },
   {
     "asn": 273537,
-    "organization": "PIAUI TELECOMUNICACOES LTDA",
+    "organization": "NEW TECNOLOGIA LTDA",
     "document": "05.499.676/0001-95",
     "ip_blocks": [
       "2804:903c::/32"
@@ -82451,6 +82443,30 @@
     ]
   },
   {
+    "asn": 274505,
+    "organization": "Diogo Mateus Costa -ME",
+    "document": "07.647.390/0001-35",
+    "ip_blocks": [
+      "2804:9534::/32"
+    ]
+  },
+  {
+    "asn": 274506,
+    "organization": "Netcom serviÃ§os de telecomunicaÃ§Ãµes",
+    "document": "30.555.021/0001-34",
+    "ip_blocks": [
+      "2804:9538::/32"
+    ]
+  },
+  {
+    "asn": 274507,
+    "organization": "JUSTICA FEDERAL DE PRIMEIRO GRAU NA PARAIBA",
+    "document": "05.433.643/0001-42",
+    "ip_blocks": [
+      "2801:81:140::/48"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -84212,7 +84228,8 @@
     "organization": "Rcz solucoes em informatica ltda",
     "document": "15.236.321/0001-67",
     "ip_blocks": [
-      "2804:93dc::/32"
+      "2804:93dc::/32",
+      "200.14.35.0/24"
     ]
   },
   {
