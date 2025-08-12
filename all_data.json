@@ -15140,7 +15140,8 @@
     "ip_blocks": [
       "2804:a8c::/32",
       "177.54.240.0/21",
-      "177.54.248.0/21"
+      "177.54.248.0/21",
+      "200.108.160.0/22"
     ]
   },
   {
@@ -24147,7 +24148,8 @@
       "177.8.252.0/22",
       "187.109.160.0/20",
       "189.90.236.0/22",
-      "138.36.172.0/22"
+      "138.36.172.0/22",
+      "45.161.216.0/22"
     ]
   },
   {
@@ -30421,8 +30423,8 @@
   },
   {
     "asn": 264562,
-    "organization": "P3 Telecom LTDA",
-    "document": "41.816.099/0001-81",
+    "organization": "PBR SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "55.757.755/0001-27",
     "ip_blocks": [
       "138.36.0.0/22",
       "2804:2190::/32",
@@ -30793,7 +30795,7 @@
   },
   {
     "asn": 264865,
-    "organization": "OBA FIBRA",
+    "organization": "SUPER VIAS REDES INTEGRADAS LTDA.",
     "document": "14.762.007/0001-55",
     "ip_blocks": [
       "168.205.208.0/22",
@@ -45312,8 +45314,8 @@
   },
   {
     "asn": 267375,
-    "organization": "F. G TELECOMUNICACAO LTDA",
-    "document": "17.752.306/0001-05",
+    "organization": "CAJU TELECOM SOLUCOES LTDA",
+    "document": "58.504.165/0001-80",
     "ip_blocks": [
       "45.234.168.0/22",
       "2804:4c84::/32"
@@ -50196,8 +50198,8 @@
   },
   {
     "asn": 268221,
-    "organization": "Fiber Banda Larga Servicos e Telecomunicacoes LTDA",
-    "document": "19.434.917/0001-22",
+    "organization": "FIBER BANDA LARGA SERV DE CONEXAO INT E LIVROS DIG",
+    "document": "55.555.016/0001-52",
     "ip_blocks": [
       "45.236.52.0/22",
       "2804:4dd0::/32"
@@ -52201,15 +52203,6 @@
     "ip_blocks": [
       "45.239.105.0/24",
       "2801:80:2480::/48"
-    ]
-  },
-  {
-    "asn": 268476,
-    "organization": "ANTONIO MARCOS CRUZ E CIA LTDA",
-    "document": "01.014.841/0001-10",
-    "ip_blocks": [
-      "45.161.216.0/22",
-      "2804:51c4::/32"
     ]
   },
   {
@@ -62885,15 +62878,6 @@
     "ip_blocks": [
       "189.113.188.0/22",
       "2804:6a20::/32"
-    ]
-  },
-  {
-    "asn": 270312,
-    "organization": "INET PROVEDOR DE ACESSO LTDA",
-    "document": "24.649.604/0001-21",
-    "ip_blocks": [
-      "200.108.160.0/22",
-      "2804:6a18::/32"
     ]
   },
   {
@@ -78955,7 +78939,7 @@
   },
   {
     "asn": 273410,
-    "organization": "ONE TELECOM",
+    "organization": "VOTI TELECOM",
     "document": "51.548.324/0001-08",
     "ip_blocks": [
       "2804:8e34::/32"
