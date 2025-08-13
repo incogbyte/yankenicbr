@@ -2101,7 +2101,8 @@
     "organization": "RTM - Rede de TelecomunicaÃ§Ãµes para o Mercado Ltda",
     "document": "03.341.541/0001-71",
     "ip_blocks": [
-      "200.160.160.0/20"
+      "200.160.160.0/20",
+      "2804:9544::/32"
     ]
   },
   {
@@ -33820,6 +33821,15 @@
     ]
   },
   {
+    "asn": 265256,
+    "organization": "renovalog telecom ltda - me",
+    "document": "18.739.308/0001-19",
+    "ip_blocks": [
+      "168.0.156.0/22",
+      "2804:2d00::/32"
+    ]
+  },
+  {
     "asn": 265257,
     "organization": "TR TELECOMUNICACOES LTDA",
     "document": "15.719.562/0001-67",
@@ -37728,7 +37738,7 @@
   },
   {
     "asn": 266146,
-    "organization": "I9 Telecom",
+    "organization": "Inove Telecom",
     "document": "21.122.347/0001-87",
     "ip_blocks": [
       "160.20.68.0/22",
@@ -77281,7 +77291,7 @@
   },
   {
     "asn": 272664,
-    "organization": "TOP NET TELECOM",
+    "organization": "D. S. DE FARIAS LTDA",
     "document": "25.188.563/0001-86",
     "ip_blocks": [
       "2804:86c0::/32"
@@ -82448,6 +82458,22 @@
     "document": "05.433.643/0001-42",
     "ip_blocks": [
       "2801:81:140::/48"
+    ]
+  },
+  {
+    "asn": 274508,
+    "organization": "SERVICOS DE MULTIMIDIA DICANET EIRELI",
+    "document": "05.570.616/0001-11",
+    "ip_blocks": [
+      "2804:953c::/32"
+    ]
+  },
+  {
+    "asn": 274509,
+    "organization": "NETJA PROVEDORES DE ACESSO LTDA",
+    "document": "49.670.378/0001-91",
+    "ip_blocks": [
+      "2804:9540::/32"
     ]
   },
   {
