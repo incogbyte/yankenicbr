@@ -11737,7 +11737,7 @@
   },
   {
     "asn": 53236,
-    "organization": "JF SoluÃ§Ãµes InformÃ¡tica Ltda.",
+    "organization": "ACESSO Internet Fibra",
     "document": "07.260.812/0001-15",
     "ip_blocks": [
       "177.10.120.0/22",
@@ -15261,15 +15261,6 @@
     "ip_blocks": [
       "177.105.224.0/20",
       "2804:8564::/32"
-    ]
-  },
-  {
-    "asn": 262314,
-    "organization": "R C D PASSOS",
-    "document": "11.195.721/0001-10",
-    "ip_blocks": [
-      "2804:7b4::/32",
-      "177.105.244.0/24"
     ]
   },
   {
@@ -29293,7 +29284,7 @@
   },
   {
     "asn": 264420,
-    "organization": "Jobson Luis Melo de Negreiros ME",
+    "organization": "TurboNet Telecom",
     "document": "08.853.084/0001-18",
     "ip_blocks": [
       "131.221.96.0/22",
@@ -30915,7 +30906,7 @@
   },
   {
     "asn": 264881,
-    "organization": "Rafael Tulio Moteiro Costa",
+    "organization": "NTG COMUNICACOES LTDA",
     "document": "15.672.924/0001-01",
     "ip_blocks": [
       "168.227.172.0/22",
@@ -34484,8 +34475,8 @@
   },
   {
     "asn": 265330,
-    "organization": "Ponto a Ponto Telecom do Brasil",
-    "document": "04.708.955/0001-59",
+    "organization": "Ponto a Ponto TelecomunicaÃ§oes",
+    "document": "25.078.657/0001-00",
     "ip_blocks": [
       "168.181.60.0/22",
       "2804:2e30::/32"
@@ -36978,7 +36969,7 @@
   },
   {
     "asn": 266044,
-    "organization": "Nicnet Telecom Ltda.",
+    "organization": "Nicnet S.A.",
     "document": "26.521.036/0001-04",
     "ip_blocks": [
       "45.4.32.0/22",
@@ -82487,6 +82478,14 @@
     ]
   },
   {
+    "asn": 274512,
+    "organization": "V MIX DESENVOLVIMENTO DE SOFTWARE LTDA",
+    "document": "43.471.877/0001-73",
+    "ip_blocks": [
+      "2804:954c::/32"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -82954,7 +82953,8 @@
     "organization": "EDILSON M DE ARAUJO",
     "document": "21.510.812/0001-57",
     "ip_blocks": [
-      "2804:9184::/32"
+      "2804:9184::/32",
+      "177.105.244.0/24"
     ]
   },
   {
