@@ -73636,6 +73636,15 @@
     ]
   },
   {
+    "asn": 271620,
+    "organization": "Portonet Servicos de Telecomunicao Ltda",
+    "document": "18.393.588/0001-56",
+    "ip_blocks": [
+      "2804:7e60::/32",
+      "200.24.112.0/22"
+    ]
+  },
+  {
     "asn": 271621,
     "organization": "M J RODRIGUES BATISTA",
     "document": "26.375.072/0001-07",
@@ -75910,7 +75919,7 @@
   },
   {
     "asn": 272457,
-    "organization": "FELIPE CHAVES C BATISTA",
+    "organization": "VELOZNET TELECOM E SERVICOS LTDA",
     "document": "23.126.396/0001-13",
     "ip_blocks": [
       "2804:817c::/32"
@@ -82483,6 +82492,22 @@
     "document": "43.471.877/0001-73",
     "ip_blocks": [
       "2804:954c::/32"
+    ]
+  },
+  {
+    "asn": 274513,
+    "organization": "INOVACAO TELECOMUNICACOES LTDA",
+    "document": "21.599.825/0001-44",
+    "ip_blocks": [
+      "2804:9550::/32"
+    ]
+  },
+  {
+    "asn": 274514,
+    "organization": "INOVAR TELECOM PROVEDOR DE INTERNET LTDA",
+    "document": "28.106.111/0001-04",
+    "ip_blocks": [
+      "2804:9554::/32"
     ]
   },
   {
