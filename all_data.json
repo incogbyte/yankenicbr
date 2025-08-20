@@ -26076,7 +26076,8 @@
       "45.232.200.0/23",
       "170.245.120.0/22",
       "191.37.2.0/23",
-      "191.37.6.0/24"
+      "191.37.6.0/24",
+      "177.72.216.0/22"
     ]
   },
   {
@@ -37830,7 +37831,7 @@
   },
   {
     "asn": 266158,
-    "organization": "T3 Telecom",
+    "organization": "INFORNET TELECOMUNICAÃÃES",
     "document": "10.883.313/0001-99",
     "ip_blocks": [
       "45.6.120.0/22",
@@ -41448,7 +41449,7 @@
   },
   {
     "asn": 266623,
-    "organization": "Pedro F Arruda Junior ME",
+    "organization": "18.843.555 LTDA",
     "document": "18.843.555/0001-60",
     "ip_blocks": [
       "128.201.76.0/22",
@@ -46200,7 +46201,8 @@
       "187.85.216.0/22",
       "45.179.0.0/22",
       "45.161.148.0/22",
-      "45.187.236.0/22"
+      "45.187.236.0/22",
+      "45.163.96.0/22"
     ]
   },
   {
@@ -52802,7 +52804,7 @@
   },
   {
     "asn": 268553,
-    "organization": "Faculdade Adventista da Bahia",
+    "organization": "Centro Uni. Adventista de Ensino do Nordeste",
     "document": "07.114.699/0050-48",
     "ip_blocks": [
       "45.163.184.0/22",
@@ -52816,15 +52818,6 @@
     "ip_blocks": [
       "45.163.64.0/22",
       "2804:52f8::/32"
-    ]
-  },
-  {
-    "asn": 268555,
-    "organization": "CABONNET INTERNET LTDA",
-    "document": "47.082.017/0001-07",
-    "ip_blocks": [
-      "45.163.96.0/22",
-      "2804:52fc::/32"
     ]
   },
   {
@@ -62202,15 +62195,6 @@
     ]
   },
   {
-    "asn": 269717,
-    "organization": "RAPIDEXNET LTDA",
-    "document": "07.753.082/0001-94",
-    "ip_blocks": [
-      "177.72.216.0/22",
-      "2804:68cc::/32"
-    ]
-  },
-  {
     "asn": 269718,
     "organization": "Evvos Gestao de Negocios",
     "document": "22.586.214/0001-24",
@@ -68098,7 +68082,7 @@
   },
   {
     "asn": 270946,
-    "organization": "PEDRO RANGEL REZENDE PEREIRA",
+    "organization": "ULTRANET PROVEDOR CUSTODIA LTDA",
     "document": "23.875.572/0001-10",
     "ip_blocks": [
       "131.108.152.0/22",
@@ -78977,7 +78961,7 @@
   },
   {
     "asn": 273414,
-    "organization": "Bignet Telecom LTDA",
+    "organization": "Bigfibra Ltda",
     "document": "37.495.283/0001-08",
     "ip_blocks": [
       "2804:8e44::/32",
@@ -82508,6 +82492,22 @@
     "document": "28.106.111/0001-04",
     "ip_blocks": [
       "2804:9554::/32"
+    ]
+  },
+  {
+    "asn": 274515,
+    "organization": "Nossa Net",
+    "document": "41.448.942/0001-14",
+    "ip_blocks": [
+      "2804:9558::/32"
+    ]
+  },
+  {
+    "asn": 274516,
+    "organization": "WIUP Internet LTDA",
+    "document": "44.232.732/0001-82",
+    "ip_blocks": [
+      "2804:955c::/32"
     ]
   },
   {
