@@ -12036,7 +12036,8 @@
       "191.37.88.0/21",
       "45.179.176.0/22",
       "132.255.240.0/22",
-      "170.83.96.0/22"
+      "170.83.96.0/22",
+      "201.216.96.0/22"
     ]
   },
   {
@@ -18499,7 +18500,6 @@
       "2804:1ba8::/32",
       "186.195.166.0/24",
       "186.195.168.0/24",
-      "186.195.170.0/23",
       "186.195.172.0/22"
     ]
   },
@@ -33815,7 +33815,7 @@
   },
   {
     "asn": 265256,
-    "organization": "renovalog telecom ltda - me",
+    "organization": "Renovaflex Telecom",
     "document": "18.739.308/0001-19",
     "ip_blocks": [
       "168.0.156.0/22",
@@ -40892,7 +40892,7 @@
   },
   {
     "asn": 266546,
-    "organization": "TWF NET PROVEDOR DE INTERNET EIRELI- ME",
+    "organization": "TWF NET PROVEDOR DE INTERNET LTDA",
     "document": "26.578.190/0001-12",
     "ip_blocks": [
       "160.238.196.0/22",
@@ -62754,15 +62754,6 @@
     ]
   },
   {
-    "asn": 270297,
-    "organization": "TECLINK BRASIL",
-    "document": "11.731.704/0001-50",
-    "ip_blocks": [
-      "201.216.96.0/22",
-      "2804:69e0::/32"
-    ]
-  },
-  {
     "asn": 270301,
     "organization": "CONNECT WORLD TELECOM EIRELI",
     "document": "22.731.537/0001-64",
@@ -66391,7 +66382,7 @@
   },
   {
     "asn": 270740,
-    "organization": "HRA DESOUZA ME",
+    "organization": "EASYTECH TECNOLOGIA DA INFORMAÃÃO LTDA",
     "document": "14.379.210/0001-47",
     "ip_blocks": [
       "179.109.108.0/22",
@@ -73982,7 +73973,7 @@
   },
   {
     "asn": 271665,
-    "organization": "TIAGO ROST NET",
+    "organization": "FBT NET LTDA",
     "document": "31.651.402/0001-80",
     "ip_blocks": [
       "2804:7f14::/32",
@@ -82269,7 +82260,8 @@
     "organization": "Rapidanet Telecom Ltda",
     "document": "34.707.793/0001-03",
     "ip_blocks": [
-      "2804:94e8::/32"
+      "2804:94e8::/32",
+      "186.195.170.0/23"
     ]
   },
   {
@@ -82388,9 +82380,7 @@
     "asn": 274501,
     "organization": "NPX COMERCIO E SERVICOS DE INFORMATICA LTDA",
     "document": "13.157.606/0001-87",
-    "ip_blocks": [
-      "2804:9524::/32"
-    ]
+    "ip_blocks": []
   },
   {
     "asn": 274502,
@@ -82508,6 +82498,14 @@
     "document": "44.232.732/0001-82",
     "ip_blocks": [
       "2804:955c::/32"
+    ]
+  },
+  {
+    "asn": 274517,
+    "organization": "STRONG CLOUD SERVICES LTDA",
+    "document": "53.380.585/0001-89",
+    "ip_blocks": [
+      "2804:9560::/32"
     ]
   },
   {
