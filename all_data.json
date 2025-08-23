@@ -7752,8 +7752,9 @@
     "organization": "Viaband TelecomunicaÃ§Ã£o Ltda",
     "document": "08.171.876/0001-02",
     "ip_blocks": [
-      "177.84.28.0/22",
-      "2804:257c::/32"
+      "2804:257c::/32",
+      "177.84.28.0/24",
+      "177.84.30.0/23"
     ]
   },
   {
@@ -76152,14 +76153,6 @@
     ]
   },
   {
-    "asn": 272496,
-    "organization": "REX TELECOM SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "08.191.267/0001-15",
-    "ip_blocks": [
-      "2804:8210::/32"
-    ]
-  },
-  {
     "asn": 272497,
     "organization": "SD SERVIÃOS DE COMUNICACAO E MULTIMIDIA LTDA",
     "document": "26.442.667/0001-38",
@@ -82076,7 +82069,8 @@
     "organization": "DM TREVIZAN",
     "document": "07.132.141/0001-07",
     "ip_blocks": [
-      "2804:9484::/32"
+      "2804:9484::/32",
+      "177.84.29.0/24"
     ]
   },
   {
@@ -82506,6 +82500,38 @@
     "document": "53.380.585/0001-89",
     "ip_blocks": [
       "2804:9560::/32"
+    ]
+  },
+  {
+    "asn": 274518,
+    "organization": "NEWFRONT SOLUCOES EM CLOUD E TI",
+    "document": "30.433.547/0001-41",
+    "ip_blocks": [
+      "2801:81:150::/48"
+    ]
+  },
+  {
+    "asn": 274519,
+    "organization": "Grupo We Dev LTDA",
+    "document": "50.811.088/0001-08",
+    "ip_blocks": [
+      "2804:9524::/32"
+    ]
+  },
+  {
+    "asn": 274520,
+    "organization": "ATLASNET SERVICOS DE COMUNICACAO",
+    "document": "37.750.499/0001-64",
+    "ip_blocks": [
+      "2804:9564::/32"
+    ]
+  },
+  {
+    "asn": 274521,
+    "organization": "S H POSSETTI COSTA ME",
+    "document": "21.455.781/0001-89",
+    "ip_blocks": [
+      "2804:9568::/32"
     ]
   },
   {
