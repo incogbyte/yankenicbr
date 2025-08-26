@@ -56802,7 +56802,7 @@
   },
   {
     "asn": 269058,
-    "organization": "DOUGLAS RIBEIRO DE OLIVEIRA 10789492636",
+    "organization": "MG NET IPATINGA LTDA",
     "document": "17.437.645/0001-99",
     "ip_blocks": [
       "45.179.8.0/22",
@@ -64410,7 +64410,7 @@
   },
   {
     "asn": 270503,
-    "organization": "SAMUEL FERREIRA SOARES CAMPOS NET-ME",
+    "organization": "R LUIZ LEANDRO",
     "document": "23.714.027/0001-41",
     "ip_blocks": [
       "24.152.92.0/22",
@@ -73815,6 +73815,15 @@
     "ip_blocks": [
       "2804:7ebc::/32",
       "177.129.220.0/22"
+    ]
+  },
+  {
+    "asn": 271645,
+    "organization": "SUPERTEC TELECOM LTDA",
+    "document": "32.392.544/0001-32",
+    "ip_blocks": [
+      "2804:7ec0::/32",
+      "200.189.64.0/22"
     ]
   },
   {
