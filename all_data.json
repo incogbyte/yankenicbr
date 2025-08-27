@@ -51954,7 +51954,7 @@
   },
   {
     "asn": 268445,
-    "organization": "FASTNET BRASIL",
+    "organization": "BARRETO E CANTOIA PROVEDOR DE INTERNET LTDA",
     "document": "23.485.677/0001-62",
     "ip_blocks": [
       "45.160.252.0/22",
@@ -57271,15 +57271,6 @@
     "ip_blocks": [
       "45.179.4.0/22",
       "2804:5fbc::/32"
-    ]
-  },
-  {
-    "asn": 269121,
-    "organization": "VG WEB INTERNET E TELECOM LTDA - ME",
-    "document": "25.298.143/0001-52",
-    "ip_blocks": [
-      "45.179.220.0/22",
-      "2804:5fc0::/32"
     ]
   },
   {
@@ -65702,7 +65693,8 @@
     "document": "33.694.261/0001-08",
     "ip_blocks": [
       "190.11.220.0/22",
-      "2804:6f60::/32"
+      "2804:6f60::/32",
+      "45.179.220.0/22"
     ]
   },
   {
@@ -82541,6 +82533,22 @@
     "document": "21.455.781/0001-89",
     "ip_blocks": [
       "2804:9568::/32"
+    ]
+  },
+  {
+    "asn": 274522,
+    "organization": "Evolution Telecon",
+    "document": "51.993.469/0001-00",
+    "ip_blocks": [
+      "2804:956c::/32"
+    ]
+  },
+  {
+    "asn": 274523,
+    "organization": "GIN FIBRA INTERNET LTDA",
+    "document": "53.932.197/0001-63",
+    "ip_blocks": [
+      "2804:9570::/32"
     ]
   },
   {
