@@ -13664,15 +13664,6 @@
     ]
   },
   {
-    "asn": 61799,
-    "organization": "ClinicNet Telecom",
-    "document": "11.851.393/0001-63",
-    "ip_blocks": [
-      "201.7.220.0/22",
-      "2804:1984::/32"
-    ]
-  },
-  {
     "asn": 61800,
     "organization": "VIGORA TELECOM",
     "document": "08.679.282/0001-07",
@@ -30793,8 +30784,8 @@
     "organization": "SUPER VIAS REDES INTEGRADAS LTDA.",
     "document": "14.762.007/0001-55",
     "ip_blocks": [
-      "168.205.208.0/22",
-      "2804:2f00::/32"
+      "2804:2f00::/32",
+      "168.205.210.0/23"
     ]
   },
   {
@@ -32199,12 +32190,13 @@
     "ip_blocks": [
       "170.150.136.0/22",
       "2804:31dc::/32",
-      "45.237.148.0/22"
+      "45.237.148.0/22",
+      "201.7.220.0/22"
     ]
   },
   {
     "asn": 265042,
-    "organization": "H RIOS R FREITAS LTDA",
+    "organization": "M R FREITAS LTDA",
     "document": "18.275.013/0001-39",
     "ip_blocks": [
       "170.150.148.0/22",
@@ -33743,8 +33735,8 @@
   },
   {
     "asn": 265244,
-    "organization": "MFT SERVICOS DE INTERNET COMERCIO E TELEFONIA LTDA",
-    "document": "54.019.766/0001-47",
+    "organization": "Mafra Telecom",
+    "document": "30.712.088/0001-35",
     "ip_blocks": [
       "168.0.36.0/22",
       "2804:2ccc::/32"
@@ -63697,7 +63689,8 @@
     "document": "04.838.161/0001-00",
     "ip_blocks": [
       "190.107.160.0/22",
-      "2804:6ba8::/32"
+      "2804:6ba8::/32",
+      "168.205.208.0/23"
     ]
   },
   {
@@ -65680,7 +65673,7 @@
   },
   {
     "asn": 270655,
-    "organization": "BlasterNet Telecom LTDA",
+    "organization": "Blasternet Telecom LTDA",
     "document": "09.478.347/0001-19",
     "ip_blocks": [
       "138.117.232.0/22",
@@ -82508,7 +82501,7 @@
     "organization": "NEWFRONT SOLUCOES EM CLOUD E TI",
     "document": "30.433.547/0001-41",
     "ip_blocks": [
-      "2801:81:150::/48"
+      "2804:957c::/32"
     ]
   },
   {
@@ -82549,6 +82542,22 @@
     "document": "53.932.197/0001-63",
     "ip_blocks": [
       "2804:9570::/32"
+    ]
+  },
+  {
+    "asn": 274524,
+    "organization": "Eucatur Transporte e Turismo Ltda",
+    "document": "76.080.738/0010-69",
+    "ip_blocks": [
+      "2804:9574::/32"
+    ]
+  },
+  {
+    "asn": 274525,
+    "organization": "DiDiNET TELECOM",
+    "document": "27.371.174/0001-17",
+    "ip_blocks": [
+      "2804:9578::/32"
     ]
   },
   {
