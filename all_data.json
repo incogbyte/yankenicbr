@@ -12357,6 +12357,14 @@
     ]
   },
   {
+    "asn": 61625,
+    "organization": "Grupo We Dev LTDA",
+    "document": "50.811.088/0001-08",
+    "ip_blocks": [
+      "2804:9524::/32"
+    ]
+  },
+  {
     "asn": 61632,
     "organization": "Zoopnet - Wellington Serrilho Soler ME",
     "document": "12.376.527/0001-02",
@@ -51779,7 +51787,7 @@
   },
   {
     "asn": 268424,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (N. Santos)",
+    "organization": "ARTECO BRASIL LTDA.",
     "document": "30.708.975/0001-30",
     "ip_blocks": [
       "45.161.4.0/22",
@@ -74397,7 +74405,8 @@
     "organization": "ESTAR ON INTERNET FIBRA OPTICA LTDA",
     "document": "23.776.656/0001-04",
     "ip_blocks": [
-      "2804:7fec::/32"
+      "2804:7fec::/32",
+      "170.78.56.0/22"
     ]
   },
   {
@@ -82509,14 +82518,6 @@
     ]
   },
   {
-    "asn": 274519,
-    "organization": "Grupo We Dev LTDA",
-    "document": "50.811.088/0001-08",
-    "ip_blocks": [
-      "2804:9524::/32"
-    ]
-  },
-  {
     "asn": 274520,
     "organization": "ATLASNET SERVICOS DE COMUNICACAO",
     "document": "37.750.499/0001-64",
@@ -82553,7 +82554,7 @@
     "organization": "Eucatur Transporte e Turismo Ltda",
     "document": "76.080.738/0010-69",
     "ip_blocks": [
-      "2804:9574::/32"
+      "2801:81:150::/48"
     ]
   },
   {
