@@ -26573,7 +26573,7 @@
   },
   {
     "asn": 264045,
-    "organization": "DL INTERNET",
+    "organization": "DIEGO GAFURI LIKES CIA LTDA",
     "document": "10.459.624/0001-25",
     "ip_blocks": [
       "143.137.132.0/22",
@@ -33703,8 +33703,9 @@
     "organization": "TefNet Tecnologia - Internet Service Provider",
     "document": "17.106.775/0001-49",
     "ip_blocks": [
-      "167.250.244.0/22",
-      "2804:2cb4::/32"
+      "2804:2cb4::/32",
+      "167.250.247.0/24",
+      "167.250.244.0/23"
     ]
   },
   {
@@ -45065,7 +45066,8 @@
     "document": "19.563.017/0001-85",
     "ip_blocks": [
       "45.234.80.0/22",
-      "2804:4c0c::/32"
+      "2804:4c0c::/32",
+      "167.250.246.0/24"
     ]
   },
   {
@@ -50612,7 +50614,7 @@
   },
   {
     "asn": 268274,
-    "organization": "JE INFORMATICA LTDA",
+    "organization": "ELETROCELL TELECOM LTDA",
     "document": "11.807.875/0001-16",
     "ip_blocks": [
       "45.237.12.0/22",
@@ -82515,6 +82517,14 @@
     "document": "30.433.547/0001-41",
     "ip_blocks": [
       "2804:957c::/32"
+    ]
+  },
+  {
+    "asn": 274519,
+    "organization": "GESTOR PAGO CONS. E TECNOLOGIA DA INFORMACAO LTDA",
+    "document": "46.722.155/0001-32",
+    "ip_blocks": [
+      "2804:9574::/32"
     ]
   },
   {
