@@ -12303,7 +12303,7 @@
   },
   {
     "asn": 61619,
-    "organization": "ALGAR TI CONSULTORIA S/A",
+    "organization": "POSITIVO S+ SOLUCOES EM TI S.A",
     "document": "05.510.654/0005-02",
     "ip_blocks": [
       "2804:90a4::/32",
@@ -22809,7 +22809,7 @@
   },
   {
     "asn": 263418,
-    "organization": "Neb Telecomunicacoes LTDA",
+    "organization": "URB TELECOM LTDA",
     "document": "09.403.813/0001-05",
     "ip_blocks": [
       "177.128.204.0/22",
@@ -24150,8 +24150,8 @@
     "organization": "Everest SoluÃ§Ãµes em TelecomunicaÃ§Ãµes Ltda",
     "document": "03.967.020/0001-24",
     "ip_blocks": [
-      "186.251.204.0/22",
-      "2804:f54::/32"
+      "2804:f54::/32",
+      "186.251.204.0/23"
     ]
   },
   {
@@ -37724,7 +37724,8 @@
     "document": "26.701.126/0001-87",
     "ip_blocks": [
       "160.20.20.0/22",
-      "2804:3b58::/32"
+      "2804:3b58::/32",
+      "186.251.206.0/23"
     ]
   },
   {
@@ -66633,14 +66634,6 @@
     ]
   },
   {
-    "asn": 270771,
-    "organization": "Condomiweb Tecnologia ltda",
-    "document": "27.612.655/0001-77",
-    "ip_blocks": [
-      "2804:7128::/32"
-    ]
-  },
-  {
     "asn": 270772,
     "organization": "UniÃ£o Networks Telecom Ltda Me",
     "document": "16.959.086/0001-14",
@@ -82573,6 +82566,14 @@
     "document": "27.371.174/0001-17",
     "ip_blocks": [
       "2804:9578::/32"
+    ]
+  },
+  {
+    "asn": 274526,
+    "organization": "MEGANETS BANDA LARGA EIRELI",
+    "document": "27.377.162/0001-08",
+    "ip_blocks": [
+      "2804:9580::/32"
     ]
   },
   {
