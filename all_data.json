@@ -34932,7 +34932,7 @@
     "document": "33.439.536/0001-67",
     "ip_blocks": [
       "2804:3354::/32",
-      "168.194.16.0/23"
+      "168.194.16.0/24"
     ]
   },
   {
@@ -69176,7 +69176,7 @@
   },
   {
     "asn": 271077,
-    "organization": "Hebio Aparecido dalla lastra",
+    "organization": "HFG TELECOMUNICACOES LTDA",
     "document": "11.128.035/0001-27",
     "ip_blocks": [
       "200.52.224.0/22",
@@ -82399,7 +82399,8 @@
     "organization": "CUNHA INSTALACOES TELEFONICAS LTDA ME",
     "document": "82.863.291/0001-06",
     "ip_blocks": [
-      "2804:9530::/32"
+      "2804:9530::/32",
+      "168.194.17.0/24"
     ]
   },
   {
@@ -82574,6 +82575,14 @@
     "document": "27.377.162/0001-08",
     "ip_blocks": [
       "2804:9580::/32"
+    ]
+  },
+  {
+    "asn": 274527,
+    "organization": "EURO FIBER LTDA",
+    "document": "28.910.820/0001-30",
+    "ip_blocks": [
+      "2804:9584::/32"
     ]
   },
   {
