@@ -30921,7 +30921,7 @@
   },
   {
     "asn": 264882,
-    "organization": "INFORIEJ - SERVICOS DE INFORMATICA LTDA - ME",
+    "organization": "INFO RIEJ - TELECOMUNICACOES LTDA - ME",
     "document": "03.156.388/0001-02",
     "ip_blocks": [
       "168.205.16.0/22",
@@ -51816,15 +51816,6 @@
     ]
   },
   {
-    "asn": 268428,
-    "organization": "Client Servicos e Telecomunicacoes Ltda",
-    "document": "03.904.614/0001-96",
-    "ip_blocks": [
-      "45.160.228.0/22",
-      "2804:5110::/32"
-    ]
-  },
-  {
     "asn": 268429,
     "organization": "SISTELBRAS TELECOM",
     "document": "07.775.292/0001-83",
@@ -54224,7 +54215,7 @@
   },
   {
     "asn": 268735,
-    "organization": "MARCOS LUIZ DE ALMEIDA ME",
+    "organization": "Eletrosat Telecom Ltda",
     "document": "09.675.512/0001-22",
     "ip_blocks": [
       "45.171.208.0/22",
@@ -66252,7 +66243,8 @@
     "document": "55.238.229/0001-50",
     "ip_blocks": [
       "189.51.32.0/22",
-      "2804:7064::/32"
+      "2804:7064::/32",
+      "45.160.228.0/22"
     ]
   },
   {
@@ -74534,7 +74526,7 @@
   },
   {
     "asn": 271740,
-    "organization": "Mais Fibra Telecom LTDA",
+    "organization": "Mais Fibra",
     "document": "33.417.164/0001-78",
     "ip_blocks": [
       "2804:8044::/32",
