@@ -12782,9 +12782,7 @@
     "organization": "FLAVIO GARCIA FERREIRA",
     "document": "11.840.992/0001-81",
     "ip_blocks": [
-      "131.108.124.0/22",
       "2804:1d04::/32",
-      "177.84.236.0/22",
       "200.34.216.0/22"
     ]
   },
@@ -49711,7 +49709,7 @@
     "ip_blocks": [
       "2804:58fc::/32",
       "45.170.136.0/24",
-      "45.170.138.0/23"
+      "45.170.139.0/24"
     ]
   },
   {
@@ -50151,8 +50149,8 @@
     "organization": "ULTRA+ TELECOMUNICACOES LTDA",
     "document": "55.096.756/0002-59",
     "ip_blocks": [
-      "45.236.0.0/22",
-      "2804:4db8::/32"
+      "2804:4db8::/32",
+      "45.236.0.0/23"
     ]
   },
   {
@@ -73802,7 +73800,7 @@
   },
   {
     "asn": 271645,
-    "organization": "SUPERTEC TELECOM LTDA",
+    "organization": "SUPERTEC TELECOM LTDA.",
     "document": "32.392.544/0001-32",
     "ip_blocks": [
       "2804:7ec0::/32",
@@ -80996,7 +80994,9 @@
       "187.84.176.0/20",
       "190.112.148.0/22",
       "201.87.240.0/20",
-      "187.121.144.0/21"
+      "187.121.144.0/21",
+      "131.108.124.0/22",
+      "177.84.236.0/22"
     ]
   },
   {
@@ -82047,7 +82047,8 @@
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
     "ip_blocks": [
-      "2804:947c::/32"
+      "2804:947c::/32",
+      "45.170.138.0/24"
     ]
   },
   {
@@ -82454,7 +82455,8 @@
     "organization": "V MIX DESENVOLVIMENTO DE SOFTWARE LTDA",
     "document": "43.471.877/0001-73",
     "ip_blocks": [
-      "2804:954c::/32"
+      "2804:954c::/32",
+      "45.236.2.0/23"
     ]
   },
   {
@@ -82575,6 +82577,30 @@
     "document": "28.910.820/0001-30",
     "ip_blocks": [
       "2804:9584::/32"
+    ]
+  },
+  {
+    "asn": 274528,
+    "organization": "Jeferson Siqueira Alves",
+    "document": "37.348.401/0001-47",
+    "ip_blocks": [
+      "2804:9588::/32"
+    ]
+  },
+  {
+    "asn": 274529,
+    "organization": "M.O. SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "40.291.217/0001-12",
+    "ip_blocks": [
+      "2804:958c::/32"
+    ]
+  },
+  {
+    "asn": 274530,
+    "organization": "Heavyhost Jogos On Line LTDA",
+    "document": "42.861.250/0001-66",
+    "ip_blocks": [
+      "2804:9590::/32"
     ]
   },
   {
