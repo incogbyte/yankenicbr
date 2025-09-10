@@ -32057,7 +32057,7 @@
   },
   {
     "asn": 265023,
-    "organization": "TMK ULTRA PROVEDOR SCM LTDA",
+    "organization": "TMK NET LTDA",
     "document": "40.169.117/0001-18",
     "ip_blocks": [
       "170.84.104.0/22",
@@ -82601,6 +82601,30 @@
     "document": "42.861.250/0001-66",
     "ip_blocks": [
       "2804:9590::/32"
+    ]
+  },
+  {
+    "asn": 274531,
+    "organization": "FABRICIO DA SILVA ROCHA TELECOM",
+    "document": "42.937.486/0001-39",
+    "ip_blocks": [
+      "2804:9594::/32"
+    ]
+  },
+  {
+    "asn": 274532,
+    "organization": "NET TVM SERVICOS DE INTERNET LTDA",
+    "document": "46.454.327/0001-34",
+    "ip_blocks": [
+      "2804:9598::/32"
+    ]
+  },
+  {
+    "asn": 274533,
+    "organization": "Fibra 100 Telecon",
+    "document": "37.830.885/0001-66",
+    "ip_blocks": [
+      "2804:959c::/32"
     ]
   },
   {
