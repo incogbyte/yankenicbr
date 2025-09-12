@@ -3465,7 +3465,6 @@
     "ip_blocks": [
       "2804:2f8::/32",
       "189.89.248.0/22",
-      "189.89.224.0/20",
       "189.89.244.0/23",
       "189.89.254.0/24",
       "189.89.242.0/23",
@@ -3475,7 +3474,12 @@
       "177.12.137.0/24",
       "177.12.142.0/23",
       "177.12.140.0/24",
-      "177.12.152.0/21"
+      "177.12.152.0/21",
+      "189.89.237.0/24",
+      "189.89.238.0/23",
+      "189.89.235.0/24",
+      "189.89.232.0/23",
+      "189.89.224.0/21"
     ]
   },
   {
@@ -4455,8 +4459,8 @@
   },
   {
     "asn": 28294,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (BS COSTA)",
-    "document": "20.326.556/0001-80",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "189.36.144.0/20",
       "2804:b4::/32",
@@ -5453,7 +5457,7 @@
   },
   {
     "asn": 28598,
-    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.20.64.0/18",
@@ -6982,8 +6986,8 @@
   },
   {
     "asn": 52613,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (VIP)",
-    "document": "13.330.765/0001-31",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "177.125.168.0/22",
       "2804:d3c::/32",
@@ -8055,7 +8059,7 @@
   },
   {
     "asn": 52759,
-    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "177.38.200.0/21",
@@ -10304,7 +10308,8 @@
     "document": "03.879.067/0001-36",
     "ip_blocks": [
       "177.101.80.0/20",
-      "2804:6f0::/32"
+      "2804:6f0::/32",
+      "45.227.120.0/22"
     ]
   },
   {
@@ -10401,7 +10406,7 @@
   },
   {
     "asn": 53062,
-    "organization": "ALTGGNET TELECOM BACKBONE",
+    "organization": "ALT GRUPO BRASIL TECPAR",
     "document": "04.873.690/0001-44",
     "ip_blocks": [
       "187.85.144.0/20",
@@ -10875,8 +10880,8 @@
   },
   {
     "asn": 53125,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (BS COSTA)",
-    "document": "20.326.556/0001-80",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "187.108.112.0/20",
       "2804:27cc::/32"
@@ -13917,7 +13922,7 @@
   },
   {
     "asn": 61832,
-    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.148.100.0/22",
@@ -14823,7 +14828,7 @@
   },
   {
     "asn": 61946,
-    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.139.184.0/21",
@@ -15499,8 +15504,8 @@
   },
   {
     "asn": 262354,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (LIGUE)",
-    "document": "10.442.435/0001-40",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "177.125.208.0/22",
       "2804:828::/32",
@@ -18898,8 +18903,8 @@
   },
   {
     "asn": 262785,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (CLICK)",
-    "document": "04.483.690/0001-38",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "201.62.48.0/20",
       "201.71.32.0/20",
@@ -30106,8 +30111,8 @@
   },
   {
     "asn": 264524,
-    "organization": "Cunha e Zanato telecom LTDA ME",
-    "document": "11.374.829/0001-70",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "138.0.0.0/22",
       "2804:20f8::/32",
@@ -42440,15 +42445,6 @@
     ]
   },
   {
-    "asn": 267012,
-    "organization": "Intercol ServiÃ§os de Internet Ltda",
-    "document": "03.879.067/0001-36",
-    "ip_blocks": [
-      "45.227.120.0/22",
-      "2804:46cc::/32"
-    ]
-  },
-  {
     "asn": 267013,
     "organization": "INTERNET SOLUTION PROVIDER TELECOM. LTDA ME",
     "document": "26.780.146/0001-90",
@@ -48445,7 +48441,7 @@
   },
   {
     "asn": 268018,
-    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "45.165.228.0/22",
@@ -49308,7 +49304,7 @@
   },
   {
     "asn": 268116,
-    "organization": "Sim Internet LTDA.",
+    "organization": "SUA INTERNET LTDA",
     "document": "07.650.444/0001-11",
     "ip_blocks": [
       "45.169.156.0/22",
@@ -51780,8 +51776,8 @@
   },
   {
     "asn": 268424,
-    "organization": "ARTECO BRASIL LTDA.",
-    "document": "30.708.975/0001-30",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "45.161.4.0/22",
       "2804:5100::/32"
@@ -82315,7 +82311,9 @@
     "organization": "JOSE SILVA DOS SANTOS",
     "document": "52.733.887/0001-20",
     "ip_blocks": [
-      "2804:950c::/32"
+      "2804:950c::/32",
+      "189.89.234.0/24",
+      "189.89.236.0/24"
     ]
   },
   {
@@ -82618,6 +82616,14 @@
     "document": "37.830.885/0001-66",
     "ip_blocks": [
       "2804:959c::/32"
+    ]
+  },
+  {
+    "asn": 274534,
+    "organization": "stchuk provedor de internet",
+    "document": "53.988.599/0001-80",
+    "ip_blocks": [
+      "2804:95a0::/32"
     ]
   },
   {
