@@ -5811,7 +5811,6 @@
     "document": "06.128.103/0001-18",
     "ip_blocks": [
       "201.71.224.0/20",
-      "201.33.112.0/20",
       "189.51.64.0/19",
       "2001:1288::/32",
       "177.104.128.0/18"
@@ -14263,7 +14262,8 @@
     "document": "46.625.613/0001-15",
     "ip_blocks": [
       "200.24.88.0/22",
-      "2804:1ab4::/32"
+      "2804:1ab4::/32",
+      "186.251.72.0/22"
     ]
   },
   {
@@ -17211,7 +17211,7 @@
   },
   {
     "asn": 262565,
-    "organization": "CYBER INTERNET LTDA ME",
+    "organization": "CYBER INTERNET LTDA",
     "document": "07.237.857/0001-79",
     "ip_blocks": [
       "177.73.48.0/21",
@@ -20216,7 +20216,6 @@
     "organization": "CNX TELECOMUNICACOES LTDA",
     "document": "45.948.777/0001-10",
     "ip_blocks": [
-      "186.251.72.0/22",
       "186.251.76.0/22",
       "131.72.172.0/22",
       "2804:1b80::/32",
@@ -23769,7 +23768,8 @@
     "document": "74.209.909/0001-90",
     "ip_blocks": [
       "2804:1380::/32",
-      "191.5.128.0/20"
+      "191.5.128.0/20",
+      "201.33.112.0/20"
     ]
   },
   {
@@ -35895,7 +35895,8 @@
     "ip_blocks": [
       "128.201.228.0/22",
       "2804:3f84::/32",
-      "45.176.176.0/22"
+      "45.176.176.0/22",
+      "160.238.176.0/22"
     ]
   },
   {
@@ -40972,15 +40973,6 @@
     "ip_blocks": [
       "160.238.228.0/22",
       "2804:3dd4::/32"
-    ]
-  },
-  {
-    "asn": 266558,
-    "organization": "Infra SoluÃ§Ãµes de InformÃ¡tica Ltda Me",
-    "document": "03.120.703/0001-41",
-    "ip_blocks": [
-      "160.238.176.0/22",
-      "2804:3ddc::/32"
     ]
   },
   {
@@ -67370,7 +67362,7 @@
   },
   {
     "asn": 270866,
-    "organization": "M.C Rebussi e Cia LTDA",
+    "organization": "M.C REBUSSI E CIA LTDA",
     "document": "10.467.150/0001-63",
     "ip_blocks": [
       "131.255.0.0/22",
@@ -69155,7 +69147,7 @@
   },
   {
     "asn": 271078,
-    "organization": "VEM Tecnologia em InformÃ¡tica Ltda",
+    "organization": "VEM Tecnologia em Informatica LTDA",
     "document": "06.942.392/0001-94",
     "ip_blocks": [
       "45.6.244.0/22",
@@ -76295,7 +76287,7 @@
   },
   {
     "asn": 272524,
-    "organization": "SB4Host Datacenter",
+    "organization": "Conect Host LTDA",
     "document": "39.652.848/0001-30",
     "ip_blocks": [
       "2804:8284::/32"
@@ -82608,6 +82600,22 @@
     "document": "42.770.519/0001-07",
     "ip_blocks": [
       "2804:95a4::/32"
+    ]
+  },
+  {
+    "asn": 274536,
+    "organization": "TELNET PROVEDORES DE INTERNET LTDA",
+    "document": "41.971.480/0001-15",
+    "ip_blocks": [
+      "2804:95a8::/32"
+    ]
+  },
+  {
+    "asn": 274537,
+    "organization": "Leven Telecom",
+    "document": "30.942.233/0001-74",
+    "ip_blocks": [
+      "2804:95ac::/32"
     ]
   },
   {
