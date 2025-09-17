@@ -13425,7 +13425,7 @@
   },
   {
     "asn": 61767,
-    "organization": "R.A INFORMÃTICA",
+    "organization": "R. A TELECOM PROVEDOR DE INTERNET LTDA",
     "document": "10.615.729/0001-26",
     "ip_blocks": [
       "200.77.180.0/22",
@@ -27498,7 +27498,8 @@
     "document": "10.378.547/0001-89",
     "ip_blocks": [
       "138.99.60.0/22",
-      "2804:2390::/32"
+      "2804:2390::/32",
+      "45.185.72.0/22"
     ]
   },
   {
@@ -58946,8 +58947,8 @@
   },
   {
     "asn": 269325,
-    "organization": "GENESIS NET SERVICE LTDA",
-    "document": "17.027.998/0001-10",
+    "organization": "Novum Tecnologia Ltda",
+    "document": "29.619.688/0001-74",
     "ip_blocks": [
       "45.184.40.0/22",
       "2804:62e0::/32"
@@ -59412,15 +59413,6 @@
     "ip_blocks": [
       "45.184.160.0/22",
       "2804:63c8::/32"
-    ]
-  },
-  {
-    "asn": 269385,
-    "organization": "Yeptv TelecomunicaÃ§Ãµes Ltda",
-    "document": "29.119.768/0001-60",
-    "ip_blocks": [
-      "45.185.72.0/22",
-      "2804:63d0::/32"
     ]
   },
   {
@@ -82616,6 +82608,30 @@
     "document": "30.942.233/0001-74",
     "ip_blocks": [
       "2804:95ac::/32"
+    ]
+  },
+  {
+    "asn": 274538,
+    "organization": "IPROVNET PROVEDORA INTERNET LTDA",
+    "document": "17.200.872/0001-04",
+    "ip_blocks": [
+      "2804:95b0::/32"
+    ]
+  },
+  {
+    "asn": 274539,
+    "organization": "SPBT- PROVERDOR DE ACESSO A INTERNET LTDA",
+    "document": "16.585.136/0001-40",
+    "ip_blocks": [
+      "2804:95b4::/32"
+    ]
+  },
+  {
+    "asn": 274540,
+    "organization": "SUP. ESTADUAL DE TECNOLOGIA DA INFORMAÃÃO E COM",
+    "document": "17.900.001/0001-95",
+    "ip_blocks": [
+      "2801:81:160::/48"
     ]
   },
   {
