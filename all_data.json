@@ -38588,7 +38588,7 @@
   },
   {
     "asn": 266253,
-    "organization": "C A DE SOUZA -Â­ EPP",
+    "organization": "BC NET COMUNICAÃÃES LTDA",
     "document": "26.213.169/0001-13",
     "ip_blocks": [
       "190.123.192.0/22",
@@ -71345,7 +71345,7 @@
   },
   {
     "asn": 271345,
-    "organization": "ND NETWORK DISTRIBUTION",
+    "organization": "ND TELECOM FIBRA",
     "document": "29.801.505/0001-37",
     "ip_blocks": [
       "2804:7a10::/32",
@@ -82632,6 +82632,22 @@
     "document": "17.900.001/0001-95",
     "ip_blocks": [
       "2801:81:160::/48"
+    ]
+  },
+  {
+    "asn": 274541,
+    "organization": "Mato Grosso TelecomunicaÃ§Ãµes",
+    "document": "22.011.396/0001-05",
+    "ip_blocks": [
+      "2804:95b8::/32"
+    ]
+  },
+  {
+    "asn": 274542,
+    "organization": "USENET TELECOMUNICACOES PROVEDOR DE INTERNET LTDA",
+    "document": "40.797.595/0001-72",
+    "ip_blocks": [
+      "2804:95bc::/32"
     ]
   },
   {
