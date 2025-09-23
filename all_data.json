@@ -14317,7 +14317,8 @@
     "document": "12.973.083/0001-84",
     "ip_blocks": [
       "131.0.116.0/22",
-      "2804:1ac4::/32"
+      "2804:1ac4::/32",
+      "201.182.144.0/22"
     ]
   },
   {
@@ -15722,7 +15723,7 @@
   },
   {
     "asn": 262382,
-    "organization": "ASSOCIACAO PRUDENTINA DE EDUCACAO E CULTURA APEC",
+    "organization": "EPEC-Empresa Prudentina de EducaÃ§Ã£o e Cultura SA",
     "document": "44.860.740/0001-73",
     "ip_blocks": [
       "177.131.32.0/20",
@@ -16278,11 +16279,7 @@
     "asn": 262448,
     "organization": "DIALHOST INTERNET EIRELI",
     "document": "07.494.534/0001-60",
-    "ip_blocks": [
-      "177.52.160.0/22",
-      "2804:b44::/32",
-      "138.118.172.0/22"
-    ]
+    "ip_blocks": []
   },
   {
     "asn": 262449,
@@ -46655,15 +46652,6 @@
     "ip_blocks": [
       "201.182.232.0/22",
       "2804:42f0::/32"
-    ]
-  },
-  {
-    "asn": 267539,
-    "organization": "JBM Doro TelecomunicaÃ§Ã£o Me",
-    "document": "22.565.348/0001-69",
-    "ip_blocks": [
-      "201.182.144.0/22",
-      "2804:42f4::/32"
     ]
   },
   {
@@ -82644,6 +82632,14 @@
     ]
   },
   {
+    "asn": 274543,
+    "organization": "SOCIEDADE BENEFICENTE SAO CAMILO",
+    "document": "60.975.737/0100-33",
+    "ip_blocks": [
+      "2801:81:170::/48"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -84729,7 +84725,10 @@
     "document": "35.854.121/0001-85",
     "ip_blocks": [
       "187.102.244.0/22",
-      "2804:70b4::/32"
+      "2804:70b4::/32",
+      "177.52.160.0/22",
+      "138.118.172.0/22",
+      "2804:b44::/32"
     ]
   }
 ]
