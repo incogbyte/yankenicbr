@@ -488,7 +488,7 @@
   },
   {
     "asn": 8075,
-    "organization": "Microsoft do Brasil Imp. e Com. Software e Video G",
+    "organization": "Microsoft 272945 Brasil LTDA",
     "document": "04.712.500/0001-07",
     "ip_blocks": [
       "191.232.0.0/14",
@@ -9843,7 +9843,7 @@
   },
   {
     "asn": 52985,
-    "organization": "Microsoft do Brasil Imp. e Com. Software e Video G",
+    "organization": "Microsoft 272945 Brasil LTDA",
     "document": "04.712.500/0001-07",
     "ip_blocks": [
       "2801:80:1d0::/48"
@@ -68849,7 +68849,7 @@
   },
   {
     "asn": 271048,
-    "organization": "DegaHosting Informatica Ltda - ME",
+    "organization": "Luyana Dega Ltda",
     "document": "07.189.733/0001-65",
     "ip_blocks": [
       "179.0.128.0/24",
@@ -74394,7 +74394,8 @@
     "organization": "INNOVA NET TELECOM EIRELI",
     "document": "37.169.856/0001-03",
     "ip_blocks": [
-      "2804:8014::/32"
+      "2804:8014::/32",
+      "138.122.232.0/22"
     ]
   },
   {
@@ -82637,6 +82638,30 @@
     "document": "60.975.737/0100-33",
     "ip_blocks": [
       "2801:81:170::/48"
+    ]
+  },
+  {
+    "asn": 274544,
+    "organization": "MNL ASSISTENCAI TECNICA EM COMPUTADORES",
+    "document": "12.769.369/0001-42",
+    "ip_blocks": [
+      "2804:95c0::/32"
+    ]
+  },
+  {
+    "asn": 274545,
+    "organization": "VEEP TELECOM LTDA",
+    "document": "03.116.489/0001-50",
+    "ip_blocks": [
+      "2804:95c4::/32"
+    ]
+  },
+  {
+    "asn": 274546,
+    "organization": "LINK FIBRA LTDA",
+    "document": "34.765.441/0001-04",
+    "ip_blocks": [
+      "2804:95c8::/32"
     ]
   },
   {
