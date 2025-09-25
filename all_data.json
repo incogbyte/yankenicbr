@@ -28638,7 +28638,7 @@
   },
   {
     "asn": 264324,
-    "organization": "GMAES TELECOM LTDA",
+    "organization": "BIT7NET TECNOLOGIA E SERVICOS LTDA",
     "document": "10.586.483/0001-01",
     "ip_blocks": [
       "138.122.92.0/22",
@@ -82662,6 +82662,14 @@
     "document": "34.765.441/0001-04",
     "ip_blocks": [
       "2804:95c8::/32"
+    ]
+  },
+  {
+    "asn": 274547,
+    "organization": "PREFEITURA DE PORTO VELHO",
+    "document": "05.903.125/0001-45",
+    "ip_blocks": [
+      "2801:81:180::/48"
     ]
   },
   {
