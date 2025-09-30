@@ -11346,8 +11346,8 @@
     "organization": "QoS Tecnologia e Sistemas Ltda.",
     "document": "08.635.316/0001-61",
     "ip_blocks": [
-      "186.232.0.0/21",
-      "2804:926c::/32"
+      "2804:926c::/32",
+      "186.232.0.0/23"
     ]
   },
   {
@@ -24032,7 +24032,7 @@
   },
   {
     "asn": 263569,
-    "organization": "DIRECT WIFI TELECOM LTDA",
+    "organization": "DIRECT INTERNET LTDA",
     "document": "13.447.789/0001-75",
     "ip_blocks": [
       "186.249.216.0/22",
@@ -75247,7 +75247,7 @@
   },
   {
     "asn": 272252,
-    "organization": "BRASIL ANTENAS",
+    "organization": "BRANET FIBRA",
     "document": "09.002.408/0001-77",
     "ip_blocks": [
       "2804:844c::/32"
@@ -78827,10 +78827,12 @@
   },
   {
     "asn": 273410,
-    "organization": "VOTI TELECOM",
+    "organization": "VR INTERNET LTDA",
     "document": "51.548.324/0001-08",
     "ip_blocks": [
-      "2804:8e34::/32"
+      "2804:8e34::/32",
+      "186.232.2.0/23",
+      "186.232.4.0/22"
     ]
   },
   {
@@ -80845,7 +80847,7 @@
   },
   {
     "asn": 273677,
-    "organization": "AGILITY TELECOM",
+    "organization": "CELERI TELECOM LTDA",
     "document": "12.813.422/0001-65",
     "ip_blocks": [
       "2804:8a94::/32"
@@ -82675,6 +82677,30 @@
     "document": "34.474.132/0001-77",
     "ip_blocks": [
       "2804:95d4::/32"
+    ]
+  },
+  {
+    "asn": 274551,
+    "organization": "O C CORREA MELO SERVICOS DE INTERNET",
+    "document": "36.391.204/0001-48",
+    "ip_blocks": [
+      "2804:95d8::/32"
+    ]
+  },
+  {
+    "asn": 274552,
+    "organization": "Cesar De Freitas Souza",
+    "document": "33.500.428/0001-52",
+    "ip_blocks": [
+      "2804:95dc::/32"
+    ]
+  },
+  {
+    "asn": 274553,
+    "organization": "velocidade.net telecom ltda",
+    "document": "37.902.391/0001-40",
+    "ip_blocks": [
+      "2804:95e0::/32"
     ]
   },
   {
