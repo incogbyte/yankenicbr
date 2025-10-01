@@ -55475,7 +55475,7 @@
   },
   {
     "asn": 268905,
-    "organization": "CLODOALDO BELO DE OLIVEIRA",
+    "organization": "NET COMPARTILHE",
     "document": "08.319.740/0001-05",
     "ip_blocks": [
       "45.175.84.0/22",
@@ -61423,7 +61423,8 @@
     "document": "29.479.878/0001-33",
     "ip_blocks": [
       "45.190.120.0/22",
-      "2804:6788::/32"
+      "2804:6788::/32",
+      "181.224.216.0/22"
     ]
   },
   {
@@ -73237,15 +73238,6 @@
     ]
   },
   {
-    "asn": 271588,
-    "organization": "ITIEL TELECOM",
-    "document": "35.896.783/0001-18",
-    "ip_blocks": [
-      "2804:7de0::/32",
-      "181.224.216.0/22"
-    ]
-  },
-  {
     "asn": 271589,
     "organization": "W A COMÃRCIO E SERVIÃOS LTDA - ME",
     "document": "28.269.778/0001-10",
@@ -75829,7 +75821,8 @@
     "organization": "CINET TELECOMUNICACOES EIRELI",
     "document": "37.379.512/0001-10",
     "ip_blocks": [
-      "2804:8184::/32"
+      "2804:8184::/32",
+      "45.184.204.0/22"
     ]
   },
   {
