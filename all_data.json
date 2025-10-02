@@ -35904,7 +35904,7 @@
   },
   {
     "asn": 265903,
-    "organization": "DENIS ALVES GONTIJO - ME",
+    "organization": "CYBER TELECOM LTDA",
     "document": "10.808.760/0001-83",
     "ip_blocks": [
       "131.196.20.0/22",
@@ -82694,6 +82694,14 @@
     "document": "37.902.391/0001-40",
     "ip_blocks": [
       "2804:95e0::/32"
+    ]
+  },
+  {
+    "asn": 274554,
+    "organization": "NUCLEO BRASIL SERVIDORES LTDA",
+    "document": "19.262.676/0001-81",
+    "ip_blocks": [
+      "2804:95e4::/32"
     ]
   },
   {
