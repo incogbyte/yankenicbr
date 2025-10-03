@@ -5031,7 +5031,7 @@
   },
   {
     "asn": 28360,
-    "organization": "WKVE Asses. em ServiÃ§os de Inform. e Telecom. Ltda",
+    "organization": "WKVE Assessoria em Serv. de Inf. e Telecom Ltda",
     "document": "00.989.304/0001-23",
     "ip_blocks": [
       "189.76.208.0/20",
@@ -18126,7 +18126,8 @@
     "ip_blocks": [
       "186.233.228.0/22",
       "2804:a44::/32",
-      "131.255.52.0/22"
+      "131.255.52.0/22",
+      "190.111.128.0/22"
     ]
   },
   {
@@ -31240,7 +31241,7 @@
   },
   {
     "asn": 264923,
-    "organization": "Junior e Bruno Pecas e Servicos em Informatica ltd",
+    "organization": "JB Telecom LTDA",
     "document": "09.157.615/0001-09",
     "ip_blocks": [
       "168.232.0.0/22",
@@ -43978,8 +43979,8 @@
   },
   {
     "asn": 267211,
-    "organization": "FOURNETWORK SERVICOS DE INFORMATICA LTDA",
-    "document": "23.975.841/0001-10",
+    "organization": "Fournet One ServiÃ§os de ComunicaÃ§Ã£o e InformÃ¡tica",
+    "document": "38.083.153/0001-12",
     "ip_blocks": [
       "45.231.120.0/22",
       "2804:49f8::/32"
@@ -63341,15 +63342,6 @@
     ]
   },
   {
-    "asn": 270382,
-    "organization": "T F RODRIGUES CIA LTDA - ME",
-    "document": "12.368.985/0001-91",
-    "ip_blocks": [
-      "190.111.128.0/22",
-      "2804:6b28::/32"
-    ]
-  },
-  {
     "asn": 270383,
     "organization": "MULTI TELECOMUNICACAO LTDA",
     "document": "33.286.696/0001-13",
@@ -82633,14 +82625,6 @@
     ]
   },
   {
-    "asn": 274546,
-    "organization": "LINK FIBRA LTDA",
-    "document": "34.765.441/0001-04",
-    "ip_blocks": [
-      "2804:95c8::/32"
-    ]
-  },
-  {
     "asn": 274547,
     "organization": "PREFEITURA DE PORTO VELHO",
     "document": "05.903.125/0001-45",
@@ -82702,6 +82686,14 @@
     "document": "19.262.676/0001-81",
     "ip_blocks": [
       "2804:95e4::/32"
+    ]
+  },
+  {
+    "asn": 274555,
+    "organization": "5G MAIS VELOCIDADE LTDA",
+    "document": "46.599.741/0001-31",
+    "ip_blocks": [
+      "2804:95e8::/32"
     ]
   },
   {
@@ -84067,7 +84059,7 @@
   },
   {
     "asn": 274757,
-    "organization": "CLM SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
+    "organization": "GRUPO TELECOM - JALLA",
     "document": "11.966.881/0001-16",
     "ip_blocks": [
       "2804:931c::/32"
