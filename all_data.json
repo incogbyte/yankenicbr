@@ -49659,8 +49659,7 @@
     "document": "26.651.473/0001-42",
     "ip_blocks": [
       "2804:58fc::/32",
-      "45.170.136.0/24",
-      "45.170.139.0/24"
+      "45.170.136.0/24"
     ]
   },
   {
@@ -55053,8 +55052,8 @@
   },
   {
     "asn": 268847,
-    "organization": "Turbo Line ComunicaÃ§Ãµes Ltda",
-    "document": "08.268.073/0001-70",
+    "organization": "NUNISLEY RIBEIRO GONCALVES",
+    "document": "31.295.221/0001-68",
     "ip_blocks": [
       "2804:5b78::/32",
       "45.173.254.0/23"
@@ -79817,7 +79816,8 @@
     "organization": "MUNICIPIO DE GOIANIRA",
     "document": "01.291.707/0001-67",
     "ip_blocks": [
-      "2801:81:30::/48"
+      "2801:81:30::/48",
+      "45.170.139.0/24"
     ]
   },
   {
@@ -82694,6 +82694,14 @@
     "document": "46.599.741/0001-31",
     "ip_blocks": [
       "2804:95e8::/32"
+    ]
+  },
+  {
+    "asn": 274556,
+    "organization": "CENTRO TELECOMUNICAÃÃO LTDA",
+    "document": "34.049.960/0001-68",
+    "ip_blocks": [
+      "2804:95ec::/32"
     ]
   },
   {
