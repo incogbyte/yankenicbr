@@ -30611,8 +30611,8 @@
   },
   {
     "asn": 264586,
-    "organization": "SPEED TELECOMUNICACOES",
-    "document": "17.752.900/0001-98",
+    "organization": "SORIANO SIQUEIRA TELECOMUNICACOES LTDA",
+    "document": "53.131.103/0001-57",
     "ip_blocks": [
       "138.36.196.0/22",
       "2804:2204::/32"
@@ -32208,8 +32208,8 @@
   },
   {
     "asn": 265042,
-    "organization": "M R FREITAS LTDA",
-    "document": "18.275.013/0001-39",
+    "organization": "TERESINA TELECOMUNICACOES LTDA",
+    "document": "35.447.298/0001-67",
     "ip_blocks": [
       "170.150.148.0/22",
       "2804:31e0::/32"
@@ -82698,7 +82698,7 @@
   },
   {
     "asn": 274556,
-    "organization": "CENTRO TELECOMUNICAÃÃO LTDA",
+    "organization": "CENTRO TELECOMUNICACAO LTDA",
     "document": "34.049.960/0001-68",
     "ip_blocks": [
       "2804:95ec::/32"
