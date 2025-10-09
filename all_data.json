@@ -7751,7 +7751,7 @@
     "ip_blocks": [
       "2804:257c::/32",
       "177.84.28.0/24",
-      "177.84.30.0/23"
+      "177.84.30.0/24"
     ]
   },
   {
@@ -28881,8 +28881,8 @@
   },
   {
     "asn": 264356,
-    "organization": "SCHUCK INTERNET LTDA",
-    "document": "13.025.279/0001-00",
+    "organization": "ALMI SERVICOS ACESSO AS REDES COMUNICACAO LTDA",
+    "document": "32.012.881/0001-57",
     "ip_blocks": [
       "131.108.248.0/22",
       "2804:1d3c::/32",
@@ -47770,7 +47770,7 @@
   },
   {
     "asn": 267937,
-    "organization": "i9interNet LTDA",
+    "organization": "Reelu Telecom LTDA",
     "document": "24.975.051/0001-05",
     "ip_blocks": [
       "45.165.192.0/22",
@@ -57009,7 +57009,7 @@
   },
   {
     "asn": 269096,
-    "organization": "NORTH TELECOMUNICACOES EIRELI",
+    "organization": "NK TECNOLOGIA LTDA",
     "document": "02.486.232/0001-27",
     "ip_blocks": [
       "45.175.248.0/22",
@@ -81030,7 +81030,8 @@
     "organization": "RRNET TELECOMUNICACOES LTDA",
     "document": "36.039.124/0001-28",
     "ip_blocks": [
-      "2804:8af8::/32"
+      "2804:8af8::/32",
+      "177.84.31.0/24"
     ]
   },
   {
@@ -82622,6 +82623,14 @@
     "document": "03.116.489/0001-50",
     "ip_blocks": [
       "2804:95c4::/32"
+    ]
+  },
+  {
+    "asn": 274546,
+    "organization": "ANTONIA DE OLIVEIRA FERREIRA",
+    "document": "40.493.616/0001-66",
+    "ip_blocks": [
+      "2804:95c8::/32"
     ]
   },
   {
