@@ -7750,8 +7750,7 @@
     "document": "08.171.876/0001-02",
     "ip_blocks": [
       "2804:257c::/32",
-      "177.84.28.0/24",
-      "177.84.30.0/24"
+      "177.84.28.0/24"
     ]
   },
   {
@@ -23626,7 +23625,7 @@
   },
   {
     "asn": 263518,
-    "organization": "NOSSA NET",
+    "organization": "GRUPO AMEIDA REIS LTDA.-ME",
     "document": "10.619.520/0001-30",
     "ip_blocks": [
       "191.243.212.0/22",
@@ -66750,7 +66749,8 @@
     "document": "07.951.563/0001-04",
     "ip_blocks": [
       "177.131.140.0/22",
-      "2804:7190::/32"
+      "2804:7190::/32",
+      "177.84.30.0/24"
     ]
   },
   {
@@ -68732,8 +68732,9 @@
     "organization": "GM Telecom LTDA",
     "document": "28.261.069/0001-98",
     "ip_blocks": [
-      "45.5.248.0/22",
-      "2804:7540::/32"
+      "2804:7540::/32",
+      "45.5.250.0/24",
+      "45.5.248.0/23"
     ]
   },
   {
@@ -69008,7 +69009,7 @@
   },
   {
     "asn": 271069,
-    "organization": "A4 TELECOM PROVEDOR DE ACESSO",
+    "organization": "A4 SERVICOS DE COMUNICACAO LTDA",
     "document": "36.947.064/0001-41",
     "ip_blocks": [
       "179.48.0.0/22",
@@ -82714,6 +82715,30 @@
     ]
   },
   {
+    "asn": 274557,
+    "organization": "GIGANET SERVICOS DE TELECOMUNICACOES LTDA - ME",
+    "document": "11.838.671/0001-42",
+    "ip_blocks": [
+      "2804:95f0::/32"
+    ]
+  },
+  {
+    "asn": 274558,
+    "organization": "A5X SA",
+    "document": "52.652.163/0001-52",
+    "ip_blocks": [
+      "2801:81:190::/48"
+    ]
+  },
+  {
+    "asn": 274559,
+    "organization": "LINK FIBRA LTDA",
+    "document": "34.765.441/0001-04",
+    "ip_blocks": [
+      "2804:95f4::/32"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -84660,7 +84685,8 @@
     "organization": "ACM NETWORKS",
     "document": "18.537.368/0001-59",
     "ip_blocks": [
-      "2804:9438::/32"
+      "2804:9438::/32",
+      "45.5.251.0/24"
     ]
   },
   {
