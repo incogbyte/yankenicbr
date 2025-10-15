@@ -82739,6 +82739,22 @@
     ]
   },
   {
+    "asn": 274560,
+    "organization": "A B DE LA COLETTA",
+    "document": "42.353.148/0001-50",
+    "ip_blocks": [
+      "2804:95f8::/32"
+    ]
+  },
+  {
+    "asn": 274561,
+    "organization": "CRISTIANO TAUFFER",
+    "document": "21.248.024/0001-34",
+    "ip_blocks": [
+      "2804:95fc::/32"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
