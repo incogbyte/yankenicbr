@@ -28724,7 +28724,7 @@
   },
   {
     "asn": 264336,
-    "organization": "Inove Telecom Ltda",
+    "organization": "Bloom telecomunicaÃ§Ãµes LTDA",
     "document": "19.350.152/0001-42",
     "ip_blocks": [
       "138.122.124.0/22",
@@ -69650,7 +69650,6 @@
     "organization": "KERO NET PROVEDOR DE INTERNET EIRELI",
     "document": "36.566.595/0001-94",
     "ip_blocks": [
-      "179.42.64.0/22",
       "2804:76fc::/32"
     ]
   },
@@ -80126,7 +80125,8 @@
     "organization": "FOX INFO TELECOM LTDA",
     "document": "12.405.518/0001-94",
     "ip_blocks": [
-      "2804:8904::/32"
+      "2804:8904::/32",
+      "179.42.64.0/22"
     ]
   },
   {
@@ -82752,6 +82752,38 @@
     "document": "21.248.024/0001-34",
     "ip_blocks": [
       "2804:95fc::/32"
+    ]
+  },
+  {
+    "asn": 274562,
+    "organization": "3E TELECOM SERVICOS E TECNOLOGIA LTDA",
+    "document": "49.804.981/0001-19",
+    "ip_blocks": [
+      "2804:9600::/32"
+    ]
+  },
+  {
+    "asn": 274563,
+    "organization": "EANET PROVEDOR LTDA",
+    "document": "35.652.787/0001-50",
+    "ip_blocks": [
+      "2804:9604::/32"
+    ]
+  },
+  {
+    "asn": 274564,
+    "organization": "Halver LTDA",
+    "document": "32.267.615/0001-75",
+    "ip_blocks": [
+      "2804:9608::/32"
+    ]
+  },
+  {
+    "asn": 274565,
+    "organization": "NET GRUPPO TELECOMUNICACAO LTDA",
+    "document": "44.441.227/0001-48",
+    "ip_blocks": [
+      "2804:960c::/32"
     ]
   },
   {
