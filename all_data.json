@@ -11880,7 +11880,7 @@
   },
   {
     "asn": 61573,
-    "organization": "Ip Telecom BR",
+    "organization": "IP TELECOM",
     "document": "17.493.657/0001-30",
     "ip_blocks": [
       "138.122.60.0/22",
@@ -14827,8 +14827,7 @@
     "organization": "PIX BRASIL NETWORKS LTDA",
     "document": "39.317.585/0001-03",
     "ip_blocks": [
-      "2804:18a4::/32",
-      "201.159.88.0/23"
+      "2804:18a4::/32"
     ]
   },
   {
@@ -24422,7 +24421,7 @@
   },
   {
     "asn": 263612,
-    "organization": "Ip Carrier",
+    "organization": "IP CARRIER",
     "document": "10.628.267/0001-81",
     "ip_blocks": [
       "2804:ffc::/32",
@@ -28903,8 +28902,7 @@
     "document": "14.869.576/0001-02",
     "ip_blocks": [
       "131.161.24.0/22",
-      "2804:1d4c::/32",
-      "168.0.192.0/22"
+      "2804:1d4c::/32"
     ]
   },
   {
@@ -31272,7 +31270,8 @@
     "ip_blocks": [
       "168.228.184.0/22",
       "2804:3008::/32",
-      "201.159.90.0/23"
+      "201.159.90.0/23",
+      "201.159.88.0/23"
     ]
   },
   {
@@ -46854,8 +46853,8 @@
   },
   {
     "asn": 267565,
-    "organization": "Felix Internet",
-    "document": "07.267.326/0001-29",
+    "organization": "MEGABYTE SERVICOS DE TELECOMUNICACAO LTDA - ME",
+    "document": "09.366.853/0001-16",
     "ip_blocks": [
       "45.70.44.0/22",
       "2804:435c::/32"
@@ -51601,8 +51600,8 @@
   },
   {
     "asn": 268406,
-    "organization": "R G LIMA PROVEDORES",
-    "document": "32.081.896/0001-77",
+    "organization": "TRUETEC SERVIÃOS E COMÃRCIO LTDA",
+    "document": "11.467.229/0001-57",
     "ip_blocks": [
       "2804:50b8::/32",
       "45.160.100.0/23"
@@ -73692,7 +73691,7 @@
     "document": "34.232.669/0001-20",
     "ip_blocks": [
       "2804:7eb8::/32",
-      "200.194.180.0/22"
+      "200.194.180.0/23"
     ]
   },
   {
@@ -79677,7 +79676,8 @@
     "organization": "RUPI Telecom",
     "document": "48.871.087/0001-07",
     "ip_blocks": [
-      "2804:8fdc::/32"
+      "2804:8fdc::/32",
+      "168.0.192.0/22"
     ]
   },
   {
@@ -79841,7 +79841,8 @@
     "organization": "NEW TECNOLOGIA LTDA",
     "document": "05.499.676/0001-95",
     "ip_blocks": [
-      "2804:903c::/32"
+      "2804:903c::/32",
+      "200.194.182.0/23"
     ]
   },
   {
@@ -82784,6 +82785,14 @@
     "document": "44.441.227/0001-48",
     "ip_blocks": [
       "2804:960c::/32"
+    ]
+  },
+  {
+    "asn": 274566,
+    "organization": "AGUIA TELECOMUNICACOES LTDA",
+    "document": "40.118.446/0001-30",
+    "ip_blocks": [
+      "2804:9610::/32"
     ]
   },
   {
