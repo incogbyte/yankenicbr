@@ -6583,7 +6583,8 @@
       "131.161.36.0/22",
       "2804:1eb8::/32",
       "138.219.144.0/22",
-      "187.62.72.0/22"
+      "187.62.72.0/22",
+      "177.91.236.0/22"
     ]
   },
   {
@@ -11374,8 +11375,8 @@
   },
   {
     "asn": 53185,
-    "organization": "WILLIAM ROBERTO ZAGO",
-    "document": "71.169.312/0001-71",
+    "organization": "zago zago telecomunicacoes ltda",
+    "document": "09.277.847/0001-92",
     "ip_blocks": [
       "186.227.80.0/20"
     ]
@@ -23094,15 +23095,6 @@
     "ip_blocks": [
       "177.190.136.0/21",
       "2804:120c::/32"
-    ]
-  },
-  {
-    "asn": 263454,
-    "organization": "Ines Waltmann - Me",
-    "document": "07.504.609/0001-47",
-    "ip_blocks": [
-      "177.91.236.0/22",
-      "2804:1210::/32"
     ]
   },
   {
@@ -37822,8 +37814,9 @@
     "organization": "WD Produtos e Servicos Tecnologicos",
     "document": "09.200.447/0001-89",
     "ip_blocks": [
-      "45.6.116.0/22",
-      "2804:3b90::/32"
+      "2804:3b90::/32",
+      "45.6.118.0/24",
+      "45.6.116.0/23"
     ]
   },
   {
@@ -39644,7 +39637,8 @@
     "document": "13.293.780/0001-57",
     "ip_blocks": [
       "170.81.36.0/22",
-      "2804:3718::/32"
+      "2804:3718::/32",
+      "45.189.52.0/22"
     ]
   },
   {
@@ -60936,15 +60930,6 @@
     ]
   },
   {
-    "asn": 269578,
-    "organization": "M T Net Telecom LTDA",
-    "document": "31.934.793/0001-40",
-    "ip_blocks": [
-      "45.189.52.0/22",
-      "2804:66b8::/32"
-    ]
-  },
-  {
     "asn": 269579,
     "organization": "INTERNET TURBINADA",
     "document": "13.596.871/0001-61",
@@ -69834,7 +69819,7 @@
   },
   {
     "asn": 271169,
-    "organization": "NETLINE TELECOM",
+    "organization": "NETFIBRA TELECOM",
     "document": "19.112.041/0001-06",
     "ip_blocks": [
       "179.48.196.0/22",
@@ -82406,7 +82391,8 @@
     "organization": "NEWFRONT SOLUCOES EM CLOUD E TI",
     "document": "30.433.547/0001-41",
     "ip_blocks": [
-      "2804:957c::/32"
+      "2804:957c::/32",
+      "45.6.119.0/24"
     ]
   },
   {
@@ -82793,6 +82779,22 @@
     "document": "40.118.446/0001-30",
     "ip_blocks": [
       "2804:9610::/32"
+    ]
+  },
+  {
+    "asn": 274567,
+    "organization": "Ms marques serviÃ§os de banda larga eireli",
+    "document": "33.786.893/0001-00",
+    "ip_blocks": [
+      "2804:9614::/32"
+    ]
+  },
+  {
+    "asn": 274568,
+    "organization": "SECRETARIA DE ESTADO DA FAZENDA - SEFAZ-PB",
+    "document": "08.761.132/0001-48",
+    "ip_blocks": [
+      "2801:81:1a0::/48"
     ]
   },
   {
@@ -83231,14 +83233,6 @@
     "document": "18.843.645/0001-51",
     "ip_blocks": [
       "2804:9174::/32"
-    ]
-  },
-  {
-    "asn": 274643,
-    "organization": "ALMI SERVICOS ACESSO AS REDES COMUNICACAO LTDA",
-    "document": "32.012.881/0001-57",
-    "ip_blocks": [
-      "2804:9178::/32"
     ]
   },
   {
