@@ -3475,7 +3475,6 @@
       "177.12.138.0/23",
       "177.12.137.0/24",
       "177.12.142.0/23",
-      "177.12.140.0/24",
       "177.12.152.0/21",
       "189.89.237.0/24",
       "189.89.238.0/23",
@@ -4704,7 +4703,7 @@
   },
   {
     "asn": 28333,
-    "organization": "CONECT PRIME",
+    "organization": "LOCAL DATACENTER SOLUCOES EM COMUNICACAO LTDA",
     "document": "10.976.460/0001-03",
     "ip_blocks": [
       "189.50.192.0/20",
@@ -6901,7 +6900,7 @@
   },
   {
     "asn": 52604,
-    "organization": "V + NET INTERNET",
+    "organization": "VMAISNET LTDA",
     "document": "16.748.135/0001-70",
     "ip_blocks": [
       "177.124.120.0/22",
@@ -41560,15 +41559,6 @@
     ]
   },
   {
-    "asn": 266640,
-    "organization": "NETXPLOD TELECOMUNICACOES LTDA",
-    "document": "20.429.644/0001-07",
-    "ip_blocks": [
-      "128.201.48.0/22",
-      "2804:3f1c::/32"
-    ]
-  },
-  {
     "asn": 266641,
     "organization": "Lavrasnet Servicos de Provedor de Internet Ltda",
     "document": "26.296.963/0001-78",
@@ -47144,15 +47134,6 @@
     "ip_blocks": [
       "45.71.84.0/22",
       "2804:4418::/32"
-    ]
-  },
-  {
-    "asn": 267603,
-    "organization": "rp.netmania telecom eirele - me",
-    "document": "20.333.756/0001-60",
-    "ip_blocks": [
-      "45.71.96.0/22",
-      "2804:441c::/32"
     ]
   },
   {
@@ -55463,8 +55444,8 @@
     "organization": "NET COMPARTILHE",
     "document": "08.319.740/0001-05",
     "ip_blocks": [
-      "45.175.84.0/22",
-      "2804:5c60::/32"
+      "2804:5c60::/32",
+      "45.175.84.0/23"
     ]
   },
   {
@@ -56173,7 +56154,7 @@
     "ip_blocks": [
       "2804:5dbc::/32",
       "45.177.190.0/24",
-      "45.177.188.0/23"
+      "45.177.188.0/24"
     ]
   },
   {
@@ -59065,7 +59046,9 @@
     "document": "30.523.391/0001-90",
     "ip_blocks": [
       "45.184.232.0/22",
-      "2804:633c::/32"
+      "2804:633c::/32",
+      "45.71.96.0/22",
+      "128.201.48.0/22"
     ]
   },
   {
@@ -77679,7 +77662,7 @@
   },
   {
     "asn": 272748,
-    "organization": "E. DO NASCIMENTO PEREIRA",
+    "organization": "RiverNET ISP",
     "document": "29.981.757/0001-95",
     "ip_blocks": [
       "2804:880c::/32"
@@ -77999,7 +77982,8 @@
     "organization": "CENTRAIS VOIP LTDA ME",
     "document": "11.199.079/0001-48",
     "ip_blocks": [
-      "2804:88c4::/32"
+      "2804:88c4::/32",
+      "45.177.189.0/24"
     ]
   },
   {
@@ -82667,7 +82651,8 @@
     "organization": "velocidade.net telecom ltda",
     "document": "37.902.391/0001-40",
     "ip_blocks": [
-      "2804:95e0::/32"
+      "2804:95e0::/32",
+      "45.175.86.0/23"
     ]
   },
   {
@@ -82796,6 +82781,38 @@
     "document": "29.490.807/0001-31",
     "ip_blocks": [
       "2804:9618::/32"
+    ]
+  },
+  {
+    "asn": 274570,
+    "organization": "Boa Net LTDA",
+    "document": "53.358.630/0001-07",
+    "ip_blocks": [
+      "2804:961c::/32"
+    ]
+  },
+  {
+    "asn": 274571,
+    "organization": "Cconet Telecomunicacoes LTDA",
+    "document": "26.514.082/0001-86",
+    "ip_blocks": [
+      "2804:9620::/32"
+    ]
+  },
+  {
+    "asn": 274572,
+    "organization": "ACTIVENET TELECOM SERVICOS MULTIMIDIA LTDA",
+    "document": "38.322.500/0001-12",
+    "ip_blocks": [
+      "2804:9624::/32"
+    ]
+  },
+  {
+    "asn": 274573,
+    "organization": "CAMARA MUNICIPAL DE JOAO PESSOA",
+    "document": "09.283.482/0001-09",
+    "ip_blocks": [
+      "2801:81:1b0::/48"
     ]
   },
   {
@@ -84320,7 +84337,8 @@
     "organization": "MARIA P. FONTENELE SOUZA",
     "document": "30.900.000/0001-09",
     "ip_blocks": [
-      "2804:9370::/32"
+      "2804:9370::/32",
+      "177.12.140.0/24"
     ]
   },
   {
