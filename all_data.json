@@ -19128,8 +19128,8 @@
   },
   {
     "asn": 262815,
-    "organization": "Rede Lago Internet LTDA",
-    "document": "02.929.526/0001-86",
+    "organization": "TrÃªs Marias Fiber Telecom",
+    "document": "29.133.647/0001-73",
     "ip_blocks": [
       "186.250.128.0/21",
       "2804:200c::/32"
@@ -82813,6 +82813,22 @@
     "document": "09.283.482/0001-09",
     "ip_blocks": [
       "2801:81:1b0::/48"
+    ]
+  },
+  {
+    "asn": 274574,
+    "organization": "INOVAR TELECOMUNICAÃÃO SERVIÃOS DE INTERNET LTDA",
+    "document": "51.230.911/0001-46",
+    "ip_blocks": [
+      "2804:9628::/32"
+    ]
+  },
+  {
+    "asn": 274575,
+    "organization": "Torreserver consultoria em Informatica LTDA",
+    "document": "27.324.034/0001-98",
+    "ip_blocks": [
+      "2804:962c::/32"
     ]
   },
   {
