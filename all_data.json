@@ -55415,7 +55415,7 @@
   },
   {
     "asn": 268902,
-    "organization": "DANIEL CARVALHO DE OLIVEIRA SILVA Â­ ME",
+    "organization": "NETMASTER PORTEIRINHA ME",
     "document": "23.059.257/0001-14",
     "ip_blocks": [
       "45.175.172.0/22",
@@ -72046,7 +72046,7 @@
     "ip_blocks": [
       "2804:7b94::/32",
       "181.233.92.0/24",
-      "181.233.95.0/24"
+      "181.233.94.0/24"
     ]
   },
   {
@@ -74264,7 +74264,9 @@
     "organization": "INTERNET QUALITY TDA",
     "document": "06.278.399/0001-53",
     "ip_blocks": [
-      "2804:7ff8::/32"
+      "2804:7ff8::/32",
+      "192.100.214.0/23",
+      "186.251.36.0/23"
     ]
   },
   {
@@ -82832,6 +82834,14 @@
     ]
   },
   {
+    "asn": 274577,
+    "organization": "AZZURA TECNOLOGIA DA COMUNICACAO LTDA",
+    "document": "09.128.410/0001-97",
+    "ip_blocks": [
+      "2804:9634::/32"
+    ]
+  },
+  {
     "asn": 274589,
     "organization": "UNION TELECOMUNICAÃÃES E SERVIÃOS LTDA",
     "document": "52.051.130/0001-57",
@@ -84396,7 +84406,7 @@
     "document": "38.729.861/0001-88",
     "ip_blocks": [
       "2804:9384::/32",
-      "181.233.94.0/24"
+      "181.233.95.0/24"
     ]
   },
   {
