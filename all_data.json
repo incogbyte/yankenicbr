@@ -23609,7 +23609,7 @@
   },
   {
     "asn": 263518,
-    "organization": "GRUPO AMEIDA REIS LTDA.-ME",
+    "organization": "GRUPO ALMEIDA REIS LTDA.-ME",
     "document": "10.619.520/0001-30",
     "ip_blocks": [
       "191.243.212.0/22",
@@ -25240,7 +25240,7 @@
   },
   {
     "asn": 263879,
-    "organization": "CR Net TelecomunicaÃ§Ãµes Ltda-Me",
+    "organization": "NET FIBRA EMPRESAS LTDA",
     "document": "12.768.166/0001-31",
     "ip_blocks": [
       "138.204.76.0/22",
@@ -82839,6 +82839,22 @@
     "document": "09.128.410/0001-97",
     "ip_blocks": [
       "2804:9634::/32"
+    ]
+  },
+  {
+    "asn": 274578,
+    "organization": "L. P. TAVARES TELECOMUNICACOES LTDA",
+    "document": "49.637.079/0001-55",
+    "ip_blocks": [
+      "2804:9638::/32"
+    ]
+  },
+  {
+    "asn": 274579,
+    "organization": "Connect Master",
+    "document": "33.369.982/0001-42",
+    "ip_blocks": [
+      "2804:963c::/32"
     ]
   },
   {
