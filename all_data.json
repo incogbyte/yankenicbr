@@ -18170,7 +18170,8 @@
     "organization": "Netwalk TelecomunicaÃ§Ãµes em Inf. Ltda",
     "document": "02.131.790/0001-70",
     "ip_blocks": [
-      "187.87.144.0/20"
+      "187.87.152.0/22",
+      "187.87.144.0/21"
     ]
   },
   {
@@ -39631,7 +39632,8 @@
     "ip_blocks": [
       "170.81.36.0/22",
       "2804:3718::/32",
-      "45.189.52.0/22"
+      "45.189.52.0/22",
+      "187.87.156.0/22"
     ]
   },
   {
@@ -55217,7 +55219,7 @@
   },
   {
     "asn": 268876,
-    "organization": "Carlos Eduardo de Almeida Informatica - ME",
+    "organization": "CE TECH INTERNET LTDA",
     "document": "12.404.445/0001-16",
     "ip_blocks": [
       "45.171.122.0/23",
@@ -65786,7 +65788,7 @@
   },
   {
     "asn": 270687,
-    "organization": "PAULO HENRIQUE ARAUJO SANTOS",
+    "organization": "R. TECH COMUNICACAO MULTIMIDIA E NETWORKS LTDA",
     "document": "11.912.859/0001-93",
     "ip_blocks": [
       "200.142.232.0/22",
@@ -82855,6 +82857,22 @@
     "document": "33.369.982/0001-42",
     "ip_blocks": [
       "2804:963c::/32"
+    ]
+  },
+  {
+    "asn": 274580,
+    "organization": "CANAA SERVICOS DE TELECOMUNICACAO LTDA",
+    "document": "33.846.928/0001-40",
+    "ip_blocks": [
+      "2804:9640::/32"
+    ]
+  },
+  {
+    "asn": 274581,
+    "organization": "EVAR SOLUCOES EM TI LTDA",
+    "document": "35.416.160/0001-09",
+    "ip_blocks": [
+      "2804:9644::/32"
     ]
   },
   {
