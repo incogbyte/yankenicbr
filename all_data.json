@@ -11465,7 +11465,8 @@
     "organization": "Itaol Networks Systems",
     "document": "05.889.474/0001-50",
     "ip_blocks": [
-      "186.232.184.0/22"
+      "186.232.184.0/22",
+      "2804:965c::/32"
     ]
   },
   {
@@ -51589,7 +51590,7 @@
   },
   {
     "asn": 268408,
-    "organization": "Smart SoluÃ§Ãµes",
+    "organization": "HALLINK COMUNICACOES LTDA",
     "document": "10.208.427/0001-33",
     "ip_blocks": [
       "45.160.124.0/22",
@@ -77005,7 +77006,7 @@
   },
   {
     "asn": 272649,
-    "organization": "EASY NET LTDA",
+    "organization": "VINIX EMPREENDIMENTOS LTDA",
     "document": "43.926.751/0001-46",
     "ip_blocks": [
       "2804:8684::/32"
@@ -82873,6 +82874,46 @@
     "document": "35.416.160/0001-09",
     "ip_blocks": [
       "2804:9644::/32"
+    ]
+  },
+  {
+    "asn": 274582,
+    "organization": "GREENET SOLUCOES E CONEXOES LTDA",
+    "document": "48.629.429/0001-79",
+    "ip_blocks": [
+      "2804:9648::/32"
+    ]
+  },
+  {
+    "asn": 274583,
+    "organization": "P. Cezario Delfino",
+    "document": "21.488.372/0001-89",
+    "ip_blocks": [
+      "2804:964c::/32"
+    ]
+  },
+  {
+    "asn": 274584,
+    "organization": "Infinity SoluÃ§Ãµes em TelecomunicaÃ§Ãµes Ltda",
+    "document": "34.100.253/0001-59",
+    "ip_blocks": [
+      "2804:9650::/32"
+    ]
+  },
+  {
+    "asn": 274585,
+    "organization": "COREVAULT DATACENTER LTDA",
+    "document": "09.285.034/0001-44",
+    "ip_blocks": [
+      "2804:9654::/32"
+    ]
+  },
+  {
+    "asn": 274586,
+    "organization": "A L ROSA COMUNICACAO MULTIMIDIA LTDA - LIFENET",
+    "document": "33.476.774/0001-42",
+    "ip_blocks": [
+      "2804:9658::/32"
     ]
   },
   {
