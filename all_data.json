@@ -4539,15 +4539,6 @@
     ]
   },
   {
-    "asn": 28301,
-    "organization": "Departamento de EducaÃ§Ã£o e Cultura do ExÃ©rcito",
-    "document": "00.394.452/0270-52",
-    "ip_blocks": [
-      "189.38.64.0/20",
-      "2801:80:d0::/48"
-    ]
-  },
-  {
     "asn": 28304,
     "organization": "Banco Safra SA.",
     "document": "58.160.789/0001-28",
@@ -9059,7 +9050,8 @@
     "document": "07.518.297/0001-20",
     "ip_blocks": [
       "177.8.80.0/20",
-      "2804:1f18::/32"
+      "2804:1f18::/32",
+      "189.38.64.0/20"
     ]
   },
   {
@@ -15584,7 +15576,7 @@
   },
   {
     "asn": 262363,
-    "organization": "Wharehouse Informatica e Multimidia Ltda",
+    "organization": "VITUAX BRASIL LTDA",
     "document": "06.980.218/0001-36",
     "ip_blocks": [
       "177.126.240.0/20",
@@ -19961,8 +19953,8 @@
     "organization": "8-Bit Informatica e Provedor LTDA",
     "document": "13.313.023/0001-06",
     "ip_blocks": [
-      "186.226.216.0/22",
-      "2804:e78::/32"
+      "2804:e78::/32",
+      "186.226.219.0/24"
     ]
   },
   {
@@ -58920,7 +58912,7 @@
   },
   {
     "asn": 269331,
-    "organization": "INFOARCOS SERVICOS DE INTERNET LTDA",
+    "organization": "Uai Turbo Ltda",
     "document": "14.535.923/0001-52",
     "ip_blocks": [
       "45.184.168.0/22",
@@ -74532,7 +74524,8 @@
     "organization": "CLICK FIBRA TELECOMUNICACOES LTDA",
     "document": "33.932.460/0001-07",
     "ip_blocks": [
-      "2804:8098::/32"
+      "2804:8098::/32",
+      "131.255.104.0/22"
     ]
   },
   {
@@ -79029,7 +79022,9 @@
     "document": "31.899.621/0001-82",
     "ip_blocks": [
       "2804:8eb4::/32",
-      "187.86.20.0/22"
+      "187.86.20.0/22",
+      "186.226.216.0/23",
+      "186.226.218.0/24"
     ]
   },
   {
@@ -81898,6 +81893,22 @@
     "document": "27.326.615/0001-69",
     "ip_blocks": [
       "2804:8cc4::/32"
+    ]
+  },
+  {
+    "asn": 274333,
+    "organization": "BIRA NET LTDA",
+    "document": "20.429.455/0001-34",
+    "ip_blocks": [
+      "2804:9660::/32"
+    ]
+  },
+  {
+    "asn": 274334,
+    "organization": "ONY FIBRA Tecnologia ltda",
+    "document": "52.746.677/0001-77",
+    "ip_blocks": [
+      "2804:9664::/32"
     ]
   },
   {
