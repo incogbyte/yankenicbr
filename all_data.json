@@ -2236,7 +2236,7 @@
   },
   {
     "asn": 22706,
-    "organization": "Matsunaka Matsunaka Ltda - ME",
+    "organization": "MAZA TELECOMUNICACOES LTDA",
     "document": "08.386.374/0001-07",
     "ip_blocks": [
       "200.152.80.0/20"
@@ -3915,7 +3915,8 @@
     "document": "00.912.618/0001-28",
     "ip_blocks": [
       "189.126.208.0/20",
-      "2804:4b7c::/32"
+      "2804:4b7c::/32",
+      "186.209.184.0/21"
     ]
   },
   {
@@ -10132,15 +10133,6 @@
       "177.221.224.0/20",
       "170.231.84.0/22",
       "2804:31fc::/32"
-    ]
-  },
-  {
-    "asn": 53024,
-    "organization": "INFOR DF TEL E INFORMATICA LTDA",
-    "document": "11.195.968/0001-37",
-    "ip_blocks": [
-      "186.209.184.0/21",
-      "2804:dd4::/32"
     ]
   },
   {
@@ -69629,7 +69621,7 @@
   },
   {
     "asn": 271151,
-    "organization": "R. Domingos ME",
+    "organization": "RAFAEL DOMINGOS DA SILVA LTDA",
     "document": "28.880.662/0001-12",
     "ip_blocks": [
       "179.42.116.0/22",
@@ -82925,6 +82917,22 @@
     "document": "33.476.774/0001-42",
     "ip_blocks": [
       "2804:9658::/32"
+    ]
+  },
+  {
+    "asn": 274587,
+    "organization": "TWR TELECOMUNICACOES LTDA",
+    "document": "41.913.973/0001-07",
+    "ip_blocks": [
+      "2804:9668::/32"
+    ]
+  },
+  {
+    "asn": 274588,
+    "organization": "RCD EXCELLENCE INFORMATICA E TELECOM LTDA",
+    "document": "13.022.257/0001-96",
+    "ip_blocks": [
+      "2804:966c::/32"
     ]
   },
   {
