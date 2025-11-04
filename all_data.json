@@ -5450,7 +5450,7 @@
   },
   {
     "asn": 28598,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.20.64.0/18",
@@ -8053,7 +8053,7 @@
   },
   {
     "asn": 52759,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "177.38.200.0/21",
@@ -13911,7 +13911,7 @@
   },
   {
     "asn": 61832,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.148.100.0/22",
@@ -14818,7 +14818,7 @@
   },
   {
     "asn": 61946,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "201.139.184.0/21",
@@ -28377,7 +28377,8 @@
     "ip_blocks": [
       "138.121.120.0/22",
       "2804:25a8::/32",
-      "45.232.160.0/22"
+      "45.232.160.0/22",
+      "45.160.124.0/22"
     ]
   },
   {
@@ -48357,7 +48358,7 @@
   },
   {
     "asn": 268018,
-    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A. (DB3)",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
     "document": "41.644.220/0001-35",
     "ip_blocks": [
       "45.165.228.0/22",
@@ -51570,15 +51571,6 @@
     "ip_blocks": [
       "45.160.96.0/22",
       "2804:50bc::/32"
-    ]
-  },
-  {
-    "asn": 268408,
-    "organization": "HALLINK COMUNICACOES LTDA",
-    "document": "10.208.427/0001-33",
-    "ip_blocks": [
-      "45.160.124.0/22",
-      "2804:50c0::/32"
     ]
   },
   {
