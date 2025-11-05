@@ -8114,8 +8114,7 @@
     "document": "08.763.657/0001-12",
     "ip_blocks": [
       "177.39.168.0/21",
-      "2804:b5c::/32",
-      "191.253.80.0/20"
+      "2804:b5c::/32"
     ]
   },
   {
@@ -10733,7 +10732,8 @@
       "187.110.160.0/20",
       "186.232.80.0/22",
       "168.195.12.0/22",
-      "177.104.176.0/20"
+      "177.104.176.0/20",
+      "191.253.80.0/20"
     ]
   },
   {
@@ -14523,8 +14523,8 @@
     "organization": "Dvoranem E Fernandes Ltda",
     "document": "11.034.615/0001-55",
     "ip_blocks": [
-      "201.87.232.0/21",
-      "2804:16b0::/32"
+      "2804:16b0::/32",
+      "201.87.232.0/22"
     ]
   },
   {
@@ -32035,7 +32035,8 @@
     "ip_blocks": [
       "170.84.104.0/22",
       "2804:318c::/32",
-      "179.43.32.0/22"
+      "179.43.32.0/22",
+      "45.190.56.0/22"
     ]
   },
   {
@@ -61306,7 +61307,6 @@
     "organization": "Matheus dos santos",
     "document": "25.134.257/0001-67",
     "ip_blocks": [
-      "45.190.56.0/22",
       "2804:6770::/32"
     ]
   },
@@ -68047,7 +68047,7 @@
   },
   {
     "asn": 270963,
-    "organization": "Fernando Martins Reis",
+    "organization": "CANDIBANET LTDA",
     "document": "17.202.845/0001-62",
     "ip_blocks": [
       "189.50.60.0/22",
@@ -74218,7 +74218,8 @@
     "organization": "Comnet Internet MatelÃ¢ndia Ltda",
     "document": "32.101.311/0001-33",
     "ip_blocks": [
-      "2804:7fe8::/32"
+      "2804:7fe8::/32",
+      "45.164.168.0/22"
     ]
   },
   {
@@ -81896,6 +81897,38 @@
     ]
   },
   {
+    "asn": 274335,
+    "organization": "R. de Jesus - Telecomunicacoes LTDA",
+    "document": "38.798.947/0001-62",
+    "ip_blocks": [
+      "2804:9670::/32"
+    ]
+  },
+  {
+    "asn": 274336,
+    "organization": "NOVA INTERNET PROVEDORES LTDA ME - ME",
+    "document": "19.402.313/0001-02",
+    "ip_blocks": [
+      "2804:9674::/32"
+    ]
+  },
+  {
+    "asn": 274337,
+    "organization": "Mario Jose Rocha",
+    "document": "05.860.546/0001-36",
+    "ip_blocks": [
+      "2804:9678::/32"
+    ]
+  },
+  {
+    "asn": 274338,
+    "organization": "SuperNet Sistema De internet E SeguranÃ§a",
+    "document": "31.810.113/0001-86",
+    "ip_blocks": [
+      "2804:967c::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
@@ -84909,7 +84942,8 @@
     "organization": "RVK Provedor de Internet Ltda - ME",
     "document": "15.284.090/0001-67",
     "ip_blocks": [
-      "2804:944c::/32"
+      "2804:944c::/32",
+      "201.87.236.0/22"
     ]
   },
   {
