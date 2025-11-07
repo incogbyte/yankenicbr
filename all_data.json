@@ -9986,7 +9986,7 @@
   },
   {
     "asn": 53005,
-    "organization": "CONNECT TELECOMUNICACOES LTDA",
+    "organization": "REDE CONNECT TELECOMUNICACOES LTDA",
     "document": "12.664.949/0001-75",
     "ip_blocks": [
       "177.66.240.0/21",
@@ -12348,6 +12348,14 @@
     "document": "50.811.088/0001-08",
     "ip_blocks": [
       "2804:9524::/32"
+    ]
+  },
+  {
+    "asn": 61626,
+    "organization": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
+    "document": "80.257.355/0001-08",
+    "ip_blocks": [
+      "2804:1f5e::/32"
     ]
   },
   {
@@ -81918,6 +81926,22 @@
     "document": "31.810.113/0001-86",
     "ip_blocks": [
       "2804:967c::/32"
+    ]
+  },
+  {
+    "asn": 274339,
+    "organization": "ZHONET LTDA",
+    "document": "48.103.254/0001-61",
+    "ip_blocks": [
+      "2804:9680::/32"
+    ]
+  },
+  {
+    "asn": 274340,
+    "organization": "Globo Net Telecomunicacoes LTDA",
+    "document": "43.927.627/0001-03",
+    "ip_blocks": [
+      "2804:9684::/32"
     ]
   },
   {
