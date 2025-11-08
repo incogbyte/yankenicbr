@@ -4492,9 +4492,8 @@
     "organization": "Acessa TelecomunicaÃ§Ãµes Ltda",
     "document": "06.338.921/0001-45",
     "ip_blocks": [
-      "189.36.208.0/20",
       "2001:1298::/32",
-      "187.121.236.0/22"
+      "189.36.216.0/21"
     ]
   },
   {
@@ -9992,7 +9991,8 @@
       "177.66.240.0/21",
       "2804:548::/32",
       "45.188.120.0/22",
-      "170.238.164.0/22"
+      "170.238.164.0/22",
+      "168.90.164.0/22"
     ]
   },
   {
@@ -34095,15 +34095,6 @@
     ]
   },
   {
-    "asn": 265288,
-    "organization": "FG TELECOM",
-    "document": "08.359.167/0001-55",
-    "ip_blocks": [
-      "168.90.164.0/22",
-      "2804:2d88::/32"
-    ]
-  },
-  {
     "asn": 265289,
     "organization": "MP INFOTELECOM",
     "document": "07.793.479/0001-00",
@@ -34758,7 +34749,9 @@
       "168.205.100.0/22",
       "2804:2ed4::/32",
       "138.118.44.0/22",
-      "24.152.108.0/22"
+      "24.152.108.0/22",
+      "189.36.208.0/21",
+      "187.121.236.0/22"
     ]
   },
   {
@@ -51585,8 +51578,8 @@
   },
   {
     "asn": 268410,
-    "organization": "k A Telecomunicacoes Ltda - ME",
-    "document": "28.617.786/0001-00",
+    "organization": "BKup Telecom",
+    "document": "09.153.816/0001-20",
     "ip_blocks": [
       "45.160.204.0/22",
       "2804:50c8::/32"
@@ -58906,7 +58899,7 @@
   },
   {
     "asn": 269332,
-    "organization": "MARLENE FRISKE SAUERESSIG - EIRELI",
+    "organization": "MARLENE FRISKE SAUERESSIG - LTDA",
     "document": "24.412.573/0001-90",
     "ip_blocks": [
       "45.184.172.0/22",
@@ -72558,7 +72551,7 @@
     "document": "32.159.819/0001-92",
     "ip_blocks": [
       "2804:7cb4::/32",
-      "181.224.192.0/23"
+      "181.224.192.0/24"
     ]
   },
   {
@@ -79862,7 +79855,8 @@
     "organization": "ST INFORMATICA E TELECOM LTDA",
     "document": "49.344.535/0001-79",
     "ip_blocks": [
-      "2804:905c::/32"
+      "2804:905c::/32",
+      "181.224.193.0/24"
     ]
   },
   {
@@ -81942,6 +81936,30 @@
     "document": "43.927.627/0001-03",
     "ip_blocks": [
       "2804:9684::/32"
+    ]
+  },
+  {
+    "asn": 274341,
+    "organization": "L S BALCONI SOLUCOES CORPORATIVAS LTDA",
+    "document": "21.118.758/0001-07",
+    "ip_blocks": [
+      "2804:9688::/32"
+    ]
+  },
+  {
+    "asn": 274342,
+    "organization": "RGNET FELISBURGO LTDA",
+    "document": "29.423.256/0001-93",
+    "ip_blocks": [
+      "2804:968c::/32"
+    ]
+  },
+  {
+    "asn": 274343,
+    "organization": "VIBRA SOLUÃÃES EM INTERNET LTDA",
+    "document": "29.437.034/0001-20",
+    "ip_blocks": [
+      "2804:9690::/32"
     ]
   },
   {
