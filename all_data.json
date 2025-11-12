@@ -2700,12 +2700,6 @@
     ]
   },
   {
-    "asn": 27684,
-    "organization": "Kern Technologies do Brasil",
-    "document": "04.887.256/0001-13",
-    "ip_blocks": []
-  },
-  {
     "asn": 27688,
     "organization": "Winfnet Telecom Wireless Ltda",
     "document": "12.813.780/0001-78",
@@ -6277,15 +6271,6 @@
     "ip_blocks": [
       "177.129.108.0/23",
       "2801:80:1ad0::/47"
-    ]
-  },
-  {
-    "asn": 52530,
-    "organization": "Editora Atica S/A",
-    "document": "61.259.958/0001-96",
-    "ip_blocks": [
-      "186.208.88.0/21",
-      "2801:80:670::/48"
     ]
   },
   {
@@ -19954,8 +19939,7 @@
     "organization": "8-Bit Informatica e Provedor LTDA",
     "document": "13.313.023/0001-06",
     "ip_blocks": [
-      "2804:e78::/32",
-      "186.226.219.0/24"
+      "2804:e78::/32"
     ]
   },
   {
@@ -42238,7 +42222,7 @@
   },
   {
     "asn": 266990,
-    "organization": "SoftX Conectividade",
+    "organization": "Softserv.net Softserv Comercio e Servicos LTDA",
     "document": "02.775.766/0001-73",
     "ip_blocks": [
       "45.226.84.0/22",
@@ -43710,7 +43694,8 @@
     "document": "82.855.164/0001-65",
     "ip_blocks": [
       "45.231.0.0/22",
-      "2804:4974::/32"
+      "2804:4974::/32",
+      "186.226.219.0/24"
     ]
   },
   {
@@ -54425,15 +54410,6 @@
     "ip_blocks": [
       "45.172.240.0/22",
       "2804:5a94::/32"
-    ]
-  },
-  {
-    "asn": 268783,
-    "organization": "INTUIT BRASIL SERVICOS DE INFORMATICA LTDA.",
-    "document": "21.545.399/0001-66",
-    "ip_blocks": [
-      "45.169.252.0/24",
-      "2801:80:3450::/48"
     ]
   },
   {
@@ -80114,14 +80090,6 @@
     ]
   },
   {
-    "asn": 273587,
-    "organization": "C.G.A.FARIA LTDA",
-    "document": "31.251.464/0001-02",
-    "ip_blocks": [
-      "2804:8930::/32"
-    ]
-  },
-  {
     "asn": 273588,
     "organization": "Adesso Assessoria e Consultoria em Tecnologia Ltda",
     "document": "08.562.831/0001-69",
@@ -81983,6 +81951,30 @@
     "document": "13.419.016/0001-85",
     "ip_blocks": [
       "2801:81:1c0::/48"
+    ]
+  },
+  {
+    "asn": 274349,
+    "organization": "MY WEB LTDA",
+    "document": "50.197.721/0001-01",
+    "ip_blocks": [
+      "2804:96a4::/32"
+    ]
+  },
+  {
+    "asn": 274350,
+    "organization": "RENOVE SOLUCOES DE TELECOMUNICACOES LTDA",
+    "document": "23.955.108/0001-33",
+    "ip_blocks": [
+      "2804:96a8::/32"
+    ]
+  },
+  {
+    "asn": 274351,
+    "organization": "LUZZ TELECOMUNICAÃÃES LTDA",
+    "document": "46.865.027/0001-48",
+    "ip_blocks": [
+      "2804:96ac::/32"
     ]
   },
   {
