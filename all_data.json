@@ -6961,7 +6961,8 @@
     "ip_blocks": [
       "177.124.20.0/22",
       "2804:22fc::/32",
-      "170.79.248.0/22"
+      "170.79.249.0/24",
+      "170.79.250.0/23"
     ]
   },
   {
@@ -20763,7 +20764,7 @@
   },
   {
     "asn": 263065,
-    "organization": "DNSLINK SOLUÃÃES PARA INTERNET LTDA",
+    "organization": "DNSLINK SOLUCOES PARA INTERNET LTDA",
     "document": "11.170.163/0001-39",
     "ip_blocks": [
       "186.232.180.0/22",
@@ -66078,15 +66079,6 @@
     ]
   },
   {
-    "asn": 270728,
-    "organization": "UP TELECOMUNICAÃÃES DO BRASIL LTDA ME",
-    "document": "23.088.825/0001-05",
-    "ip_blocks": [
-      "187.102.232.0/22",
-      "2804:7078::/32"
-    ]
-  },
-  {
     "asn": 270729,
     "organization": "CBN NET LTDA - ME",
     "document": "11.180.070/0001-95",
@@ -66991,7 +66983,7 @@
   },
   {
     "asn": 270840,
-    "organization": "Estado Virtual SoluÃ§Ãµes em Tecnologia",
+    "organization": "EVSolid LTDA",
     "document": "12.096.461/0001-99",
     "ip_blocks": [
       "179.0.168.0/22",
@@ -74477,14 +74469,6 @@
     ]
   },
   {
-    "asn": 271764,
-    "organization": "CERFOX SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "37.312.792/0001-40",
-    "ip_blocks": [
-      "2804:80a4::/32"
-    ]
-  },
-  {
     "asn": 271766,
     "organization": "G H DA SILVA COMUNICACAO - ME",
     "document": "11.062.859/0001-41",
@@ -75397,14 +75381,6 @@
     "ip_blocks": [
       "2804:80e4::/32",
       "138.219.8.0/22"
-    ]
-  },
-  {
-    "asn": 272420,
-    "organization": "GARDELINE GERENCIAMENTO E TECNOLOGIA EIRELI",
-    "document": "14.136.037/0001-56",
-    "ip_blocks": [
-      "2804:80e8::/32"
     ]
   },
   {
@@ -76732,14 +76708,6 @@
     ]
   },
   {
-    "asn": 272620,
-    "organization": "M V FIBRA SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "41.761.773/0001-78",
-    "ip_blocks": [
-      "2804:8618::/32"
-    ]
-  },
-  {
     "asn": 272621,
     "organization": "Jalles Machado S.A.",
     "document": "02.635.522/0001-95",
@@ -76797,27 +76765,11 @@
     ]
   },
   {
-    "asn": 272630,
-    "organization": "Xnet Telecom EIRELI",
-    "document": "11.386.221/0001-66",
-    "ip_blocks": [
-      "2804:863c::/32"
-    ]
-  },
-  {
     "asn": 272631,
     "organization": "MISAEL KESSLER ALVES",
     "document": "31.254.367/0001-65",
     "ip_blocks": [
       "2804:8640::/32"
-    ]
-  },
-  {
-    "asn": 272632,
-    "organization": "Rbnet servicos e comunicacoes ltda",
-    "document": "13.344.002/0001-40",
-    "ip_blocks": [
-      "2804:8644::/32"
     ]
   },
   {
@@ -76932,14 +76884,6 @@
     "ip_blocks": [
       "2804:8680::/32",
       "201.218.160.0/22"
-    ]
-  },
-  {
-    "asn": 272649,
-    "organization": "VINIX EMPREENDIMENTOS LTDA",
-    "document": "43.926.751/0001-46",
-    "ip_blocks": [
-      "2804:8684::/32"
     ]
   },
   {
@@ -77187,14 +77131,6 @@
     "document": "15.407.584/0001-91",
     "ip_blocks": [
       "2804:8710::/32"
-    ]
-  },
-  {
-    "asn": 272686,
-    "organization": "JETT FIBRA LTDA",
-    "document": "28.468.911/0001-67",
-    "ip_blocks": [
-      "2804:8714::/32"
     ]
   },
   {
@@ -79315,14 +79251,6 @@
     ]
   },
   {
-    "asn": 273488,
-    "organization": "RSB TELECOMUNICACOES LTDA",
-    "document": "28.003.417/0001-27",
-    "ip_blocks": [
-      "2804:8f64::/32"
-    ]
-  },
-  {
     "asn": 273489,
     "organization": "SPACENET E INFORMATICA",
     "document": "19.667.676/0001-61",
@@ -79623,7 +79551,8 @@
     "organization": "JR NET SERVICOS E COMERCIO DE INFORMATICA EIRELI",
     "document": "23.147.866/0001-25",
     "ip_blocks": [
-      "2804:8ff4::/32"
+      "2804:8ff4::/32",
+      "170.79.248.0/24"
     ]
   },
   {
@@ -79743,14 +79672,6 @@
     "ip_blocks": [
       "2804:9038::/32",
       "45.167.111.0/24"
-    ]
-  },
-  {
-    "asn": 273539,
-    "organization": "PLUTO FIBRA LTDA",
-    "document": "50.865.951/0001-00",
-    "ip_blocks": [
-      "2804:9040::/32"
     ]
   },
   {
@@ -81219,14 +81140,6 @@
     ]
   },
   {
-    "asn": 273746,
-    "organization": "Brasnet Tecnologia LTDA",
-    "document": "28.591.882/0001-26",
-    "ip_blocks": [
-      "2804:8ba4::/32"
-    ]
-  },
-  {
     "asn": 273747,
     "organization": "TECH IN SOLUCOES LTDA",
     "document": "43.588.781/0001-90",
@@ -81409,22 +81322,6 @@
     "document": "37.096.373/0001-18",
     "ip_blocks": [
       "2804:8bf0::/32"
-    ]
-  },
-  {
-    "asn": 273770,
-    "organization": "NEEMIAS JOAQUIM LOURENCO FILHO LTDA",
-    "document": "34.758.702/0001-50",
-    "ip_blocks": [
-      "2804:8bf4::/32"
-    ]
-  },
-  {
-    "asn": 273771,
-    "organization": "C COSTA INTERMEDIACAO DE NEGOCIOS LTDA",
-    "document": "31.382.076/0001-52",
-    "ip_blocks": [
-      "2804:8bf8::/32"
     ]
   },
   {
