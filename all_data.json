@@ -18687,9 +18687,9 @@
     "document": "07.866.836/0001-12",
     "ip_blocks": [
       "2804:4f4::/32",
-      "187.109.122.0/23",
       "187.109.116.0/23",
-      "187.109.119.0/24"
+      "187.109.119.0/24",
+      "187.109.123.0/24"
     ]
   },
   {
@@ -19945,7 +19945,7 @@
   },
   {
     "asn": 262958,
-    "organization": "CARRARO, HAINOSZ CIA LTDA - ME",
+    "organization": "JG CARRARO TELECOM LTDA",
     "document": "07.512.134/0001-30",
     "ip_blocks": [
       "186.233.204.0/22",
@@ -39121,8 +39121,8 @@
   },
   {
     "asn": 266328,
-    "organization": "ALPHANET TELECOM LTDA ME",
-    "document": "13.920.232/0001-00",
+    "organization": "JP Providers Eirelli",
+    "document": "11.397.151/0001-41",
     "ip_blocks": [
       "170.238.76.0/22",
       "2804:3620::/32"
@@ -58949,7 +58949,7 @@
   },
   {
     "asn": 269344,
-    "organization": "Mayara L Martins ME.",
+    "organization": "Onda Livre Fibra LTDA.",
     "document": "21.692.836/0001-74",
     "ip_blocks": [
       "45.184.212.0/22",
@@ -81875,6 +81875,22 @@
     ]
   },
   {
+    "asn": 274352,
+    "organization": "Eudora Net Servicos TelecomunicaÃ§Ãµes Ltd",
+    "document": "37.404.992/0001-22",
+    "ip_blocks": [
+      "2804:96b0::/32"
+    ]
+  },
+  {
+    "asn": 274353,
+    "organization": "TRIBUNAL REGIONAL FEDERAL DA 6A REGIAO",
+    "document": "47.784.477/0001-79",
+    "ip_blocks": [
+      "2801:81:1d0::/48"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
@@ -82799,7 +82815,8 @@
     "organization": "Torreserver consultoria em Informatica LTDA",
     "document": "27.324.034/0001-98",
     "ip_blocks": [
-      "2804:962c::/32"
+      "2804:962c::/32",
+      "187.109.122.0/24"
     ]
   },
   {
