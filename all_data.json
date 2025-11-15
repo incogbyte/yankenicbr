@@ -27216,15 +27216,6 @@
     ]
   },
   {
-    "asn": 264136,
-    "organization": "LT2 TELECOMUNICACOES LTDA - EPP",
-    "document": "17.893.674/0001-65",
-    "ip_blocks": [
-      "138.94.96.0/22",
-      "2804:2300::/32"
-    ]
-  },
-  {
     "asn": 264137,
     "organization": "DUX TELECOM LTDA",
     "document": "09.443.451/0001-78",
@@ -36596,7 +36587,8 @@
     "document": "13.918.775/0001-92",
     "ip_blocks": [
       "164.163.100.0/22",
-      "2804:4108::/32"
+      "2804:4108::/32",
+      "138.94.96.0/22"
     ]
   },
   {
@@ -41008,8 +41000,8 @@
   },
   {
     "asn": 266570,
-    "organization": "ELETRICNET TELECOMUNICAÃÃES LTDA",
-    "document": "26.343.346/0001-86",
+    "organization": "Cassiano Zanon - CZNET Provedor de Internet",
+    "document": "06.910.203/0001-00",
     "ip_blocks": [
       "45.7.72.0/22",
       "2804:3e0c::/32"
@@ -47698,15 +47690,6 @@
     ]
   },
   {
-    "asn": 267937,
-    "organization": "Reelu Telecom LTDA",
-    "document": "24.975.051/0001-05",
-    "ip_blocks": [
-      "45.165.192.0/22",
-      "2804:557c::/32"
-    ]
-  },
-  {
     "asn": 267938,
     "organization": "UNIC SERVICOS DE TELECOMUNICACOES LTDA",
     "document": "14.016.698/0001-48",
@@ -51166,7 +51149,8 @@
     "document": "48.764.496/0001-04",
     "ip_blocks": [
       "45.238.200.0/22",
-      "2804:4ff4::/32"
+      "2804:4ff4::/32",
+      "45.165.192.0/22"
     ]
   },
   {
@@ -70548,7 +70532,7 @@
   },
   {
     "asn": 271270,
-    "organization": "T5 Telecom",
+    "organization": "HENRIQUE BIGATAO SIMPLICIO ME",
     "document": "26.549.684/0001-79",
     "ip_blocks": [
       "200.106.200.0/22",
@@ -79015,14 +78999,6 @@
     ]
   },
   {
-    "asn": 273459,
-    "organization": "COMFORT NET SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "53.567.356/0001-78",
-    "ip_blocks": [
-      "2804:8ef8::/32"
-    ]
-  },
-  {
     "asn": 273460,
     "organization": "A Mil Internet Fibra Optica Ltda",
     "document": "29.300.721/0001-07",
@@ -79579,14 +79555,6 @@
     "ip_blocks": [
       "2804:9000::/32",
       "45.6.242.0/23"
-    ]
-  },
-  {
-    "asn": 273528,
-    "organization": "ALL LINK PROVEDORES LTDA",
-    "document": "39.293.920/0001-80",
-    "ip_blocks": [
-      "2804:9004::/32"
     ]
   },
   {
@@ -81888,6 +81856,22 @@
     "document": "47.784.477/0001-79",
     "ip_blocks": [
       "2801:81:1d0::/48"
+    ]
+  },
+  {
+    "asn": 274354,
+    "organization": "LIFES CREATIVE TECNOLOGIA LTDA",
+    "document": "08.101.661/0001-15",
+    "ip_blocks": [
+      "2804:96b4::/32"
+    ]
+  },
+  {
+    "asn": 274355,
+    "organization": "ATLANTIC DATA CENTER LTDA",
+    "document": "56.222.350/0001-57",
+    "ip_blocks": [
+      "2804:96b8::/32"
     ]
   },
   {
