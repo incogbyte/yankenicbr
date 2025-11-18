@@ -3059,15 +3059,6 @@
     ]
   },
   {
-    "asn": 28144,
-    "organization": "G3 TELECOM",
-    "document": "07.999.354/0001-30",
-    "ip_blocks": [
-      "187.49.112.0/20",
-      "2804:10c::/32"
-    ]
-  },
-  {
     "asn": 28145,
     "organization": "RLINE TELECOM LTDA",
     "document": "13.500.755/0001-05",
@@ -8957,14 +8948,6 @@
     ]
   },
   {
-    "asn": 52879,
-    "organization": "ABM INFORMATICA E TELECOM",
-    "document": "02.307.481/0001-08",
-    "ip_blocks": [
-      "186.232.232.0/21"
-    ]
-  },
-  {
     "asn": 52882,
     "organization": "Ecritel do Brasil Hospedagem de Dados",
     "document": "14.550.614/0001-51",
@@ -10041,8 +10024,8 @@
   },
   {
     "asn": 53013,
-    "organization": "W I X NET DO BRASIL LTDA - ME",
-    "document": "06.117.189/0001-83",
+    "organization": "UFINET BRASIL S.A.",
+    "document": "06.288.154/0001-07",
     "ip_blocks": [
       "177.67.80.0/21",
       "2804:574::/32"
@@ -13341,15 +13324,6 @@
     "ip_blocks": [
       "131.100.80.0/22",
       "2804:1bf4::/32"
-    ]
-  },
-  {
-    "asn": 61760,
-    "organization": "JSL S/A",
-    "document": "52.548.435/0027-08",
-    "ip_blocks": [
-      "200.0.62.0/24",
-      "2801:80:ac0::/48"
     ]
   },
   {
@@ -17744,14 +17718,6 @@
     ]
   },
   {
-    "asn": 262626,
-    "organization": "CICLONET SERVICOS DE INTERNET E MULTIMIDIA EIRELI",
-    "document": "13.880.576/0001-32",
-    "ip_blocks": [
-      "2804:80c8::/32"
-    ]
-  },
-  {
     "asn": 262628,
     "organization": "2i Servicos de Telecomunicacoes do Brasil Ltda.",
     "document": "08.190.471/0001-11",
@@ -19864,15 +19830,6 @@
     "ip_blocks": [
       "177.154.24.0/22",
       "2804:e9c::/32"
-    ]
-  },
-  {
-    "asn": 262947,
-    "organization": "MEGALYNK SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
-    "document": "10.785.904/0001-23",
-    "ip_blocks": [
-      "2804:e40::/32",
-      "177.154.56.0/22"
     ]
   },
   {
@@ -22415,15 +22372,6 @@
     "ip_blocks": [
       "191.37.160.0/21",
       "2804:14fc::/32"
-    ]
-  },
-  {
-    "asn": 263364,
-    "organization": "Tetra Pak Ltda",
-    "document": "61.528.030/0001-60",
-    "ip_blocks": [
-      "191.36.237.0/24",
-      "2801:80:970::/48"
     ]
   },
   {
@@ -27490,15 +27438,6 @@
     ]
   },
   {
-    "asn": 264177,
-    "organization": "NETTCON PROVEDOR DE INTERNET EIRELI EPP",
-    "document": "18.396.123/0001-59",
-    "ip_blocks": [
-      "138.94.236.0/22",
-      "2804:23ac::/32"
-    ]
-  },
-  {
     "asn": 264178,
     "organization": "Coonexao Telecom e Informatica EIRELI",
     "document": "12.848.641/0001-80",
@@ -32270,15 +32209,6 @@
     "ip_blocks": [
       "170.231.120.0/22",
       "2804:3218::/32"
-    ]
-  },
-  {
-    "asn": 265056,
-    "organization": "NSLink Provedor de acesso internet LTDA-ME",
-    "document": "22.759.562/0001-56",
-    "ip_blocks": [
-      "2804:321c::/32",
-      "170.231.148.0/24"
     ]
   },
   {
@@ -37717,15 +37647,6 @@
     ]
   },
   {
-    "asn": 266151,
-    "organization": "Mania NET",
-    "document": "19.011.008/0001-81",
-    "ip_blocks": [
-      "160.238.104.0/22",
-      "2804:3b78::/32"
-    ]
-  },
-  {
     "asn": 266152,
     "organization": "PJM NET",
     "document": "17.312.858/0001-94",
@@ -37778,15 +37699,6 @@
       "2804:3b90::/32",
       "45.6.118.0/24",
       "45.6.116.0/23"
-    ]
-  },
-  {
-    "asn": 266158,
-    "organization": "INFORNET TELECOMUNICAÃÃES",
-    "document": "10.883.313/0001-99",
-    "ip_blocks": [
-      "45.6.120.0/22",
-      "2804:3b94::/32"
     ]
   },
   {
@@ -38322,15 +38234,6 @@
     "ip_blocks": [
       "192.140.28.0/22",
       "2804:3c98::/32"
-    ]
-  },
-  {
-    "asn": 266224,
-    "organization": "INTERNET ULTRA LTDA",
-    "document": "26.016.500/0001-05",
-    "ip_blocks": [
-      "200.9.16.0/22",
-      "2804:3c9c::/32"
     ]
   },
   {
@@ -41050,15 +40953,6 @@
     "ip_blocks": [
       "45.7.80.0/22",
       "2804:3e20::/32"
-    ]
-  },
-  {
-    "asn": 266577,
-    "organization": "CRAVNET INFORMATICA LTDA",
-    "document": "12.161.225/0001-09",
-    "ip_blocks": [
-      "160.238.236.0/22",
-      "2804:3e28::/32"
     ]
   },
   {
@@ -47397,15 +47291,6 @@
     "ip_blocks": [
       "45.71.220.0/22",
       "2804:44a0::/32"
-    ]
-  },
-  {
-    "asn": 267645,
-    "organization": "VISION ON LINE TELECOM",
-    "document": "04.926.511/0001-90",
-    "ip_blocks": [
-      "45.71.240.0/22",
-      "2804:44a8::/32"
     ]
   },
   {
@@ -55007,15 +54892,6 @@
     ]
   },
   {
-    "asn": 268858,
-    "organization": "NANDO NET FIBRA",
-    "document": "25.533.855/0001-09",
-    "ip_blocks": [
-      "45.174.160.0/22",
-      "2804:5b9c::/32"
-    ]
-  },
-  {
     "asn": 268860,
     "organization": "74JC INFORMATICA EIRELI - ME",
     "document": "24.872.310/0001-64",
@@ -56428,18 +56304,6 @@
     ]
   },
   {
-    "asn": 269036,
-    "organization": "ATEX NET TELECOMUNICACOES LTDA",
-    "document": "31.296.054/0001-70",
-    "ip_blocks": [
-      "45.178.172.0/22",
-      "2804:5e7c::/32",
-      "200.188.218.0/23",
-      "190.83.43.0/24",
-      "177.107.31.0/24"
-    ]
-  },
-  {
     "asn": 269037,
     "organization": "SEEG SERVICOS E TECNOLOGIAS LTDA",
     "document": "32.288.942/0001-03",
@@ -56537,15 +56401,6 @@
     "ip_blocks": [
       "45.178.224.0/23",
       "2804:5ea8::/32"
-    ]
-  },
-  {
-    "asn": 269049,
-    "organization": "ULTRAFIBRA COMERCIO E SERVIÃO LTDA",
-    "document": "11.425.289/0001-07",
-    "ip_blocks": [
-      "45.177.220.0/22",
-      "2804:5eac::/32"
     ]
   },
   {
@@ -64008,14 +63863,6 @@
     ]
   },
   {
-    "asn": 270480,
-    "organization": "GTI Telecom",
-    "document": "25.279.296/0001-52",
-    "ip_blocks": [
-      "2804:6c9c::/32"
-    ]
-  },
-  {
     "asn": 270481,
     "organization": "ERBS TECNOLOGIA",
     "document": "34.642.938/0001-27",
@@ -65548,15 +65395,6 @@
     ]
   },
   {
-    "asn": 270666,
-    "organization": "VITTIA S.A.",
-    "document": "45.365.558/0001-09",
-    "ip_blocks": [
-      "200.9.156.0/24",
-      "2801:80:3940::/48"
-    ]
-  },
-  {
     "asn": 270667,
     "organization": "Omega Tech Internet",
     "document": "15.286.862/0001-08",
@@ -65945,15 +65783,6 @@
     ]
   },
   {
-    "asn": 270715,
-    "organization": "TELECOM SERVIÃOS DE INTERNET LTDA",
-    "document": "36.662.176/0001-56",
-    "ip_blocks": [
-      "189.127.180.0/22",
-      "2804:7040::/32"
-    ]
-  },
-  {
     "asn": 270716,
     "organization": "GOVISTA TELECOMUNICAO IMPORTACAO LTDA",
     "document": "34.863.205/0001-12",
@@ -66225,15 +66054,6 @@
     ]
   },
   {
-    "asn": 270749,
-    "organization": "VTI PROVEDOR DE INTERNET E SUP DE INFORMÃTICA ME",
-    "document": "22.930.279/0001-45",
-    "ip_blocks": [
-      "177.12.208.0/22",
-      "2804:70cc::/32"
-    ]
-  },
-  {
     "asn": 270750,
     "organization": "Link Net Telecom",
     "document": "17.034.474/0001-57",
@@ -66414,15 +66234,6 @@
     ]
   },
   {
-    "asn": 270773,
-    "organization": "A R TELECOMUNICAÃÃES LTDA",
-    "document": "07.910.671/0001-39",
-    "ip_blocks": [
-      "138.204.164.0/22",
-      "2804:7130::/32"
-    ]
-  },
-  {
     "asn": 270775,
     "organization": "C M FERREIRA SISTEMAS ME",
     "document": "12.480.589/0001-51",
@@ -66493,14 +66304,6 @@
     "ip_blocks": [
       "177.131.136.0/22",
       "2804:7158::/32"
-    ]
-  },
-  {
-    "asn": 270784,
-    "organization": "LYVIO MIRANDA DOS REIS EIRELI",
-    "document": "35.298.062/0001-06",
-    "ip_blocks": [
-      "2804:715c::/32"
     ]
   },
   {
@@ -74343,14 +74146,6 @@
     ]
   },
   {
-    "asn": 271749,
-    "organization": "ARKATEL SERVICOS EM TELECOMUNICACOES EIRELI",
-    "document": "35.150.012/0001-87",
-    "ip_blocks": [
-      "2804:806c::/32"
-    ]
-  },
-  {
     "asn": 271750,
     "organization": "Sousa morais computaÃ§Ã£o e rede de dados eirelli",
     "document": "29.997.014/0001-03",
@@ -75185,14 +74980,6 @@
     "document": "36.254.437/0001-07",
     "ip_blocks": [
       "2804:8494::/32"
-    ]
-  },
-  {
-    "asn": 272270,
-    "organization": "JMS LIMA SERVIÃOS DE COMUNICAÃÃO EIRELI",
-    "document": "34.210.838/0001-21",
-    "ip_blocks": [
-      "2804:8498::/32"
     ]
   },
   {
@@ -77101,28 +76888,11 @@
     ]
   },
   {
-    "asn": 272681,
-    "organization": "FK NET.COM LTDA-ME",
-    "document": "11.913.676/0001-92",
-    "ip_blocks": [
-      "2804:8700::/32",
-      "179.63.180.0/22"
-    ]
-  },
-  {
     "asn": 272685,
     "organization": "R A PROVEDOR DE INTERNET E COMERCIO LTDA",
     "document": "15.407.584/0001-91",
     "ip_blocks": [
       "2804:8710::/32"
-    ]
-  },
-  {
-    "asn": 272687,
-    "organization": "G3 INFINITY TELECOM LTDA",
-    "document": "33.014.467/0001-40",
-    "ip_blocks": [
-      "2804:8718::/32"
     ]
   },
   {
@@ -80858,14 +80628,6 @@
     ]
   },
   {
-    "asn": 273711,
-    "organization": "HD de Sousa provedores",
-    "document": "31.146.761/0001-80",
-    "ip_blocks": [
-      "2804:8b18::/32"
-    ]
-  },
-  {
     "asn": 273712,
     "organization": "A. G. DA SILVA BATISTA LTDA",
     "document": "37.736.853/0001-04",
@@ -80913,14 +80675,6 @@
     "ip_blocks": [
       "24.152.20.0/22",
       "2804:8b30::/32"
-    ]
-  },
-  {
-    "asn": 273718,
-    "organization": "MRM Informatica e TelecomunicaÃ§Ãµes LTDA",
-    "document": "35.480.596/0001-59",
-    "ip_blocks": [
-      "2804:8b34::/32"
     ]
   },
   {
@@ -81074,14 +80828,6 @@
     "document": "14.584.017/0001-48",
     "ip_blocks": [
       "2804:8b90::/32"
-    ]
-  },
-  {
-    "asn": 273742,
-    "organization": "Ellite Internet LTDA",
-    "document": "44.505.043/0001-02",
-    "ip_blocks": [
-      "2804:8b94::/32"
     ]
   },
   {
@@ -81266,14 +81012,6 @@
     "document": "15.075.382/0001-90",
     "ip_blocks": [
       "2804:8be4::/32"
-    ]
-  },
-  {
-    "asn": 273767,
-    "organization": "BRAZUCA SOLUTIONS AND FIT SALES LTDA",
-    "document": "46.841.726/0001-58",
-    "ip_blocks": [
-      "2804:8be8::/32"
     ]
   },
   {
@@ -81872,6 +81610,14 @@
     "document": "56.222.350/0001-57",
     "ip_blocks": [
       "2804:96b8::/32"
+    ]
+  },
+  {
+    "asn": 274356,
+    "organization": "fibranetmaua tecnologia ltda-me",
+    "document": "43.488.088/0001-45",
+    "ip_blocks": [
+      "2804:96bc::/32"
     ]
   },
   {
