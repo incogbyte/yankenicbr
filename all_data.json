@@ -24934,8 +24934,7 @@
     "organization": "Padrao System Telecom",
     "document": "12.991.126/0001-54",
     "ip_blocks": [
-      "2804:26a0::/32",
-      "138.185.152.0/23"
+      "2804:26a0::/32"
     ]
   },
   {
@@ -29608,7 +29607,8 @@
     "document": "18.422.603/0001-47",
     "ip_blocks": [
       "131.255.80.0/22",
-      "2804:2020::/32"
+      "2804:2020::/32",
+      "138.185.152.0/23"
     ]
   },
   {
@@ -32084,7 +32084,7 @@
   },
   {
     "asn": 265040,
-    "organization": "ALAN CHARLES ALVES LEITE ME",
+    "organization": "ALAN CHARLES ALVES LEITE LTDA",
     "document": "19.450.740/0001-58",
     "ip_blocks": [
       "170.150.212.0/22",
@@ -40458,8 +40458,8 @@
   },
   {
     "asn": 266510,
-    "organization": "Open Computadores LTDA ME",
-    "document": "19.156.301/0001-37",
+    "organization": "TORRES INTERNET LTDA",
+    "document": "52.550.608/0001-93",
     "ip_blocks": [
       "170.244.224.0/22",
       "2804:38ec::/32"
@@ -46486,8 +46486,8 @@
   },
   {
     "asn": 267541,
-    "organization": "BRASILNET INTERNET BANDA LARGA LTDA-ME",
-    "document": "07.246.932/0001-68",
+    "organization": "10G FIBRA LTDA",
+    "document": "60.871.311/0001-58",
     "ip_blocks": [
       "201.182.220.0/22",
       "2804:42fc::/32"
@@ -50576,7 +50576,7 @@
   },
   {
     "asn": 268300,
-    "organization": "Ativar Telecom",
+    "organization": "WiFi +",
     "document": "23.341.524/0001-41",
     "ip_blocks": [
       "45.237.56.0/22",
@@ -78025,7 +78025,7 @@
   },
   {
     "asn": 273364,
-    "organization": "Cleiton Correia de Souza - ME",
+    "organization": "i9 Telecom MS",
     "document": "11.849.397/0001-07",
     "ip_blocks": [
       "2804:8d8c::/32"
@@ -81618,6 +81618,14 @@
     "document": "43.488.088/0001-45",
     "ip_blocks": [
       "2804:96bc::/32"
+    ]
+  },
+  {
+    "asn": 274357,
+    "organization": "A J Oliveira Netvelox LTDA",
+    "document": "36.685.460/0001-48",
+    "ip_blocks": [
+      "2804:96c0::/32"
     ]
   },
   {
