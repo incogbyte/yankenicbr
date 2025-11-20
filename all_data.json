@@ -11332,7 +11332,7 @@
     "organization": "zago zago telecomunicacoes ltda",
     "document": "09.277.847/0001-92",
     "ip_blocks": [
-      "186.227.80.0/20"
+      "186.227.80.0/21"
     ]
   },
   {
@@ -14217,7 +14217,7 @@
   },
   {
     "asn": 61877,
-    "organization": "SELECT TELECOM E REDES LTDA",
+    "organization": "MGX Telecom",
     "document": "46.625.613/0001-15",
     "ip_blocks": [
       "200.24.88.0/22",
@@ -23609,7 +23609,8 @@
     "ip_blocks": [
       "191.253.20.0/22",
       "2804:1348::/32",
-      "168.227.136.0/22"
+      "168.227.136.0/22",
+      "186.227.92.0/22"
     ]
   },
   {
@@ -32002,7 +32003,7 @@
   },
   {
     "asn": 265028,
-    "organization": "Link Vida Telecom",
+    "organization": "Link Vida Telecomunicacoes Fibra Ltda.",
     "document": "14.557.227/0001-47",
     "ip_blocks": [
       "170.84.248.0/22",
@@ -40956,6 +40957,15 @@
     ]
   },
   {
+    "asn": 266577,
+    "organization": "CRAVNET INFORMATICA LTDA",
+    "document": "12.161.225/0001-09",
+    "ip_blocks": [
+      "160.238.236.0/22",
+      "2804:3e28::/32"
+    ]
+  },
+  {
     "asn": 266578,
     "organization": "Sevennet Telecom",
     "document": "15.156.317/0001-99",
@@ -42207,7 +42217,9 @@
       "181.191.192.0/22",
       "45.178.120.0/22",
       "143.202.232.0/22",
-      "187.49.48.0/20"
+      "187.49.48.0/20",
+      "191.240.208.0/21",
+      "168.90.152.0/22"
     ]
   },
   {
@@ -59659,7 +59671,7 @@
   },
   {
     "asn": 269452,
-    "organization": "JEFERSON MADALENA EPP",
+    "organization": "Housenetvale Telecom LTDA",
     "document": "10.879.763/0001-08",
     "ip_blocks": [
       "45.184.252.0/22",
@@ -65783,6 +65795,15 @@
     ]
   },
   {
+    "asn": 270715,
+    "organization": "TELECOM SERVIÃOS DE INTERNET LTDA",
+    "document": "36.662.176/0001-56",
+    "ip_blocks": [
+      "189.127.180.0/22",
+      "2804:7040::/32"
+    ]
+  },
+  {
     "asn": 270716,
     "organization": "GOVISTA TELECOMUNICAO IMPORTACAO LTDA",
     "document": "34.863.205/0001-12",
@@ -69614,16 +69635,6 @@
     ]
   },
   {
-    "asn": 271183,
-    "organization": "DIGITAL TERRA ROXA INTERNET EIRELI",
-    "document": "27.617.148/0001-26",
-    "ip_blocks": [
-      "2804:7784::/32",
-      "191.240.208.0/21",
-      "168.90.152.0/22"
-    ]
-  },
-  {
     "asn": 271185,
     "organization": "BRTELE TECNOLOGIA LTDA",
     "document": "23.181.772/0001-72",
@@ -71978,7 +71989,7 @@
   },
   {
     "asn": 271475,
-    "organization": "Miralt Connect",
+    "organization": "Fox Connecta",
     "document": "34.924.927/0001-30",
     "ip_blocks": [
       "2804:7c18::/32",
@@ -73809,7 +73820,7 @@
   },
   {
     "asn": 271699,
-    "organization": "CALLFRAN NET",
+    "organization": "CALLFRAN TELECOM LTDA",
     "document": "12.565.609/0001-97",
     "ip_blocks": [
       "2804:7fa0::/32",
@@ -81489,7 +81500,8 @@
     "organization": "Globo Net Telecomunicacoes LTDA",
     "document": "43.927.627/0001-03",
     "ip_blocks": [
-      "2804:9684::/32"
+      "2804:9684::/32",
+      "186.227.88.0/22"
     ]
   },
   {
@@ -81626,6 +81638,38 @@
     "document": "36.685.460/0001-48",
     "ip_blocks": [
       "2804:96c0::/32"
+    ]
+  },
+  {
+    "asn": 274358,
+    "organization": "PSZ COMUNICACOES LTDA",
+    "document": "29.046.681/0001-00",
+    "ip_blocks": [
+      "2804:96c4::/32"
+    ]
+  },
+  {
+    "asn": 274359,
+    "organization": "Renan Quevedo Peres",
+    "document": "04.597.831/0001-43",
+    "ip_blocks": [
+      "2804:96c8::/32"
+    ]
+  },
+  {
+    "asn": 274360,
+    "organization": "RAPIDEX TELECOM LTDA",
+    "document": "22.623.021/0001-04",
+    "ip_blocks": [
+      "2804:96cc::/32"
+    ]
+  },
+  {
+    "asn": 274361,
+    "organization": "LAN YES TELECOM LTDA",
+    "document": "28.885.932/0001-88",
+    "ip_blocks": [
+      "2804:96d0::/32"
     ]
   },
   {
