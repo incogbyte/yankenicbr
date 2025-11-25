@@ -2236,7 +2236,7 @@
   },
   {
     "asn": 22706,
-    "organization": "MAZA TELECOMUNICACOES LTDA",
+    "organization": "MAZA Global Carrier",
     "document": "08.386.374/0001-07",
     "ip_blocks": [
       "200.152.80.0/20"
@@ -3056,6 +3056,15 @@
     "ip_blocks": [
       "187.49.96.0/20",
       "2804:5ec::/32"
+    ]
+  },
+  {
+    "asn": 28144,
+    "organization": "G3 TELECOM",
+    "document": "07.999.354/0001-30",
+    "ip_blocks": [
+      "187.49.112.0/20",
+      "2804:10c::/32"
     ]
   },
   {
@@ -13093,7 +13102,8 @@
     "document": "12.542.366/0001-71",
     "ip_blocks": [
       "131.0.204.0/22",
-      "2804:1b74::/32"
+      "2804:1b74::/32",
+      "45.168.128.0/22"
     ]
   },
   {
@@ -23538,7 +23548,7 @@
   },
   {
     "asn": 263518,
-    "organization": "GRUPO ALMEIDA REIS LTDA.-ME",
+    "organization": "NOSSA NET",
     "document": "10.619.520/0001-30",
     "ip_blocks": [
       "191.243.212.0/22",
@@ -49012,15 +49022,6 @@
     ]
   },
   {
-    "asn": 268109,
-    "organization": "PRO SERVIÃOS DE INTERNET LTDA",
-    "document": "21.709.405/0001-73",
-    "ip_blocks": [
-      "45.168.128.0/22",
-      "2804:5824::/32"
-    ]
-  },
-  {
     "asn": 268110,
     "organization": "Brasnett Fibra Telecom LTDA",
     "document": "17.174.507/0001-64",
@@ -74157,6 +74158,14 @@
     ]
   },
   {
+    "asn": 271749,
+    "organization": "ARKATEL SERVICOS EM TELECOMUNICACOES EIRELI",
+    "document": "35.150.012/0001-87",
+    "ip_blocks": [
+      "2804:806c::/32"
+    ]
+  },
+  {
     "asn": 271750,
     "organization": "Sousa morais computaÃ§Ã£o e rede de dados eirelli",
     "document": "29.997.014/0001-03",
@@ -78728,7 +78737,8 @@
     "document": "51.042.993/0001-03",
     "ip_blocks": [
       "2804:8edc::/32",
-      "83.137.198.0/23"
+      "83.137.198.0/23",
+      "185.60.172.0/22"
     ]
   },
   {
@@ -78777,6 +78787,14 @@
     "document": "38.146.487/0001-98",
     "ip_blocks": [
       "2804:8ef4::/32"
+    ]
+  },
+  {
+    "asn": 273459,
+    "organization": "COMFORT NET SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "53.567.356/0001-78",
+    "ip_blocks": [
+      "2804:8ef8::/32"
     ]
   },
   {
@@ -81673,6 +81691,38 @@
     ]
   },
   {
+    "asn": 274362,
+    "organization": "W C OLIVEIRA TELECOM LTDA",
+    "document": "46.014.732/0001-31",
+    "ip_blocks": [
+      "2804:96d4::/32"
+    ]
+  },
+  {
+    "asn": 274363,
+    "organization": "BHT TELECOM LTDA",
+    "document": "21.735.163/0001-92",
+    "ip_blocks": [
+      "2804:96d8::/32"
+    ]
+  },
+  {
+    "asn": 274364,
+    "organization": "C V DE C CUNHA PROVEDOR DE INTERNET",
+    "document": "32.104.423/0001-48",
+    "ip_blocks": [
+      "2804:96dc::/32"
+    ]
+  },
+  {
+    "asn": 274365,
+    "organization": "IT TECNOLOGIA EM TI LTDA",
+    "document": "39.579.027/0001-16",
+    "ip_blocks": [
+      "2804:96e0::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
@@ -83063,7 +83113,7 @@
   },
   {
     "asn": 274633,
-    "organization": "Francisco Wilson Garcia Junior EIRELI - ME",
+    "organization": "Francisco Wilson Garcia Junior EIRELI - LTDA",
     "document": "28.347.732/0001-71",
     "ip_blocks": [
       "2804:9150::/32"
