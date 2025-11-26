@@ -7911,7 +7911,7 @@
   },
   {
     "asn": 52745,
-    "organization": "TSS SOFTWARE LTDA ME",
+    "organization": "TSS SOFTWARE LTDA",
     "document": "10.859.987/0001-58",
     "ip_blocks": [
       "177.85.120.0/21",
@@ -9971,7 +9971,8 @@
       "2804:548::/32",
       "45.188.120.0/22",
       "170.238.164.0/22",
-      "168.90.164.0/22"
+      "168.90.164.0/22",
+      "189.50.60.0/22"
     ]
   },
   {
@@ -11491,8 +11492,8 @@
   },
   {
     "asn": 53209,
-    "organization": "Mantiqueira Tecnologia Ltda.",
-    "document": "05.354.631/0001-22",
+    "organization": "RAIMAX INTERNET LTDA",
+    "document": "08.804.735/0001-80",
     "ip_blocks": [
       "186.233.176.0/21",
       "177.11.136.0/21",
@@ -18518,7 +18519,7 @@
   {
     "asn": 262751,
     "organization": "TERRA FIBER TELECOM LTDA-ME",
-    "document": "09.252.625/0001-15",
+    "document": "57.167.076/0001-23",
     "ip_blocks": [
       "187.0.16.0/20",
       "189.89.48.0/20",
@@ -33111,7 +33112,7 @@
   },
   {
     "asn": 265174,
-    "organization": "MENTRIX TELECOM",
+    "organization": "MENTRIX TELECOM LTDA",
     "document": "10.956.319/0001-49",
     "ip_blocks": [
       "167.249.204.0/22",
@@ -65773,8 +65774,8 @@
     "organization": "TOTAL FIBRA INTERNET EIRELI I",
     "document": "34.683.709/0001-50",
     "ip_blocks": [
-      "189.127.172.0/22",
-      "2804:7034::/32"
+      "2804:7034::/32",
+      "189.127.172.0/23"
     ]
   },
   {
@@ -67805,15 +67806,6 @@
     "ip_blocks": [
       "187.84.120.0/22",
       "2804:7428::/32"
-    ]
-  },
-  {
-    "asn": 270963,
-    "organization": "CANDIBANET LTDA",
-    "document": "17.202.845/0001-62",
-    "ip_blocks": [
-      "189.50.60.0/22",
-      "2804:742c::/32"
     ]
   },
   {
@@ -81723,6 +81715,14 @@
     ]
   },
   {
+    "asn": 274366,
+    "organization": "Royal Company Infinity LTDA",
+    "document": "58.928.617/0001-51",
+    "ip_blocks": [
+      "2804:96e4::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
@@ -82262,7 +82262,8 @@
     "document": "28.910.820/0001-30",
     "ip_blocks": [
       "2804:9584::/32",
-      "45.173.252.0/23"
+      "45.173.252.0/23",
+      "189.127.174.0/23"
     ]
   },
   {
