@@ -34317,7 +34317,7 @@
   },
   {
     "asn": 265323,
-    "organization": "F. S. da Silva JÃºnior - ME",
+    "organization": "SPEEDMAX PROVEDOR LTDA",
     "document": "14.093.746/0001-00",
     "ip_blocks": [
       "168.121.204.0/22",
@@ -59835,7 +59835,7 @@
   },
   {
     "asn": 269472,
-    "organization": "X internet",
+    "organization": "X Internet",
     "document": "32.751.176/0001-71",
     "ip_blocks": [
       "45.187.152.0/22",
@@ -81720,6 +81720,14 @@
     "document": "58.928.617/0001-51",
     "ip_blocks": [
       "2804:96e4::/32"
+    ]
+  },
+  {
+    "asn": 274368,
+    "organization": "Swiss Fiber LTDA",
+    "document": "51.669.701/0001-59",
+    "ip_blocks": [
+      "2804:96e8::/32"
     ]
   },
   {
