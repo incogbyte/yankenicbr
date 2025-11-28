@@ -1434,7 +1434,7 @@
   },
   {
     "asn": 14840,
-    "organization": "BR.Digital Provider",
+    "organization": "BR.Digital Telecom",
     "document": "73.972.002/0001-16",
     "ip_blocks": [
       "200.215.208.0/20",
@@ -2677,7 +2677,7 @@
   },
   {
     "asn": 26622,
-    "organization": "BR.Digital Provider",
+    "organization": "BR.Digital Telecom",
     "document": "73.972.002/0001-16",
     "ip_blocks": []
   },
@@ -4692,7 +4692,6 @@
     "organization": "LOCAL DATACENTER SOLUCOES EM COMUNICACAO LTDA",
     "document": "10.976.460/0001-03",
     "ip_blocks": [
-      "189.50.192.0/20",
       "186.226.224.0/20",
       "2804:4bbc::/32"
     ]
@@ -8954,6 +8953,14 @@
       "186.232.200.0/21",
       "2804:93c::/32",
       "170.239.0.0/22"
+    ]
+  },
+  {
+    "asn": 52879,
+    "organization": "ABM INFORMATICA E TELECOM",
+    "document": "02.307.481/0001-08",
+    "ip_blocks": [
+      "186.232.232.0/21"
     ]
   },
   {
@@ -14321,7 +14328,7 @@
   },
   {
     "asn": 61889,
-    "organization": "BR.Digital Provider",
+    "organization": "BR.Digital Telecom",
     "document": "73.972.002/0001-16",
     "ip_blocks": [
       "177.152.184.0/22",
@@ -17726,6 +17733,14 @@
     "ip_blocks": [
       "177.86.80.0/21",
       "2804:4968::/32"
+    ]
+  },
+  {
+    "asn": 262626,
+    "organization": "CICLONET SERVICOS DE INTERNET E MULTIMIDIA EIRELI",
+    "document": "13.880.576/0001-32",
+    "ip_blocks": [
+      "2804:80c8::/32"
     ]
   },
   {
@@ -37659,6 +37674,15 @@
     ]
   },
   {
+    "asn": 266151,
+    "organization": "Mania NET",
+    "document": "19.011.008/0001-81",
+    "ip_blocks": [
+      "160.238.104.0/22",
+      "2804:3b78::/32"
+    ]
+  },
+  {
     "asn": 266152,
     "organization": "PJM NET",
     "document": "17.312.858/0001-94",
@@ -49675,11 +49699,12 @@
   },
   {
     "asn": 268188,
-    "organization": "ROBSON LIMA DA SILVA PROVEDOR DE INTERNET LTDA",
+    "organization": "ATIVA TELECOM LTDA",
     "document": "26.500.067/0001-89",
     "ip_blocks": [
       "45.171.68.0/22",
-      "2804:5968::/32"
+      "2804:5968::/32",
+      "189.50.192.0/20"
     ]
   },
   {
@@ -54906,6 +54931,15 @@
     ]
   },
   {
+    "asn": 268858,
+    "organization": "NANDO NET FIBRA",
+    "document": "25.533.855/0001-09",
+    "ip_blocks": [
+      "45.174.160.0/22",
+      "2804:5b9c::/32"
+    ]
+  },
+  {
     "asn": 268860,
     "organization": "74JC INFORMATICA EIRELI - ME",
     "document": "24.872.310/0001-64",
@@ -56315,6 +56349,18 @@
     "ip_blocks": [
       "45.176.112.0/22",
       "2804:5e78::/32"
+    ]
+  },
+  {
+    "asn": 269036,
+    "organization": "ATEX NET TELECOMUNICACOES LTDA",
+    "document": "31.296.054/0001-70",
+    "ip_blocks": [
+      "45.178.172.0/22",
+      "2804:5e7c::/32",
+      "200.188.218.0/23",
+      "190.83.43.0/24",
+      "177.107.31.0/24"
     ]
   },
   {
@@ -74995,6 +75041,14 @@
     ]
   },
   {
+    "asn": 272270,
+    "organization": "JMS LIMA SERVIÃOS DE COMUNICAÃÃO EIRELI",
+    "document": "34.210.838/0001-21",
+    "ip_blocks": [
+      "2804:8498::/32"
+    ]
+  },
+  {
     "asn": 272271,
     "organization": "SALVADORTECH TELECOMUNICACOES",
     "document": "29.098.317/0001-94",
@@ -81728,6 +81782,14 @@
     "document": "51.669.701/0001-59",
     "ip_blocks": [
       "2804:96e8::/32"
+    ]
+  },
+  {
+    "asn": 274369,
+    "organization": "L3 NETWORKS LTDA",
+    "document": "53.917.848/0001-46",
+    "ip_blocks": [
+      "2804:96ec::/32"
     ]
   },
   {
