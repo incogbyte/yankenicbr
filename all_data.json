@@ -9358,8 +9358,8 @@
   },
   {
     "asn": 52928,
-    "organization": "JANAJÃ SERVIÃOS LTDA",
-    "document": "05.552.016/0001-20",
+    "organization": "NORTETEL TELECOMUNICACOES LTDA",
+    "document": "20.099.245/0001-25",
     "ip_blocks": [
       "177.185.64.0/20",
       "2804:aec::/32",
@@ -25829,8 +25829,8 @@
   },
   {
     "asn": 263958,
-    "organization": "GPS NET SERVICOS EM INTERNET",
-    "document": "18.631.816/0001-89",
+    "organization": "SMARTNET SERVICOS DE COMUNICACAO LTDA",
+    "document": "46.918.921/0001-39",
     "ip_blocks": [
       "2804:285c::/32",
       "168.205.112.0/22"
@@ -27461,6 +27461,15 @@
     "ip_blocks": [
       "138.94.212.0/22",
       "2804:239c::/32"
+    ]
+  },
+  {
+    "asn": 264177,
+    "organization": "NETTCON PROVEDOR DE INTERNET EIRELI EPP",
+    "document": "18.396.123/0001-59",
+    "ip_blocks": [
+      "138.94.236.0/22",
+      "2804:23ac::/32"
     ]
   },
   {
@@ -66123,6 +66132,15 @@
     ]
   },
   {
+    "asn": 270749,
+    "organization": "VTI PROVEDOR DE INTERNET E SUP DE INFORMÃTICA ME",
+    "document": "22.930.279/0001-45",
+    "ip_blocks": [
+      "177.12.208.0/22",
+      "2804:70cc::/32"
+    ]
+  },
+  {
     "asn": 270750,
     "organization": "Link Net Telecom",
     "document": "17.034.474/0001-57",
@@ -76951,6 +76969,15 @@
     "ip_blocks": [
       "45.231.176.0/22",
       "2801:80:3f20::/44"
+    ]
+  },
+  {
+    "asn": 272681,
+    "organization": "FK NET.COM LTDA-ME",
+    "document": "11.913.676/0001-92",
+    "ip_blocks": [
+      "2804:8700::/32",
+      "179.63.180.0/22"
     ]
   },
   {
