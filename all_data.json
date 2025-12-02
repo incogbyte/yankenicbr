@@ -9979,7 +9979,8 @@
       "45.188.120.0/22",
       "170.238.164.0/22",
       "168.90.164.0/22",
-      "189.50.60.0/22"
+      "189.50.60.0/22",
+      "45.161.16.0/22"
     ]
   },
   {
@@ -19859,6 +19860,15 @@
     ]
   },
   {
+    "asn": 262947,
+    "organization": "MEGALYNK SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
+    "document": "10.785.904/0001-23",
+    "ip_blocks": [
+      "2804:e40::/32",
+      "177.154.56.0/22"
+    ]
+  },
+  {
     "asn": 262948,
     "organization": "LD TelecomunicaÃ§Ãµes LTDA",
     "document": "20.486.259/0001-00",
@@ -27760,8 +27770,8 @@
   },
   {
     "asn": 264215,
-    "organization": "Wlenet Telecom",
-    "document": "07.605.932/0001-07",
+    "organization": "W FIBRA TELECOM LTDA",
+    "document": "51.039.474/0001-88",
     "ip_blocks": [
       "138.99.132.0/22",
       "2804:2454::/32"
@@ -51748,7 +51758,6 @@
     "organization": "Fan Link Internet Ltda",
     "document": "07.814.358/0001-05",
     "ip_blocks": [
-      "45.161.16.0/22",
       "2804:5158::/32"
     ]
   },
@@ -55712,8 +55721,8 @@
   },
   {
     "asn": 268955,
-    "organization": "FLY NET SERVICOS EM TECNOLOGIA DA INFORMACAO LTDA",
-    "document": "05.341.710/0001-07",
+    "organization": "ALMI SERVICOS ACESSO AS REDES COMUNICACAO LTDA",
+    "document": "32.012.881/0001-57",
     "ip_blocks": [
       "45.176.224.0/22",
       "2804:5d2c::/32"
@@ -81817,6 +81826,22 @@
     "document": "53.917.848/0001-46",
     "ip_blocks": [
       "2804:96ec::/32"
+    ]
+  },
+  {
+    "asn": 274370,
+    "organization": "IPB NET LTDA",
+    "document": "39.303.199/0001-62",
+    "ip_blocks": [
+      "2804:96f0::/32"
+    ]
+  },
+  {
+    "asn": 274371,
+    "organization": "VALERIA SILVA DE SOUSA",
+    "document": "11.572.431/0001-49",
+    "ip_blocks": [
+      "2804:96f4::/32"
     ]
   },
   {
