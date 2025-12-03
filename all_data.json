@@ -27506,7 +27506,8 @@
     "document": "18.884.215/0001-88",
     "ip_blocks": [
       "138.97.100.0/22",
-      "2804:23c4::/32"
+      "2804:23c4::/32",
+      "168.121.76.0/22"
     ]
   },
   {
@@ -33721,8 +33722,8 @@
     "organization": "WOW SERVICOS DE TELECOMUNICACOES EIRELI",
     "document": "11.367.701/0001-80",
     "ip_blocks": [
-      "168.0.112.0/22",
-      "2804:2ce4::/32"
+      "2804:2ce4::/32",
+      "168.0.112.0/23"
     ]
   },
   {
@@ -34138,15 +34139,6 @@
       "2804:2dbc::/32",
       "200.125.176.0/22",
       "200.106.132.0/22"
-    ]
-  },
-  {
-    "asn": 265301,
-    "organization": "UPNET TELECOMUNICACOES EIRELI",
-    "document": "18.827.631/0001-44",
-    "ip_blocks": [
-      "168.121.76.0/22",
-      "2804:2dc0::/32"
     ]
   },
   {
@@ -46695,7 +46687,8 @@
     "document": "11.273.041/0001-78",
     "ip_blocks": [
       "45.70.108.0/22",
-      "2804:4344::/32"
+      "2804:4344::/32",
+      "168.0.114.0/23"
     ]
   },
   {
@@ -81842,6 +81835,22 @@
     "document": "11.572.431/0001-49",
     "ip_blocks": [
       "2804:96f4::/32"
+    ]
+  },
+  {
+    "asn": 274372,
+    "organization": "CREDISIS - CENTRAL DE COOPERATIVAS DE CREDITO LTDA",
+    "document": "04.632.856/0001-30",
+    "ip_blocks": [
+      "2804:1f3c:9000::/38"
+    ]
+  },
+  {
+    "asn": 274373,
+    "organization": "AGATA TALITA DE MESQUITA FERREIRA LTDA - LINUSHOS",
+    "document": "46.379.366/0001-14",
+    "ip_blocks": [
+      "2804:96f8::/32"
     ]
   },
   {
