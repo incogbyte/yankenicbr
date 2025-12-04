@@ -33638,7 +33638,6 @@
     "document": "17.106.775/0001-49",
     "ip_blocks": [
       "2804:2cb4::/32",
-      "167.250.247.0/24",
       "167.250.244.0/23"
     ]
   },
@@ -52870,7 +52869,7 @@
   },
   {
     "asn": 268590,
-    "organization": "ERALDO CARLOS DA SILVA LIMA SEABANT ME",
+    "organization": "SEABANT DIGITAL LTDA",
     "document": "13.850.188/0001-09",
     "ip_blocks": [
       "45.163.252.0/22",
@@ -56472,6 +56471,15 @@
     "ip_blocks": [
       "45.178.224.0/23",
       "2804:5ea8::/32"
+    ]
+  },
+  {
+    "asn": 269049,
+    "organization": "ULTRAFIBRA COMERCIO E SERVIÃO LTDA",
+    "document": "11.425.289/0001-07",
+    "ip_blocks": [
+      "45.177.220.0/22",
+      "2804:5eac::/32"
     ]
   },
   {
@@ -61809,7 +61817,7 @@
   },
   {
     "asn": 269705,
-    "organization": "jms-telecom ltda",
+    "organization": "Jms-Telecom Ltda",
     "document": "28.841.832/0001-50",
     "ip_blocks": [
       "189.201.248.0/22",
@@ -81561,7 +81569,8 @@
     "organization": "NOVA INTERNET PROVEDORES LTDA ME - ME",
     "document": "19.402.313/0001-02",
     "ip_blocks": [
-      "2804:9674::/32"
+      "2804:9674::/32",
+      "167.250.247.0/24"
     ]
   },
   {
@@ -81847,10 +81856,33 @@
   },
   {
     "asn": 274373,
-    "organization": "AGATA TALITA DE MESQUITA FERREIRA LTDA - LINUSHOS",
+    "organization": "LINUSHOST - LTDA",
     "document": "46.379.366/0001-14",
     "ip_blocks": [
       "2804:96f8::/32"
+    ]
+  },
+  {
+    "asn": 274374,
+    "organization": "Conectel Telecom",
+    "document": "35.296.233/0001-68",
+    "ip_blocks": []
+  },
+  {
+    "asn": 274375,
+    "organization": "TECH WI-FI INTERNET LTDA",
+    "document": "16.968.630/0001-94",
+    "ip_blocks": [
+      "2804:96fc::/32"
+    ]
+  },
+  {
+    "asn": 274376,
+    "organization": "MEGAPORT TELECOMUNICACOES BRASIL LTDA",
+    "document": "48.930.235/0001-09",
+    "ip_blocks": [
+      "2801:81:1e0::/48",
+      "45.68.112.0/24"
     ]
   },
   {
