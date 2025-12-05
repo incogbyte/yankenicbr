@@ -20061,7 +20061,7 @@
   },
   {
     "asn": 262975,
-    "organization": "VELOSTER INTERNET BANDA LARGA",
+    "organization": "LOSNET TELECOM LTDA",
     "document": "10.275.431/0001-14",
     "ip_blocks": [
       "186.227.184.0/22",
@@ -81883,6 +81883,30 @@
     "ip_blocks": [
       "2801:81:1e0::/48",
       "45.68.112.0/24"
+    ]
+  },
+  {
+    "asn": 274377,
+    "organization": "MAISVOIP SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "33.211.011/0001-70",
+    "ip_blocks": [
+      "2804:9700::/32"
+    ]
+  },
+  {
+    "asn": 274378,
+    "organization": "P C CHABOWSKI SERVIÃOS DE BANDA LARGA",
+    "document": "12.089.898/0001-03",
+    "ip_blocks": [
+      "2804:9704::/32"
+    ]
+  },
+  {
+    "asn": 274379,
+    "organization": "LOGICNET TELECOMUNICACOES LTDA",
+    "document": "21.472.651/0001-54",
+    "ip_blocks": [
+      "2804:9708::/32"
     ]
   },
   {
