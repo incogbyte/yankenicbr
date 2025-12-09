@@ -18783,7 +18783,8 @@
       "170.246.204.0/22",
       "138.122.0.0/22",
       "189.84.64.0/20",
-      "2804:17f4::/32"
+      "2804:17f4::/32",
+      "168.194.178.0/24"
     ]
   },
   {
@@ -34933,15 +34934,6 @@
     "ip_blocks": [
       "170.254.144.0/22",
       "2804:3378::/32"
-    ]
-  },
-  {
-    "asn": 265400,
-    "organization": "VALE VERDE TECNOLOGIA INTEGRADA",
-    "document": "16.620.216/0001-90",
-    "ip_blocks": [
-      "2804:3380::/32",
-      "168.194.178.0/24"
     ]
   },
   {
@@ -55052,7 +55044,7 @@
   },
   {
     "asn": 268873,
-    "organization": "Luiza Maria de Souza Sindelar ME",
+    "organization": "Sindelar ServiÃ§os de Internet Ltda",
     "document": "08.845.642/0001-01",
     "ip_blocks": [
       "45.174.236.0/22",
@@ -81911,6 +81903,12 @@
     "ip_blocks": [
       "2804:9708::/32"
     ]
+  },
+  {
+    "asn": 274380,
+    "organization": "Meso TelecomunicaÃ§Ãµes e Sistemas",
+    "document": "18.342.807/0001-78",
+    "ip_blocks": []
   },
   {
     "asn": 274461,
