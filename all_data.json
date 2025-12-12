@@ -81882,6 +81882,46 @@
     "ip_blocks": []
   },
   {
+    "asn": 274381,
+    "organization": "JOSE MACIEL TARGINO MUNIZ - ME",
+    "document": "24.468.017/0001-36",
+    "ip_blocks": [
+      "2804:970c::/32"
+    ]
+  },
+  {
+    "asn": 274382,
+    "organization": "A C FERREIRA",
+    "document": "33.292.847/0001-46",
+    "ip_blocks": [
+      "2804:9710::/32"
+    ]
+  },
+  {
+    "asn": 274383,
+    "organization": "LIDER TELECOM",
+    "document": "32.641.546/0001-18",
+    "ip_blocks": [
+      "2804:9714::/32"
+    ]
+  },
+  {
+    "asn": 274384,
+    "organization": "VELIZ INTERNET E SERVICOS LTDA",
+    "document": "10.890.067/0001-00",
+    "ip_blocks": [
+      "2804:9718::/32"
+    ]
+  },
+  {
+    "asn": 274385,
+    "organization": "RCELL TELECOM COMUNICACOES LTDA",
+    "document": "35.324.988/0001-29",
+    "ip_blocks": [
+      "2804:971c::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
