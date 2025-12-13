@@ -81922,6 +81922,46 @@
     ]
   },
   {
+    "asn": 274386,
+    "organization": "NOSSO WI-FI LTDA",
+    "document": "55.684.871/0001-63",
+    "ip_blocks": [
+      "2804:9720::/32"
+    ]
+  },
+  {
+    "asn": 274387,
+    "organization": "MASTERLINK TELECOM LTDA-ME",
+    "document": "21.192.305/0001-12",
+    "ip_blocks": [
+      "2804:9724::/32"
+    ]
+  },
+  {
+    "asn": 274388,
+    "organization": "PLAY CONECT TELECOM",
+    "document": "37.628.795/0001-97",
+    "ip_blocks": [
+      "2804:9728::/32"
+    ]
+  },
+  {
+    "asn": 274389,
+    "organization": "F-NET MASTER LTDA",
+    "document": "43.535.898/0001-05",
+    "ip_blocks": [
+      "2804:972c::/32"
+    ]
+  },
+  {
+    "asn": 274390,
+    "organization": "Digital Solution Comunicacao LTDA",
+    "document": "23.834.771/0001-80",
+    "ip_blocks": [
+      "2804:9730::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
