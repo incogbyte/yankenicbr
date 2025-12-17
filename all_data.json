@@ -38264,6 +38264,15 @@
     ]
   },
   {
+    "asn": 266224,
+    "organization": "ULTRA TELECOMUNICACOES LTDA",
+    "document": "26.016.500/0001-05",
+    "ip_blocks": [
+      "200.9.16.0/22",
+      "2804:3c9c::/32"
+    ]
+  },
+  {
     "asn": 266226,
     "organization": "MD BANDA LARGA LTDA",
     "document": "12.601.115/0001-10",
@@ -81976,6 +81985,14 @@
     "document": "30.946.708/0001-09",
     "ip_blocks": [
       "2804:9734::/32"
+    ]
+  },
+  {
+    "asn": 274392,
+    "organization": "ALM INFORMATICA COMERCIO LTDA - ME",
+    "document": "15.520.944/0001-67",
+    "ip_blocks": [
+      "2804:9738::/32"
     ]
   },
   {
