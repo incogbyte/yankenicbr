@@ -81996,6 +81996,14 @@
     ]
   },
   {
+    "asn": 274393,
+    "organization": "ROCHA NET PROVEDORES DE ACESSO A INTERNET LTDA",
+    "document": "29.654.297/0001-90",
+    "ip_blocks": [
+      "2804:973c::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
