@@ -2292,8 +2292,8 @@
     "ip_blocks": [
       "200.155.112.0/20",
       "189.50.176.0/20",
-      "201.33.84.0/22",
-      "201.33.88.0/21"
+      "201.33.88.0/21",
+      "201.33.86.0/23"
     ]
   },
   {
@@ -36052,7 +36052,8 @@
     "ip_blocks": [
       "164.163.0.0/22",
       "2804:4014::/32",
-      "45.4.80.0/22"
+      "45.4.80.0/22",
+      "170.150.144.0/22"
     ]
   },
   {
@@ -47336,8 +47337,8 @@
   },
   {
     "asn": 267645,
-    "organization": "VISION ON LINE TELECOM",
-    "document": "04.926.511/0001-90",
+    "organization": "Vision On Line Telecom LTDA",
+    "document": "30.108.571/0001-05",
     "ip_blocks": [
       "45.71.240.0/22",
       "2804:44a8::/32"
@@ -67990,15 +67991,6 @@
     ]
   },
   {
-    "asn": 270979,
-    "organization": "GIPTELECOM TELECOMUNICACAO E TECNOLOGIA DA INFORMA",
-    "document": "35.352.266/0001-88",
-    "ip_blocks": [
-      "170.150.144.0/22",
-      "2804:7468::/32"
-    ]
-  },
-  {
     "asn": 270980,
     "organization": "Natal Conect Ltda",
     "document": "32.710.079/0001-30",
@@ -73740,7 +73732,7 @@
   },
   {
     "asn": 271683,
-    "organization": "BRISNET TELECOMUNICACOES EIRELI",
+    "organization": "BRISNET TELECOMUNICACOES LTDA",
     "document": "33.736.532/0001-40",
     "ip_blocks": [
       "2804:7f5c::/32",
@@ -78412,7 +78404,7 @@
   },
   {
     "asn": 273401,
-    "organization": "UOLNET PROVEDORES DE INTERNET EIRELI",
+    "organization": "UOLNET PROVEDORES DE INTERNET",
     "document": "41.905.582/0001-32",
     "ip_blocks": [
       "2804:8e14::/32",
@@ -81595,7 +81587,8 @@
     "organization": "L S BALCONI SOLUCOES CORPORATIVAS LTDA",
     "document": "21.118.758/0001-07",
     "ip_blocks": [
-      "2804:9688::/32"
+      "2804:9688::/32",
+      "201.33.84.0/23"
     ]
   },
   {
@@ -82001,6 +81994,20 @@
     "document": "29.654.297/0001-90",
     "ip_blocks": [
       "2804:973c::/32"
+    ]
+  },
+  {
+    "asn": 274394,
+    "organization": "3CORP Technology",
+    "document": "04.238.297/0001-89",
+    "ip_blocks": []
+  },
+  {
+    "asn": 274395,
+    "organization": "Mv Net Telecom Cristais LTDA",
+    "document": "29.987.262/0001-73",
+    "ip_blocks": [
+      "2804:9740::/32"
     ]
   },
   {
