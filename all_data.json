@@ -9923,7 +9923,7 @@
   },
   {
     "asn": 52999,
-    "organization": "START TELECOM LTDA",
+    "organization": "START NETWORKS S/A",
     "document": "02.554.510/0001-36",
     "ip_blocks": [
       "177.66.32.0/21",
@@ -23554,8 +23554,8 @@
   },
   {
     "asn": 263518,
-    "organization": "NOSSA NET",
-    "document": "10.619.520/0001-30",
+    "organization": "NOSSA NET LTDA",
+    "document": "23.118.690/0001-83",
     "ip_blocks": [
       "191.243.212.0/22",
       "2804:1324::/32",
@@ -71191,7 +71191,7 @@
   },
   {
     "asn": 271366,
-    "organization": "SMART TECNOLOGIAS E SOLUÃÃES APLICADAS LTDA",
+    "organization": "ALTVIA TECNOLOGIA E SERVICOS DIGITAIS LTDA",
     "document": "33.082.549/0001-21",
     "ip_blocks": [
       "2804:7a5c::/32",
@@ -82011,6 +82011,14 @@
     ]
   },
   {
+    "asn": 274396,
+    "organization": "INVERTUS ASSESSORIA EM TELECOMUNICACOES",
+    "document": "31.126.363/0001-00",
+    "ip_blocks": [
+      "2804:9744::/32"
+    ]
+  },
+  {
     "asn": 274461,
     "organization": "Dazsoft Desenvolvimento de Softwares Ltda ME",
     "document": "06.209.516/0001-27",
@@ -85111,6 +85119,22 @@
     "document": "32.125.563/0001-00",
     "ip_blocks": [
       "2804:9478::/32"
+    ]
+  },
+  {
+    "asn": 275613,
+    "organization": "QUEIROZ FREITAS COMERCIO E SERVIÃOS LTDA",
+    "document": "17.756.907/0001-88",
+    "ip_blocks": [
+      "2804:9748::/32"
+    ]
+  },
+  {
+    "asn": 275614,
+    "organization": "ALTA - AmÃ©rica Latina TelecomunicaÃ§Ãµes AvanÃ§adas",
+    "document": "02.282.923/0001-09",
+    "ip_blocks": [
+      "2804:974c::/32"
     ]
   },
   {
