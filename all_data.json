@@ -43538,7 +43538,7 @@
   },
   {
     "asn": 267176,
-    "organization": "BRASIL NETWORK LTDA",
+    "organization": "WORLDNET TECNOLOGIA LTDA",
     "document": "28.194.283/0001-79",
     "ip_blocks": [
       "45.230.236.0/22",
@@ -66300,6 +66300,15 @@
     ]
   },
   {
+    "asn": 270773,
+    "organization": "A R TELECOMUNICAÃÃES LTDA",
+    "document": "07.910.671/0001-39",
+    "ip_blocks": [
+      "138.204.164.0/22",
+      "2804:7130::/32"
+    ]
+  },
+  {
     "asn": 270775,
     "organization": "C M FERREIRA SISTEMAS ME",
     "document": "12.480.589/0001-51",
@@ -85122,6 +85131,30 @@
     "document": "34.126.924/0001-50",
     "ip_blocks": [
       "2804:9750::/32"
+    ]
+  },
+  {
+    "asn": 275616,
+    "organization": "FB TELECOMUNICACOES LTDA",
+    "document": "30.572.475/0001-13",
+    "ip_blocks": [
+      "2804:9754::/32"
+    ]
+  },
+  {
+    "asn": 275617,
+    "organization": "Conecta RS SoluÃ§Ãµes em TI LTDA",
+    "document": "21.353.327/0001-17",
+    "ip_blocks": [
+      "2804:9758::/32"
+    ]
+  },
+  {
+    "asn": 275618,
+    "organization": "VIVIT TELECOMUNICAÃÃES LTDA",
+    "document": "32.459.733/0001-85",
+    "ip_blocks": [
+      "2804:975c::/32"
     ]
   },
   {
