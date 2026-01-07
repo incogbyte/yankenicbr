@@ -17706,7 +17706,8 @@
     "organization": "CICLONET SERVICOS DE INTERNET E MULTIMIDIA EIRELI",
     "document": "13.880.576/0001-32",
     "ip_blocks": [
-      "2804:80c8::/32"
+      "2804:80c8::/32",
+      "177.73.252.0/24"
     ]
   },
   {
@@ -18109,7 +18110,9 @@
     "document": "02.131.790/0001-70",
     "ip_blocks": [
       "187.87.152.0/22",
-      "187.87.144.0/21"
+      "187.87.144.0/22",
+      "187.87.148.0/23",
+      "187.87.150.0/24"
     ]
   },
   {
@@ -81831,7 +81834,8 @@
     "organization": "TECH WI-FI INTERNET LTDA",
     "document": "16.968.630/0001-94",
     "ip_blocks": [
-      "2804:96fc::/32"
+      "2804:96fc::/32",
+      "187.87.151.0/24"
     ]
   },
   {
@@ -85181,6 +85185,22 @@
     "document": "23.695.310/0001-73",
     "ip_blocks": [
       "2804:9768::/32"
+    ]
+  },
+  {
+    "asn": 275623,
+    "organization": "E P DE ARAUJO LTDA",
+    "document": "30.534.105/0001-91",
+    "ip_blocks": [
+      "2804:976c::/32"
+    ]
+  },
+  {
+    "asn": 275624,
+    "organization": "KRONOS NETWORK INFORMATICA E COMUNICACAO LTDA",
+    "document": "09.558.888/0001-57",
+    "ip_blocks": [
+      "2804:9770::/32"
     ]
   },
   {
