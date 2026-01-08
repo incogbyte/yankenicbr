@@ -46217,8 +46217,8 @@
   },
   {
     "asn": 267506,
-    "organization": "NETLUX Telecom",
-    "document": "14.749.612/0001-96",
+    "organization": "BDNET.COM TELECOMUNICACOES LTDA",
+    "document": "12.266.878/0001-52",
     "ip_blocks": [
       "201.182.72.0/22",
       "2804:4288::/32"
@@ -85201,6 +85201,14 @@
     "document": "09.558.888/0001-57",
     "ip_blocks": [
       "2804:9770::/32"
+    ]
+  },
+  {
+    "asn": 275625,
+    "organization": "A M GUERREIRO COMERCIO E SERVICOS DE C M SCM LTDA",
+    "document": "20.959.980/0001-61",
+    "ip_blocks": [
+      "2804:9774::/32"
     ]
   },
   {
