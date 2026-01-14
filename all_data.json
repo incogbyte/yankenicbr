@@ -18527,7 +18527,8 @@
     "organization": "FLIX TELECOM",
     "document": "34.300.254/0001-47",
     "ip_blocks": [
-      "186.219.160.0/20"
+      "186.219.160.0/20",
+      "2804:9778::/32"
     ]
   },
   {
@@ -20035,15 +20036,6 @@
     "ip_blocks": [
       "186.250.156.0/22",
       "2804:ed0::/32"
-    ]
-  },
-  {
-    "asn": 262975,
-    "organization": "LOSNET TELECOM LTDA",
-    "document": "10.275.431/0001-14",
-    "ip_blocks": [
-      "2804:ed4::/32",
-      "186.227.184.0/23"
     ]
   },
   {
@@ -28787,16 +28779,6 @@
     "ip_blocks": [
       "131.108.240.0/22",
       "2804:1d38::/32"
-    ]
-  },
-  {
-    "asn": 264356,
-    "organization": "ALMI SERVICOS ACESSO AS REDES COMUNICACAO LTDA",
-    "document": "32.012.881/0001-57",
-    "ip_blocks": [
-      "131.108.248.0/22",
-      "2804:1d3c::/32",
-      "143.208.0.0/22"
     ]
   },
   {
@@ -47300,7 +47282,7 @@
   },
   {
     "asn": 267641,
-    "organization": "DK Telecom",
+    "organization": "TN PROVEDOR",
     "document": "26.771.326/0001-06",
     "ip_blocks": [
       "45.224.40.0/22",
@@ -55682,7 +55664,9 @@
     "document": "32.012.881/0001-57",
     "ip_blocks": [
       "45.176.224.0/22",
-      "2804:5d2c::/32"
+      "2804:5d2c::/32",
+      "131.108.248.0/22",
+      "143.208.0.0/22"
     ]
   },
   {
@@ -56868,7 +56852,7 @@
   },
   {
     "asn": 269103,
-    "organization": "CENTRO DE NEGOCIOS CONTEMPORANEO LTDA",
+    "organization": "Camillo FG LTDA",
     "document": "11.861.565/0001-80",
     "ip_blocks": [
       "45.179.212.0/22",
@@ -74252,7 +74236,8 @@
     "organization": "VIA PROVEDOR - SERVICOS MULTIMIDIA - EIRELI",
     "document": "37.332.628/0001-02",
     "ip_blocks": [
-      "2804:8088::/32"
+      "2804:8088::/32",
+      "45.185.16.0/22"
     ]
   },
   {
@@ -84261,7 +84246,8 @@
     "document": "09.360.437/0001-00",
     "ip_blocks": [
       "2804:92e4::/32",
-      "192.141.161.0/24"
+      "192.141.161.0/24",
+      "186.227.184.0/23"
     ]
   },
   {
