@@ -27274,7 +27274,7 @@
   },
   {
     "asn": 264155,
-    "organization": "DIATEL TELECOMUNICACOES E COMERCIO LTDA - ME",
+    "organization": "WoW Hospe",
     "document": "54.579.081/0001-55",
     "ip_blocks": [
       "138.99.64.0/22",
@@ -75363,7 +75363,10 @@
     "organization": "Avs Net Comunicacoes e Servicos de Informatica",
     "document": "30.866.488/0001-03",
     "ip_blocks": [
-      "2804:8138::/32"
+      "2804:8138::/32",
+      "200.23.205.0/24",
+      "167.250.199.0/24",
+      "189.84.52.0/23"
     ]
   },
   {
@@ -85198,6 +85201,38 @@
     "document": "20.959.980/0001-61",
     "ip_blocks": [
       "2804:9774::/32"
+    ]
+  },
+  {
+    "asn": 275626,
+    "organization": "BOLHANET telecomunicaÃ§Ãµes",
+    "document": "55.728.535/0001-75",
+    "ip_blocks": [
+      "2804:977c::/32"
+    ]
+  },
+  {
+    "asn": 275627,
+    "organization": "Jemf Redes de Telecomunicacoes e Informatica LTDA",
+    "document": "40.339.893/0001-19",
+    "ip_blocks": [
+      "2804:9780::/32"
+    ]
+  },
+  {
+    "asn": 275628,
+    "organization": "MEGANET TELECOMUNICACOES LTDA",
+    "document": "29.443.962/0001-05",
+    "ip_blocks": [
+      "2804:9784::/32"
+    ]
+  },
+  {
+    "asn": 275629,
+    "organization": "STARNET TELECOM E INFORMÃTICA EIRELI",
+    "document": "33.511.732/0001-03",
+    "ip_blocks": [
+      "2804:9788::/32"
     ]
   },
   {
