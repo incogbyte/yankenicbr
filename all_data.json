@@ -6719,7 +6719,7 @@
   },
   {
     "asn": 52582,
-    "organization": "Duratex S/A",
+    "organization": "Dexco S.A.",
     "document": "97.837.181/0001-47",
     "ip_blocks": [
       "177.86.140.0/23"
@@ -13154,7 +13154,7 @@
   },
   {
     "asn": 61740,
-    "organization": "Telecab TelecomunicaÃ§Ãµes Ltda",
+    "organization": "Telecab Telecomunicacoes Ltda",
     "document": "70.317.292/0001-76",
     "ip_blocks": [
       "131.72.188.0/22",
@@ -15331,7 +15331,7 @@
   },
   {
     "asn": 262331,
-    "organization": "Duratex S/A",
+    "organization": "Dexco S.A.",
     "document": "97.837.181/0001-47",
     "ip_blocks": [
       "177.53.188.0/24"
@@ -30306,7 +30306,7 @@
   },
   {
     "asn": 264564,
-    "organization": "Telecab TelecomunicaÃ§Ãµes Ltda",
+    "organization": "Telecab Telecomunicacoes Ltda",
     "document": "70.317.292/0001-76",
     "ip_blocks": [
       "138.36.4.0/22",
@@ -44570,8 +44570,7 @@
     "document": "14.096.190/0001-05",
     "ip_blocks": [
       "45.233.20.0/22",
-      "2804:4b80::/32",
-      "177.190.213.0/24"
+      "2804:4b80::/32"
     ]
   },
   {
@@ -81545,7 +81544,8 @@
     "organization": "ZENVIA SMS LTDA",
     "document": "62.557.128/0001-08",
     "ip_blocks": [
-      "2804:9694::/32"
+      "2804:9694::/32",
+      "177.190.213.0/24"
     ]
   },
   {
