@@ -85220,6 +85220,22 @@
     ]
   },
   {
+    "asn": 275633,
+    "organization": "AAF INTERNET EIRELI",
+    "document": "34.381.242/0001-94",
+    "ip_blocks": [
+      "2804:9798::/32"
+    ]
+  },
+  {
+    "asn": 275634,
+    "organization": "SPEED MULTIMIDIA E PROVIMENTO",
+    "document": "17.049.110/0001-40",
+    "ip_blocks": [
+      "2804:979c::/32"
+    ]
+  },
+  {
     "asn": 395055,
     "organization": "DOCUSIGN Brasil SoluÃ§Ãµes em Tecnologia Ltda",
     "document": "05.516.218/0001-17",
