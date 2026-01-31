@@ -29371,8 +29371,8 @@
   },
   {
     "asn": 264444,
-    "organization": "LINKCE Telecom",
-    "document": "15.293.833/0001-65",
+    "organization": "LINK CEARA TELECOM LTDA",
+    "document": "46.871.189/0001-99",
     "ip_blocks": [
       "131.221.224.0/22",
       "2804:1eb0::/32",
@@ -85235,6 +85235,14 @@
     "document": "17.049.110/0001-40",
     "ip_blocks": [
       "2804:979c::/32"
+    ]
+  },
+  {
+    "asn": 275635,
+    "organization": "ASN COM E SERV EM TECNOLOGIA LTDA",
+    "document": "48.259.078/0001-51",
+    "ip_blocks": [
+      "2804:97a0::/32"
     ]
   },
   {
