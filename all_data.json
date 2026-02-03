@@ -29602,7 +29602,7 @@
   },
   {
     "asn": 264472,
-    "organization": "BCNET SERVICOS DE INFORMATICA LTDA - ME",
+    "organization": "Leonardo Vasconcelos Souza - Me - Bcnet Play",
     "document": "08.519.919/0001-06",
     "ip_blocks": [
       "132.255.88.0/22",
@@ -70316,8 +70316,8 @@
   },
   {
     "asn": 271270,
-    "organization": "HENRIQUE BIGATAO SIMPLICIO ME",
-    "document": "26.549.684/0001-79",
+    "organization": "JSN SOLUCOES EM TECNOLOGIA LTDA",
+    "document": "43.539.109/0001-04",
     "ip_blocks": [
       "200.106.200.0/22",
       "2804:78dc::/32"
@@ -83049,14 +83049,6 @@
     ]
   },
   {
-    "asn": 274596,
-    "organization": "Baron Sistemas de InformaÃ§Ã£o Ltda",
-    "document": "13.236.923/0001-99",
-    "ip_blocks": [
-      "2804:90b8::/32"
-    ]
-  },
-  {
     "asn": 274597,
     "organization": "Leal Net",
     "document": "42.329.916/0001-30",
@@ -85243,6 +85235,22 @@
     "document": "48.259.078/0001-51",
     "ip_blocks": [
       "2804:97a0::/32"
+    ]
+  },
+  {
+    "asn": 275636,
+    "organization": "Millennium Eletronica Ltda",
+    "document": "06.278.373/0001-05",
+    "ip_blocks": [
+      "2804:97a4::/32"
+    ]
+  },
+  {
+    "asn": 275637,
+    "organization": "Nova SoluÃ§Ã£o TelecomunicaÃ§Ãµes e informÃ¡tica ltda",
+    "document": "23.056.313/0001-67",
+    "ip_blocks": [
+      "2804:97a8::/32"
     ]
   },
   {
