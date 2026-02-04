@@ -3469,7 +3469,6 @@
       "177.12.142.0/23",
       "177.12.152.0/21",
       "189.89.237.0/24",
-      "189.89.235.0/24",
       "189.89.232.0/23",
       "189.89.224.0/21",
       "189.89.248.0/24",
@@ -6957,7 +6956,6 @@
     "ip_blocks": [
       "177.124.20.0/22",
       "2804:22fc::/32",
-      "170.79.249.0/24",
       "170.79.250.0/23"
     ]
   },
@@ -9538,7 +9536,7 @@
   },
   {
     "asn": 52951,
-    "organization": "Catanduva sistemas a cabo ltda.",
+    "organization": "SISTEMAS OPTICOS PAULISTA LTDA",
     "document": "65.784.266/0001-18",
     "ip_blocks": [
       "177.11.176.0/21",
@@ -75686,7 +75684,8 @@
     "organization": "SD SERVIÃOS DE COMUNICACAO E MULTIMIDIA LTDA",
     "document": "26.442.667/0001-38",
     "ip_blocks": [
-      "2804:8214::/32"
+      "2804:8214::/32",
+      "170.79.249.0/24"
     ]
   },
   {
@@ -75852,7 +75851,7 @@
   },
   {
     "asn": 272524,
-    "organization": "Conect Host LTDA",
+    "organization": "SB4Host Brasil",
     "document": "39.652.848/0001-30",
     "ip_blocks": [
       "2804:8284::/32"
@@ -83823,7 +83822,8 @@
     "organization": "Dhafnet Telecomunicacoes EIRELI",
     "document": "18.496.008/0001-56",
     "ip_blocks": [
-      "2804:9228::/32"
+      "2804:9228::/32",
+      "189.89.235.0/24"
     ]
   },
   {
@@ -85251,6 +85251,22 @@
     "document": "23.056.313/0001-67",
     "ip_blocks": [
       "2804:97a8::/32"
+    ]
+  },
+  {
+    "asn": 275638,
+    "organization": "FORTI LINK EIRELI",
+    "document": "33.474.895/0001-55",
+    "ip_blocks": [
+      "2804:97ac::/32"
+    ]
+  },
+  {
+    "asn": 275639,
+    "organization": "RAFAEL DOS SANTOS PRATES EIRELI",
+    "document": "13.488.849/0001-06",
+    "ip_blocks": [
+      "2804:97b0::/32"
     ]
   },
   {
