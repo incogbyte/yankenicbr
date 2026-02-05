@@ -25943,15 +25943,6 @@
     ]
   },
   {
-    "asn": 263977,
-    "organization": "Wifi Point Provedor de Internet Banda Larga ME LTD",
-    "document": "14.641.982/0001-05",
-    "ip_blocks": [
-      "138.255.208.0/22",
-      "2804:28bc::/32"
-    ]
-  },
-  {
     "asn": 263979,
     "organization": "CYBERNETRS LTDA - ME",
     "document": "12.305.644/0001-77",
@@ -39151,7 +39142,8 @@
       "191.243.92.0/22",
       "132.255.188.0/22",
       "45.230.52.0/22",
-      "200.49.24.0/24"
+      "200.49.24.0/24",
+      "138.255.208.0/22"
     ]
   },
   {
@@ -85267,6 +85259,22 @@
     "document": "13.488.849/0001-06",
     "ip_blocks": [
       "2804:97b0::/32"
+    ]
+  },
+  {
+    "asn": 275640,
+    "organization": "Headers Consultoria",
+    "document": "46.036.507/0001-04",
+    "ip_blocks": [
+      "2804:97b4::/32"
+    ]
+  },
+  {
+    "asn": 275641,
+    "organization": "EDGE TELECOM LTDA",
+    "document": "52.214.661/0001-13",
+    "ip_blocks": [
+      "2804:97b8::/32"
     ]
   },
   {
