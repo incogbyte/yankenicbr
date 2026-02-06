@@ -3980,12 +3980,6 @@
     ]
   },
   {
-    "asn": 28231,
-    "organization": "Gigawire Informatica Ltda",
-    "document": "08.651.476/0001-02",
-    "ip_blocks": []
-  },
-  {
     "asn": 28232,
     "organization": "BIT INFORMATICA LTDA",
     "document": "05.726.894/0001-15",
@@ -7456,12 +7450,6 @@
     ]
   },
   {
-    "asn": 52681,
-    "organization": "Pbinet Informatica Ltda - ME",
-    "document": "07.545.812/0001-61",
-    "ip_blocks": []
-  },
-  {
     "asn": 52682,
     "organization": "AVATO TECNOLOGIA S.A",
     "document": "37.905.444/0001-86",
@@ -10913,12 +10901,6 @@
       "168.227.232.0/22",
       "170.79.184.0/22"
     ]
-  },
-  {
-    "asn": 53136,
-    "organization": "SVA INTERNET LTDA",
-    "document": "09.107.204/0001-09",
-    "ip_blocks": []
   },
   {
     "asn": 53138,
@@ -17055,12 +17037,6 @@
     ]
   },
   {
-    "asn": 262547,
-    "organization": "Tricor AgrÃ­cola Ltda",
-    "document": "05.602.535/0001-56",
-    "ip_blocks": []
-  },
-  {
     "asn": 262548,
     "organization": "GETCARD PROVEDORA DE TRANSACOES ELETRONICAS LTDA",
     "document": "12.073.806/0001-99",
@@ -17475,12 +17451,6 @@
       "177.85.32.0/21",
       "2804:6a0::/32"
     ]
-  },
-  {
-    "asn": 262598,
-    "organization": "REAL LINE TELECOMUNICACOES LTDA",
-    "document": "03.079.634/0001-70",
-    "ip_blocks": []
   },
   {
     "asn": 262600,
@@ -25883,12 +25853,6 @@
     ]
   },
   {
-    "asn": 263969,
-    "organization": "CLIGUE TELECOMUNICACOES LTDA -ME",
-    "document": "14.808.118/0001-55",
-    "ip_blocks": []
-  },
-  {
     "asn": 263970,
     "organization": "Strike Net Provedor de Acesso a Internet",
     "document": "09.426.955/0001-80",
@@ -26148,12 +26112,6 @@
       "143.0.60.0/22",
       "2804:2930::/32"
     ]
-  },
-  {
-    "asn": 264003,
-    "organization": "T. GARCIA COMUNICACOES LTDA",
-    "document": "23.423.154/0001-91",
-    "ip_blocks": []
   },
   {
     "asn": 264004,
@@ -30384,8 +30342,8 @@
   },
   {
     "asn": 264574,
-    "organization": "Elite TelecomunicaÃ§oes LTDA ME",
-    "document": "18.716.059/0001-46",
+    "organization": "Elite Internet e Servicos Ltda",
+    "document": "55.250.644/0001-20",
     "ip_blocks": [
       "138.36.108.0/22",
       "2804:21cc::/32"
@@ -35249,7 +35207,8 @@
     "document": "06.099.370/0001-04",
     "ip_blocks": [
       "168.196.104.0/22",
-      "2804:3454::/32"
+      "2804:3454::/32",
+      "45.175.204.0/22"
     ]
   },
   {
@@ -55314,15 +55273,6 @@
     "ip_blocks": [
       "45.175.196.0/22",
       "2804:5ca0::/32"
-    ]
-  },
-  {
-    "asn": 268921,
-    "organization": "SERVNACNET SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "22.225.196/0001-55",
-    "ip_blocks": [
-      "45.175.204.0/22",
-      "2804:5ca4::/32"
     ]
   },
   {
@@ -85275,6 +85225,14 @@
     "document": "52.214.661/0001-13",
     "ip_blocks": [
       "2804:97b8::/32"
+    ]
+  },
+  {
+    "asn": 275642,
+    "organization": "Neo Provedor Ltda",
+    "document": "47.643.053/0001-94",
+    "ip_blocks": [
+      "2804:97bc::/32"
     ]
   },
   {
