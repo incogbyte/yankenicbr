@@ -23631,8 +23631,8 @@
     "organization": "QUATRO IRMAOS COMERCIO E SERVICOS EM INFORMATICA E",
     "document": "03.590.035/0001-16",
     "ip_blocks": [
-      "177.84.76.0/22",
-      "2804:1374::/32"
+      "2804:1374::/32",
+      "177.84.76.0/23"
     ]
   },
   {
@@ -30039,15 +30039,6 @@
       "138.0.68.0/22",
       "2804:211c::/32",
       "170.239.196.0/22"
-    ]
-  },
-  {
-    "asn": 264537,
-    "organization": "RALINK TELECOM LTDA",
-    "document": "12.958.436/0001-77",
-    "ip_blocks": [
-      "2804:2120::/32",
-      "138.0.84.0/23"
     ]
   },
   {
@@ -67608,7 +67599,7 @@
   },
   {
     "asn": 270948,
-    "organization": "Fontana e Fleck Ltda",
+    "organization": "VALENET TELECOM LTDA",
     "document": "34.223.698/0001-26",
     "ip_blocks": [
       "143.137.172.0/22",
@@ -81823,7 +81814,8 @@
     "organization": "MASTERLINK TELECOM LTDA-ME",
     "document": "21.192.305/0001-12",
     "ip_blocks": [
-      "2804:9724::/32"
+      "2804:9724::/32",
+      "138.0.84.0/23"
     ]
   },
   {
@@ -82233,7 +82225,8 @@
     "organization": "Informais come e servi de infor e tele",
     "document": "07.567.041/0001-03",
     "ip_blocks": [
-      "2804:9528::/32"
+      "2804:9528::/32",
+      "177.84.78.0/23"
     ]
   },
   {
@@ -85241,6 +85234,14 @@
     "document": "28.116.391/0001-23",
     "ip_blocks": [
       "2804:97c0::/32"
+    ]
+  },
+  {
+    "asn": 275644,
+    "organization": "Flame Host - Brasil LTDA",
+    "document": "48.897.163/0001-45",
+    "ip_blocks": [
+      "2804:97c4::/32"
     ]
   },
   {
