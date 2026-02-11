@@ -14017,7 +14017,7 @@
   },
   {
     "asn": 61851,
-    "organization": "Garra Telecom Ltda",
+    "organization": "Garra Fibra",
     "document": "12.523.391/0001-08",
     "ip_blocks": [
       "201.149.124.0/22",
@@ -49099,7 +49099,7 @@
   },
   {
     "asn": 268129,
-    "organization": "TAI Telecom",
+    "organization": "SETORIAL TELECOMUNICACOES LTDA",
     "document": "08.673.849/0001-38",
     "ip_blocks": [
       "45.169.68.0/22",
@@ -85242,6 +85242,38 @@
     "document": "48.897.163/0001-45",
     "ip_blocks": [
       "2804:97c4::/32"
+    ]
+  },
+  {
+    "asn": 275645,
+    "organization": "CONCE PROJETOS TELECOM LTDA",
+    "document": "41.685.365/0001-84",
+    "ip_blocks": [
+      "2804:97c8::/32"
+    ]
+  },
+  {
+    "asn": 275646,
+    "organization": "ONIX FIBRA INTERNET LTDA",
+    "document": "12.759.856/0001-24",
+    "ip_blocks": [
+      "2804:97cc::/32"
+    ]
+  },
+  {
+    "asn": 275647,
+    "organization": "CASTILHOS PROVEDOR DE INTERNET LTDA",
+    "document": "17.875.842/0001-90",
+    "ip_blocks": [
+      "2804:97d0::/32"
+    ]
+  },
+  {
+    "asn": 275648,
+    "organization": "EPM TELECOMUNICACOES LTDA",
+    "document": "47.521.423/0001-10",
+    "ip_blocks": [
+      "2804:97d4::/32"
     ]
   },
   {
