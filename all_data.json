@@ -2127,12 +2127,6 @@
     ]
   },
   {
-    "asn": 22371,
-    "organization": "ITS Tecnologia em Sistemas Ltda.",
-    "document": "74.429.226/0001-49",
-    "ip_blocks": []
-  },
-  {
     "asn": 22381,
     "organization": "Megatelecom Telecomunicacoes Ltda",
     "document": "03.170.027/0001-10",
@@ -3461,7 +3455,6 @@
       "2804:2f8::/32",
       "189.89.244.0/23",
       "189.89.254.0/24",
-      "189.89.242.0/23",
       "189.89.241.0/24",
       "177.12.132.0/23",
       "177.12.138.0/23",
@@ -3473,7 +3466,8 @@
       "189.89.224.0/21",
       "189.89.248.0/24",
       "189.89.250.0/23",
-      "189.89.238.0/24"
+      "189.89.238.0/24",
+      "189.89.243.0/24"
     ]
   },
   {
@@ -18360,7 +18354,8 @@
     "ip_blocks": [
       "186.193.224.0/20",
       "2804:234::/32",
-      "177.190.192.0/20"
+      "177.190.192.0/20",
+      "186.233.240.0/21"
     ]
   },
   {
@@ -18909,14 +18904,6 @@
     "ip_blocks": [
       "186.237.64.0/19",
       "2804:286c::/32"
-    ]
-  },
-  {
-    "asn": 262800,
-    "organization": "NEGER Tecnologia e Sistemas LtDA",
-    "document": "58.456.997/0001-79",
-    "ip_blocks": [
-      "186.233.240.0/21"
     ]
   },
   {
@@ -28355,7 +28342,7 @@
   },
   {
     "asn": 264309,
-    "organization": "ITCONNECT TECNOLOGIA DA INFORMACAO LTDA.",
+    "organization": "ITCONNECT TELECOMUNICACOES LTDA.",
     "document": "07.497.405/0001-26",
     "ip_blocks": [
       "138.122.64.0/22",
@@ -45983,15 +45970,6 @@
     ]
   },
   {
-    "asn": 267489,
-    "organization": "NEOVEX COMERCIO E SERVICOS DE TELECOMUNICACOES",
-    "document": "11.144.180/0001-00",
-    "ip_blocks": [
-      "2804:4244::/32",
-      "192.141.163.0/24"
-    ]
-  },
-  {
     "asn": 267490,
     "organization": "C e B do Amaral Comunicacao - ME",
     "document": "18.303.710/0001-56",
@@ -50895,7 +50873,8 @@
     "document": "27.865.409/0001-27",
     "ip_blocks": [
       "45.239.56.0/22",
-      "2804:4fdc::/32"
+      "2804:4fdc::/32",
+      "189.89.242.0/24"
     ]
   },
   {
@@ -82866,7 +82845,8 @@
     "organization": "EVAR SOLUCOES EM TI LTDA",
     "document": "35.416.160/0001-09",
     "ip_blocks": [
-      "2804:9644::/32"
+      "2804:9644::/32",
+      "192.141.163.0/24"
     ]
   },
   {
@@ -85274,6 +85254,14 @@
     "document": "47.521.423/0001-10",
     "ip_blocks": [
       "2804:97d4::/32"
+    ]
+  },
+  {
+    "asn": 275649,
+    "organization": "Pro Megganet Telecom de Cam Alegre de Lurdes LTDA",
+    "document": "52.365.480/0001-98",
+    "ip_blocks": [
+      "2804:97d8::/32"
     ]
   },
   {
