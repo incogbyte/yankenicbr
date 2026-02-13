@@ -39447,7 +39447,7 @@
   },
   {
     "asn": 266392,
-    "organization": "Agility Telecom Ltda",
+    "organization": "vip telecom paraiba",
     "document": "23.542.617/0001-34",
     "ip_blocks": [
       "170.80.232.0/22",
@@ -85262,6 +85262,22 @@
     "document": "52.365.480/0001-98",
     "ip_blocks": [
       "2804:97d8::/32"
+    ]
+  },
+  {
+    "asn": 275650,
+    "organization": "DEDICADA AM TELECOMUNICACOES E MULTIMIDIA LTDA",
+    "document": "43.246.961/0001-93",
+    "ip_blocks": [
+      "2804:97dc::/32"
+    ]
+  },
+  {
+    "asn": 275651,
+    "organization": "A DE CASTRO FERREIRA LTDA",
+    "document": "20.059.693/0001-03",
+    "ip_blocks": [
+      "2804:97e0::/32"
     ]
   },
   {
