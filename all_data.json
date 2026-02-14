@@ -14252,7 +14252,8 @@
     "ip_blocks": [
       "131.0.116.0/22",
       "2804:1ac4::/32",
-      "201.182.144.0/22"
+      "201.182.144.0/22",
+      "177.129.92.0/22"
     ]
   },
   {
@@ -15761,7 +15762,6 @@
     "ip_blocks": [
       "177.129.88.0/22",
       "2804:8cc::/32",
-      "177.129.92.0/22",
       "177.125.152.0/21",
       "138.118.76.0/22",
       "168.121.228.0/22",
@@ -16904,7 +16904,8 @@
       "177.55.240.0/20",
       "2804:ec8::/32",
       "186.249.176.0/20",
-      "128.201.120.0/22"
+      "128.201.120.0/22",
+      "45.4.240.0/22"
     ]
   },
   {
@@ -20536,7 +20537,7 @@
   },
   {
     "asn": 263047,
-    "organization": "Linkfull melhor fornecedor dos provedores",
+    "organization": "SPEEDNET PROVEDOR DE ACESSO A INTERNET LTDA",
     "document": "09.294.007/0001-38",
     "ip_blocks": [
       "177.129.208.0/22",
@@ -36998,15 +36999,6 @@
     "ip_blocks": [
       "45.4.228.0/22",
       "2804:3a2c::/32"
-    ]
-  },
-  {
-    "asn": 266076,
-    "organization": "D-Net SoluÃ§Ãµes e Fibra Ãptica",
-    "document": "26.242.894/0001-10",
-    "ip_blocks": [
-      "45.4.240.0/22",
-      "2804:3a30::/32"
     ]
   },
   {
@@ -77656,14 +77648,6 @@
     ]
   },
   {
-    "asn": 273323,
-    "organization": "Talma Teleinformatica Ltda.",
-    "document": "40.354.581/0001-84",
-    "ip_blocks": [
-      "2804:8cec::/32"
-    ]
-  },
-  {
     "asn": 273325,
     "organization": "GIGALINKS TELECOM INTERNET SOLUTION PROVIDER LTDA",
     "document": "21.206.525/0001-58",
@@ -85278,6 +85262,22 @@
     "document": "20.059.693/0001-03",
     "ip_blocks": [
       "2804:97e0::/32"
+    ]
+  },
+  {
+    "asn": 275652,
+    "organization": "SPIDER NET SERVIÃOS DE INFORMATICA EIRELI",
+    "document": "12.966.881/0001-89",
+    "ip_blocks": [
+      "2804:97e4::/32"
+    ]
+  },
+  {
+    "asn": 275653,
+    "organization": "YOUFIBER TELECOMUNICACAO LTDA",
+    "document": "51.918.220/0001-30",
+    "ip_blocks": [
+      "2804:97e8::/32"
     ]
   },
   {
