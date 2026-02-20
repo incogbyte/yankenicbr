@@ -31482,8 +31482,8 @@
   },
   {
     "asn": 264975,
-    "organization": "NETW TELECOMUNICACOES LTDA - ME",
-    "document": "21.187.889/0001-38",
+    "organization": "F. H. MATSUDA MONITORAMENTO E INTERNET LTDA",
+    "document": "34.878.361/0001-57",
     "ip_blocks": [
       "170.0.188.0/22",
       "2804:30d4::/32"
@@ -59756,7 +59756,7 @@
   },
   {
     "asn": 269478,
-    "organization": "67 TELECOMUNICACOES",
+    "organization": "B. INTERNET LTDA",
     "document": "30.473.723/0001-79",
     "ip_blocks": [
       "45.187.124.0/22",
@@ -85278,6 +85278,30 @@
     "document": "51.918.220/0001-30",
     "ip_blocks": [
       "2804:97e8::/32"
+    ]
+  },
+  {
+    "asn": 275654,
+    "organization": "Macedo ServiÃ§os de TelecomunicaÃ§Ãµes Ltda",
+    "document": "02.639.895/0001-34",
+    "ip_blocks": [
+      "2804:97ec::/32"
+    ]
+  },
+  {
+    "asn": 275655,
+    "organization": "VIANET TELECOM LTDA",
+    "document": "20.207.620/0001-03",
+    "ip_blocks": [
+      "2804:97f0::/32"
+    ]
+  },
+  {
+    "asn": 275656,
+    "organization": "CONNECT LINE SERVICOS DE PROVEDOR DE INT",
+    "document": "20.371.998/0001-48",
+    "ip_blocks": [
+      "2804:97f4::/32"
     ]
   },
   {
