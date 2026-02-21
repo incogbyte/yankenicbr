@@ -12199,7 +12199,7 @@
   },
   {
     "asn": 61614,
-    "organization": "67 TELECOM",
+    "organization": "67 TELECOM LTDA",
     "document": "08.611.669/0001-21",
     "ip_blocks": [
       "45.232.212.0/22",
@@ -61331,8 +61331,8 @@
   },
   {
     "asn": 269670,
-    "organization": "VIACLIP INTERNET E TELECOMUNICAÃÃES LTDA",
-    "document": "34.381.318/0001-81",
+    "organization": "Hub Telecom",
+    "document": "14.234.451/0001-06",
     "ip_blocks": [
       "45.191.64.0/22",
       "2804:6820::/32"
@@ -69652,7 +69652,7 @@
   },
   {
     "asn": 271203,
-    "organization": "CampoNet Telecomunicacoes",
+    "organization": "ZUX INTERNET LTDA",
     "document": "35.905.928/0001-08",
     "ip_blocks": [
       "2804:77d8::/32",
@@ -80060,7 +80060,7 @@
   },
   {
     "asn": 273644,
-    "organization": "Multi Connect Fibra LTDA",
+    "organization": "MCF TELECOMUNICACOES E INTERNET LTDA",
     "document": "12.126.437/0001-55",
     "ip_blocks": [
       "2804:8a08::/32"
@@ -85302,6 +85302,22 @@
     "document": "20.371.998/0001-48",
     "ip_blocks": [
       "2804:97f4::/32"
+    ]
+  },
+  {
+    "asn": 275657,
+    "organization": "SOFTNET LTDA",
+    "document": "33.621.438/0001-46",
+    "ip_blocks": [
+      "2804:97f8::/32"
+    ]
+  },
+  {
+    "asn": 275658,
+    "organization": "CONECT CANASTRA LTDA",
+    "document": "42.437.660/0001-84",
+    "ip_blocks": [
+      "2804:97fc::/32"
     ]
   },
   {
