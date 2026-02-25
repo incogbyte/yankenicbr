@@ -13091,15 +13091,6 @@
     ]
   },
   {
-    "asn": 61734,
-    "organization": "M DE S CARVALHO ASSUNÃÃO - PRISMA TELECOM",
-    "document": "05.427.699/0001-94",
-    "ip_blocks": [
-      "131.72.164.0/22",
-      "2804:1b8c::/32"
-    ]
-  },
-  {
     "asn": 61735,
     "organization": "RIX INTERNET LTDA",
     "document": "04.352.312/0001-15",
@@ -15916,15 +15907,6 @@
     "ip_blocks": [
       "177.39.0.0/22",
       "2801:80:190::/48"
-    ]
-  },
-  {
-    "asn": 262414,
-    "organization": "UPKONECT CELULAR E TELECOMUNICAÃÃES EIRE",
-    "document": "30.338.938/0001-87",
-    "ip_blocks": [
-      "2804:5e0::/32",
-      "177.72.146.0/23"
     ]
   },
   {
@@ -26078,7 +26060,8 @@
     "document": "09.276.787/0001-93",
     "ip_blocks": [
       "143.0.124.0/22",
-      "2804:2924::/32"
+      "2804:2924::/32",
+      "177.72.146.0/23"
     ]
   },
   {
@@ -51903,7 +51886,8 @@
     "document": "15.263.327/0001-23",
     "ip_blocks": [
       "45.161.248.0/22",
-      "2804:51f8::/32"
+      "2804:51f8::/32",
+      "131.72.164.0/22"
     ]
   },
   {
@@ -84873,7 +84857,7 @@
   },
   {
     "asn": 274835,
-    "organization": "GIGANET PERDIZES LTDA",
+    "organization": "VELLAX FIBRA LTDA",
     "document": "40.488.544/0001-69",
     "ip_blocks": [
       "2804:9450::/32"
