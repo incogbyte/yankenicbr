@@ -2551,7 +2551,7 @@
   },
   {
     "asn": 26602,
-    "organization": "Nilram Internet e ServiÃ§os Ltda",
+    "organization": "Marlin Consultoria em Tecnologia da Inf Ltda",
     "document": "01.059.719/0001-60",
     "ip_blocks": [
       "200.142.208.0/20"
@@ -30630,8 +30630,8 @@
   },
   {
     "asn": 264871,
-    "organization": "INTERPOP TELECOM LTDA",
-    "document": "20.282.982/0001-69",
+    "organization": "InterPop TelecomunicaÃ§Ãµes Eireli",
+    "document": "30.341.995/0001-15",
     "ip_blocks": [
       "168.205.232.0/22",
       "2804:2f18::/32"
@@ -46545,7 +46545,8 @@
     "document": "26.606.865/0001-90",
     "ip_blocks": [
       "45.70.128.0/22",
-      "2804:4354::/32"
+      "2804:4354::/32",
+      "181.233.104.0/22"
     ]
   },
   {
@@ -58819,7 +58820,7 @@
   },
   {
     "asn": 269364,
-    "organization": "COMPACT COMPANY TELECOM",
+    "organization": "FLAY BIRD TELECOM LTDA",
     "document": "30.636.425/0001-52",
     "ip_blocks": [
       "45.184.192.0/22",
@@ -71774,15 +71775,6 @@
     ]
   },
   {
-    "asn": 271465,
-    "organization": "FIBRA7 TELECOM LTDA",
-    "document": "59.826.591/0001-01",
-    "ip_blocks": [
-      "2804:7bf4::/32",
-      "181.233.104.0/22"
-    ]
-  },
-  {
     "asn": 271466,
     "organization": "UC Telecom Ltda",
     "document": "15.434.629/0001-17",
@@ -73075,7 +73067,7 @@
   },
   {
     "asn": 271627,
-    "organization": "ZAP TELECOM EIRELI",
+    "organization": "ZAP TELECOM LTDA",
     "document": "24.377.272/0001-73",
     "ip_blocks": [
       "2804:7e7c::/32",
@@ -85302,6 +85294,30 @@
     "document": "42.437.660/0001-84",
     "ip_blocks": [
       "2804:97fc::/32"
+    ]
+  },
+  {
+    "asn": 275659,
+    "organization": "JDCONECT ME",
+    "document": "29.105.385/0001-33",
+    "ip_blocks": [
+      "2804:9800::/32"
+    ]
+  },
+  {
+    "asn": 275660,
+    "organization": "Escorpion Internet LTDA",
+    "document": "18.237.565/0001-52",
+    "ip_blocks": [
+      "2804:9804::/32"
+    ]
+  },
+  {
+    "asn": 275661,
+    "organization": "VIPFIBRA TELECOM",
+    "document": "29.745.971/0001-42",
+    "ip_blocks": [
+      "2804:9808::/32"
     ]
   },
   {
