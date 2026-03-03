@@ -67207,15 +67207,6 @@
     ]
   },
   {
-    "asn": 270909,
-    "organization": "ALVES E ALCANTARA LTDA",
-    "document": "29.387.330/0001-63",
-    "ip_blocks": [
-      "138.97.76.0/22",
-      "2804:7358::/32"
-    ]
-  },
-  {
     "asn": 270910,
     "organization": "MULTI SUPORTE TELECOMUNICAÃÃES LTDA - ME",
     "document": "27.242.226/0001-55",
@@ -68538,7 +68529,8 @@
     "document": "61.187.303/0001-50",
     "ip_blocks": [
       "179.48.0.0/22",
-      "2804:75c8::/32"
+      "2804:75c8::/32",
+      "138.97.76.0/22"
     ]
   },
   {
