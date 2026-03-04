@@ -19779,7 +19779,7 @@
   },
   {
     "asn": 262949,
-    "organization": "Cibertec Telecom",
+    "organization": "Icone ServiÃ§os",
     "document": "09.640.143/0001-32",
     "ip_blocks": [
       "177.154.80.0/22",
@@ -33959,7 +33959,7 @@
   },
   {
     "asn": 265296,
-    "organization": "Ellitenet Telecom",
+    "organization": "Sinal Telecom",
     "document": "15.521.858/0001-79",
     "ip_blocks": [
       "168.90.216.0/22",
@@ -75416,7 +75416,7 @@
   },
   {
     "asn": 272479,
-    "organization": "ERNESSON RODRIGUES LTDA",
+    "organization": "LINK FIBRA TELECOM LTDA",
     "document": "36.367.182/0001-80",
     "ip_blocks": [
       "2804:81d4::/32"
@@ -85310,6 +85310,30 @@
     "document": "16.790.288/0001-85",
     "ip_blocks": [
       "2804:9810::/32"
+    ]
+  },
+  {
+    "asn": 275664,
+    "organization": "EDUARDO BEZERRA DA SILVA SERVIÃOS DE INFORMATICA",
+    "document": "32.494.801/0001-47",
+    "ip_blocks": [
+      "2804:9814::/32"
+    ]
+  },
+  {
+    "asn": 275665,
+    "organization": "Barranet TelecomunicaÃ§Ãµes LTDA",
+    "document": "14.577.533/0001-45",
+    "ip_blocks": [
+      "2804:9818::/32"
+    ]
+  },
+  {
+    "asn": 275666,
+    "organization": "UNIVERSIDADE FEDERAL DE ALAGOAS",
+    "document": "24.464.109/0001-48",
+    "ip_blocks": [
+      "2801:81:1f0::/48"
     ]
   },
   {
