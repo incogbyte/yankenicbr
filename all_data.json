@@ -33149,8 +33149,8 @@
   },
   {
     "asn": 265192,
-    "organization": "Borracharia Barroso Ltda",
-    "document": "05.988.214/0001-31",
+    "organization": "Mnet LTDA",
+    "document": "51.160.093/0001-52",
     "ip_blocks": [
       "167.249.144.0/22",
       "2804:2c10::/32"
@@ -44002,7 +44002,7 @@
   },
   {
     "asn": 267250,
-    "organization": "CARLOS HENRIQUE PAIVA DE ASSIS 08958282606 - ME",
+    "organization": "FOX TELECOM - SERVICOS E INTERNET LTDA",
     "document": "24.837.388/0001-48",
     "ip_blocks": [
       "45.232.68.0/22",
@@ -85334,6 +85334,38 @@
     "document": "24.464.109/0001-48",
     "ip_blocks": [
       "2801:81:1f0::/48"
+    ]
+  },
+  {
+    "asn": 275667,
+    "organization": "L K TECNOLOGIA LTDA",
+    "document": "27.298.172/0001-40",
+    "ip_blocks": [
+      "2804:981c::/32"
+    ]
+  },
+  {
+    "asn": 275668,
+    "organization": "Evolve Internet LTDA",
+    "document": "14.701.099/0001-63",
+    "ip_blocks": [
+      "2804:9820::/32"
+    ]
+  },
+  {
+    "asn": 275669,
+    "organization": "OLIVEIRA E NOBRE SERV. DE PROV. DE INTERNET LTDA",
+    "document": "37.937.929/0001-51",
+    "ip_blocks": [
+      "2804:9824::/32"
+    ]
+  },
+  {
+    "asn": 275670,
+    "organization": "ASSOCIACAO EDUCACIONAL DOM BOSCO",
+    "document": "31.463.235/0001-43",
+    "ip_blocks": [
+      "2801:81:220::/48"
     ]
   },
   {
