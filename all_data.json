@@ -4289,8 +4289,8 @@
   },
   {
     "asn": 28272,
-    "organization": "CEW SERVIÃOS E TELECOMUNICAÃOES LTDA",
-    "document": "09.530.264/0001-21",
+    "organization": "GR SERVICOS E TELECOMUNICACOES LTDA - GRUPO REDES",
+    "document": "23.923.034/0001-53",
     "ip_blocks": [
       "189.1.96.0/19",
       "2804:2a0::/32"
@@ -8029,7 +8029,8 @@
       "177.39.120.0/21",
       "2804:b54::/32",
       "170.239.72.0/22",
-      "160.238.228.0/22"
+      "160.238.228.0/22",
+      "168.197.156.0/22"
     ]
   },
   {
@@ -11024,8 +11025,8 @@
     "organization": "JoaÃ§aba TelecomunicaÃ§Ãµes Ltda ME",
     "document": "10.815.203/0001-90",
     "ip_blocks": [
-      "186.209.240.0/20",
-      "2804:3558::/32"
+      "2804:3558::/32",
+      "186.209.240.0/22"
     ]
   },
   {
@@ -15938,7 +15939,9 @@
       "45.164.206.0/24",
       "177.125.181.0/24",
       "131.255.132.0/22",
-      "168.195.228.0/22"
+      "168.195.228.0/22",
+      "186.209.248.0/21",
+      "186.209.244.0/22"
     ]
   },
   {
@@ -20513,8 +20516,8 @@
   },
   {
     "asn": 263047,
-    "organization": "SPEEDNET PROVEDOR DE ACESSO A INTERNET LTDA",
-    "document": "09.294.007/0001-38",
+    "organization": "CORP BR TELECOMUNICACOES LTDA - LINK FULL",
+    "document": "58.488.443/0001-53",
     "ip_blocks": [
       "177.129.208.0/22",
       "2804:908::/32",
@@ -30233,7 +30236,7 @@
   },
   {
     "asn": 264566,
-    "organization": "INTERNET O SUL COMÃRCIO E SERVIÃOS LTDA",
+    "organization": "INTERNET O SUL TELECOM LTDA.",
     "document": "09.289.574/0001-04",
     "ip_blocks": [
       "138.0.144.0/22",
@@ -35421,15 +35424,6 @@
     "ip_blocks": [
       "168.197.152.0/22",
       "2804:34d8::/32"
-    ]
-  },
-  {
-    "asn": 265485,
-    "organization": "UP NET TELECOM",
-    "document": "13.115.610/0001-82",
-    "ip_blocks": [
-      "168.197.156.0/22",
-      "2804:34dc::/32"
     ]
   },
   {
@@ -57837,7 +57831,7 @@
   },
   {
     "asn": 269245,
-    "organization": "CABO FIBRA TELECOM",
+    "organization": "Maralink Fibra",
     "document": "26.755.290/0001-77",
     "ip_blocks": [
       "45.182.248.0/22",
