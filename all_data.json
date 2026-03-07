@@ -70228,7 +70228,7 @@
   },
   {
     "asn": 271277,
-    "organization": "GIGAMAIS TELECOM",
+    "organization": "JS CERQUEIRA",
     "document": "13.772.542/0001-24",
     "ip_blocks": [
       "201.222.32.0/22",
@@ -85360,6 +85360,22 @@
     "document": "31.463.235/0001-43",
     "ip_blocks": [
       "2801:81:220::/48"
+    ]
+  },
+  {
+    "asn": 275671,
+    "organization": "OURONET LTDA",
+    "document": "10.448.064/0001-03",
+    "ip_blocks": [
+      "2804:9828::/32"
+    ]
+  },
+  {
+    "asn": 275672,
+    "organization": "BAHIA WIRELESS TELECOM LTDA",
+    "document": "52.480.556/0001-26",
+    "ip_blocks": [
+      "2804:982c::/32"
     ]
   },
   {
