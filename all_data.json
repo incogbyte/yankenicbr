@@ -12277,7 +12277,8 @@
     "organization": "Vellon Servicos de Comunicacao Mult e Digitais",
     "document": "46.870.574/0001-11",
     "ip_blocks": [
-      "2804:9390::/32"
+      "2804:9390::/32",
+      "138.186.16.0/22"
     ]
   },
   {
@@ -15212,7 +15213,7 @@
   },
   {
     "asn": 262320,
-    "organization": "BANDA TURBO PROVEDORES DE INTERNET LTDA",
+    "organization": "BANDATURBO TELECOMUNICACOES LTDA",
     "document": "07.469.809/0001-06",
     "ip_blocks": [
       "177.124.96.0/22",
@@ -23324,7 +23325,7 @@
     "ip_blocks": [
       "191.243.52.0/22",
       "2804:12c8::/32",
-      "168.195.140.0/22"
+      "168.195.140.0/23"
     ]
   },
   {
@@ -25051,15 +25052,6 @@
     "ip_blocks": [
       "2804:2704::/32",
       "138.186.228.0/22"
-    ]
-  },
-  {
-    "asn": 263873,
-    "organization": "Conecta NET",
-    "document": "10.921.445/0001-68",
-    "ip_blocks": [
-      "138.186.16.0/22",
-      "2804:2710::/32"
     ]
   },
   {
@@ -27752,7 +27744,7 @@
   },
   {
     "asn": 264231,
-    "organization": "RG.COM - INFORMATICA COMUNICACAO LTDA - ME",
+    "organization": "SAGA FIBRA COMUNICACAO LTDA",
     "document": "05.411.974/0001-81",
     "ip_blocks": [
       "190.109.72.0/22",
@@ -65242,6 +65234,15 @@
     ]
   },
   {
+    "asn": 270666,
+    "organization": "VITTIA S.A.",
+    "document": "45.365.558/0001-09",
+    "ip_blocks": [
+      "200.9.156.0/24",
+      "2801:80:3940::/48"
+    ]
+  },
+  {
     "asn": 270667,
     "organization": "Omega Tech Internet",
     "document": "15.286.862/0001-08",
@@ -66192,8 +66193,8 @@
   },
   {
     "asn": 270786,
-    "organization": "CITYNET COM. DE PROD. DE INFORMATICA LTDA",
-    "document": "08.837.647/0001-84",
+    "organization": "SEA TELECOM LTDA",
+    "document": "25.450.139/0001-68",
     "ip_blocks": [
       "200.39.150.0/23",
       "2804:7164::/32"
@@ -83152,7 +83153,7 @@
   },
   {
     "asn": 274629,
-    "organization": "CITYDATA TELECOMUNICACOES LTDA",
+    "organization": "CITY TECNOLOGIA DA INFORMAÃÃO LTDA",
     "document": "09.336.143/0001-43",
     "ip_blocks": [
       "2804:9140::/32"
@@ -83500,7 +83501,8 @@
     "organization": "SOU ENERGIA E TELECOMUNICAÃÃES",
     "document": "31.151.557/0001-57",
     "ip_blocks": [
-      "2804:91e4::/32"
+      "2804:91e4::/32",
+      "168.195.142.0/23"
     ]
   },
   {
@@ -85376,6 +85378,22 @@
     "document": "52.480.556/0001-26",
     "ip_blocks": [
       "2804:982c::/32"
+    ]
+  },
+  {
+    "asn": 275673,
+    "organization": "L8 Group SA",
+    "document": "19.952.299/0001-02",
+    "ip_blocks": [
+      "2801:81:230::/48"
+    ]
+  },
+  {
+    "asn": 275674,
+    "organization": "A S GOMES TELECOM LTDA",
+    "document": "43.595.969/0001-65",
+    "ip_blocks": [
+      "2804:9830::/32"
     ]
   },
   {
