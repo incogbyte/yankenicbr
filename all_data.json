@@ -6709,8 +6709,7 @@
     "document": "11.774.781/0001-98",
     "ip_blocks": [
       "177.87.168.0/21",
-      "2804:d00::/32",
-      "191.5.72.0/21"
+      "2804:d00::/32"
     ]
   },
   {
@@ -24611,7 +24610,8 @@
     "document": "06.537.806/0001-08",
     "ip_blocks": [
       "177.74.224.0/20",
-      "2804:10dc::/32"
+      "2804:10dc::/32",
+      "138.122.100.0/22"
     ]
   },
   {
@@ -28332,15 +28332,6 @@
     ]
   },
   {
-    "asn": 264311,
-    "organization": "Plug Supernet Telecon ServiÃ§os de Informatica Ltda",
-    "document": "17.331.528/0001-46",
-    "ip_blocks": [
-      "138.122.100.0/22",
-      "2804:25f0::/32"
-    ]
-  },
-  {
     "asn": 264312,
     "organization": "Departamento de PolÃ­cia RodoviÃ¡ria Federal",
     "document": "00.394.494/0104-41",
@@ -29414,7 +29405,8 @@
     "ip_blocks": [
       "132.255.28.0/22",
       "2804:2008::/32",
-      "201.182.32.0/22"
+      "201.182.32.0/22",
+      "179.48.108.0/22"
     ]
   },
   {
@@ -34465,7 +34457,7 @@
   },
   {
     "asn": 265360,
-    "organization": "AGILITY TELECOM",
+    "organization": "Viananet Telecom",
     "document": "13.954.223/0001-30",
     "ip_blocks": [
       "168.205.28.0/22",
@@ -57823,7 +57815,7 @@
   },
   {
     "asn": 269245,
-    "organization": "Maralink Fibra",
+    "organization": "Cabo Fibra Telecom",
     "document": "26.755.290/0001-77",
     "ip_blocks": [
       "45.182.248.0/22",
@@ -68643,15 +68635,6 @@
     "ip_blocks": [
       "179.48.36.0/22",
       "2804:7604::/32"
-    ]
-  },
-  {
-    "asn": 271085,
-    "organization": "Mega Rede Provedores de Acesso Ltda",
-    "document": "15.689.969/0001-99",
-    "ip_blocks": [
-      "179.48.108.0/22",
-      "2804:7608::/32"
     ]
   },
   {
@@ -81454,7 +81437,8 @@
     "organization": "Eudora Net Servicos TelecomunicaÃ§Ãµes Ltd",
     "document": "37.404.992/0001-22",
     "ip_blocks": [
-      "2804:96b0::/32"
+      "2804:96b0::/32",
+      "191.5.72.0/21"
     ]
   },
   {
