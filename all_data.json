@@ -14457,15 +14457,6 @@
     ]
   },
   {
-    "asn": 61911,
-    "organization": "RIDERSON MENDES BORGES - ME",
-    "document": "10.802.481/0001-02",
-    "ip_blocks": [
-      "177.136.172.0/22",
-      "2804:16b4::/32"
-    ]
-  },
-  {
     "asn": 61912,
     "organization": "UAILINK LTDA",
     "document": "12.083.907/0001-40",
@@ -24410,7 +24401,7 @@
   },
   {
     "asn": 263629,
-    "organization": "MASTER TECNOLOGIA",
+    "organization": "VIBRA ARTEFATOS LTDA",
     "document": "06.022.308/0001-14",
     "ip_blocks": [
       "179.125.40.0/21",
@@ -38513,7 +38504,8 @@
     "document": "84.591.775/0001-79",
     "ip_blocks": [
       "170.79.84.0/22",
-      "2804:3568::/32"
+      "2804:3568::/32",
+      "177.136.172.0/22"
     ]
   },
   {
@@ -42240,7 +42232,8 @@
     "ip_blocks": [
       "45.227.180.0/22",
       "2804:470c::/32",
-      "45.184.240.0/22"
+      "45.184.240.0/22",
+      "45.172.0.0/22"
     ]
   },
   {
@@ -42952,7 +42945,8 @@
     "document": "19.419.719/0001-90",
     "ip_blocks": [
       "45.229.156.0/22",
-      "2804:486c::/32"
+      "2804:486c::/32",
+      "187.17.132.0/22"
     ]
   },
   {
@@ -53900,15 +53894,6 @@
     ]
   },
   {
-    "asn": 268754,
-    "organization": "FIBER GIGA PROVEDORES DE INTERNET LTDA",
-    "document": "31.000.591/0001-20",
-    "ip_blocks": [
-      "45.172.0.0/22",
-      "2804:5a30::/32"
-    ]
-  },
-  {
     "asn": 268755,
     "organization": "Stok Info Telecom Ltda-me",
     "document": "10.240.175/0001-20",
@@ -57289,8 +57274,9 @@
     "organization": "Globalfiber Telecom LTDA",
     "document": "53.471.377/0001-95",
     "ip_blocks": [
-      "45.181.144.0/22",
-      "2804:60b4::/32"
+      "2804:60b4::/32",
+      "45.181.146.0/24",
+      "45.181.144.0/23"
     ]
   },
   {
@@ -64722,15 +64708,6 @@
     ]
   },
   {
-    "asn": 270607,
-    "organization": "POWERNET MINAS TELECOM LTDA",
-    "document": "17.908.537/0001-57",
-    "ip_blocks": [
-      "187.17.132.0/22",
-      "2804:6e98::/32"
-    ]
-  },
-  {
     "asn": 270608,
     "organization": "MATEUS FREITAS ANTONIO LTDA",
     "document": "23.891.511/0001-46",
@@ -67698,7 +67675,7 @@
   },
   {
     "asn": 270970,
-    "organization": "EMMANUEL HERCULANO PESSOA CIA LTDA",
+    "organization": "Litoral Norte Pe Telecomunicacoes LTDA",
     "document": "28.097.156/0001-51",
     "ip_blocks": [
       "177.74.108.0/22",
@@ -85161,7 +85138,8 @@
     "organization": "CASTILHOS PROVEDOR DE INTERNET LTDA",
     "document": "17.875.842/0001-90",
     "ip_blocks": [
-      "2804:97d0::/32"
+      "2804:97d0::/32",
+      "45.181.147.0/24"
     ]
   },
   {
