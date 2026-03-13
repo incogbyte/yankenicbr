@@ -2128,8 +2128,8 @@
   },
   {
     "asn": 22381,
-    "organization": "Megatelecom Telecomunicacoes Ltda",
-    "document": "03.170.027/0001-10",
+    "organization": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
+    "document": "11.620.561/0001-00",
     "ip_blocks": [
       "2804:368::/32",
       "200.150.173.0/24",
@@ -4588,12 +4588,6 @@
     "ip_blocks": []
   },
   {
-    "asn": 28320,
-    "organization": "Megatelecom Telecomunicacoes Ltda",
-    "document": "03.170.027/0001-10",
-    "ip_blocks": []
-  },
-  {
     "asn": 28321,
     "organization": "FederaÃ§Ã£o das CÃ¢maras de Dirigentes Lojistas SC",
     "document": "82.895.970/0001-67",
@@ -4652,8 +4646,8 @@
   },
   {
     "asn": 28329,
-    "organization": "Megatelecom Telecomunicacoes Ltda",
-    "document": "03.170.027/0001-10",
+    "organization": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
+    "document": "11.620.561/0001-00",
     "ip_blocks": [
       "189.50.112.0/20",
       "186.226.64.0/20",
@@ -54657,8 +54651,8 @@
   },
   {
     "asn": 268852,
-    "organization": "Megatelecom Telecomunicacoes Ltda",
-    "document": "03.170.027/0001-10",
+    "organization": "SAMM TECNOLOGIA E TELECOMUNICACOES S.A",
+    "document": "11.620.561/0001-00",
     "ip_blocks": [
       "45.174.132.0/22",
       "2804:5b84::/32"
@@ -65348,8 +65342,8 @@
   },
   {
     "asn": 270684,
-    "organization": "WEB KONECT TELECOM DE FRUTAL LTDA",
-    "document": "52.363.101/0001-20",
+    "organization": "SOLUCOES SOUZA WEB LTDA",
+    "document": "61.435.031/0001-60",
     "ip_blocks": [
       "200.187.104.0/22",
       "2804:6fc8::/32"
@@ -80745,7 +80739,7 @@
   },
   {
     "asn": 273755,
-    "organization": "Viva Net Telecom Ltda",
+    "organization": "VIVA NET TELECOM LTDA",
     "document": "37.416.262/0001-41",
     "ip_blocks": [
       "2804:8bbc::/32"
@@ -85356,6 +85350,38 @@
     "document": "43.595.969/0001-65",
     "ip_blocks": [
       "2804:9830::/32"
+    ]
+  },
+  {
+    "asn": 275675,
+    "organization": "MEGA INFRA SOLUCOES EM INFRAESTRUTURA LTDA",
+    "document": "07.525.262/0001-19",
+    "ip_blocks": [
+      "2804:9834::/32"
+    ]
+  },
+  {
+    "asn": 275676,
+    "organization": "itaconnect provedor e comercio ltda",
+    "document": "54.286.072/0001-76",
+    "ip_blocks": [
+      "2804:9838::/32"
+    ]
+  },
+  {
+    "asn": 275677,
+    "organization": "Optic Net TelecomunicaÃ§Ãµes LTDA",
+    "document": "35.420.289/0001-82",
+    "ip_blocks": [
+      "2804:983c::/32"
+    ]
+  },
+  {
+    "asn": 275678,
+    "organization": "Hard Tech Telecomunicacoes LTDA",
+    "document": "30.042.479/0001-90",
+    "ip_blocks": [
+      "2804:9840::/32"
     ]
   },
   {
