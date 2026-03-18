@@ -38887,7 +38887,7 @@
   },
   {
     "asn": 266329,
-    "organization": "TvNet Cabofriense Processamento de Dados",
+    "organization": "VIVA PROV LTDA",
     "document": "07.153.856/0001-46",
     "ip_blocks": [
       "170.238.144.0/22",
@@ -59675,7 +59675,7 @@
   },
   {
     "asn": 269477,
-    "organization": "CN-TELECOM LTDA",
+    "organization": "CN TELECOM FIBRA LTDA",
     "document": "28.549.933/0001-51",
     "ip_blocks": [
       "45.187.192.0/22",
@@ -81369,7 +81369,8 @@
     "organization": "DATASEC PROJETOS E SERVICOS DE TECNOLOGIA E SEGUR",
     "document": "13.419.016/0001-85",
     "ip_blocks": [
-      "2801:81:1c0::/48"
+      "2801:81:1c0::/48",
+      "2804:984c::/32"
     ]
   },
   {
@@ -85251,7 +85252,7 @@
   },
   {
     "asn": 275663,
-    "organization": "FABIO CARVALHO BITENCOURT 03159793567",
+    "organization": "LIVREBRAS INTERNET LTDA",
     "document": "16.790.288/0001-85",
     "ip_blocks": [
       "2804:9810::/32"
@@ -85375,6 +85376,46 @@
     "document": "30.042.479/0001-90",
     "ip_blocks": [
       "2804:9840::/32"
+    ]
+  },
+  {
+    "asn": 275679,
+    "organization": "emerson da silva campos 08058782467",
+    "document": "20.490.742/0001-50",
+    "ip_blocks": [
+      "2804:9848::/32"
+    ]
+  },
+  {
+    "asn": 275680,
+    "organization": "COG INTERNET E SEGURANÃA ELETRONICA LTDA",
+    "document": "28.088.907/0001-73",
+    "ip_blocks": [
+      "2804:9850::/32"
+    ]
+  },
+  {
+    "asn": 275681,
+    "organization": "NewLink Telecom LTDA",
+    "document": "34.300.420/0001-05",
+    "ip_blocks": [
+      "2804:9854::/32"
+    ]
+  },
+  {
+    "asn": 275682,
+    "organization": "VONO TELECOM LTDA",
+    "document": "30.842.345/0001-53",
+    "ip_blocks": [
+      "2804:9858::/32"
+    ]
+  },
+  {
+    "asn": 275683,
+    "organization": "A2NET TELECOM",
+    "document": "33.025.711/0001-70",
+    "ip_blocks": [
+      "2804:985c::/32"
     ]
   },
   {
