@@ -13116,16 +13116,6 @@
     ]
   },
   {
-    "asn": 61740,
-    "organization": "Telecab Telecomunicacoes Ltda",
-    "document": "70.317.292/0001-76",
-    "ip_blocks": [
-      "131.72.188.0/22",
-      "2804:1ba0::/32",
-      "170.245.72.0/22"
-    ]
-  },
-  {
     "asn": 61741,
     "organization": "FG INTERLIGA LTDA",
     "document": "05.096.253/0001-24",
@@ -15606,7 +15596,7 @@
   },
   {
     "asn": 262379,
-    "organization": "HZ TELECOMUNICAÃÃES E INFORMATICA LTDA",
+    "organization": "HZ TELECOM LTDA",
     "document": "06.226.061/0001-58",
     "ip_blocks": [
       "177.128.224.0/22",
@@ -30200,7 +30190,9 @@
       "138.36.4.0/22",
       "2804:219c::/32",
       "168.232.148.0/22",
-      "170.81.80.0/22"
+      "170.81.80.0/22",
+      "131.72.188.0/22",
+      "170.245.72.0/22"
     ]
   },
   {
@@ -38081,7 +38073,7 @@
   },
   {
     "asn": 266223,
-    "organization": "WALTER ELIAS VILLA",
+    "organization": "Walter Elias Villa",
     "document": "10.293.896/0001-06",
     "ip_blocks": [
       "192.140.28.0/22",
@@ -58763,8 +58755,8 @@
   },
   {
     "asn": 269364,
-    "organization": "FLAY BIRD TELECOM LTDA",
-    "document": "30.636.425/0001-52",
+    "organization": "EART NET WORK TELECOM LTDA",
+    "document": "55.368.981/0001-16",
     "ip_blocks": [
       "45.184.192.0/22",
       "2804:637c::/32"
@@ -72737,7 +72729,8 @@
     "document": "30.565.850/0001-06",
     "ip_blocks": [
       "2804:7e04::/32",
-      "179.63.12.0/22"
+      "179.63.15.0/24",
+      "179.63.12.0/23"
     ]
   },
   {
@@ -76185,7 +76178,7 @@
   },
   {
     "asn": 272607,
-    "organization": "Coelho e Silva Comercio Varejista LTDA",
+    "organization": "MARANET TELECOM PROVEDOR DE INTERNET LTDA - ME",
     "document": "41.069.390/0001-33",
     "ip_blocks": [
       "2804:85e4::/32"
@@ -84207,7 +84200,8 @@
     "document": "31.859.493/0001-43",
     "ip_blocks": [
       "2804:9340::/32",
-      "181.233.93.0/24"
+      "181.233.93.0/24",
+      "179.63.14.0/24"
     ]
   },
   {
@@ -85416,6 +85410,14 @@
     "document": "33.025.711/0001-70",
     "ip_blocks": [
       "2804:985c::/32"
+    ]
+  },
+  {
+    "asn": 275684,
+    "organization": "Pontual Net Mg TelecomunicaÃ§oes LTDA",
+    "document": "30.760.044/0001-80",
+    "ip_blocks": [
+      "2804:9860::/32"
     ]
   },
   {
