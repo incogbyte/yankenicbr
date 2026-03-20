@@ -16316,7 +16316,8 @@
     "ip_blocks": [
       "177.53.80.0/21",
       "186.249.24.0/21",
-      "2804:f1c::/32"
+      "2804:f1c::/32",
+      "45.169.68.0/22"
     ]
   },
   {
@@ -49003,15 +49004,6 @@
     "ip_blocks": [
       "45.169.48.0/22",
       "2804:586c::/32"
-    ]
-  },
-  {
-    "asn": 268129,
-    "organization": "SETORIAL TELECOMUNICACOES LTDA",
-    "document": "08.673.849/0001-38",
-    "ip_blocks": [
-      "45.169.68.0/22",
-      "2804:5870::/32"
     ]
   },
   {
@@ -85418,6 +85410,22 @@
     "document": "30.760.044/0001-80",
     "ip_blocks": [
       "2804:9860::/32"
+    ]
+  },
+  {
+    "asn": 275685,
+    "organization": "1GLOBAL OPERATIONS (BRAZIL) LTDA",
+    "document": "55.961.710/0001-70",
+    "ip_blocks": [
+      "2804:9864::/32"
+    ]
+  },
+  {
+    "asn": 275686,
+    "organization": "FUNDACAO MUNICIPAL DE TI E COMUNICACAO DE CANOAS",
+    "document": "15.077.871/0001-80",
+    "ip_blocks": [
+      "2801:81:240::/48"
     ]
   },
   {
