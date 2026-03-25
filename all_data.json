@@ -19678,7 +19678,9 @@
       "2804:5284::/32",
       "45.162.160.0/22",
       "45.164.192.0/22",
-      "2804:5460::/32"
+      "2804:5460::/32",
+      "192.140.104.0/22",
+      "2804:3d3c::/32"
     ]
   },
   {
@@ -38325,15 +38327,6 @@
     ]
   },
   {
-    "asn": 266262,
-    "organization": "BRASIL TECPAR AMIGO AVATO",
-    "document": "07.756.651/0001-55",
-    "ip_blocks": [
-      "192.140.104.0/22",
-      "2804:3d3c::/32"
-    ]
-  },
-  {
     "asn": 266265,
     "organization": "ABEL F DOS SANTOS - ME",
     "document": "10.673.844/0001-57",
@@ -45200,8 +45193,9 @@
     "organization": "Inova ServiÃ§os em Tecnologia Comercail Ltda - Me.",
     "document": "06.213.662/0001-26",
     "ip_blocks": [
-      "45.234.204.0/22",
-      "2804:4cf4::/32"
+      "2804:4cf4::/32",
+      "45.234.204.0/24",
+      "45.234.206.0/23"
     ]
   },
   {
@@ -81626,7 +81620,8 @@
     "organization": "LIDER TELECOM",
     "document": "32.641.546/0001-18",
     "ip_blocks": [
-      "2804:9714::/32"
+      "2804:9714::/32",
+      "45.234.205.0/24"
     ]
   },
   {
@@ -85444,6 +85439,150 @@
     "ip_blocks": [
       "2804:986c::/32"
     ]
+  },
+  {
+    "asn": 275689,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275690,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275691,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275692,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275693,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275694,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275695,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275696,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275697,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275698,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275699,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275700,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275701,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275702,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275703,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275704,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275705,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275706,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275707,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275708,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275709,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275710,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275711,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275712,
+    "organization": "Internet Systems Consortium",
+    "document": "10996639",
+    "ip_blocks": []
   },
   {
     "asn": 395055,
