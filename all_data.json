@@ -28085,7 +28085,8 @@
       "138.121.24.0/22",
       "2804:2558::/32",
       "168.232.188.0/22",
-      "45.174.152.0/22"
+      "45.174.152.0/22",
+      "181.233.56.0/22"
     ]
   },
   {
@@ -64284,7 +64285,7 @@
   },
   {
     "asn": 270561,
-    "organization": "Via Fios - Via Fibra Ãtica Service",
+    "organization": "Zeloxicom Servicos LTDA",
     "document": "44.494.332/0001-45",
     "ip_blocks": [
       "189.85.116.0/22",
@@ -71470,15 +71471,6 @@
     "ip_blocks": [
       "2804:7b7c::/32",
       "170.247.60.0/22"
-    ]
-  },
-  {
-    "asn": 271436,
-    "organization": "LH CORA DA SILVEIRA LTDA",
-    "document": "26.677.212/0001-00",
-    "ip_blocks": [
-      "2804:7b84::/32",
-      "181.233.56.0/22"
     ]
   },
   {
@@ -85593,6 +85585,14 @@
     "document": "27.125.404/0001-68",
     "ip_blocks": [
       "2804:9878::/32"
+    ]
+  },
+  {
+    "asn": 275716,
+    "organization": "SS TREINAMENTO E CONSULTORIA LTDA",
+    "document": "50.391.687/0001-01",
+    "ip_blocks": [
+      "2804:987c::/32"
     ]
   },
   {
