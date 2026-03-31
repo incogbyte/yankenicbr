@@ -6070,7 +6070,8 @@
     "document": "06.943.198/0001-23",
     "ip_blocks": [
       "2804:3414::/32",
-      "189.1.160.0/21"
+      "189.1.160.0/21",
+      "103.151.110.0/23"
     ]
   },
   {
@@ -12242,7 +12243,7 @@
   },
   {
     "asn": 61618,
-    "organization": "VIVA TECNOLOGIA TELECOM LTDA",
+    "organization": "VIVA TECNOLOGIA TELECOMUNICACOES LTDA",
     "document": "23.049.480/0001-80",
     "ip_blocks": [
       "170.81.100.0/22",
@@ -20099,7 +20100,8 @@
     "ip_blocks": [
       "186.219.176.0/21",
       "2804:9d0::/32",
-      "143.0.112.0/22"
+      "143.0.112.0/22",
+      "177.70.248.0/22"
     ]
   },
   {
@@ -35055,7 +35057,7 @@
   },
   {
     "asn": 265440,
-    "organization": "Telnet Sistemas e ComunicaÃ§Ãµes",
+    "organization": "TELNET LOGISTICA E TECNOLOGIA LTDA",
     "document": "06.936.516/0001-29",
     "ip_blocks": [
       "168.194.200.0/22",
@@ -48397,7 +48399,7 @@
   },
   {
     "asn": 268060,
-    "organization": "FUNNY TELECOM LTDA",
+    "organization": "MCMZ TELECOM LTDA",
     "document": "29.002.644/0001-09",
     "ip_blocks": [
       "45.168.120.0/22",
@@ -57831,7 +57833,7 @@
   },
   {
     "asn": 269252,
-    "organization": "INFORTEL PROVEDOR LTDA",
+    "organization": "INFORTEL SERVICOS LTDA",
     "document": "19.231.556/0001-17",
     "ip_blocks": [
       "45.181.220.0/22",
@@ -64829,15 +64831,6 @@
     ]
   },
   {
-    "asn": 270628,
-    "organization": "PRLINK TELECOMUNICACAO LTDA",
-    "document": "32.797.794/0001-52",
-    "ip_blocks": [
-      "177.70.248.0/22",
-      "2804:6ef0::/32"
-    ]
-  },
-  {
     "asn": 270630,
     "organization": "LOLNET TELECOMUNICAÃÃES",
     "document": "29.880.409/0001-21",
@@ -66609,7 +66602,7 @@
   },
   {
     "asn": 270843,
-    "organization": "FCPI PROVEDORES DE INTERNET EIRELI",
+    "organization": "NET3 WIFI SERVICOS E INTERNET LTDA",
     "document": "35.224.512/0001-16",
     "ip_blocks": [
       "190.115.192.0/22",
@@ -80505,7 +80498,7 @@
   },
   {
     "asn": 273728,
-    "organization": "Z M Lisboa dos Santos Eireli",
+    "organization": "LIFELIFE TELECOM LTDA",
     "document": "35.343.561/0001-78",
     "ip_blocks": [
       "2804:8b5c::/32"
@@ -82025,7 +82018,7 @@
   },
   {
     "asn": 274500,
-    "organization": "TIAGO FERNANDES DA SILVA ME",
+    "organization": "MASTER LINK NET LTDA",
     "document": "12.737.181/0001-12",
     "ip_blocks": [
       "2804:9520::/32",
@@ -85593,6 +85586,14 @@
     "document": "50.391.687/0001-01",
     "ip_blocks": [
       "2804:987c::/32"
+    ]
+  },
+  {
+    "asn": 275717,
+    "organization": "TFIBRA INTERNET LTDA",
+    "document": "42.528.473/0001-06",
+    "ip_blocks": [
+      "2804:9880::/32"
     ]
   },
   {
