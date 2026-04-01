@@ -42651,8 +42651,9 @@
     "organization": "MUNDO ONLINE",
     "document": "25.019.905/0001-34",
     "ip_blocks": [
-      "45.227.44.0/22",
-      "2804:47d4::/32"
+      "2804:47d4::/32",
+      "45.227.44.0/23",
+      "45.227.47.0/24"
     ]
   },
   {
@@ -81319,7 +81320,6 @@
     "organization": "DATASEC PROJETOS E SERVICOS DE TECNOLOGIA E SEGUR",
     "document": "13.419.016/0001-85",
     "ip_blocks": [
-      "2801:81:1c0::/48",
       "2804:984c::/32"
     ]
   },
@@ -85297,7 +85297,8 @@
     "organization": "A S GOMES TELECOM LTDA",
     "document": "43.595.969/0001-65",
     "ip_blocks": [
-      "2804:9830::/32"
+      "2804:9830::/32",
+      "45.227.46.0/24"
     ]
   },
   {
@@ -85594,6 +85595,22 @@
     "document": "42.528.473/0001-06",
     "ip_blocks": [
       "2804:9880::/32"
+    ]
+  },
+  {
+    "asn": 275718,
+    "organization": "RAPOSO FIBRA LTDA",
+    "document": "57.625.110/0001-66",
+    "ip_blocks": [
+      "2804:9884::/32"
+    ]
+  },
+  {
+    "asn": 275719,
+    "organization": "EscalaSoft Tecnologia Ltda Me",
+    "document": "11.604.954/0001-20",
+    "ip_blocks": [
+      "2801:81:250::/48"
     ]
   },
   {
