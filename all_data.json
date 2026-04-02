@@ -17611,8 +17611,8 @@
   },
   {
     "asn": 262623,
-    "organization": "claudio jose lara -me",
-    "document": "07.326.393/0001-77",
+    "organization": "NETSALTO PROVEDOR DE ACESSO A INTERNET LTDA",
+    "document": "12.833.623/0001-24",
     "ip_blocks": [
       "177.86.64.0/22"
     ]
@@ -17918,8 +17918,8 @@
   },
   {
     "asn": 262667,
-    "organization": "Tendencia InformaÃ§Ãµes e Sistemas Ltda",
-    "document": "00.896.571/0001-56",
+    "organization": "GRUPOCARD COMERCIO DE CARTOES TELEFONICOS LTDA",
+    "document": "09.427.183/0001-09",
     "ip_blocks": [
       "2804:120::/32",
       "187.63.112.0/21"
@@ -37952,7 +37952,7 @@
   },
   {
     "asn": 266208,
-    "organization": "Allfiber Telecom ServiÃ§os de TelecomunicaÃ§Ãµes",
+    "organization": "Allfiber Telecom-Servicos de Telecomunicacoes-Ltda",
     "document": "23.150.425/0001-82",
     "ip_blocks": [
       "192.140.40.0/22",
