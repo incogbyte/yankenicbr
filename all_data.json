@@ -18013,8 +18013,8 @@
   },
   {
     "asn": 262679,
-    "organization": "Secretaria de Fazenda de Mato Grosso do Sul",
-    "document": "02.935.843/0001-05",
+    "organization": "Governo do Estado de Mato Grosso do Sul",
+    "document": "15.412.257/0001-28",
     "ip_blocks": [
       "187.86.224.0/20",
       "2804:1f34::/32"
@@ -55561,15 +55561,6 @@
     ]
   },
   {
-    "asn": 268972,
-    "organization": "ERBCOM TELECOMUNICACOES EIRELI - ME",
-    "document": "22.043.991/0001-22",
-    "ip_blocks": [
-      "45.176.212.0/22",
-      "2804:5d70::/32"
-    ]
-  },
-  {
     "asn": 268973,
     "organization": "CARVALHOS SERVIÃOS DE INFORMATICA LTDA - ME",
     "document": "20.069.687/0001-29",
@@ -67636,8 +67627,8 @@
   },
   {
     "asn": 270970,
-    "organization": "Litoral Norte Pe Telecomunicacoes LTDA",
-    "document": "28.097.156/0001-51",
+    "organization": "Likenet ServiÃ§os de ComunicaÃ§Ã£o MultimÃ­dia LTDA",
+    "document": "62.631.263/0001-56",
     "ip_blocks": [
       "177.74.108.0/22",
       "2804:7444::/32"
@@ -68775,8 +68766,8 @@
   },
   {
     "asn": 271108,
-    "organization": "HBA TELECOM LTDA - ME",
-    "document": "23.743.621/0001-60",
+    "organization": "As InformÃ¡tica LTDA",
+    "document": "29.021.525/0001-95",
     "ip_blocks": [
       "45.228.200.0/23",
       "2804:7660::/32"
@@ -84326,14 +84317,6 @@
     ]
   },
   {
-    "asn": 274786,
-    "organization": "TF TELECOM LTDA",
-    "document": "36.985.470/0001-07",
-    "ip_blocks": [
-      "2804:93a8::/32"
-    ]
-  },
-  {
     "asn": 274787,
     "organization": "MÃ¡xima Telecom",
     "document": "34.447.134/0001-77",
@@ -84815,7 +84798,8 @@
     "organization": "ALTA - AmÃ©rica Latina TelecomunicaÃ§Ãµes AvanÃ§adas",
     "document": "02.282.923/0001-09",
     "ip_blocks": [
-      "2804:974c::/32"
+      "2804:974c::/32",
+      "45.176.212.0/22"
     ]
   },
   {
@@ -85611,6 +85595,22 @@
     "document": "11.604.954/0001-20",
     "ip_blocks": [
       "2801:81:250::/48"
+    ]
+  },
+  {
+    "asn": 275720,
+    "organization": "UP FIBRA TELECOMUNICACOES LTDA - UP FIBRA NET",
+    "document": "49.451.557/0001-38",
+    "ip_blocks": [
+      "2804:9888::/32"
+    ]
+  },
+  {
+    "asn": 275721,
+    "organization": "WN DA SILVA",
+    "document": "26.156.006/0001-46",
+    "ip_blocks": [
+      "2804:988c::/32"
     ]
   },
   {
