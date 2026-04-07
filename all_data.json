@@ -55337,7 +55337,8 @@
     "document": "29.101.555/0001-01",
     "ip_blocks": [
       "45.176.144.0/22",
-      "2804:5d00::/32"
+      "2804:5d00::/32",
+      "45.190.0.0/22"
     ]
   },
   {
@@ -59417,7 +59418,7 @@
   },
   {
     "asn": 269450,
-    "organization": "F. A da Mota ME",
+    "organization": "MOTA TELECOM LTDA",
     "document": "12.461.440/0001-25",
     "ip_blocks": [
       "45.187.28.0/22",
@@ -60679,15 +60680,6 @@
     "ip_blocks": [
       "45.189.244.0/22",
       "2804:6720::/32"
-    ]
-  },
-  {
-    "asn": 269606,
-    "organization": "DIGIPLUS INTERNET LTDA",
-    "document": "30.462.841/0001-81",
-    "ip_blocks": [
-      "45.190.0.0/22",
-      "2804:6724::/32"
     ]
   },
   {
@@ -74609,7 +74601,7 @@
   },
   {
     "asn": 272253,
-    "organization": "FERNANDO ALVES AUTOMACAO",
+    "organization": "FLASH PROVEDOR DE INTERNET LTDA",
     "document": "11.182.772/0001-08",
     "ip_blocks": [
       "2804:8450::/32"
@@ -85611,6 +85603,22 @@
     "document": "26.156.006/0001-46",
     "ip_blocks": [
       "2804:988c::/32"
+    ]
+  },
+  {
+    "asn": 275722,
+    "organization": "NEXT LEVEL TELECOM LTDA",
+    "document": "20.877.748/0001-84",
+    "ip_blocks": [
+      "2804:9890::/32"
+    ]
+  },
+  {
+    "asn": 275723,
+    "organization": "Ademir Sulzenco Cia LTDA",
+    "document": "34.710.609/0001-76",
+    "ip_blocks": [
+      "2804:9894::/32"
     ]
   },
   {
