@@ -11275,7 +11275,7 @@
   },
   {
     "asn": 53181,
-    "organization": "K2 Telecom e Multimidia LTDA ME",
+    "organization": "Avanca Telecom e Servicos LTDA",
     "document": "07.426.946/0001-63",
     "ip_blocks": [
       "201.33.160.0/20",
@@ -20559,8 +20559,8 @@
   },
   {
     "asn": 263053,
-    "organization": "Paulinianet Telecom",
-    "document": "08.676.429/0001-05",
+    "organization": "LG2NET LTDA",
+    "document": "52.547.655/0001-88",
     "ip_blocks": [
       "177.137.128.0/20",
       "2804:920::/32"
@@ -25889,7 +25889,8 @@
       "170.245.120.0/22",
       "191.37.2.0/23",
       "191.37.6.0/24",
-      "177.72.216.0/22"
+      "177.72.216.0/22",
+      "45.232.244.0/22"
     ]
   },
   {
@@ -26129,7 +26130,7 @@
   },
   {
     "asn": 264011,
-    "organization": "TREND CONNECT",
+    "organization": "A. MORAIS DE SÃ FERREIRA",
     "document": "01.153.280/0001-30",
     "ip_blocks": [
       "143.0.136.0/22",
@@ -28206,8 +28207,7 @@
       "177.107.16.0/21",
       "177.107.24.0/22",
       "177.107.28.0/23",
-      "177.107.30.0/24",
-      "45.232.244.0/22"
+      "177.107.30.0/24"
     ]
   },
   {
@@ -42788,7 +42788,8 @@
     "document": "17.707.775/0001-02",
     "ip_blocks": [
       "45.228.32.0/22",
-      "2804:4828::/32"
+      "2804:4828::/32",
+      "181.192.112.0/22"
     ]
   },
   {
@@ -65383,15 +65384,6 @@
     ]
   },
   {
-    "asn": 270695,
-    "organization": "JULIANO DIVINO SIQUEIRA - ME",
-    "document": "08.961.733/0001-02",
-    "ip_blocks": [
-      "181.192.112.0/22",
-      "2804:6fec::/32"
-    ]
-  },
-  {
     "asn": 270697,
     "organization": "BTEC TELECOM EIRELI",
     "document": "18.094.248/0001-24",
@@ -85619,6 +85611,30 @@
     "document": "34.710.609/0001-76",
     "ip_blocks": [
       "2804:9894::/32"
+    ]
+  },
+  {
+    "asn": 275724,
+    "organization": "CELIO DOMINGOS CABRAL DOS SANTOS",
+    "document": "02.183.438/0001-88",
+    "ip_blocks": [
+      "2804:9898::/32"
+    ]
+  },
+  {
+    "asn": 275725,
+    "organization": "CTS SERVICOS DE COMUNICACAO LTDA",
+    "document": "60.570.699/0001-57",
+    "ip_blocks": [
+      "2804:989c::/32"
+    ]
+  },
+  {
+    "asn": 275726,
+    "organization": "j a aguiar",
+    "document": "24.240.169/0001-87",
+    "ip_blocks": [
+      "2804:98a0::/32"
     ]
   },
   {
