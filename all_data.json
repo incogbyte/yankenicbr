@@ -825,8 +825,11 @@
     "organization": "CIA. DE TECNOL. DA INFOR. E COMUNICAÃÃO DO PARANÃ",
     "document": "76.545.011/0001-19",
     "ip_blocks": [
-      "200.201.0.0/17",
-      "2804:5ac::/32"
+      "2804:5ac::/32",
+      "200.201.0.0/21",
+      "200.201.40.0/21",
+      "200.201.48.0/20",
+      "200.201.64.0/18"
     ]
   },
   {
@@ -12319,7 +12322,10 @@
     "organization": "UNIVERSIDADE ESTADUAL DE PONTA GROSSA",
     "document": "80.257.355/0001-08",
     "ip_blocks": [
-      "2804:1f5e::/32"
+      "2804:1f5e::/32",
+      "200.201.8.0/21",
+      "200.201.16.0/20",
+      "200.201.32.0/21"
     ]
   },
   {
@@ -30615,8 +30621,8 @@
   },
   {
     "asn": 264874,
-    "organization": "A G DOS SANTOS LIMA ME",
-    "document": "18.975.553/0001-25",
+    "organization": "V. COMNET TELECOM LTDA",
+    "document": "46.051.727/0001-07",
     "ip_blocks": [
       "168.227.64.0/22",
       "2804:2f24::/32"
@@ -46515,7 +46521,7 @@
   },
   {
     "asn": 267566,
-    "organization": "EMERSON FREITAS MOTA",
+    "organization": "Quality Telecom",
     "document": "22.486.030/0001-92",
     "ip_blocks": [
       "45.70.64.0/22",
@@ -85635,6 +85641,14 @@
     "document": "24.240.169/0001-87",
     "ip_blocks": [
       "2804:98a0::/32"
+    ]
+  },
+  {
+    "asn": 275727,
+    "organization": "SASS.NET INFORMATICA LTDA",
+    "document": "12.468.282/0001-35",
+    "ip_blocks": [
+      "2804:98a4::/32"
     ]
   },
   {
