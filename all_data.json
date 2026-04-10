@@ -37790,7 +37790,7 @@
   },
   {
     "asn": 266188,
-    "organization": "A M TELECOM LTDA",
+    "organization": "HM TELECOM LTDA",
     "document": "09.153.955/0001-53",
     "ip_blocks": [
       "160.20.200.0/22",
@@ -40994,7 +40994,7 @@
   },
   {
     "asn": 266606,
-    "organization": "VSTNETFIBER TELECOM",
+    "organization": "VALMIR JORGE VOISKI",
     "document": "77.617.363/0001-03",
     "ip_blocks": [
       "45.7.12.0/22",
@@ -85649,6 +85649,14 @@
     "document": "12.468.282/0001-35",
     "ip_blocks": [
       "2804:98a4::/32"
+    ]
+  },
+  {
+    "asn": 275728,
+    "organization": "DIMENSIVA TECNOLOGIA LTDA",
+    "document": "26.222.835/0001-80",
+    "ip_blocks": [
+      "2804:98a8::/32"
     ]
   },
   {
