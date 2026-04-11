@@ -38743,7 +38743,8 @@
       "170.238.56.0/22",
       "2804:35e0::/32",
       "181.224.52.0/22",
-      "189.90.232.0/22"
+      "189.90.232.0/22",
+      "179.51.130.0/23"
     ]
   },
   {
@@ -56067,8 +56068,8 @@
   },
   {
     "asn": 269036,
-    "organization": "ATEX NET TELECOMUNICACOES LTDA",
-    "document": "31.296.054/0001-70",
+    "organization": "DB3 SERVICOS DE TELECOMUNICACOES S.A",
+    "document": "41.644.220/0001-35",
     "ip_blocks": [
       "45.178.172.0/22",
       "2804:5e7c::/32",
@@ -69424,8 +69425,8 @@
     "organization": "QUALITY TELECOMUNICACOES LTDA",
     "document": "31.947.975/0001-55",
     "ip_blocks": [
-      "179.51.128.0/22",
-      "2804:77a8::/32"
+      "2804:77a8::/32",
+      "179.51.128.0/23"
     ]
   },
   {
@@ -85657,6 +85658,22 @@
     "document": "26.222.835/0001-80",
     "ip_blocks": [
       "2804:98a8::/32"
+    ]
+  },
+  {
+    "asn": 275729,
+    "organization": "SPOTNET TECNOLOGIA DE TELECOMUNICACOES LTDA",
+    "document": "37.748.069/0001-08",
+    "ip_blocks": [
+      "2804:98ac::/32"
+    ]
+  },
+  {
+    "asn": 275730,
+    "organization": "king fibra",
+    "document": "36.500.174/0001-60",
+    "ip_blocks": [
+      "2804:98b0::/32"
     ]
   },
   {
