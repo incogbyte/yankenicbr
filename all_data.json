@@ -10566,14 +10566,6 @@
     ]
   },
   {
-    "asn": 53084,
-    "organization": "CM Informatica Ltda",
-    "document": "02.274.649/0001-26",
-    "ip_blocks": [
-      "2804:98::/32"
-    ]
-  },
-  {
     "asn": 53085,
     "organization": "VERO S.A",
     "document": "31.748.174/0001-60",
@@ -15803,8 +15795,7 @@
     "ip_blocks": [
       "177.38.80.0/21",
       "2804:3d8::/32",
-      "177.47.64.0/20",
-      "177.38.88.0/22"
+      "177.47.64.0/20"
     ]
   },
   {
@@ -28849,7 +28840,8 @@
       "131.108.172.0/22",
       "2804:1db0::/32",
       "168.197.80.0/22",
-      "45.6.240.0/23"
+      "45.6.240.0/23",
+      "177.38.88.0/22"
     ]
   },
   {
@@ -66259,8 +66251,8 @@
   },
   {
     "asn": 270805,
-    "organization": "AJF TELECOM",
-    "document": "14.917.335/0001-83",
+    "organization": "IPVDATA TECNOLOGIA E COMPUTACAO EM NUVEM LTDA",
+    "document": "52.875.720/0001-02",
     "ip_blocks": [
       "200.219.8.0/22",
       "2804:71b0::/32"
@@ -69439,15 +69431,6 @@
     ]
   },
   {
-    "asn": 271193,
-    "organization": "Meganet Telecomumicacoes Ltda",
-    "document": "13.639.131/0001-65",
-    "ip_blocks": [
-      "179.49.144.0/22",
-      "2804:77b0::/32"
-    ]
-  },
-  {
     "asn": 271194,
     "organization": "online telecomunicaÃ§Ãµes eirele",
     "document": "27.724.097/0001-31",
@@ -69653,15 +69636,6 @@
     "ip_blocks": [
       "177.10.136.0/22",
       "2804:7810::/32"
-    ]
-  },
-  {
-    "asn": 271219,
-    "organization": "T T connect TelecomunicaÃ§Ãµes",
-    "document": "31.258.881/0001-79",
-    "ip_blocks": [
-      "179.49.240.0/22",
-      "2804:7814::/32"
     ]
   },
   {
@@ -71032,14 +71006,6 @@
     "ip_blocks": [
       "2804:7aac::/32",
       "200.4.96.0/22"
-    ]
-  },
-  {
-    "asn": 271386,
-    "organization": "IMPACTUS NET LTDA",
-    "document": "07.970.058/0001-07",
-    "ip_blocks": [
-      "2804:7ab0::/32"
     ]
   },
   {
@@ -74559,14 +74525,6 @@
     ]
   },
   {
-    "asn": 272247,
-    "organization": "C. A. NUNES MELCHIADES - EIRELI - ME",
-    "document": "27.486.095/0001-51",
-    "ip_blocks": [
-      "2804:8438::/32"
-    ]
-  },
-  {
     "asn": 272248,
     "organization": "R F DINIZ COMERCIO E SERVICOS EIREL",
     "document": "12.347.287/0001-00",
@@ -74687,27 +74645,11 @@
     ]
   },
   {
-    "asn": 272269,
-    "organization": "POLAR NETWORK",
-    "document": "36.254.437/0001-07",
-    "ip_blocks": [
-      "2804:8494::/32"
-    ]
-  },
-  {
     "asn": 272270,
     "organization": "JMS LIMA SERVIÃOS DE COMUNICAÃÃO EIRELI",
     "document": "34.210.838/0001-21",
     "ip_blocks": [
       "2804:8498::/32"
-    ]
-  },
-  {
-    "asn": 272271,
-    "organization": "SALVADORTECH TELECOMUNICACOES",
-    "document": "29.098.317/0001-94",
-    "ip_blocks": [
-      "2804:849c::/32"
     ]
   },
   {
@@ -77186,14 +77128,6 @@
     ]
   },
   {
-    "asn": 272773,
-    "organization": "BOA CONEXAO TELECOMUNICACAO LTDA",
-    "document": "40.617.249/0001-65",
-    "ip_blocks": [
-      "2804:8878::/32"
-    ]
-  },
-  {
     "asn": 272774,
     "organization": "Glauber Santos de Novaes ME - IRAQUARANET FIBRA",
     "document": "09.224.095/0001-00",
@@ -77223,22 +77157,6 @@
     "document": "21.360.390/0001-80",
     "ip_blocks": [
       "2804:8888::/32"
-    ]
-  },
-  {
-    "asn": 272778,
-    "organization": "MODELO NET PROVEDOR DE INTERNET LTDA",
-    "document": "39.531.798/0001-33",
-    "ip_blocks": [
-      "2804:888c::/32"
-    ]
-  },
-  {
-    "asn": 272779,
-    "organization": "Horizon Telecom LTDA",
-    "document": "10.662.135/0001-76",
-    "ip_blocks": [
-      "2804:8890::/32"
     ]
   },
   {
@@ -77837,14 +77755,6 @@
     ]
   },
   {
-    "asn": 273374,
-    "organization": "BLACK FIBRA TELECOM LTDA",
-    "document": "43.616.213/0001-55",
-    "ip_blocks": [
-      "2804:8db0::/32"
-    ]
-  },
-  {
     "asn": 273375,
     "organization": "EWERTON DA SILVA LOPES SERVICOS DE PROVEDORES",
     "document": "33.715.102/0001-42",
@@ -77941,14 +77851,6 @@
     "document": "25.532.865/0001-20",
     "ip_blocks": [
       "2804:8de0::/32"
-    ]
-  },
-  {
-    "asn": 273388,
-    "organization": "Pienet telecomunicaÃ§Ãµes LTDA",
-    "document": "30.254.058/0001-22",
-    "ip_blocks": [
-      "2804:8de4::/32"
     ]
   },
   {
@@ -79309,14 +79211,6 @@
     ]
   },
   {
-    "asn": 273559,
-    "organization": "J B ALVES BARBOSA",
-    "document": "28.950.055/0001-81",
-    "ip_blocks": [
-      "2804:908c::/32"
-    ]
-  },
-  {
     "asn": 273560,
     "organization": "NIVALDO JOSE DE OLIVEIRA",
     "document": "12.112.195/0001-40",
@@ -79605,14 +79499,6 @@
     ]
   },
   {
-    "asn": 273604,
-    "organization": "FREITAS SOUTO SERVICOS DE INTERNET LTDA",
-    "document": "35.132.777/0001-94",
-    "ip_blocks": [
-      "2804:8970::/32"
-    ]
-  },
-  {
     "asn": 273605,
     "organization": "GT CONECT NETWORK TELECOMUNICAÃÃES",
     "document": "20.745.686/0001-57",
@@ -79770,14 +79656,6 @@
     "document": "33.226.938/0001-83",
     "ip_blocks": [
       "2804:89c8::/32"
-    ]
-  },
-  {
-    "asn": 273627,
-    "organization": "OPTA INTERNET VIA FIBRA LTDA",
-    "document": "37.305.958/0001-09",
-    "ip_blocks": [
-      "2804:89cc::/32"
     ]
   },
   {
@@ -82769,14 +82647,6 @@
     ]
   },
   {
-    "asn": 274595,
-    "organization": "TDI TECNOLOGIA",
-    "document": "12.718.247/0001-27",
-    "ip_blocks": [
-      "2804:90b4::/32"
-    ]
-  },
-  {
     "asn": 274597,
     "organization": "Leal Net",
     "document": "42.329.916/0001-30",
@@ -83159,14 +83029,6 @@
     ]
   },
   {
-    "asn": 274645,
-    "organization": "P P A CARVALHO SERVICOS DE COMUNICACAO",
-    "document": "45.968.610/0001-11",
-    "ip_blocks": [
-      "2804:9180::/32"
-    ]
-  },
-  {
     "asn": 274646,
     "organization": "EDILSON M DE ARAUJO",
     "document": "21.510.812/0001-57",
@@ -83213,14 +83075,6 @@
     "document": "26.316.820/0001-80",
     "ip_blocks": [
       "2801:81:70::/48"
-    ]
-  },
-  {
-    "asn": 274652,
-    "organization": "STARTLINK TELECOM",
-    "document": "39.555.455/0001-09",
-    "ip_blocks": [
-      "2804:9198::/32"
     ]
   },
   {
@@ -83323,28 +83177,12 @@
     ]
   },
   {
-    "asn": 274666,
-    "organization": "Silva - Comunicacoes de Midias LTDA",
-    "document": "45.252.928/0001-00",
-    "ip_blocks": [
-      "2804:91d0::/32"
-    ]
-  },
-  {
     "asn": 274667,
     "organization": "O3 CLOUD SOLUCOES EM TECNOLOGIA LTDA",
     "document": "56.777.698/0001-00",
     "ip_blocks": [
       "2801:81:80::/48",
       "192.141.160.0/24"
-    ]
-  },
-  {
-    "asn": 274668,
-    "organization": "L V DOS SANTOS CARDOSO - COMUNICACOES",
-    "document": "29.995.005/0001-83",
-    "ip_blocks": [
-      "2804:91d4::/32"
     ]
   },
   {
@@ -83490,14 +83328,6 @@
     ]
   },
   {
-    "asn": 274686,
-    "organization": "KIWI INTERNET LTDA",
-    "document": "50.441.704/0001-78",
-    "ip_blocks": [
-      "2804:920c::/32"
-    ]
-  },
-  {
     "asn": 274687,
     "organization": "ROMARIO DIAS DE CASTRO - ME",
     "document": "18.846.425/0001-81",
@@ -83610,14 +83440,6 @@
     "document": "42.303.521/0001-68",
     "ip_blocks": [
       "2804:9244::/32"
-    ]
-  },
-  {
-    "asn": 274701,
-    "organization": "GoCloud SoluÃ§Ãµes em Nuvem S/A",
-    "document": "46.136.357/0001-00",
-    "ip_blocks": [
-      "2804:9248::/32"
     ]
   },
   {
@@ -85558,7 +85380,7 @@
   },
   {
     "asn": 275716,
-    "organization": "SS TREINAMENTO E CONSULTORIA LTDA",
+    "organization": "Vertix Tecnologia SoluÃ§Ãµes em Cloud",
     "document": "50.391.687/0001-01",
     "ip_blocks": [
       "2804:987c::/32"
@@ -85674,6 +85496,14 @@
     "document": "36.500.174/0001-60",
     "ip_blocks": [
       "2804:98b0::/32"
+    ]
+  },
+  {
+    "asn": 275731,
+    "organization": "UC2B SERVICOS DE TECNOLOGIA DA INFORMACAO LTDA",
+    "document": "26.168.845/0001-84",
+    "ip_blocks": [
+      "2804:98b4::/32"
     ]
   },
   {
