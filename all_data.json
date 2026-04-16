@@ -9591,9 +9591,9 @@
     "organization": "Vipnet Baixada Telecom. e InformÃ¡tica Ltda",
     "document": "08.885.393/0001-70",
     "ip_blocks": [
-      "177.11.0.0/21",
       "2804:31c::/32",
-      "179.97.48.0/20"
+      "179.97.48.0/20",
+      "177.11.0.0/22"
     ]
   },
   {
@@ -75582,7 +75582,7 @@
   },
   {
     "asn": 272571,
-    "organization": "JMG NET LTDA",
+    "organization": "JMG TELECOM",
     "document": "33.909.361/0001-04",
     "ip_blocks": [
       "2804:8550::/32"
@@ -83313,7 +83313,8 @@
     "organization": "Megalink Provedor e InformÃ¡tica LTDA",
     "document": "12.123.362/0001-59",
     "ip_blocks": [
-      "2804:92b0::/32"
+      "2804:92b0::/32",
+      "177.11.4.0/22"
     ]
   },
   {
@@ -85176,6 +85177,30 @@
     "document": "64.337.006/0001-31",
     "ip_blocks": [
       "2804:98b8::/32"
+    ]
+  },
+  {
+    "asn": 275733,
+    "organization": "FUTUROSTAR TV E INTERNET LTDA",
+    "document": "56.977.486/0001-77",
+    "ip_blocks": [
+      "2804:98bc::/32"
+    ]
+  },
+  {
+    "asn": 275734,
+    "organization": "Vds Telecom LTDA",
+    "document": "32.434.787/0001-96",
+    "ip_blocks": [
+      "2804:98c0::/32"
+    ]
+  },
+  {
+    "asn": 275735,
+    "organization": "Premier Internet Fibra LTDA",
+    "document": "52.913.915/0001-91",
+    "ip_blocks": [
+      "2804:98c4::/32"
     ]
   },
   {
