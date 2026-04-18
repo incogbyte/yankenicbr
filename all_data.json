@@ -2693,8 +2693,7 @@
       "191.128.128.0/18",
       "191.227.129.0/24",
       "191.227.130.0/23",
-      "191.160.40.0/23",
-      "191.160.44.0/22"
+      "191.160.40.0/23"
     ]
   },
   {
@@ -5059,7 +5058,7 @@
   },
   {
     "asn": 28362,
-    "organization": "Onda Internet",
+    "organization": "ONDA INTERNET LTDA",
     "document": "03.479.494/0001-27",
     "ip_blocks": [
       "189.84.0.0/20",
@@ -7972,6 +7971,16 @@
       "138.94.228.0/22",
       "170.233.8.0/22",
       "170.246.4.0/22"
+    ]
+  },
+  {
+    "asn": 52752,
+    "organization": "Vegas Telecom InformÃ¡tica Ltda.",
+    "document": "10.501.017/0001-86",
+    "ip_blocks": [
+      "177.155.160.0/20",
+      "2804:11e8::/32",
+      "189.76.64.0/20"
     ]
   },
   {
@@ -26887,7 +26896,8 @@
       "2804:22c0::/32",
       "177.12.128.0/22",
       "189.89.240.0/24",
-      "181.232.224.0/23"
+      "181.232.224.0/23",
+      "191.160.44.0/22"
     ]
   },
   {
@@ -28754,6 +28764,15 @@
       "131.100.144.0/22",
       "177.11.56.0/22",
       "201.149.100.0/22"
+    ]
+  },
+  {
+    "asn": 264384,
+    "organization": "LINEJET SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "19.595.804/0001-09",
+    "ip_blocks": [
+      "131.161.176.0/22",
+      "2804:1da8::/32"
     ]
   },
   {
@@ -39480,7 +39499,8 @@
     "document": "08.581.250/0001-74",
     "ip_blocks": [
       "170.81.108.0/22",
-      "2804:3774::/32"
+      "2804:3774::/32",
+      "200.24.96.0/22"
     ]
   },
   {
@@ -52831,6 +52851,15 @@
     ]
   },
   {
+    "asn": 268636,
+    "organization": "Netway soluÃ§Ãµes em redes de acesso e comunicaÃ§Ã£o l",
+    "document": "29.090.005/0001-34",
+    "ip_blocks": [
+      "45.164.180.0/22",
+      "2804:543c::/32"
+    ]
+  },
+  {
     "asn": 268637,
     "organization": "Easy Connection Internet Ltda. - ME",
     "document": "12.217.216/0001-92",
@@ -54878,7 +54907,7 @@
   },
   {
     "asn": 268904,
-    "organization": "PrÃ­vate Internet",
+    "organization": "PrÃ­vate Internet Ltda",
     "document": "26.418.688/0001-18",
     "ip_blocks": [
       "45.175.184.0/22",
@@ -56099,7 +56128,7 @@
   },
   {
     "asn": 269055,
-    "organization": "GPO TELECOM FIBRA OPTICA",
+    "organization": "GPO TELECOMUNICACOES E TECNOLOGIA LTDA",
     "document": "17.541.204/0001-32",
     "ip_blocks": [
       "45.178.160.0/22",
@@ -58150,7 +58179,7 @@
   },
   {
     "asn": 269308,
-    "organization": "ORBI TELECOM",
+    "organization": "ORBI SERVICOS E INTERNET LTDA",
     "document": "25.306.842/0001-05",
     "ip_blocks": [
       "45.184.16.0/22",
@@ -60036,6 +60065,15 @@
     "ip_blocks": [
       "45.185.42.0/24",
       "2801:80:3780::/48"
+    ]
+  },
+  {
+    "asn": 269544,
+    "organization": "TWISTNET TELECOMUNICACOES LTDA",
+    "document": "33.633.016/0001-90",
+    "ip_blocks": [
+      "45.188.132.0/24",
+      "2804:6640::/32"
     ]
   },
   {
@@ -63076,7 +63114,7 @@
   },
   {
     "asn": 270429,
-    "organization": "UNAFIBER PLANALTINA LTDA",
+    "organization": "DFOX TELECOM LTDA",
     "document": "34.579.379/0001-58",
     "ip_blocks": [
       "190.111.148.0/22",
@@ -72896,15 +72934,6 @@
     "ip_blocks": [
       "2804:7ec4::/32",
       "167.249.68.0/22"
-    ]
-  },
-  {
-    "asn": 271647,
-    "organization": "M B Telecom",
-    "document": "17.290.762/0001-72",
-    "ip_blocks": [
-      "2804:7ec8::/32",
-      "200.24.96.0/22"
     ]
   },
   {
@@ -85230,6 +85259,14 @@
     "document": "52.913.915/0001-91",
     "ip_blocks": [
       "2804:98c4::/32"
+    ]
+  },
+  {
+    "asn": 275736,
+    "organization": "Terranet Internet Telecomunicacao LTDA",
+    "document": "25.138.979/0001-90",
+    "ip_blocks": [
+      "2804:98c8::/32"
     ]
   },
   {
