@@ -34628,8 +34628,7 @@
     "organization": "PAY USE MULTIMIDIA LTDA",
     "document": "33.439.536/0001-67",
     "ip_blocks": [
-      "2804:3354::/32",
-      "168.194.16.0/24"
+      "2804:3354::/32"
     ]
   },
   {
@@ -49309,7 +49308,7 @@
   },
   {
     "asn": 268175,
-    "organization": "SPACE FYBER",
+    "organization": "A DE CARVALHO COMUNICAÃÃO LTDA",
     "document": "27.716.197/0001-16",
     "ip_blocks": [
       "45.171.4.0/22",
@@ -80801,7 +80800,7 @@
   },
   {
     "asn": 273811,
-    "organization": "AGLink Telecom",
+    "organization": "AG Link Telecom",
     "document": "39.749.571/0001-69",
     "ip_blocks": [
       "2804:8c9c::/32",
@@ -84406,7 +84405,8 @@
     "organization": "Apoio Digital Ti",
     "document": "24.327.337/0001-76",
     "ip_blocks": [
-      "2804:9760::/32"
+      "2804:9760::/32",
+      "168.194.16.0/24"
     ]
   },
   {
