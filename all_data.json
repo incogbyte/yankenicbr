@@ -7289,7 +7289,7 @@
   },
   {
     "asn": 52652,
-    "organization": "BENCHIMOL IRMAO CIA LTDA",
+    "organization": "BEMOL S/A",
     "document": "04.565.289/0001-47",
     "ip_blocks": [
       "177.66.156.0/23",
@@ -25911,6 +25911,15 @@
     ]
   },
   {
+    "asn": 263987,
+    "organization": "E. DA SILVA PROVEDORES DE TELECOMUNICAÃÃES EIRELI",
+    "document": "10.987.984/0001-08",
+    "ip_blocks": [
+      "138.255.180.0/22",
+      "2804:28ec::/32"
+    ]
+  },
+  {
     "asn": 263988,
     "organization": "NET BARRA",
     "document": "12.274.997/0001-57",
@@ -27070,8 +27079,8 @@
   },
   {
     "asn": 264145,
-    "organization": "FACILNET PROVEDOR E SERVIÃOS EIRELI",
-    "document": "17.431.837/0001-98",
+    "organization": "MC DA CUNHA",
+    "document": "07.284.195/0001-98",
     "ip_blocks": [
       "138.94.92.0/22",
       "2804:2328::/32"
@@ -35022,7 +35031,6 @@
     "ip_blocks": [
       "168.194.200.0/22",
       "2804:342c::/32",
-      "179.191.8.0/21",
       "45.225.180.0/23"
     ]
   },
@@ -66503,7 +66511,8 @@
     "ip_blocks": [
       "190.115.192.0/22",
       "2804:7244::/32",
-      "143.137.52.0/22"
+      "143.137.52.0/22",
+      "179.191.8.0/21"
     ]
   },
   {
@@ -71363,6 +71372,15 @@
     "ip_blocks": [
       "2801:80:3e50::/48",
       "181.232.132.0/22"
+    ]
+  },
+  {
+    "asn": 271445,
+    "organization": "PORTO NET TELECOMUNICAÃÃES LTDA-ME",
+    "document": "29.018.551/0001-64",
+    "ip_blocks": [
+      "2804:7ba4::/32",
+      "179.49.84.0/22"
     ]
   },
   {
