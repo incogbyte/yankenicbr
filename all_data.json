@@ -5410,7 +5410,7 @@
   },
   {
     "asn": 28592,
-    "organization": "DOMUS TELECOM",
+    "organization": "FASTSOFT INFORMATICA LTDA",
     "document": "74.073.511/0001-70",
     "ip_blocks": [
       "177.128.228.0/22"
@@ -12770,7 +12770,7 @@
   },
   {
     "asn": 61696,
-    "organization": "DOMUS TELECOM",
+    "organization": "HV COM DE PRODUTOS E SERVICOS DE INFORMATICA LTDA",
     "document": "07.436.762/0001-84",
     "ip_blocks": [
       "201.140.248.0/22",
@@ -16070,7 +16070,7 @@
   },
   {
     "asn": 262436,
-    "organization": "DOMUS TELECOM",
+    "organization": "FUTURO TELECOM LTDA",
     "document": "09.453.568/0001-32",
     "ip_blocks": [
       "177.52.32.0/22",
@@ -23371,7 +23371,7 @@
   },
   {
     "asn": 263509,
-    "organization": "DOMUS TELECOM",
+    "organization": "TURBOVIP TELECOM LTDA.",
     "document": "13.169.301/0001-95",
     "ip_blocks": [
       "191.243.176.0/20",
@@ -31744,7 +31744,7 @@
   },
   {
     "asn": 265018,
-    "organization": "DOMUS TELECOM",
+    "organization": "JS SERVIÃOS E TELECOMUNICAÃÃES LTDA",
     "document": "14.061.724/0001-50",
     "ip_blocks": [
       "170.84.196.0/22",
@@ -32430,7 +32430,7 @@
   },
   {
     "asn": 265107,
-    "organization": "Computers World",
+    "organization": "CWX Telecom LTDA",
     "document": "10.915.964/0001-13",
     "ip_blocks": [
       "170.254.140.0/22",
@@ -32703,15 +32703,6 @@
     "ip_blocks": [
       "143.255.68.0/22",
       "2804:2b3c::/32"
-    ]
-  },
-  {
-    "asn": 265143,
-    "organization": "YOTTA COMUNICACOES DIGITAIS LTDA - EPP",
-    "document": "13.995.892/0001-50",
-    "ip_blocks": [
-      "143.255.92.0/22",
-      "2804:2b40::/32"
     ]
   },
   {
@@ -49691,7 +49682,8 @@
       "45.235.236.0/22",
       "2804:4dc4::/32",
       "186.236.48.0/20",
-      "177.129.164.0/22"
+      "177.129.164.0/22",
+      "143.255.92.0/22"
     ]
   },
   {
@@ -54745,7 +54737,7 @@
   },
   {
     "asn": 268879,
-    "organization": "RASÃO SYGANET TELECOMUNICAÃÃES LTDA",
+    "organization": "Foconet Provedor de Internet LTDA",
     "document": "27.619.827/0001-34",
     "ip_blocks": [
       "45.175.24.0/22",
@@ -59535,6 +59527,15 @@
     ]
   },
   {
+    "asn": 269472,
+    "organization": "X Internet",
+    "document": "32.751.176/0001-71",
+    "ip_blocks": [
+      "45.187.152.0/22",
+      "2804:6528::/32"
+    ]
+  },
+  {
     "asn": 269473,
     "organization": "i4 Telecom Eireli",
     "document": "30.201.711/0001-95",
@@ -64235,7 +64236,8 @@
       "2804:6dec::/32",
       "181.224.24.0/22",
       "179.0.176.0/22",
-      "148.224.62.0/23"
+      "148.224.62.0/23",
+      "190.2.184.0/22"
     ]
   },
   {
@@ -68988,6 +68990,15 @@
     "document": "36.566.595/0001-94",
     "ip_blocks": [
       "2804:76fc::/32"
+    ]
+  },
+  {
+    "asn": 271148,
+    "organization": "NEXTALL TELECOMUNICACOES EMPREENDIMENTOS LTDA",
+    "document": "30.859.182/0001-11",
+    "ip_blocks": [
+      "179.42.100.0/22",
+      "2804:7700::/32"
     ]
   },
   {
@@ -74522,6 +74533,14 @@
     "document": "34.867.603/0001-07",
     "ip_blocks": [
       "2804:8490::/32"
+    ]
+  },
+  {
+    "asn": 272270,
+    "organization": "JMS LIMA SERVIÃOS DE COMUNICAÃÃO EIRELI",
+    "document": "34.210.838/0001-21",
+    "ip_blocks": [
+      "2804:8498::/32"
     ]
   },
   {
@@ -85332,6 +85351,14 @@
     "document": "46.260.302/0001-08",
     "ip_blocks": [
       "2804:98d0::/32"
+    ]
+  },
+  {
+    "asn": 275739,
+    "organization": "Provline Telecom",
+    "document": "35.395.584/0001-26",
+    "ip_blocks": [
+      "2804:98d4::/32"
     ]
   },
   {
