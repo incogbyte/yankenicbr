@@ -6156,7 +6156,7 @@
   },
   {
     "asn": 28670,
-    "organization": "CST SERVIÃOS DE INFORMÃTICA E CALL CENTER LTDA.",
+    "organization": "CST-REDEL SERVIÃOS DE TELECOMUNICAÃÃES LTDA.",
     "document": "10.296.197/0001-01",
     "ip_blocks": [
       "189.8.96.0/20",
@@ -21370,7 +21370,7 @@
   },
   {
     "asn": 263255,
-    "organization": "INFOTECNET ISP",
+    "organization": "TECFIBRA ISP",
     "document": "08.869.402/0001-39",
     "ip_blocks": [
       "190.180.148.0/22",
@@ -23101,15 +23101,6 @@
     "ip_blocks": [
       "191.242.96.0/22",
       "2804:1268::/32"
-    ]
-  },
-  {
-    "asn": 263476,
-    "organization": "V W INTERNET",
-    "document": "11.198.097/0001-05",
-    "ip_blocks": [
-      "191.242.104.0/21",
-      "2804:126c::/32"
     ]
   },
   {
@@ -31717,7 +31708,7 @@
   },
   {
     "asn": 265015,
-    "organization": "RR Virtual Informatica",
+    "organization": "RR wifi telecomunicacoes ltda",
     "document": "18.523.492/0001-65",
     "ip_blocks": [
       "170.84.180.0/22",
@@ -36722,7 +36713,7 @@
   },
   {
     "asn": 266053,
-    "organization": "Desbravadora Internet e ComunicaÃ§Ã£o Ltda",
+    "organization": "Desbrava Internet e ComunicaÃ§Ã£o Ltda",
     "document": "10.553.349/0001-04",
     "ip_blocks": [
       "45.4.16.0/22",
@@ -37693,7 +37684,8 @@
       "2804:3bf0::/32",
       "2804:5b0::/32",
       "186.233.112.0/21",
-      "187.120.16.0/20"
+      "187.120.16.0/20",
+      "191.242.104.0/21"
     ]
   },
   {
@@ -73742,7 +73734,9 @@
     "organization": "ARKATEL SERVICOS EM TELECOMUNICACOES EIRELI",
     "document": "35.150.012/0001-87",
     "ip_blocks": [
-      "2804:806c::/32"
+      "2804:806c::/32",
+      "200.10.236.0/23",
+      "179.0.194.0/23"
     ]
   },
   {
@@ -73767,7 +73761,8 @@
     "organization": "METEC SOLUCOES",
     "document": "12.595.581/0001-30",
     "ip_blocks": [
-      "2804:8078::/32"
+      "2804:8078::/32",
+      "186.65.72.0/22"
     ]
   },
   {
