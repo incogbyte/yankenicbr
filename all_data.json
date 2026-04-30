@@ -10064,6 +10064,15 @@
     ]
   },
   {
+    "asn": 53017,
+    "organization": "REDE NOVO TEMPO DE COMUNICAÃÃO",
+    "document": "01.385.423/0001-30",
+    "ip_blocks": [
+      "177.72.120.0/21",
+      "2801:80:2b0::/48"
+    ]
+  },
+  {
     "asn": 53018,
     "organization": "Viana Viana ComunicaÃ§ao LTDA-ME",
     "document": "09.572.269/0001-17",
@@ -12501,6 +12510,16 @@
     "ip_blocks": [
       "131.108.28.0/22",
       "2804:1c84::/32"
+    ]
+  },
+  {
+    "asn": 61660,
+    "organization": "CRAPAC SERVICOS DE TELECOMUNICACOES LTDA - ME",
+    "document": "13.195.046/0001-55",
+    "ip_blocks": [
+      "131.108.44.0/22",
+      "2804:1c88::/32",
+      "138.185.100.0/22"
     ]
   },
   {
@@ -32254,6 +32273,15 @@
     "ip_blocks": [
       "170.233.24.0/22",
       "2804:3290::/32"
+    ]
+  },
+  {
+    "asn": 265086,
+    "organization": "Infinyt Alpha S.A",
+    "document": "23.530.399/0001-18",
+    "ip_blocks": [
+      "170.233.32.0/22",
+      "2804:3294::/32"
     ]
   },
   {
@@ -57685,7 +57713,7 @@
   },
   {
     "asn": 269245,
-    "organization": "Cabo Fibra Telecom",
+    "organization": "Maralink Fibra",
     "document": "26.755.290/0001-77",
     "ip_blocks": [
       "45.182.248.0/22",
@@ -58716,8 +58744,8 @@
   },
   {
     "asn": 269371,
-    "organization": "AMORIM ZANETTI AMORIM LTDA ME",
-    "document": "22.084.331/0001-90",
+    "organization": "J Z A Comunicacoes LTDA",
+    "document": "50.648.134/0001-91",
     "ip_blocks": [
       "45.185.80.0/22",
       "2804:6398::/32"
@@ -80325,14 +80353,6 @@
     ]
   },
   {
-    "asn": 273745,
-    "organization": "DMSTOR INFORMATICA LTDA",
-    "document": "06.915.840/0001-60",
-    "ip_blocks": [
-      "2804:8ba0::/32"
-    ]
-  },
-  {
     "asn": 273747,
     "organization": "TECH IN SOLUCOES LTDA",
     "document": "43.588.781/0001-90",
@@ -82945,14 +82965,6 @@
     ]
   },
   {
-    "asn": 274660,
-    "organization": "NET START LINK TELECOM LTDA",
-    "document": "55.125.630/0001-84",
-    "ip_blocks": [
-      "2804:91b8::/32"
-    ]
-  },
-  {
     "asn": 274661,
     "organization": "MEGA ROUTER TELECOM",
     "document": "21.653.615/0001-97",
@@ -85354,6 +85366,14 @@
     "document": "35.395.584/0001-26",
     "ip_blocks": [
       "2804:98d4::/32"
+    ]
+  },
+  {
+    "asn": 275740,
+    "organization": "COM PROVEDOR DE INTERNET E EQUIPAMENTO LTDA",
+    "document": "44.904.334/0001-65",
+    "ip_blocks": [
+      "2804:98d8::/32"
     ]
   },
   {
