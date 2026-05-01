@@ -1512,7 +1512,7 @@
   {
     "asn": 14886,
     "organization": "Atos Origin Brasil Ltda",
-    "document": "64.943.665/0003-83",
+    "document": "64.943.665/0001-11",
     "ip_blocks": [
       "200.192.80.0/20",
       "200.237.96.0/20"
@@ -7029,7 +7029,7 @@
     "organization": "Nathalia Tintori Minetto ME",
     "document": "11.764.118/0001-02",
     "ip_blocks": [
-      "177.124.132.0/23"
+      "177.124.132.0/24"
     ]
   },
   {
@@ -13193,7 +13193,8 @@
       "131.100.52.0/22",
       "2804:1bc4::/32",
       "168.181.192.0/22",
-      "170.245.96.0/22"
+      "170.245.96.0/22",
+      "45.230.232.0/22"
     ]
   },
   {
@@ -17697,6 +17698,15 @@
     ]
   },
   {
+    "asn": 262634,
+    "organization": "LEMOS E MORAIS LTDA.",
+    "document": "05.913.968/0001-22",
+    "ip_blocks": [
+      "177.86.176.0/21",
+      "2804:754::/32"
+    ]
+  },
+  {
     "asn": 262637,
     "organization": "NETPRIMUS TECNOLOGIA LTDA",
     "document": "10.333.717/0001-09",
@@ -18039,7 +18049,6 @@
     "organization": "Netwalk TelecomunicaÃ§Ãµes em Inf. Ltda",
     "document": "02.131.790/0001-70",
     "ip_blocks": [
-      "187.87.152.0/22",
       "187.87.144.0/22",
       "187.87.148.0/23",
       "187.87.150.0/24"
@@ -43339,15 +43348,6 @@
     ]
   },
   {
-    "asn": 267177,
-    "organization": "MYNET COMUNICAÃÃES",
-    "document": "11.746.387/0001-46",
-    "ip_blocks": [
-      "45.230.232.0/22",
-      "2804:4950::/32"
-    ]
-  },
-  {
     "asn": 267178,
     "organization": "UNO INTERNET LTDA",
     "document": "28.725.938/0001-98",
@@ -52607,6 +52607,15 @@
     "document": "22.604.559/0001-63",
     "ip_blocks": [
       "2804:53a0::/32"
+    ]
+  },
+  {
+    "asn": 268597,
+    "organization": "RC TELECOMUNICAÃOES LTDA.",
+    "document": "07.210.845/0001-50",
+    "ip_blocks": [
+      "45.164.44.0/22",
+      "2804:53a4::/32"
     ]
   },
   {
@@ -62227,7 +62236,8 @@
     "document": "07.880.211/0001-05",
     "ip_blocks": [
       "192.195.56.0/24",
-      "2801:80:3880::/48"
+      "2801:80:3880::/48",
+      "177.124.133.0/24"
     ]
   },
   {
@@ -64995,15 +65005,6 @@
     "ip_blocks": [
       "190.11.208.0/22",
       "2804:6f50::/32"
-    ]
-  },
-  {
-    "asn": 270653,
-    "organization": "SPEED NETWORK TELECOM LTDA",
-    "document": "35.796.732/0001-14",
-    "ip_blocks": [
-      "190.11.212.0/22",
-      "2804:6f54::/32"
     ]
   },
   {
@@ -74678,7 +74679,8 @@
     "organization": "Amaral e Moura ServiÃ§o em ComunicaÃ§Ã£o Ltda.",
     "document": "13.023.490/0001-93",
     "ip_blocks": [
-      "2804:80cc::/32"
+      "2804:80cc::/32",
+      "131.221.152.0/22"
     ]
   },
   {
@@ -74718,7 +74720,8 @@
     "organization": "INFORLIMA TELECOMUNICACAO EIRELI",
     "document": "19.937.430/0001-62",
     "ip_blocks": [
-      "2804:80e0::/32"
+      "2804:80e0::/32",
+      "186.65.76.0/22"
     ]
   },
   {
@@ -81201,7 +81204,8 @@
     "organization": "Royal Company Infinity LTDA",
     "document": "58.928.617/0001-51",
     "ip_blocks": [
-      "2804:96e4::/32"
+      "2804:96e4::/32",
+      "190.11.212.0/22"
     ]
   },
   {
@@ -84554,7 +84558,8 @@
     "organization": "UPCONNECT INTERNET LTDA",
     "document": "52.176.097/0001-91",
     "ip_blocks": [
-      "2804:9794::/32"
+      "2804:9794::/32",
+      "187.87.152.0/22"
     ]
   },
   {
@@ -85374,6 +85379,22 @@
     "document": "44.904.334/0001-65",
     "ip_blocks": [
       "2804:98d8::/32"
+    ]
+  },
+  {
+    "asn": 275741,
+    "organization": "LIGEIRA TELECOMUNICACOES LTDA",
+    "document": "51.268.264/0001-61",
+    "ip_blocks": [
+      "2804:98dc::/32"
+    ]
+  },
+  {
+    "asn": 275742,
+    "organization": "MRT Line ComunicaÃ§Ãµes Ltda",
+    "document": "37.228.126/0001-28",
+    "ip_blocks": [
+      "2804:98e0::/32"
     ]
   },
   {
