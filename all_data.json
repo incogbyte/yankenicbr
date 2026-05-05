@@ -32277,8 +32277,8 @@
   },
   {
     "asn": 265085,
-    "organization": "Linfortel Internet",
-    "document": "04.799.906/0001-79",
+    "organization": "Linfortel Internet Ltda",
+    "document": "13.767.130/0001-04",
     "ip_blocks": [
       "170.233.24.0/22",
       "2804:3290::/32"
@@ -33411,15 +33411,6 @@
       "168.0.96.0/22",
       "2804:2cac::/32",
       "45.172.68.0/22"
-    ]
-  },
-  {
-    "asn": 265235,
-    "organization": "NeoGrid Informatica LTDA",
-    "document": "05.794.609/0001-01",
-    "ip_blocks": [
-      "200.9.206.0/23",
-      "2804:1f1c::/32"
     ]
   },
   {
@@ -38956,7 +38947,7 @@
   },
   {
     "asn": 266342,
-    "organization": "TNET+ PROVEDOR",
+    "organization": "T-NET+ PROVEDOR",
     "document": "23.207.793/0001-10",
     "ip_blocks": [
       "170.239.80.0/22",
@@ -51941,7 +51932,7 @@
   },
   {
     "asn": 268510,
-    "organization": "JS INTERNET",
+    "organization": "JS FIBRA",
     "document": "23.473.735/0001-38",
     "ip_blocks": [
       "45.161.144.0/22",
@@ -74552,14 +74543,6 @@
     ]
   },
   {
-    "asn": 272268,
-    "organization": "Atar Net",
-    "document": "34.867.603/0001-07",
-    "ip_blocks": [
-      "2804:8490::/32"
-    ]
-  },
-  {
     "asn": 272270,
     "organization": "JMS LIMA SERVIÃOS DE COMUNICAÃÃO EIRELI",
     "document": "34.210.838/0001-21",
@@ -77692,14 +77675,6 @@
     ]
   },
   {
-    "asn": 273380,
-    "organization": "I3 NET TELECOM",
-    "document": "21.980.015/0001-33",
-    "ip_blocks": [
-      "2804:8dc8::/32"
-    ]
-  },
-  {
     "asn": 273381,
     "organization": "DAVI DE LIMA DUARTE",
     "document": "14.032.670/0001-02",
@@ -77713,6 +77688,14 @@
     "document": "26.412.304/0001-50",
     "ip_blocks": [
       "2804:8dd0::/32"
+    ]
+  },
+  {
+    "asn": 273383,
+    "organization": "E B DA SILVA",
+    "document": "33.480.095/0001-47",
+    "ip_blocks": [
+      "2804:8dd4::/32"
     ]
   },
   {
@@ -80696,15 +80679,6 @@
     ]
   },
   {
-    "asn": 273792,
-    "organization": "Megaon Telecom Ltda",
-    "document": "06.207.282/0001-89",
-    "ip_blocks": [
-      "2804:8c44::/32",
-      "45.183.12.0/22"
-    ]
-  },
-  {
     "asn": 273793,
     "organization": "INFOPOINT TELECOM LTDA",
     "document": "46.979.887/0001-02",
@@ -82232,7 +82206,8 @@
     "organization": "A5X SA",
     "document": "52.652.163/0001-52",
     "ip_blocks": [
-      "2801:81:190::/48"
+      "2801:81:190::/48",
+      "152.237.192.0/20"
     ]
   },
   {
@@ -82827,14 +82802,6 @@
     ]
   },
   {
-    "asn": 274639,
-    "organization": "FIBRAVIP INTERNET BANDA LARGA LTDA",
-    "document": "14.610.809/0001-40",
-    "ip_blocks": [
-      "2804:9168::/32"
-    ]
-  },
-  {
     "asn": 274640,
     "organization": "TOPNET MAIS LTDA ME",
     "document": "28.227.773/0001-24",
@@ -83175,6 +83142,14 @@
     "document": "27.574.396/0001-37",
     "ip_blocks": [
       "2804:9260::/32"
+    ]
+  },
+  {
+    "asn": 274692,
+    "organization": "UNIQUELINK PROVEDOR DE INTERNET",
+    "document": "38.184.505/0001-26",
+    "ip_blocks": [
+      "2804:9224::/32"
     ]
   },
   {
