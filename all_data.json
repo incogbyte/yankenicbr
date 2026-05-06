@@ -4756,8 +4756,8 @@
   },
   {
     "asn": 28338,
-    "organization": "Net Botanic Internet Inteligente SA",
-    "document": "07.570.207/0001-40",
+    "organization": "UFINET BRASIL S.A.",
+    "document": "06.288.154/0001-07",
     "ip_blocks": [
       "189.45.0.0/20",
       "2804:74::/32",
@@ -4929,7 +4929,8 @@
       "200.9.132.0/22",
       "187.121.176.0/20",
       "168.196.68.0/22",
-      "45.236.132.0/22"
+      "45.236.132.0/22",
+      "190.123.192.0/22"
     ]
   },
   {
@@ -38266,15 +38267,6 @@
     ]
   },
   {
-    "asn": 266253,
-    "organization": "BC NET COMUNICAÃÃES LTDA",
-    "document": "26.213.169/0001-13",
-    "ip_blocks": [
-      "190.123.192.0/22",
-      "2804:3d18::/32"
-    ]
-  },
-  {
     "asn": 266256,
     "organization": "NCI NET WORK PROVEDOR DE INTERNET EIRELI - ME",
     "document": "18.555.705/0001-30",
@@ -52885,8 +52877,9 @@
     "organization": "73s Telecom",
     "document": "14.951.559/0001-01",
     "ip_blocks": [
-      "45.164.184.0/22",
-      "2804:542c::/32"
+      "2804:542c::/32",
+      "45.164.184.0/23",
+      "45.164.186.0/24"
     ]
   },
   {
@@ -57713,7 +57706,7 @@
   },
   {
     "asn": 269245,
-    "organization": "Maralink Fibra",
+    "organization": "MARALINK FIBRA",
     "document": "26.755.290/0001-77",
     "ip_blocks": [
       "45.182.248.0/22",
@@ -78238,7 +78231,8 @@
     "organization": "R G DE SOUZA INFORMATICA",
     "document": "32.212.684/0001-81",
     "ip_blocks": [
-      "2804:8ee0::/32"
+      "2804:8ee0::/32",
+      "45.164.187.0/24"
     ]
   },
   {
@@ -82960,6 +82954,14 @@
     ]
   },
   {
+    "asn": 274664,
+    "organization": "UBBY INTERNET LTDA",
+    "document": "48.553.222/0001-68",
+    "ip_blocks": [
+      "2804:91c8::/32"
+    ]
+  },
+  {
     "asn": 274667,
     "organization": "O3 CLOUD SOLUCOES EM TECNOLOGIA LTDA",
     "document": "56.777.698/0001-00",
@@ -83058,6 +83060,14 @@
     "ip_blocks": [
       "2804:91f8::/32",
       "45.173.158.0/24"
+    ]
+  },
+  {
+    "asn": 274680,
+    "organization": "SPNET INTERNET FIBRA OPTICA LTDA",
+    "document": "37.611.281/0001-29",
+    "ip_blocks": [
+      "2804:91fc::/32"
     ]
   },
   {
@@ -85370,6 +85380,38 @@
     "document": "37.228.126/0001-28",
     "ip_blocks": [
       "2804:98e0::/32"
+    ]
+  },
+  {
+    "asn": 275743,
+    "organization": "Anploma Telecom Tecnologia e Comercio de ServiÃ§os",
+    "document": "34.499.448/0001-13",
+    "ip_blocks": [
+      "2804:98e4::/32"
+    ]
+  },
+  {
+    "asn": 275744,
+    "organization": "ONN TELECOMUNICACOES LTDA",
+    "document": "39.380.250/0001-30",
+    "ip_blocks": [
+      "2804:98e8::/32"
+    ]
+  },
+  {
+    "asn": 275745,
+    "organization": "Central Tech Telecom Ltda",
+    "document": "20.097.890/0001-09",
+    "ip_blocks": [
+      "2804:98ec::/32"
+    ]
+  },
+  {
+    "asn": 275746,
+    "organization": "FA COMERCIAL E SERVIÃOS LTDA",
+    "document": "14.412.775/0001-89",
+    "ip_blocks": [
+      "2804:98f0::/32"
     ]
   },
   {
