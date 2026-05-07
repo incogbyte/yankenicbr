@@ -5832,7 +5832,7 @@
   },
   {
     "asn": 28642,
-    "organization": "Contato Internet EIRELI",
+    "organization": "Contato Internet Ltda",
     "document": "07.562.175/0001-31",
     "ip_blocks": [
       "201.76.0.0/20",
@@ -6054,14 +6054,6 @@
       "189.1.32.0/20",
       "2804:3e8::/32",
       "177.93.224.0/20"
-    ]
-  },
-  {
-    "asn": 28664,
-    "organization": "BRASIL TECPAR AMIGO AVATO",
-    "document": "07.756.651/0001-55",
-    "ip_blocks": [
-      "189.1.80.0/20"
     ]
   },
   {
@@ -12251,7 +12243,8 @@
     "document": "23.049.480/0001-80",
     "ip_blocks": [
       "170.81.100.0/22",
-      "2804:376c::/32"
+      "2804:376c::/32",
+      "45.231.172.0/22"
     ]
   },
   {
@@ -14947,7 +14940,7 @@
   },
   {
     "asn": 262286,
-    "organization": "Netw Telecom",
+    "organization": "ALAN MARCELO DA SILVA LTDA",
     "document": "07.961.516/0001-41",
     "ip_blocks": [
       "177.52.252.0/22",
@@ -19688,7 +19681,10 @@
       "2804:7870::/32",
       "143.0.20.0/22",
       "168.227.152.0/22",
-      "2804:28dc::/32"
+      "2804:28dc::/32",
+      "189.1.80.0/20",
+      "168.195.192.0/22",
+      "2804:33f4::/32"
     ]
   },
   {
@@ -34914,15 +34910,6 @@
     ]
   },
   {
-    "asn": 265427,
-    "organization": "BRASIL TECPAR AMIGO AVATO",
-    "document": "07.756.651/0001-55",
-    "ip_blocks": [
-      "168.195.192.0/22",
-      "2804:33f4::/32"
-    ]
-  },
-  {
     "asn": 265428,
     "organization": "Taionet TelecomunicaÃ§Ãµes Ltda. ME",
     "document": "13.253.858/0001-00",
@@ -38939,7 +38926,7 @@
   },
   {
     "asn": 266342,
-    "organization": "T-NET+ PROVEDOR",
+    "organization": "Thiago e Vitoria Informatica",
     "document": "23.207.793/0001-10",
     "ip_blocks": [
       "170.239.80.0/22",
@@ -41378,15 +41365,6 @@
     ]
   },
   {
-    "asn": 266919,
-    "organization": "MDS INTERNET E SERVIÃO DE INFORMÃTICA LTDA. ME",
-    "document": "10.773.490/0001-12",
-    "ip_blocks": [
-      "45.224.168.0/22",
-      "2804:4554::/32"
-    ]
-  },
-  {
     "asn": 266920,
     "organization": "Globofiber Telecom",
     "document": "08.741.236/0001-90",
@@ -43648,15 +43626,6 @@
     ]
   },
   {
-    "asn": 267216,
-    "organization": "DTN TELECOM",
-    "document": "21.986.951/0001-51",
-    "ip_blocks": [
-      "45.231.172.0/22",
-      "2804:4a10::/32"
-    ]
-  },
-  {
     "asn": 267217,
     "organization": "SW INTERNET LTDA - ME",
     "document": "18.605.214/0001-57",
@@ -45160,7 +45129,7 @@
     "ip_blocks": [
       "2804:4cf4::/32",
       "45.234.204.0/24",
-      "45.234.206.0/23"
+      "45.234.206.0/24"
     ]
   },
   {
@@ -85283,7 +85252,8 @@
     "organization": "king fibra",
     "document": "36.500.174/0001-60",
     "ip_blocks": [
-      "2804:98b0::/32"
+      "2804:98b0::/32",
+      "45.234.207.0/24"
     ]
   },
   {
