@@ -8543,8 +8543,8 @@
     "organization": "GLOBOTECH TELECOM LTDA - ME",
     "document": "01.322.497/0001-27",
     "ip_blocks": [
-      "177.53.196.0/22",
-      "2804:27ac::/32"
+      "2804:27ac::/32",
+      "177.53.196.0/23"
     ]
   },
   {
@@ -9085,8 +9085,8 @@
   },
   {
     "asn": 52899,
-    "organization": "FLIX FIBRA",
-    "document": "08.722.275/0001-40",
+    "organization": "FLIX FIBRA LTDA",
+    "document": "02.314.207/0001-66",
     "ip_blocks": [
       "186.251.124.0/22",
       "2804:aa0::/32"
@@ -15783,9 +15783,9 @@
     "organization": "ZAP BL TELECOMUNICACOES LTDA",
     "document": "03.455.506/0001-83",
     "ip_blocks": [
-      "177.38.80.0/21",
       "2804:3d8::/32",
-      "177.47.64.0/20"
+      "177.47.64.0/20",
+      "177.38.80.0/22"
     ]
   },
   {
@@ -22355,7 +22355,8 @@
     "document": "11.229.158/0001-54",
     "ip_blocks": [
       "191.37.224.0/21",
-      "2804:1528::/32"
+      "2804:1528::/32",
+      "177.38.84.0/22"
     ]
   },
   {
@@ -64179,8 +64180,8 @@
   },
   {
     "asn": 270561,
-    "organization": "Zeloxicom Servicos LTDA",
-    "document": "44.494.332/0001-45",
+    "organization": "R O R COMERCIO E SERVICOS LTDA",
+    "document": "59.041.273/0001-27",
     "ip_blocks": [
       "189.85.116.0/22",
       "2804:6de0::/32"
@@ -83423,7 +83424,8 @@
     "organization": "NORTECOM TELECOMUNICACOES LTDA",
     "document": "35.161.455/0001-73",
     "ip_blocks": [
-      "2804:92bc::/32"
+      "2804:92bc::/32",
+      "177.53.198.0/23"
     ]
   },
   {
