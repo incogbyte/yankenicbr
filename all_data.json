@@ -1056,14 +1056,6 @@
     ]
   },
   {
-    "asn": 11295,
-    "organization": "BR HOME SHOPPING LTDA",
-    "document": "00.774.783/0001-60",
-    "ip_blocks": [
-      "200.202.64.0/19"
-    ]
-  },
-  {
     "asn": 11335,
     "organization": "APIS - Internet Consultoria e Comercio Ltda",
     "document": "01.432.068/0001-02",
@@ -1195,15 +1187,6 @@
       "200.188.224.0/19",
       "189.85.160.0/19",
       "2804:1c::/32"
-    ]
-  },
-  {
-    "asn": 11896,
-    "organization": "MCA INFORMATICA LTDA.",
-    "document": "72.351.166/0001-63",
-    "ip_blocks": [
-      "200.219.142.0/24",
-      "200.194.224.0/21"
     ]
   },
   {
@@ -8912,7 +8895,7 @@
   },
   {
     "asn": 52877,
-    "organization": "TUPIX INTERNET EXCHANGE",
+    "organization": "INTERPRIME TELECOMUNICACOES LTDA",
     "document": "08.988.238/0001-89",
     "ip_blocks": [
       "186.232.72.0/22",
@@ -11297,7 +11280,7 @@
     "organization": "zago zago telecomunicacoes ltda",
     "document": "09.277.847/0001-92",
     "ip_blocks": [
-      "186.227.80.0/21"
+      "186.227.80.0/22"
     ]
   },
   {
@@ -15667,7 +15650,7 @@
   },
   {
     "asn": 262389,
-    "organization": "NUV DATACENTER",
+    "organization": "PORTO VELHO TELECOMUNICACOES LTDA",
     "document": "13.114.336/0001-27",
     "ip_blocks": [
       "177.129.64.0/22",
@@ -43809,7 +43792,7 @@
   },
   {
     "asn": 267241,
-    "organization": "AI BRAZIL TECHNOLOGIES DATACENTER LTDA",
+    "organization": "GMAES TELECOM LTDA EM RECUPERACAO JUDICIAL",
     "document": "15.644.251/0001-86",
     "ip_blocks": [
       "45.232.28.0/22",
@@ -47434,7 +47417,8 @@
     "document": "24.659.721/0001-76",
     "ip_blocks": [
       "45.166.68.0/22",
-      "2804:55bc::/32"
+      "2804:55bc::/32",
+      "186.227.84.0/22"
     ]
   },
   {
@@ -47607,6 +47591,15 @@
     "ip_blocks": [
       "45.162.80.0/23",
       "2804:5618::/32"
+    ]
+  },
+  {
+    "asn": 267976,
+    "organization": "Faster InstalaÃ§Ãµes e ServiÃ§os Eireli",
+    "document": "12.323.035/0001-40",
+    "ip_blocks": [
+      "45.166.120.0/22",
+      "2801:80:2e00::/40"
     ]
   },
   {
@@ -82513,6 +82506,14 @@
     ]
   },
   {
+    "asn": 274604,
+    "organization": "ZUMMNET LTDA",
+    "document": "41.496.989/0001-53",
+    "ip_blocks": [
+      "2804:90e0::/32"
+    ]
+  },
+  {
     "asn": 274605,
     "organization": "CONECT FIBRA TELECOM",
     "document": "40.093.038/0001-70",
@@ -85384,6 +85385,22 @@
     "document": "14.412.775/0001-89",
     "ip_blocks": [
       "2804:98f0::/32"
+    ]
+  },
+  {
+    "asn": 275747,
+    "organization": "RURAL NET LTDA",
+    "document": "32.219.710/0001-01",
+    "ip_blocks": [
+      "2804:98f4::/32"
+    ]
+  },
+  {
+    "asn": 275748,
+    "organization": "PLAYTECH SAO PAULO LTDA",
+    "document": "57.879.544/0001-92",
+    "ip_blocks": [
+      "2804:98f8::/32"
     ]
   },
   {
