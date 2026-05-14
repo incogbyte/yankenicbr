@@ -2339,15 +2339,6 @@
     ]
   },
   {
-    "asn": 26104,
-    "organization": "Telespazio Brasil S.A.",
-    "document": "02.214.014/0001-33",
-    "ip_blocks": [
-      "200.142.160.0/20",
-      "2804:4234::/32"
-    ]
-  },
-  {
     "asn": 26118,
     "organization": "MINISTERIO PUBLICO DA UNIAO",
     "document": "26.989.715/0050-90",
@@ -25552,15 +25543,6 @@
     "ip_blocks": [
       "138.219.44.0/22",
       "2804:2814::/32"
-    ]
-  },
-  {
-    "asn": 263940,
-    "organization": "TOP WEB TELECOM LTDA - ME",
-    "document": "12.058.144/0001-88",
-    "ip_blocks": [
-      "138.185.252.0/22",
-      "2804:2818::/32"
     ]
   },
   {
@@ -48875,7 +48857,7 @@
   },
   {
     "asn": 268128,
-    "organization": "MEGACOM INTERNET LTDA",
+    "organization": "MEGAWLAN SOLUCOES LTDA",
     "document": "27.989.960/0001-82",
     "ip_blocks": [
       "45.169.48.0/22",
@@ -50084,7 +50066,7 @@
   },
   {
     "asn": 268276,
-    "organization": "MEGA WIFI - EIRELI",
+    "organization": "MEGA WIFI SERVICOS E INTERNET LTDA",
     "document": "27.367.809/0001-02",
     "ip_blocks": [
       "45.237.128.0/22",
@@ -57029,15 +57011,6 @@
     ]
   },
   {
-    "asn": 269174,
-    "organization": "FIXANET TELECOM PROVEDOR DE INTERNET LTDA",
-    "document": "23.381.878/0001-10",
-    "ip_blocks": [
-      "45.180.104.0/22",
-      "2804:608c::/32"
-    ]
-  },
-  {
     "asn": 269175,
     "organization": "SECRETARIA MUNICIPAL DE PLANEJAMENTO ORCAMENTO E G",
     "document": "07.965.262/0001-30",
@@ -63674,8 +63647,8 @@
   },
   {
     "asn": 270501,
-    "organization": "HORUS TELECOMUNICACOES EIRELI",
-    "document": "14.221.585/0001-84",
+    "organization": "Velocinete Ltda",
+    "document": "10.947.077/0001-27",
     "ip_blocks": [
       "24.152.24.0/22",
       "2804:6cec::/32"
@@ -65942,7 +65915,7 @@
   },
   {
     "asn": 270780,
-    "organization": "SOLUCOES ULTRA",
+    "organization": "CWF ULTRA VELOZ TELECOMUNICACOES SLU LTDA",
     "document": "32.532.086/0001-90",
     "ip_blocks": [
       "186.233.24.0/22",
@@ -82616,6 +82589,14 @@
     "document": "19.545.035/0001-34",
     "ip_blocks": [
       "2804:9118::/32"
+    ]
+  },
+  {
+    "asn": 274619,
+    "organization": "ALA TELECOM LTDA",
+    "document": "33.873.080/0001-49",
+    "ip_blocks": [
+      "2804:911c::/32"
     ]
   },
   {
