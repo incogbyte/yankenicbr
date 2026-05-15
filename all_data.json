@@ -19779,9 +19779,9 @@
     "organization": "Icone ServiÃ§os",
     "document": "09.640.143/0001-32",
     "ip_blocks": [
-      "177.154.80.0/22",
       "2804:e48::/32",
-      "177.154.84.0/22"
+      "177.154.84.0/22",
+      "177.154.82.0/23"
     ]
   },
   {
@@ -27509,7 +27509,7 @@
   },
   {
     "asn": 264206,
-    "organization": "Mixconect Telecom Ltda ME",
+    "organization": "Mixconect Telecom Ltda Eireli",
     "document": "07.483.322/0001-88",
     "ip_blocks": [
       "138.97.180.0/22",
@@ -29624,7 +29624,7 @@
   },
   {
     "asn": 264494,
-    "organization": "Connect-Up Provedor",
+    "organization": "F. DOS S. DOURADO",
     "document": "07.170.835/0001-39",
     "ip_blocks": [
       "131.255.216.0/22",
@@ -48267,15 +48267,6 @@
     ]
   },
   {
-    "asn": 268060,
-    "organization": "MCMZ TELECOM LTDA",
-    "document": "29.002.644/0001-09",
-    "ip_blocks": [
-      "45.168.120.0/22",
-      "2804:5758::/32"
-    ]
-  },
-  {
     "asn": 268061,
     "organization": "CRISTIANO ALMEIDA ME",
     "document": "20.073.614/0001-00",
@@ -52588,7 +52579,8 @@
     "document": "24.489.330/0001-50",
     "ip_blocks": [
       "45.164.60.0/22",
-      "2804:53c4::/32"
+      "2804:53c4::/32",
+      "45.168.120.0/22"
     ]
   },
   {
@@ -75760,7 +75752,8 @@
     "document": "37.821.084/0001-34",
     "ip_blocks": [
       "2804:8594::/32",
-      "45.237.144.0/22"
+      "45.237.144.0/22",
+      "177.154.80.0/23"
     ]
   },
   {
@@ -77592,6 +77585,14 @@
     "ip_blocks": [
       "2804:8dc4::/32",
       "186.209.122.0/24"
+    ]
+  },
+  {
+    "asn": 273380,
+    "organization": "I3 NET TELECOM",
+    "document": "21.980.015/0001-33",
+    "ip_blocks": [
+      "2804:8dc8::/32"
     ]
   },
   {
@@ -83467,7 +83468,7 @@
   },
   {
     "asn": 274737,
-    "organization": "Maia e Andrade TelecomunicaÃ§Ãµes LTDA ME",
+    "organization": "PULSE GESTAO DE DADOS LTDA",
     "document": "07.054.431/0001-80",
     "ip_blocks": [
       "2804:92dc::/32"
