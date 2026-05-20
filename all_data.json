@@ -9077,7 +9077,7 @@
   },
   {
     "asn": 52899,
-    "organization": "FLIX FIBRA LTDA",
+    "organization": "FLIX FIBRA",
     "document": "02.314.207/0001-66",
     "ip_blocks": [
       "186.251.124.0/22",
@@ -22119,7 +22119,7 @@
   },
   {
     "asn": 263340,
-    "organization": "CPW Internet",
+    "organization": "CPW TELECOM LTDA",
     "document": "11.072.400/0001-29",
     "ip_blocks": [
       "191.36.216.0/21",
@@ -44039,7 +44039,7 @@
   },
   {
     "asn": 267278,
-    "organization": "ALLYSON DINIZ MELO - ME",
+    "organization": "PROVEDOR BAKANAS.NET LTDA",
     "document": "12.661.847/0001-04",
     "ip_blocks": [
       "45.232.224.0/22",
@@ -57013,6 +57013,15 @@
     "ip_blocks": [
       "45.180.100.0/22",
       "2804:6088::/32"
+    ]
+  },
+  {
+    "asn": 269174,
+    "organization": "FIXANET TELECOM PROVEDOR DE INTERNET LTDA",
+    "document": "23.381.878/0001-10",
+    "ip_blocks": [
+      "45.180.104.0/22",
+      "2804:608c::/32"
     ]
   },
   {
