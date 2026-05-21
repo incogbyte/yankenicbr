@@ -15237,7 +15237,7 @@
   },
   {
     "asn": 262325,
-    "organization": "Oyama Bahia da Silva",
+    "organization": "G2BAHIA EMPREENDIMENTOS LTDA",
     "document": "04.106.713/0001-95",
     "ip_blocks": [
       "177.124.144.0/22",
@@ -46082,8 +46082,8 @@
   },
   {
     "asn": 267527,
-    "organization": "MK SOLUTIONS CRIACAO DE SOFTWARE",
-    "document": "09.587.408/0001-86",
+    "organization": "MK Solutions Tecnologia S.A.",
+    "document": "30.420.144/0001-68",
     "ip_blocks": [
       "192.141.96.0/24",
       "2801:80:2220::/48"
@@ -72555,7 +72555,7 @@
   },
   {
     "asn": 271603,
-    "organization": "CARDOSO COM E SERVICOS DE INTERNET EIRELI - ME",
+    "organization": "GIGANET TELECOM",
     "document": "33.746.682/0001-35",
     "ip_blocks": [
       "2804:7e1c::/32",
@@ -73724,7 +73724,10 @@
     "organization": "PENSOUNET TELECOM LTDA",
     "document": "39.572.824/0001-71",
     "ip_blocks": [
-      "2804:807c::/32"
+      "2804:807c::/32",
+      "201.131.15.0/24",
+      "45.167.17.0/24",
+      "200.10.234.0/24"
     ]
   },
   {
