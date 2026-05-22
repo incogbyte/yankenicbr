@@ -8206,7 +8206,8 @@
       "170.78.116.0/22",
       "138.122.132.0/22",
       "138.255.192.0/22",
-      "170.254.76.0/22"
+      "170.254.76.0/22",
+      "177.52.80.0/21"
     ]
   },
   {
@@ -11684,7 +11685,7 @@
   },
   {
     "asn": 53239,
-    "organization": "Companhia de GovernanÃ§a EletrÃ´nica do Salvador",
+    "organization": "Companhia Salvador Cidade Inteligente",
     "document": "15.003.007/0001-34",
     "ip_blocks": [
       "177.20.0.0/17",
@@ -16082,15 +16083,6 @@
     "ip_blocks": [
       "177.52.64.0/21",
       "2804:31c0::/32"
-    ]
-  },
-  {
-    "asn": 262439,
-    "organization": "ALCANS SERVICOS EM TELECOMUNICACOES LTDA",
-    "document": "10.268.354/0001-75",
-    "ip_blocks": [
-      "177.52.80.0/21",
-      "2804:5a98::/32"
     ]
   },
   {
@@ -38613,15 +38605,6 @@
     ]
   },
   {
-    "asn": 266305,
-    "organization": "Click SBS ltda",
-    "document": "16.580.571/0001-82",
-    "ip_blocks": [
-      "2804:35c4::/32",
-      "170.78.196.0/23"
-    ]
-  },
-  {
     "asn": 266306,
     "organization": "CENTRALNETT SERVIÃOS LTDA",
     "document": "23.929.125/0001-04",
@@ -42346,7 +42329,7 @@
   },
   {
     "asn": 267052,
-    "organization": "Alt Telecom",
+    "organization": "PLATAFORMA NET TELECOMUNICACOES E MULTIMIDIA LTDA",
     "document": "27.938.292/0001-64",
     "ip_blocks": [
       "45.227.220.0/22",
@@ -64835,7 +64818,7 @@
   },
   {
     "asn": 270642,
-    "organization": "Agility Telecom",
+    "organization": "RaioLink Telecom",
     "document": "26.419.652/0001-59",
     "ip_blocks": [
       "189.85.32.0/22",
@@ -85232,7 +85215,8 @@
     "organization": "SASS.NET INFORMATICA LTDA",
     "document": "12.468.282/0001-35",
     "ip_blocks": [
-      "2804:98a4::/32"
+      "2804:98a4::/32",
+      "170.78.196.0/23"
     ]
   },
   {
@@ -85418,6 +85402,22 @@
     "document": "38.373.509/0001-52",
     "ip_blocks": [
       "2804:9900::/32"
+    ]
+  },
+  {
+    "asn": 275751,
+    "organization": "Cleoneide Mendes da Silva",
+    "document": "18.004.674/0001-20",
+    "ip_blocks": [
+      "2804:9904::/32"
+    ]
+  },
+  {
+    "asn": 275752,
+    "organization": "INTERLIGPRO TELECOMUNICACOES DO BRASIL LTDA",
+    "document": "30.573.270/0001-52",
+    "ip_blocks": [
+      "2804:9908::/32"
     ]
   },
   {
