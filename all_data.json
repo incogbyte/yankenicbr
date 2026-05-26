@@ -45637,8 +45637,8 @@
   },
   {
     "asn": 267475,
-    "organization": "A PEQUENINA LTDA",
-    "document": "05.841.177/0001-34",
+    "organization": "Lig Telecom",
+    "document": "32.100.895/0001-22",
     "ip_blocks": [
       "192.141.192.0/22",
       "2804:4210::/32"
@@ -64210,7 +64210,7 @@
   },
   {
     "asn": 270571,
-    "organization": "E G DE MORAIS SERVIÃOS DE INTERNET LTDA",
+    "organization": "GIGANET SERVICOS DE TELECOMUNICACOES LTDA",
     "document": "29.615.167/0001-49",
     "ip_blocks": [
       "201.49.140.0/22",
@@ -73517,7 +73517,8 @@
     "organization": "T BRENO PEREIRA ASSUNCAO",
     "document": "29.361.860/0001-32",
     "ip_blocks": [
-      "2804:8008::/32"
+      "2804:8008::/32",
+      "45.6.120.0/22"
     ]
   },
   {
@@ -73553,7 +73554,8 @@
     "organization": "Brasil Wifi LTDA - EPP",
     "document": "21.062.954/0001-07",
     "ip_blocks": [
-      "2804:8018::/32"
+      "2804:8018::/32",
+      "186.208.88.0/22"
     ]
   },
   {
@@ -85429,6 +85431,22 @@
     "document": "30.573.270/0001-52",
     "ip_blocks": [
       "2804:9908::/32"
+    ]
+  },
+  {
+    "asn": 275753,
+    "organization": "T1 Telecom LTDA",
+    "document": "23.031.102/0001-70",
+    "ip_blocks": [
+      "2804:990c::/32"
+    ]
+  },
+  {
+    "asn": 275754,
+    "organization": "M H M DOS SANTOS FIBRA",
+    "document": "26.526.304/0001-80",
+    "ip_blocks": [
+      "2804:9910::/32"
     ]
   },
   {
