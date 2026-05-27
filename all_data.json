@@ -11931,7 +11931,8 @@
       "170.254.136.0/22",
       "179.48.148.0/22",
       "131.196.16.0/22",
-      "45.163.212.0/22"
+      "45.163.212.0/22",
+      "160.238.156.0/22"
     ]
   },
   {
@@ -30851,7 +30852,7 @@
   },
   {
     "asn": 264903,
-    "organization": "CLICKNET LTDA",
+    "organization": "INOVA DV",
     "document": "17.101.075/0001-61",
     "ip_blocks": [
       "168.228.28.0/22",
@@ -34259,7 +34260,7 @@
   },
   {
     "asn": 265341,
-    "organization": "PLUGGAR TELECOM",
+    "organization": "PLUGGAR TELECOMUNICACOES LTDA",
     "document": "10.893.875/0001-13",
     "ip_blocks": [
       "168.181.164.0/22",
@@ -40470,15 +40471,6 @@
       "2804:3d90::/32",
       "177.223.32.0/20",
       "177.200.32.0/20"
-    ]
-  },
-  {
-    "asn": 266541,
-    "organization": "ItaFibra - Provedor de Internet",
-    "document": "11.674.911/0001-10",
-    "ip_blocks": [
-      "160.238.156.0/22",
-      "2804:3d98::/32"
     ]
   },
   {
@@ -49603,7 +49595,8 @@
       "2804:4dc4::/32",
       "186.236.48.0/20",
       "177.129.164.0/22",
-      "143.255.92.0/22"
+      "143.255.92.0/22",
+      "45.175.24.0/22"
     ]
   },
   {
@@ -51022,8 +51015,8 @@
   },
   {
     "asn": 268402,
-    "organization": "CALIFORNIA TELECOM LTDA",
-    "document": "19.500.325/0001-61",
+    "organization": "CALIFORNIA FIBRA E SOLUCOES LTDA",
+    "document": "47.933.173/0001-26",
     "ip_blocks": [
       "45.160.16.0/22",
       "2804:50a8::/32"
@@ -54664,15 +54657,6 @@
     "ip_blocks": [
       "45.174.16.0/22",
       "2804:5bf0::/32"
-    ]
-  },
-  {
-    "asn": 268879,
-    "organization": "Foconet Provedor de Internet LTDA",
-    "document": "27.619.827/0001-34",
-    "ip_blocks": [
-      "45.175.24.0/22",
-      "2804:5bf4::/32"
     ]
   },
   {
@@ -63254,7 +63238,7 @@
   },
   {
     "asn": 270449,
-    "organization": "Geraldo Freire da Silva JÃºnior-ME",
+    "organization": "GF NET LTDA",
     "document": "27.703.250/0001-44",
     "ip_blocks": [
       "190.120.40.0/22",
@@ -85447,6 +85431,22 @@
     "document": "26.526.304/0001-80",
     "ip_blocks": [
       "2804:9910::/32"
+    ]
+  },
+  {
+    "asn": 275755,
+    "organization": "Jonatas de Freitas Rodrigues ME",
+    "document": "19.108.722/0001-92",
+    "ip_blocks": [
+      "2804:9914::/32"
+    ]
+  },
+  {
+    "asn": 275756,
+    "organization": "CENTRALNET LTDA-ME",
+    "document": "32.504.139/0001-69",
+    "ip_blocks": [
+      "2804:9918::/32"
     ]
   },
   {
