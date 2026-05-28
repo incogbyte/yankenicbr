@@ -10998,7 +10998,7 @@
   },
   {
     "asn": 53153,
-    "organization": "CINTE Telecom Comercio e Servicos Ltda.",
+    "organization": "CINTE TELECOM COMERCIO E SERVICOS LTDA",
     "document": "08.378.641/0001-96",
     "ip_blocks": [
       "186.209.96.0/20",
@@ -20389,14 +20389,6 @@
     "ip_blocks": [
       "2804:a2c::/32",
       "177.8.112.0/20"
-    ]
-  },
-  {
-    "asn": 263029,
-    "organization": "Atua Net Provedor de Internet Ltda",
-    "document": "08.852.304/0001-99",
-    "ip_blocks": [
-      "177.8.144.0/21"
     ]
   },
   {
@@ -60578,7 +60570,8 @@
     "document": "13.367.770/0001-19",
     "ip_blocks": [
       "45.189.228.0/22",
-      "2804:6734::/32"
+      "2804:6734::/32",
+      "177.8.144.0/21"
     ]
   },
   {
