@@ -23146,7 +23146,8 @@
       "138.204.80.0/22",
       "170.83.180.0/22",
       "200.5.32.0/22",
-      "45.226.232.0/22"
+      "45.226.232.0/22",
+      "138.99.82.0/23"
     ]
   },
   {
@@ -36714,8 +36715,8 @@
   },
   {
     "asn": 266057,
-    "organization": "X2 TELECOM LTDA",
-    "document": "21.145.862/0001-82",
+    "organization": "RM dos Santos Informatica",
+    "document": "07.321.600/0001-09",
     "ip_blocks": [
       "45.4.180.0/22",
       "2804:39e4::/32"
@@ -61101,7 +61102,7 @@
   },
   {
     "asn": 269675,
-    "organization": "SOFTEN INFORMATICA EIRELI",
+    "organization": "SOFTEN INFORMATICA LTDA",
     "document": "07.587.030/0001-95",
     "ip_blocks": [
       "45.190.171.0/24",
@@ -71872,15 +71873,6 @@
     "ip_blocks": [
       "2804:7cd8::/32",
       "181.189.52.0/22"
-    ]
-  },
-  {
-    "asn": 271523,
-    "organization": "R.P.L.S. PROVEDOR DE INTERNET EIRELI",
-    "document": "33.424.962/0001-27",
-    "ip_blocks": [
-      "138.99.82.0/23",
-      "2804:7cdc::/32"
     ]
   },
   {
@@ -85440,6 +85432,14 @@
     "document": "32.504.139/0001-69",
     "ip_blocks": [
       "2804:9918::/32"
+    ]
+  },
+  {
+    "asn": 275757,
+    "organization": "OP NET LTDA",
+    "document": "23.843.928/0001-33",
+    "ip_blocks": [
+      "2804:991c::/32"
     ]
   },
   {
