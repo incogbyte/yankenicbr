@@ -4292,8 +4292,8 @@
   },
   {
     "asn": 28267,
-    "organization": "LANTEC COMUNICACAO MULTIMIDIA LTDA",
-    "document": "05.368.528/0001-31",
+    "organization": "SIM INTERNET PROVEDORES DE INTERNET EIRELI.",
+    "document": "10.956.157/0001-49",
     "ip_blocks": [
       "187.17.224.0/20",
       "187.108.0.0/20",
@@ -6147,9 +6147,9 @@
     "document": "10.296.197/0001-01",
     "ip_blocks": [
       "189.8.96.0/20",
-      "131.72.144.0/22",
       "2804:1c24::/32",
-      "138.94.220.0/22"
+      "138.94.220.0/22",
+      "131.72.146.0/23"
     ]
   },
   {
@@ -25887,7 +25887,9 @@
       "177.72.216.0/22",
       "45.232.244.0/22",
       "191.37.0.0/23",
-      "191.37.4.0/23"
+      "191.37.4.0/23",
+      "45.239.166.0/23",
+      "45.239.164.0/24"
     ]
   },
   {
@@ -37588,8 +37590,8 @@
   },
   {
     "asn": 266172,
-    "organization": "Inter.Net Servicos em Telecom Ltda",
-    "document": "07.819.690/0001-54",
+    "organization": "BR364 SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
+    "document": "35.823.676/0001-60",
     "ip_blocks": [
       "160.19.248.0/22",
       "2804:3bd0::/32"
@@ -43514,7 +43516,7 @@
   },
   {
     "asn": 267210,
-    "organization": "Netsoluti SoluÃ§Ãµes em InformÃ¡tica e Internet Eirel",
+    "organization": "Netsoluti SoluÃ§Ãµes em InformÃ¡tica e Internet LTDA",
     "document": "14.919.283/0001-84",
     "ip_blocks": [
       "45.231.164.0/22",
@@ -50659,8 +50661,8 @@
     "organization": "ALTERNATIVA REDE DE TELECOMUNICACOES LTDA",
     "document": "27.490.035/0001-02",
     "ip_blocks": [
-      "45.239.164.0/22",
-      "2804:4fe8::/32"
+      "2804:4fe8::/32",
+      "45.239.165.0/24"
     ]
   },
   {
@@ -80587,7 +80589,8 @@
     "organization": "INFOPOINT TELECOM LTDA",
     "document": "46.979.887/0001-02",
     "ip_blocks": [
-      "2804:8c48::/32"
+      "2804:8c48::/32",
+      "131.72.144.0/23"
     ]
   },
   {
@@ -85440,6 +85443,14 @@
     "document": "23.843.928/0001-33",
     "ip_blocks": [
       "2804:991c::/32"
+    ]
+  },
+  {
+    "asn": 275758,
+    "organization": "BR NET TEC DA INF E INFRAESTRUTURA DE REDES LTDA",
+    "document": "28.067.669/0001-10",
+    "ip_blocks": [
+      "2804:9920::/32"
     ]
   },
   {
