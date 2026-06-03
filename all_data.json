@@ -19702,7 +19702,13 @@
       "177.126.1.0/24",
       "189.39.216.0/22",
       "2804:2dc8::/32",
-      "201.87.146.0/23"
+      "201.87.146.0/23",
+      "131.255.112.0/22",
+      "2804:2058::/32",
+      "131.108.32.0/22",
+      "138.185.216.0/22",
+      "168.196.136.0/22",
+      "2804:1d68::/32"
     ]
   },
   {
@@ -28704,17 +28710,6 @@
     ]
   },
   {
-    "asn": 264367,
-    "organization": "AVATO TECNOLOGIA S.A",
-    "document": "37.905.444/0001-86",
-    "ip_blocks": [
-      "131.108.32.0/22",
-      "2804:1d68::/32",
-      "138.185.216.0/22",
-      "168.196.136.0/22"
-    ]
-  },
-  {
     "asn": 264368,
     "organization": "A. L. A. INFORMATICA LTDA.",
     "document": "00.407.396/0001-96",
@@ -29601,15 +29596,6 @@
     ]
   },
   {
-    "asn": 264487,
-    "organization": "AVATO TECNOLOGIA S.A",
-    "document": "37.905.444/0001-86",
-    "ip_blocks": [
-      "131.255.112.0/22",
-      "2804:2058::/32"
-    ]
-  },
-  {
     "asn": 264489,
     "organization": "P V VILARINHO CAMPELO PROVEDOR",
     "document": "47.024.923/0001-47",
@@ -29899,7 +29885,7 @@
   },
   {
     "asn": 264526,
-    "organization": "MM MATTOS SERVICOS DE TELECOMUNICACOES LTDA",
+    "organization": "ALPHANETT SERVIÃOS DE TELECOMUNICAÃÃES",
     "document": "14.200.922/0001-57",
     "ip_blocks": [
       "132.255.204.0/22",
