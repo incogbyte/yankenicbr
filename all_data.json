@@ -17176,7 +17176,7 @@
   },
   {
     "asn": 262577,
-    "organization": "REGIS INFOCEL",
+    "organization": "REGIS TELECOM",
     "document": "33.750.365/0001-92",
     "ip_blocks": [
       "177.84.24.0/22"
@@ -28019,7 +28019,7 @@
   },
   {
     "asn": 264268,
-    "organization": "TELETURBO SERVICOS DE TELECOMUNICACOES LTDA",
+    "organization": "NETWAY MATO GROSSO LTDA",
     "document": "01.909.379/0001-10",
     "ip_blocks": [
       "138.118.176.0/22",
@@ -57632,7 +57632,7 @@
   },
   {
     "asn": 269251,
-    "organization": "DEISIANE SALES SANTOS - SW LINK",
+    "organization": "Sw Link Swlink Provedor de Internet LTDA",
     "document": "11.818.649/0001-30",
     "ip_blocks": [
       "45.182.212.0/22",
@@ -80402,8 +80402,7 @@
     "document": "10.221.986/0001-83",
     "ip_blocks": [
       "2804:8c04::/32",
-      "45.177.248.0/23",
-      "45.177.250.0/23"
+      "45.177.248.0/22"
     ]
   },
   {
@@ -85418,6 +85417,14 @@
     "document": "20.327.034/0001-00",
     "ip_blocks": [
       "2804:9924::/32"
+    ]
+  },
+  {
+    "asn": 275760,
+    "organization": "FH COMERCIO E COMUNICACOES SAT LTDA",
+    "document": "17.384.610/0001-39",
+    "ip_blocks": [
+      "2804:9928::/32"
     ]
   },
   {
