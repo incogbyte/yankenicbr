@@ -3149,7 +3149,8 @@
     "document": "01.579.286/0001-74",
     "ip_blocks": [
       "177.128.116.0/24",
-      "2801:80:a50::/48"
+      "2801:80:a50::/48",
+      "45.234.206.0/24"
     ]
   },
   {
@@ -13477,16 +13478,6 @@
     ]
   },
   {
-    "asn": 61794,
-    "organization": "AVATO TECNOLOGIA S.A",
-    "document": "37.905.444/0001-86",
-    "ip_blocks": [
-      "201.140.220.0/22",
-      "2804:196c::/32",
-      "168.228.36.0/22"
-    ]
-  },
-  {
     "asn": 61795,
     "organization": "Arion Servicos de Telecomunicacoes LTDA",
     "document": "20.059.578/0001-20",
@@ -15190,7 +15181,6 @@
     "document": "04.106.713/0001-95",
     "ip_blocks": [
       "2804:7d4::/32",
-      "177.124.147.0/24",
       "177.124.144.0/23"
     ]
   },
@@ -19657,7 +19647,13 @@
       "177.152.176.0/21",
       "200.11.8.0/21",
       "170.233.52.0/22",
-      "2804:e28::/32"
+      "2804:e28::/32",
+      "45.6.108.0/22",
+      "201.140.220.0/22",
+      "168.228.36.0/22",
+      "2804:196c::/32",
+      "45.174.156.0/22",
+      "2804:3b1c::/32"
     ]
   },
   {
@@ -24871,7 +24867,7 @@
   },
   {
     "asn": 263852,
-    "organization": "3M DE MAGE INFORMATICA LTDA-ME",
+    "organization": "3M DE MAGE INFORMATICA LTDA",
     "document": "08.227.400/0001-46",
     "ip_blocks": [
       "138.186.40.0/22",
@@ -37198,16 +37194,6 @@
     ]
   },
   {
-    "asn": 266130,
-    "organization": "AVATO TECNOLOGIA S.A",
-    "document": "37.905.444/0001-86",
-    "ip_blocks": [
-      "45.6.108.0/22",
-      "2804:3b1c::/32",
-      "45.174.156.0/22"
-    ]
-  },
-  {
     "asn": 266131,
     "organization": "LINKABR TELECOM SPE LTDA",
     "document": "26.143.694/0001-00",
@@ -40866,7 +40852,7 @@
   },
   {
     "asn": 266615,
-    "organization": "DORA BARALDO PROVEDOR DE INTERNET - ME",
+    "organization": "MEGA LINK PROVEDOR DE INTERNET - LTDA",
     "document": "13.455.130/0001-60",
     "ip_blocks": [
       "45.7.224.0/22",
@@ -44982,8 +44968,7 @@
     "document": "06.213.662/0001-26",
     "ip_blocks": [
       "2804:4cf4::/32",
-      "45.234.204.0/24",
-      "45.234.206.0/24"
+      "45.234.204.0/24"
     ]
   },
   {
@@ -76372,7 +76357,7 @@
   },
   {
     "asn": 272705,
-    "organization": "FULL CONECT TELECOMUNICACAO EIRELI",
+    "organization": "FULL CONECT TELECOMUNICACAO LTDA",
     "document": "30.647.909/0001-05",
     "ip_blocks": [
       "2804:8760::/32"
@@ -81752,7 +81737,8 @@
     "organization": "Jeferson Siqueira Alves",
     "document": "37.348.401/0001-47",
     "ip_blocks": [
-      "2804:9588::/32"
+      "2804:9588::/32",
+      "177.124.147.0/24"
     ]
   },
   {
@@ -85405,6 +85391,38 @@
     "document": "32.142.571/0001-57",
     "ip_blocks": [
       "2804:9944::/32"
+    ]
+  },
+  {
+    "asn": 275768,
+    "organization": "AJC INTERNET LTDA",
+    "document": "39.317.232/0001-03",
+    "ip_blocks": [
+      "2804:9948::/32"
+    ]
+  },
+  {
+    "asn": 275769,
+    "organization": "NETCENTER FIBRA LTDA",
+    "document": "61.731.966/0001-93",
+    "ip_blocks": [
+      "2804:994c::/32"
+    ]
+  },
+  {
+    "asn": 275770,
+    "organization": "Nord Telecom Ltda",
+    "document": "52.974.241/0001-35",
+    "ip_blocks": [
+      "2804:9950::/32"
+    ]
+  },
+  {
+    "asn": 275771,
+    "organization": "BIGBOY INTERNET LTDA",
+    "document": "59.977.147/0001-89",
+    "ip_blocks": [
+      "2804:9954::/32"
     ]
   },
   {
