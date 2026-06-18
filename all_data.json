@@ -9976,7 +9976,7 @@
   },
   {
     "asn": 53016,
-    "organization": "PRODEPA - Emp Tec da Inf e Com do Estado do ParÃ¡",
+    "organization": "ESTADO DO PARA - PA GOV GABINETE DO GOVERNADOR",
     "document": "05.054.861/0001-76",
     "ip_blocks": [
       "177.74.0.0/18",
@@ -12057,7 +12057,7 @@
   },
   {
     "asn": 61606,
-    "organization": "Gilvani Ritter - ME",
+    "organization": "NETSET LTDA",
     "document": "15.796.549/0001-01",
     "ip_blocks": [
       "2804:8060::/32",
@@ -38802,7 +38802,7 @@
   },
   {
     "asn": 266342,
-    "organization": "Thiago e Vitoria Informatica",
+    "organization": "TNet+ Provedor",
     "document": "23.207.793/0001-10",
     "ip_blocks": [
       "170.239.80.0/22",
@@ -46661,8 +46661,8 @@
   },
   {
     "asn": 267618,
-    "organization": "ARPRONET TELECOMUNICACOES",
-    "document": "21.568.018/0001-64",
+    "organization": "I9-NETCEL TELECOMUNICACOES LTDA",
+    "document": "27.784.036/0001-60",
     "ip_blocks": [
       "45.71.88.0/22",
       "2804:440c::/32"
@@ -85423,6 +85423,22 @@
     "document": "59.977.147/0001-89",
     "ip_blocks": [
       "2804:9954::/32"
+    ]
+  },
+  {
+    "asn": 275772,
+    "organization": "P S C CONSULTORIA LTDA",
+    "document": "41.111.359/0001-13",
+    "ip_blocks": [
+      "2804:9958::/32"
+    ]
+  },
+  {
+    "asn": 275773,
+    "organization": "Cubo Tecnologia Ltda.",
+    "document": "67.187.559/0001-43",
+    "ip_blocks": [
+      "2804:995c::/32"
     ]
   },
   {
