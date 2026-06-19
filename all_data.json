@@ -29574,7 +29574,6 @@
     "organization": "F. DOS S. DOURADO",
     "document": "07.170.835/0001-39",
     "ip_blocks": [
-      "131.255.216.0/22",
       "2804:2080::/32"
     ]
   },
@@ -37389,7 +37388,6 @@
     "document": "09.200.447/0001-89",
     "ip_blocks": [
       "2804:3b90::/32",
-      "45.6.118.0/24",
       "45.6.116.0/23"
     ]
   },
@@ -38194,7 +38192,7 @@
   },
   {
     "asn": 266268,
-    "organization": "JND - PROVEDOR",
+    "organization": "JND - AJA -PROVEDOR INTERNTE",
     "document": "10.711.334/0001-27",
     "ip_blocks": [
       "45.65.208.0/22",
@@ -46194,15 +46192,6 @@
     "ip_blocks": [
       "45.70.0.0/22",
       "2804:4338::/32"
-    ]
-  },
-  {
-    "asn": 267557,
-    "organization": "OLITECH INFORMÃTICA E COMUNICAÃÃO LTDA",
-    "document": "07.202.892/0001-52",
-    "ip_blocks": [
-      "2804:433c::/32",
-      "45.70.4.0/23"
     ]
   },
   {
@@ -57995,7 +57984,7 @@
   },
   {
     "asn": 269306,
-    "organization": "PAULO HENRIQUE SOARES DE SOUZA",
+    "organization": "ULTRANET SERVICOS DE COMUNICACAO",
     "document": "23.071.973/0001-17",
     "ip_blocks": [
       "45.183.192.0/22",
@@ -61238,7 +61227,8 @@
     "document": "28.841.832/0001-50",
     "ip_blocks": [
       "189.201.248.0/22",
-      "2804:68a0::/32"
+      "2804:68a0::/32",
+      "131.255.216.0/22"
     ]
   },
   {
@@ -73507,7 +73497,8 @@
     "organization": "GPONNET FIBRA OPTICA EIRELI",
     "document": "22.827.655/0001-70",
     "ip_blocks": [
-      "2804:805c::/32"
+      "2804:805c::/32",
+      "192.100.157.0/24"
     ]
   },
   {
@@ -74128,7 +74119,8 @@
     "organization": "Union Tel TelecomunicaÃ§Ãµes LTDA",
     "document": "16.750.312/0001-52",
     "ip_blocks": [
-      "2804:83fc::/32"
+      "2804:83fc::/32",
+      "45.70.4.0/23"
     ]
   },
   {
@@ -81654,7 +81646,8 @@
     "document": "30.433.547/0001-41",
     "ip_blocks": [
       "2804:957c::/32",
-      "45.6.119.0/24"
+      "45.6.119.0/24",
+      "45.6.118.0/24"
     ]
   },
   {
@@ -85439,6 +85432,22 @@
     "document": "67.187.559/0001-43",
     "ip_blocks": [
       "2804:995c::/32"
+    ]
+  },
+  {
+    "asn": 275774,
+    "organization": "LINKWEBSP Provedor de Internet Ltda",
+    "document": "37.485.642/0001-38",
+    "ip_blocks": [
+      "2804:9960::/32"
+    ]
+  },
+  {
+    "asn": 275775,
+    "organization": "CAKTOS SERVICOS DE INTERNET E TECNOLOGIA LTDA",
+    "document": "06.955.831/0001-01",
+    "ip_blocks": [
+      "2804:9964::/32"
     ]
   },
   {
