@@ -12707,8 +12707,8 @@
   },
   {
     "asn": 61696,
-    "organization": "HV COM DE PRODUTOS E SERVICOS DE INFORMATICA LTDA",
-    "document": "07.436.762/0001-84",
+    "organization": "DOMUS TELECOM LTDA",
+    "document": "41.939.928/0001-13",
     "ip_blocks": [
       "201.140.248.0/22",
       "2804:1ae0::/32",
@@ -63514,7 +63514,7 @@
   },
   {
     "asn": 270502,
-    "organization": "EDUARDO DE SOUZA SILVA 37009196893",
+    "organization": "DH NET INTERNET E TELECOMUNICACOES LTDA",
     "document": "27.114.588/0001-60",
     "ip_blocks": [
       "24.152.44.0/22",
@@ -76184,7 +76184,7 @@
   },
   {
     "asn": 272676,
-    "organization": "Brasil Provedor de Internet Ltda",
+    "organization": "Brasil Provedor de Internet",
     "document": "07.790.859/0001-90",
     "ip_blocks": [
       "2804:86f0::/32"
@@ -85448,6 +85448,14 @@
     "document": "06.955.831/0001-01",
     "ip_blocks": [
       "2804:9964::/32"
+    ]
+  },
+  {
+    "asn": 275776,
+    "organization": "CVM - COMISSAO DE VALORES MOBILIARIOS",
+    "document": "29.507.878/0001-08",
+    "ip_blocks": [
+      "2801:81:260::/48"
     ]
   },
   {
