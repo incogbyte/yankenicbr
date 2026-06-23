@@ -2667,7 +2667,6 @@
       "191.128.128.0/18",
       "191.227.129.0/24",
       "191.227.130.0/23",
-      "191.160.40.0/23",
       "186.198.0.0/15",
       "186.197.0.0/16",
       "186.196.128.0/17",
@@ -20781,7 +20780,7 @@
   },
   {
     "asn": 263085,
-    "organization": "VIA FIBRA INTERNET LTDA",
+    "organization": "NETWAY VILHENA SERVICOS LTDA",
     "document": "14.370.959/0001-23",
     "ip_blocks": [
       "2804:96c::/32",
@@ -32786,8 +32785,9 @@
     "organization": "JOSE RENATO COSTA DOS SANTOS DE NOVA SOURE - ME",
     "document": "07.762.723/0001-77",
     "ip_blocks": [
-      "143.255.228.0/22",
-      "2804:2b98::/32"
+      "2804:2b98::/32",
+      "143.255.231.0/24",
+      "143.255.228.0/23"
     ]
   },
   {
@@ -64436,14 +64436,6 @@
     ]
   },
   {
-    "asn": 270614,
-    "organization": "Andreia Dias Silva Correa ME",
-    "document": "36.612.050/0001-77",
-    "ip_blocks": [
-      "2804:6eb4::/32"
-    ]
-  },
-  {
     "asn": 270615,
     "organization": "CONECTJA LTDA",
     "document": "29.200.024/0001-76",
@@ -66873,7 +66865,7 @@
   },
   {
     "asn": 270918,
-    "organization": "INSIDE TECNOLOGIA E SERVIÃOS LTDA",
+    "organization": "LINK BRASIL TELECOMUNICACOES LTDA",
     "document": "10.607.779/0001-61",
     "ip_blocks": [
       "187.121.156.0/22",
@@ -75558,7 +75550,8 @@
     "organization": "SPEEDINFO SOLUCOES INFORMATICA LTDA",
     "document": "40.587.023/0001-69",
     "ip_blocks": [
-      "2804:8578::/32"
+      "2804:8578::/32",
+      "191.160.40.0/23"
     ]
   },
   {
@@ -77270,7 +77263,7 @@
   },
   {
     "asn": 273358,
-    "organization": "Pg On Provedor de Internet e Servicos Digitais",
+    "organization": "PG On Provedor de Internet e Servicos Digitais",
     "document": "48.407.177/0001-33",
     "ip_blocks": [
       "2804:8d74::/32"
@@ -85143,7 +85136,8 @@
     "organization": "GO-NET TELECOM LTDA",
     "document": "65.921.647/0001-00",
     "ip_blocks": [
-      "2804:98cc::/32"
+      "2804:98cc::/32",
+      "143.255.230.0/24"
     ]
   },
   {
