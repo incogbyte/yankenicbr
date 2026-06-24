@@ -11959,8 +11959,8 @@
   },
   {
     "asn": 61595,
-    "organization": "TELIC TECHNOLOGIES",
-    "document": "09.204.204/0001-19",
+    "organization": "TGLOBAL NETWORKS DO BRASIL LTDA",
+    "document": "53.628.032/0001-00",
     "ip_blocks": [
       "45.165.80.0/22",
       "2804:54c8::/32"
@@ -18989,9 +18989,11 @@
       "186.251.176.0/21",
       "2804:2bc::/32",
       "177.38.248.0/21",
-      "191.5.208.0/21",
       "138.36.60.0/22",
-      "167.249.36.0/22"
+      "167.249.36.0/22",
+      "191.5.212.0/22",
+      "191.5.208.0/23",
+      "191.5.211.0/24"
     ]
   },
   {
@@ -26583,7 +26585,7 @@
   },
   {
     "asn": 264078,
-    "organization": "KAITIANA FERREIRA DOS SANTOS",
+    "organization": "MAKE INTERNET PROVIDER LTDA",
     "document": "08.546.760/0001-00",
     "ip_blocks": [
       "143.137.136.0/22",
@@ -85169,7 +85171,8 @@
     "organization": "LIGEIRA TELECOMUNICACOES LTDA",
     "document": "51.268.264/0001-61",
     "ip_blocks": [
-      "2804:98dc::/32"
+      "2804:98dc::/32",
+      "191.5.210.0/24"
     ]
   },
   {
@@ -85450,6 +85453,14 @@
     "document": "29.507.878/0001-08",
     "ip_blocks": [
       "2801:81:260::/48"
+    ]
+  },
+  {
+    "asn": 275777,
+    "organization": "AAVG TELECOMUNICACOES LTDA",
+    "document": "55.263.411/0001-61",
+    "ip_blocks": [
+      "2804:9968::/32"
     ]
   },
   {
