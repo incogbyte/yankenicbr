@@ -14965,7 +14965,7 @@
   },
   {
     "asn": 262299,
-    "organization": "INEXA - Flavio Jose Penso Junior - ME",
+    "organization": "FLAVIO JOSE PENSO JUNIOR LTDA",
     "document": "01.836.999/0001-76",
     "ip_blocks": [
       "2804:a8c::/32",
@@ -27139,7 +27139,7 @@
   },
   {
     "asn": 264159,
-    "organization": "Inexa Tecnologia LTDA.",
+    "organization": "INEXA TELECOM LTDA",
     "document": "05.294.401/0001-15",
     "ip_blocks": [
       "138.99.16.0/22",
@@ -47178,7 +47178,7 @@
   },
   {
     "asn": 267941,
-    "organization": "RENATO SENA DE OLIVEIRA ME",
+    "organization": "INTERNET ALLMICRO TELECOM LTDA",
     "document": "09.196.467/0001-23",
     "ip_blocks": [
       "45.166.0.0/22",
@@ -85461,6 +85461,30 @@
     "document": "55.263.411/0001-61",
     "ip_blocks": [
       "2804:9968::/32"
+    ]
+  },
+  {
+    "asn": 275778,
+    "organization": "SEBRATEL EMPRESAS TELECOMUNICACOES LTDA",
+    "document": "23.956.163/0001-48",
+    "ip_blocks": [
+      "2804:996c::/32"
+    ]
+  },
+  {
+    "asn": 275779,
+    "organization": "SANTANA LOPES TELECOMUNICACOES LTDA",
+    "document": "56.429.358/0001-99",
+    "ip_blocks": [
+      "2804:9970::/32"
+    ]
+  },
+  {
+    "asn": 275780,
+    "organization": "G.F INTERNET LTDA",
+    "document": "29.209.454/0001-59",
+    "ip_blocks": [
+      "2804:9974::/32"
     ]
   },
   {
