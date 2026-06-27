@@ -5056,8 +5056,8 @@
   },
   {
     "asn": 28362,
-    "organization": "ONDA INTERNET LTDA",
-    "document": "03.479.494/0001-27",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "189.84.0.0/20",
       "2001:12ac::/32",
@@ -7073,8 +7073,8 @@
   },
   {
     "asn": 52631,
-    "organization": "ISP PROVERNET INFORMATICA LTDA - ME",
-    "document": "09.113.164/0001-08",
+    "organization": "As InformÃ¡tica LTDA",
+    "document": "29.021.525/0001-95",
     "ip_blocks": [
       "177.128.24.0/21",
       "2804:49d4::/32"
@@ -16096,8 +16096,8 @@
   },
   {
     "asn": 262449,
-    "organization": "TS TECNOLOGIA E SISTEMAS EM REDES LTDA",
-    "document": "10.780.152/0001-08",
+    "organization": "GIGA MAIS FIBRA TELECOMUNICACOES S.A.",
+    "document": "07.714.104/0001-07",
     "ip_blocks": [
       "177.52.168.0/22",
       "2804:b9c::/32"
@@ -21358,7 +21358,7 @@
   },
   {
     "asn": 263255,
-    "organization": "TECFIBRA ISP",
+    "organization": "INFOTECNET ISP LTDA",
     "document": "08.869.402/0001-39",
     "ip_blocks": [
       "190.180.148.0/22",
@@ -84391,7 +84391,7 @@
   },
   {
     "asn": 275639,
-    "organization": "RAFAEL DOS SANTOS PRATES EIRELI",
+    "organization": "Globalcomm Internet",
     "document": "13.488.849/0001-06",
     "ip_blocks": [
       "2804:97b0::/32",
@@ -85485,6 +85485,22 @@
     "document": "29.209.454/0001-59",
     "ip_blocks": [
       "2804:9974::/32"
+    ]
+  },
+  {
+    "asn": 275781,
+    "organization": "VELORA NETWORK E TELECOMUNICACOES PROVEDORES DE I",
+    "document": "44.681.070/0001-28",
+    "ip_blocks": [
+      "2804:9978::/32"
+    ]
+  },
+  {
+    "asn": 275782,
+    "organization": "Alliant Tecnologia Ltda",
+    "document": "10.424.252/0001-00",
+    "ip_blocks": [
+      "2804:997c::/32"
     ]
   },
   {
