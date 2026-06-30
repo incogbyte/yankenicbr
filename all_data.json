@@ -23771,7 +23771,7 @@
   },
   {
     "asn": 263561,
-    "organization": "RODRIGO BORGHI DA SILVA CIA LTDA",
+    "organization": "NICK NETWORK LTDA",
     "document": "08.930.086/0001-63",
     "ip_blocks": [
       "186.251.12.0/22",
@@ -25827,7 +25827,7 @@
   },
   {
     "asn": 263980,
-    "organization": "G3 Telecom EIRELI",
+    "organization": "G3 Telecom",
     "document": "13.133.062/0001-13",
     "ip_blocks": [
       "138.255.244.0/22",
@@ -85501,6 +85501,14 @@
     "document": "10.424.252/0001-00",
     "ip_blocks": [
       "2804:997c::/32"
+    ]
+  },
+  {
+    "asn": 275783,
+    "organization": "BATTLEHOST DATA CENTER SERVICOS DE HOSPEDAGEM NA I",
+    "document": "29.769.848/0001-61",
+    "ip_blocks": [
+      "2804:9980::/32"
     ]
   },
   {
