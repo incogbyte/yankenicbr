@@ -2688,8 +2688,7 @@
       "177.167.0.0/16",
       "177.108.0.0/15",
       "177.110.0.0/16",
-      "177.30.0.0/15",
-      "191.227.136.0/22"
+      "177.30.0.0/15"
     ]
   },
   {
@@ -41643,6 +41642,15 @@
     ]
   },
   {
+    "asn": 266974,
+    "organization": "SANTIAGO FALCAO LTDA - GIGA NET TELECOM",
+    "document": "31.833.299/0001-99",
+    "ip_blocks": [
+      "2804:4630::/32",
+      "45.225.244.0/22"
+    ]
+  },
+  {
     "asn": 266975,
     "organization": "EURONET TELECOM",
     "document": "14.014.425/0001-64",
@@ -61515,7 +61523,7 @@
   },
   {
     "asn": 270254,
-    "organization": "DAVID WELSON ABREU DE LIMA ME",
+    "organization": "REDE I9 INTERNET LTDA",
     "document": "13.780.902/0001-30",
     "ip_blocks": [
       "45.191.40.0/22",
@@ -62847,8 +62855,7 @@
     "document": "29.033.532/0001-07",
     "ip_blocks": [
       "190.111.108.0/22",
-      "2804:6bb0::/32",
-      "45.225.244.0/22"
+      "2804:6bb0::/32"
     ]
   },
   {
@@ -78826,7 +78833,8 @@
     "organization": "PLANET TELECOMUNICACOES E SERVICOS LTDA",
     "document": "47.069.294/0001-71",
     "ip_blocks": [
-      "2804:9080::/32"
+      "2804:9080::/32",
+      "191.227.136.0/22"
     ]
   },
   {
@@ -85509,6 +85517,22 @@
     "document": "29.769.848/0001-61",
     "ip_blocks": [
       "2804:9980::/32"
+    ]
+  },
+  {
+    "asn": 275784,
+    "organization": "PULSE FIBRA TELECOM LTDA",
+    "document": "64.732.309/0001-59",
+    "ip_blocks": [
+      "2804:9984::/32"
+    ]
+  },
+  {
+    "asn": 275785,
+    "organization": "JHW Telecom Ltda",
+    "document": "45.022.151/0001-89",
+    "ip_blocks": [
+      "2804:9988::/32"
     ]
   },
   {
