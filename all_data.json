@@ -10944,10 +10944,13 @@
     "organization": "CINTE TELECOM COMERCIO E SERVICOS LTDA",
     "document": "08.378.641/0001-96",
     "ip_blocks": [
-      "186.209.96.0/20",
       "2804:738::/32",
       "187.61.96.0/20",
-      "138.204.220.0/22"
+      "138.204.220.0/22",
+      "186.209.104.0/21",
+      "186.209.100.0/22",
+      "186.209.98.0/23",
+      "186.209.97.0/24"
     ]
   },
   {
@@ -12866,7 +12869,7 @@
   },
   {
     "asn": 61713,
-    "organization": "Virtual Internet Ltda Me",
+    "organization": "Tangent Telecomunicacoes",
     "document": "14.411.624/0001-06",
     "ip_blocks": [
       "131.72.16.0/22",
@@ -26083,8 +26086,8 @@
   },
   {
     "asn": 264011,
-    "organization": "A. MORAIS DE SÃ FERREIRA",
-    "document": "01.153.280/0001-30",
+    "organization": "TREND CONNECT PROVEDOR DE INTERNET LTDA",
+    "document": "52.342.360/0001-75",
     "ip_blocks": [
       "143.0.136.0/22",
       "2804:2960::/32"
@@ -40887,7 +40890,7 @@
   },
   {
     "asn": 266619,
-    "organization": "LOGPLAY TELECOM",
+    "organization": "WEBVIVA TELECOMUNICACOES LTDA - SIGA FIBRA",
     "document": "14.830.618/0001-93",
     "ip_blocks": [
       "45.7.216.0/22",
@@ -70096,7 +70099,7 @@
     "ip_blocks": [
       "2804:798c::/32",
       "187.94.236.0/24",
-      "187.94.238.0/23"
+      "187.94.239.0/24"
     ]
   },
   {
@@ -80480,7 +80483,8 @@
     "organization": "NET UBER TELECOM",
     "document": "12.227.767/0001-37",
     "ip_blocks": [
-      "2804:8c58::/32"
+      "2804:8c58::/32",
+      "186.209.96.0/24"
     ]
   },
   {
@@ -85252,7 +85256,8 @@
     "organization": "BM Fibra",
     "document": "38.373.509/0001-52",
     "ip_blocks": [
-      "2804:9900::/32"
+      "2804:9900::/32",
+      "187.94.238.0/24"
     ]
   },
   {
@@ -85533,6 +85538,22 @@
     "document": "45.022.151/0001-89",
     "ip_blocks": [
       "2804:9988::/32"
+    ]
+  },
+  {
+    "asn": 275786,
+    "organization": "INFRA DIGITAL TECNOLOGIA LTDA",
+    "document": "39.675.050/0001-04",
+    "ip_blocks": [
+      "2801:81:270::/48"
+    ]
+  },
+  {
+    "asn": 275787,
+    "organization": "BARUQUE REOBTH EIRELI",
+    "document": "31.668.293/0001-03",
+    "ip_blocks": [
+      "2804:998c::/32"
     ]
   },
   {
