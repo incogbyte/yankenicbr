@@ -16471,8 +16471,6 @@
       "177.124.168.0/22",
       "177.129.60.0/22",
       "179.191.56.0/21",
-      "2804:1510::/32",
-      "2804:4678::/32",
       "45.226.88.0/22",
       "45.179.112.0/22",
       "45.163.108.0/22"
@@ -73432,7 +73430,8 @@
     "organization": "PEOPLE SERVIÃOS DE COMUNICAÃÃO LTDA",
     "document": "12.409.247/0001-45",
     "ip_blocks": [
-      "2804:802c::/32"
+      "2804:802c::/32",
+      "186.208.92.0/22"
     ]
   },
   {
@@ -85554,6 +85553,46 @@
     "document": "31.668.293/0001-03",
     "ip_blocks": [
       "2804:998c::/32"
+    ]
+  },
+  {
+    "asn": 275788,
+    "organization": "NAIARA DO NASCIMENTO",
+    "document": "22.223.429/0001-80",
+    "ip_blocks": [
+      "2804:9990::/32"
+    ]
+  },
+  {
+    "asn": 275789,
+    "organization": "RF PROVEDORES E TECNOLIGIA LTDA",
+    "document": "32.356.445/0001-03",
+    "ip_blocks": [
+      "2804:9994::/32"
+    ]
+  },
+  {
+    "asn": 275790,
+    "organization": "GIGA CONNECT INTERNET LTDA",
+    "document": "61.169.945/0001-26",
+    "ip_blocks": [
+      "2804:9998::/32"
+    ]
+  },
+  {
+    "asn": 275791,
+    "organization": "VISSOTTO E HARTMANN SERV DE COMUN E MULTIMIDIA",
+    "document": "34.250.586/0001-64",
+    "ip_blocks": [
+      "2804:999c::/32"
+    ]
+  },
+  {
+    "asn": 275792,
+    "organization": "SEFAZ - SECRETARIA DE ESTADO DE FAZENDA",
+    "document": "02.935.843/0001-05",
+    "ip_blocks": [
+      "2801:81:280::/48"
     ]
   },
   {
