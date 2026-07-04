@@ -66875,7 +66875,7 @@
   },
   {
     "asn": 270918,
-    "organization": "LINK BRASIL TELECOMUNICACOES LTDA",
+    "organization": "GR TELECOM",
     "document": "10.607.779/0001-61",
     "ip_blocks": [
       "187.121.156.0/22",
@@ -71476,7 +71476,7 @@
   },
   {
     "asn": 271487,
-    "organization": "FIBRACONN SERVIÃOS DE TELECOMUNICACOES LTDA",
+    "organization": "FIBRACONN TELECOM LTDA",
     "document": "33.483.541/0001-77",
     "ip_blocks": [
       "2804:7c4c::/32",
@@ -85593,6 +85593,30 @@
     "document": "02.935.843/0001-05",
     "ip_blocks": [
       "2801:81:280::/48"
+    ]
+  },
+  {
+    "asn": 275793,
+    "organization": "DAQUIBRASIL SINAL DE FIBRA OTICA LTDA",
+    "document": "30.333.440/0001-21",
+    "ip_blocks": [
+      "2804:99a0::/32"
+    ]
+  },
+  {
+    "asn": 275794,
+    "organization": "EletroSeg Ltda",
+    "document": "18.086.772/0001-53",
+    "ip_blocks": [
+      "2804:99a4::/32"
+    ]
+  },
+  {
+    "asn": 275795,
+    "organization": "LR TELECOM",
+    "document": "11.554.977/0001-77",
+    "ip_blocks": [
+      "2804:99a8::/32"
     ]
   },
   {
