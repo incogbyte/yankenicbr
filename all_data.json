@@ -31659,15 +31659,6 @@
     ]
   },
   {
-    "asn": 265016,
-    "organization": "Atlanet Telecomunicacoes Ltda",
-    "document": "12.990.044/0001-95",
-    "ip_blocks": [
-      "170.84.164.0/22",
-      "2804:3174::/32"
-    ]
-  },
-  {
     "asn": 265017,
     "organization": "TUDO ALL TELECOM SERVICOS DE INTERNET LTDA",
     "document": "21.614.487/0001-72",
@@ -35416,7 +35407,7 @@
   },
   {
     "asn": 265894,
-    "organization": "Portal.com STI eirele",
+    "organization": "PORTAL.COM SERVICOS DE TELECOMUNICACOES E INFORMAT",
     "document": "11.386.402/0001-92",
     "ip_blocks": [
       "131.196.48.0/22",
@@ -64182,7 +64173,7 @@
   },
   {
     "asn": 270585,
-    "organization": "Rodrigo de Mello GonÃ§alves Lopes ME",
+    "organization": "Fly Conecta Internet LTDA",
     "document": "22.358.848/0001-20",
     "ip_blocks": [
       "177.152.96.0/22",
@@ -70384,7 +70375,7 @@
   },
   {
     "asn": 271350,
-    "organization": "FSNET PROVEDOR",
+    "organization": "FSNET PROVEDOR DE INTERNET LTDA",
     "document": "26.897.521/0001-87",
     "ip_blocks": [
       "2804:7a24::/32",
@@ -81641,7 +81632,8 @@
     "organization": "ATLASNET SERVICOS DE COMUNICACAO",
     "document": "37.750.499/0001-64",
     "ip_blocks": [
-      "2804:9564::/32"
+      "2804:9564::/32",
+      "170.84.164.0/22"
     ]
   },
   {
