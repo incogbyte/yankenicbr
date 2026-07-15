@@ -1063,11 +1063,10 @@
   },
   {
     "asn": 11338,
-    "organization": "SKY SERVIÃOS DE BANDA LARGA LTDA",
-    "document": "00.497.373/0001-10",
+    "organization": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
+    "document": "26.453.505/0001-03",
     "ip_blocks": [
       "177.13.0.0/16",
-      "2804:15f8::/32",
       "177.55.0.0/19",
       "191.253.128.0/18",
       "200.196.96.0/19",
@@ -32381,8 +32380,8 @@
   },
   {
     "asn": 265111,
-    "organization": "SKY SERVIÃOS DE BANDA LARGA LTDA",
-    "document": "00.497.373/0001-10",
+    "organization": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
+    "document": "26.453.505/0001-03",
     "ip_blocks": [
       "170.254.192.0/22",
       "2804:3304::/32"
@@ -63117,8 +63116,8 @@
   },
   {
     "asn": 270452,
-    "organization": "Netfacil Turiuba LTDA",
-    "document": "28.473.689/0001-90",
+    "organization": "Ta On Telecom LTDA",
+    "document": "51.838.224/0001-08",
     "ip_blocks": [
       "2804:6c34::/32",
       "200.71.104.0/22"
