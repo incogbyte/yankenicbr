@@ -84365,7 +84365,7 @@
   },
   {
     "asn": 275639,
-    "organization": "Globalcomm Internet",
+    "organization": "RAFAEL DOS SANTOS PRATES LTDA",
     "document": "13.488.849/0001-06",
     "ip_blocks": [
       "2804:97b0::/32",
@@ -85588,6 +85588,14 @@
     "document": "12.819.065/0001-42",
     "ip_blocks": [
       "2804:99ac::/32"
+    ]
+  },
+  {
+    "asn": 275797,
+    "organization": "POLO CONNECT TELECOMUNICACOES LTDA",
+    "document": "59.013.943/0001-00",
+    "ip_blocks": [
+      "2804:99b0::/32"
     ]
   },
   {
