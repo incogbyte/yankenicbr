@@ -11550,15 +11550,6 @@
     ]
   },
   {
-    "asn": 53232,
-    "organization": "Banner ServiÃ§os de Telecom e Internet Ltda.",
-    "document": "09.427.397/0001-77",
-    "ip_blocks": [
-      "177.10.48.0/22",
-      "2804:24b8::/32"
-    ]
-  },
-  {
     "asn": 53233,
     "organization": "V2Net Comercio Servicos e Internet Ltda.",
     "document": "10.653.480/0001-43",
@@ -16188,7 +16179,8 @@
       "186.208.144.0/20",
       "45.4.20.0/22",
       "45.182.184.0/23",
-      "187.111.32.0/20"
+      "187.111.32.0/20",
+      "177.10.48.0/22"
     ]
   },
   {
@@ -16613,8 +16605,8 @@
   },
   {
     "asn": 262513,
-    "organization": "SERMA ASSOC DOS USUARIOS DE QUIP DE PROCESS DE DAD",
-    "document": "61.601.951/0001-00",
+    "organization": "COMPANHIA ULTRAGAZ S.A.",
+    "document": "61.602.199/0001-12",
     "ip_blocks": [
       "177.67.60.0/23",
       "177.128.172.0/23",
@@ -53714,7 +53706,7 @@
   },
   {
     "asn": 268778,
-    "organization": "MAYARA B G FERNANDES ME",
+    "organization": "FTI NET",
     "document": "15.151.769/0001-88",
     "ip_blocks": [
       "45.172.164.0/22",
@@ -73486,7 +73478,8 @@
     "organization": "Sousa morais computaÃ§Ã£o e rede de dados eirelli",
     "document": "29.997.014/0001-03",
     "ip_blocks": [
-      "2804:8070::/32"
+      "2804:8070::/32",
+      "45.182.36.0/22"
     ]
   },
   {
@@ -85600,6 +85593,30 @@
     "document": "83.899.526/0001-82",
     "ip_blocks": [
       "2804:1f80::/32"
+    ]
+  },
+  {
+    "asn": 275799,
+    "organization": "Telbit Tecnologia da InformaÃ§Ã£o Ltda",
+    "document": "47.323.543/0001-03",
+    "ip_blocks": [
+      "2804:99b4::/32"
+    ]
+  },
+  {
+    "asn": 275800,
+    "organization": "Cyborg Conect Eireli",
+    "document": "32.258.421/0001-03",
+    "ip_blocks": [
+      "2804:99b8::/32"
+    ]
+  },
+  {
+    "asn": 275801,
+    "organization": "ATUAL TELECOM PROVEDOR DE INTERNET LTDA",
+    "document": "39.481.006/0001-63",
+    "ip_blocks": [
+      "2804:99bc::/32"
     ]
   },
   {
