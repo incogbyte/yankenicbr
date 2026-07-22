@@ -28887,7 +28887,7 @@
   },
   {
     "asn": 264409,
-    "organization": "GRUPO YAX",
+    "organization": "Huge Solucoes Corporativas Ltda",
     "document": "03.247.896/0001-04",
     "ip_blocks": [
       "131.221.44.0/22",
@@ -47090,15 +47090,6 @@
     "ip_blocks": [
       "45.165.220.0/22",
       "2804:5568::/32"
-    ]
-  },
-  {
-    "asn": 267934,
-    "organization": "HENRIQUE SANTOS SERVIÃOS - ME",
-    "document": "26.349.581/0001-65",
-    "ip_blocks": [
-      "45.165.252.0/22",
-      "2804:556c::/32"
     ]
   },
   {
@@ -80639,7 +80630,8 @@
     "organization": "R. de Jesus - Telecomunicacoes LTDA",
     "document": "38.798.947/0001-62",
     "ip_blocks": [
-      "2804:9670::/32"
+      "2804:9670::/32",
+      "45.165.252.0/22"
     ]
   },
   {
@@ -82272,7 +82264,7 @@
   },
   {
     "asn": 274603,
-    "organization": "FJ TELECOM LTDA",
+    "organization": "FJr Telecom",
     "document": "52.510.396/0001-10",
     "ip_blocks": [
       "2804:90dc::/32"
@@ -85617,6 +85609,22 @@
     "document": "39.481.006/0001-63",
     "ip_blocks": [
       "2804:99bc::/32"
+    ]
+  },
+  {
+    "asn": 275802,
+    "organization": "PROVEDOR DE INTERNET MATAVERDE ONLINE LTDA",
+    "document": "34.717.137/0001-83",
+    "ip_blocks": [
+      "2804:99c0::/32"
+    ]
+  },
+  {
+    "asn": 275803,
+    "organization": "ERNANE DE J CABRAL",
+    "document": "35.407.061/0001-52",
+    "ip_blocks": [
+      "2804:99c4::/32"
     ]
   },
   {
