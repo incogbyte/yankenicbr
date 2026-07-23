@@ -2672,8 +2672,6 @@
       "186.196.128.0/17",
       "186.196.64.0/18",
       "186.196.16.0/20",
-      "186.196.12.0/22",
-      "186.196.10.0/23",
       "191.128.29.0/24",
       "191.128.30.0/23",
       "191.128.88.0/21",
@@ -2688,7 +2686,8 @@
       "177.167.0.0/16",
       "177.108.0.0/15",
       "177.110.0.0/16",
-      "177.30.0.0/15"
+      "177.30.0.0/15",
+      "186.196.15.0/24"
     ]
   },
   {
@@ -10262,7 +10261,12 @@
       "186.196.4.0/24",
       "186.196.5.0/24",
       "186.196.6.0/24",
-      "186.196.7.0/24"
+      "186.196.7.0/24",
+      "186.196.10.0/24",
+      "186.196.11.0/24",
+      "186.196.12.0/24",
+      "186.196.13.0/24",
+      "186.196.14.0/24"
     ]
   },
   {
@@ -14051,8 +14055,8 @@
   },
   {
     "asn": 61873,
-    "organization": "Borba Provedor",
-    "document": "23.428.899/0001-43",
+    "organization": "MA TELECOM",
+    "document": "55.559.754/0001-78",
     "ip_blocks": [
       "201.149.108.0/22",
       "2804:1aa4::/32"
@@ -16245,8 +16249,8 @@
   },
   {
     "asn": 262469,
-    "organization": "WISP ICONECTA SERVICOS DE REDE LTDA",
-    "document": "08.734.110/0001-99",
+    "organization": "ZAAZ PROVEDOR DE INTERNET E TELECOMUNICACOES LTDA",
+    "document": "26.453.505/0001-03",
     "ip_blocks": [
       "177.47.160.0/20",
       "2804:4d4::/32",
@@ -76442,14 +76446,6 @@
     ]
   },
   {
-    "asn": 272726,
-    "organization": "BS TELECOMUNICACOES EIRELI",
-    "document": "25.009.947/0001-94",
-    "ip_blocks": [
-      "2804:87b0::/32"
-    ]
-  },
-  {
     "asn": 272727,
     "organization": "FIBER BOX TELECOM",
     "document": "24.999.110/0001-77",
@@ -85625,6 +85621,38 @@
     "document": "35.407.061/0001-52",
     "ip_blocks": [
       "2804:99c4::/32"
+    ]
+  },
+  {
+    "asn": 275804,
+    "organization": "TOPENET SERVICOS DE TELECOMUNICACAO LTDA",
+    "document": "28.385.484/0001-53",
+    "ip_blocks": [
+      "2804:99c8::/32"
+    ]
+  },
+  {
+    "asn": 275805,
+    "organization": "NEWLIKE TELECOM LTDA",
+    "document": "61.123.695/0001-93",
+    "ip_blocks": [
+      "2804:99cc::/32"
+    ]
+  },
+  {
+    "asn": 275806,
+    "organization": "KOMODE TECNOLOGIA DA INFORMATICA LTDA",
+    "document": "20.859.224/0001-60",
+    "ip_blocks": [
+      "2804:99d0::/32"
+    ]
+  },
+  {
+    "asn": 275807,
+    "organization": "INOVA FIBRA TELECOM LTDA",
+    "document": "23.533.199/0001-19",
+    "ip_blocks": [
+      "2804:99d4::/32"
     ]
   },
   {
