@@ -56207,8 +56207,8 @@
   },
   {
     "asn": 269091,
-    "organization": "MADANET TELECOM LTDA - ME",
-    "document": "21.701.637/0001-85",
+    "organization": "TRU TELECOM LTDA",
+    "document": "43.152.142/0001-87",
     "ip_blocks": [
       "45.178.188.0/22",
       "2804:5f50::/32"
@@ -63412,8 +63412,9 @@
     "organization": "GALAXY NET TELECOM LTDA",
     "document": "29.170.280/0001-68",
     "ip_blocks": [
-      "24.152.88.0/22",
-      "2804:6cc0::/32"
+      "2804:6cc0::/32",
+      "24.152.88.0/23",
+      "24.152.90.0/24"
     ]
   },
   {
@@ -85308,7 +85309,8 @@
     "organization": "FH COMERCIO E COMUNICACOES SAT LTDA",
     "document": "17.384.610/0001-39",
     "ip_blocks": [
-      "2804:9928::/32"
+      "2804:9928::/32",
+      "24.152.91.0/24"
     ]
   },
   {
@@ -85701,6 +85703,22 @@
     "document": "52.356.753/0001-38",
     "ip_blocks": [
       "2804:99dc::/32"
+    ]
+  },
+  {
+    "asn": 275810,
+    "organization": "Netja telecom",
+    "document": "26.996.312/0001-90",
+    "ip_blocks": [
+      "2804:99e0::/32"
+    ]
+  },
+  {
+    "asn": 275811,
+    "organization": "Very Telecom LTDA",
+    "document": "43.969.048/0001-15",
+    "ip_blocks": [
+      "2804:99e4::/32"
     ]
   },
   {
