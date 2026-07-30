@@ -6553,7 +6553,7 @@
   },
   {
     "asn": 52567,
-    "organization": "NEXNET FIBRA INTERNET",
+    "organization": "INTERNET FIBRA",
     "document": "08.656.846/0001-96",
     "ip_blocks": [
       "177.86.56.0/21",
@@ -30657,7 +30657,7 @@
   },
   {
     "asn": 264892,
-    "organization": "Gente Telecom do Brasil Eireli ME",
+    "organization": "GENTE TELECOM DO BRASIL LTDA",
     "document": "11.652.220/0001-16",
     "ip_blocks": [
       "168.205.252.0/22",
@@ -39548,7 +39548,8 @@
     "document": "20.115.376/0001-59",
     "ip_blocks": [
       "170.82.48.0/22",
-      "2804:37d4::/32"
+      "2804:37d4::/32",
+      "45.173.32.0/22"
     ]
   },
   {
@@ -50189,7 +50190,8 @@
     "document": "23.314.494/0001-84",
     "ip_blocks": [
       "45.238.40.0/22",
-      "2804:4f34::/32"
+      "2804:4f34::/32",
+      "45.174.180.0/22"
     ]
   },
   {
@@ -53964,15 +53966,6 @@
     ]
   },
   {
-    "asn": 268808,
-    "organization": "EASYNET SOLUÃÃES TECNOLOGICAS LTDA",
-    "document": "23.790.296/0001-97",
-    "ip_blocks": [
-      "45.173.32.0/22",
-      "2804:5af0::/32"
-    ]
-  },
-  {
     "asn": 268809,
     "organization": "EDILEUZA EVARISTO BARRETO",
     "document": "23.696.975/0001-00",
@@ -54414,15 +54407,6 @@
     "ip_blocks": [
       "45.174.136.0/22",
       "2804:5bb8::/32"
-    ]
-  },
-  {
-    "asn": 268866,
-    "organization": "JettCom TelecomunicaÃ§Ãµes LTDA",
-    "document": "14.160.435/0001-08",
-    "ip_blocks": [
-      "45.174.180.0/22",
-      "2804:5bbc::/32"
     ]
   },
   {
@@ -85719,6 +85703,14 @@
     "document": "43.969.048/0001-15",
     "ip_blocks": [
       "2804:99e4::/32"
+    ]
+  },
+  {
+    "asn": 275812,
+    "organization": "MAX TECNOLOGIA E TELECOMUNICAÃÃO LTDA",
+    "document": "14.935.962/0001-47",
+    "ip_blocks": [
+      "2804:99e8::/32"
     ]
   },
   {
