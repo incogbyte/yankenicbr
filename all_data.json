@@ -4935,7 +4935,10 @@
       "187.121.176.0/20",
       "168.196.68.0/22",
       "45.236.132.0/22",
-      "190.123.192.0/22"
+      "190.123.192.0/22",
+      "45.231.0.0/22",
+      "186.226.219.0/24",
+      "177.91.224.0/22"
     ]
   },
   {
@@ -5321,8 +5324,7 @@
       "2804:251c::/32",
       "187.61.80.0/21",
       "187.61.64.0/20",
-      "201.46.96.0/20",
-      "201.46.122.0/23"
+      "201.46.96.0/20"
     ]
   },
   {
@@ -7075,7 +7077,8 @@
     "document": "29.021.525/0001-95",
     "ip_blocks": [
       "177.128.24.0/21",
-      "2804:49d4::/32"
+      "2804:49d4::/32",
+      "179.42.136.0/22"
     ]
   },
   {
@@ -43182,16 +43185,6 @@
     ]
   },
   {
-    "asn": 267185,
-    "organization": "CCS CamboriÃº Cable System de TelecomunicaÃ§Ãµes Ltda",
-    "document": "82.855.164/0001-65",
-    "ip_blocks": [
-      "45.231.0.0/22",
-      "2804:4974::/32",
-      "186.226.219.0/24"
-    ]
-  },
-  {
     "asn": 267186,
     "organization": "NTEL SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
     "document": "26.058.199/0001-00",
@@ -67805,15 +67798,6 @@
     ]
   },
   {
-    "asn": 271035,
-    "organization": "CCS CamboriÃº Cable System de TelecomunicaÃ§Ãµes Ltda",
-    "document": "82.855.164/0001-65",
-    "ip_blocks": [
-      "177.91.224.0/22",
-      "2804:7544::/32"
-    ]
-  },
-  {
     "asn": 271036,
     "organization": "WELTON RODRIGUES VAZ",
     "document": "12.349.633/0001-99",
@@ -69189,15 +69173,6 @@
     "ip_blocks": [
       "179.42.124.0/22",
       "2804:77e4::/32"
-    ]
-  },
-  {
-    "asn": 271207,
-    "organization": "PROVERNET PLAY SERVICOS DIGITAIS LTDA",
-    "document": "35.517.480/0001-47",
-    "ip_blocks": [
-      "179.42.136.0/22",
-      "2804:77e8::/32"
     ]
   },
   {
@@ -73897,8 +73872,8 @@
   },
   {
     "asn": 272204,
-    "organization": "Zippex Telecom",
-    "document": "22.685.177/0001-01",
+    "organization": "QUICK TELECOMUNICAÃÃES LTDA",
+    "document": "40.853.466/0001-54",
     "ip_blocks": [
       "2804:838c::/32"
     ]
@@ -77536,7 +77511,8 @@
     "organization": "SIMBA CONTENT - INTERMEDIAÃÃO E AGENCIAMENTO DE CO",
     "document": "26.356.621/0001-04",
     "ip_blocks": [
-      "2804:8e0c::/32"
+      "2804:8e0c::/32",
+      "201.46.122.0/23"
     ]
   },
   {
