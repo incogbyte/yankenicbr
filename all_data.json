@@ -4327,10 +4327,10 @@
     "document": "08.210.265/0001-26",
     "ip_blocks": [
       "201.33.16.0/20",
-      "189.84.16.0/20",
       "177.47.96.0/19",
       "2804:4c4::/32",
-      "177.223.192.0/19"
+      "177.223.192.0/19",
+      "189.84.24.0/21"
     ]
   },
   {
@@ -46321,7 +46321,8 @@
       "45.70.160.0/22",
       "2804:4384::/32",
       "177.74.104.0/22",
-      "167.249.160.0/22"
+      "167.249.160.0/22",
+      "189.84.16.0/21"
     ]
   },
   {
@@ -49998,7 +49999,7 @@
   },
   {
     "asn": 268289,
-    "organization": "AUDICOM TECNOLOGIA E TELECOM LTDA",
+    "organization": "AUDICOM TELECOM LTDA",
     "document": "11.438.476/0001-25",
     "ip_blocks": [
       "45.237.200.0/22",
@@ -51360,8 +51361,8 @@
   },
   {
     "asn": 268466,
-    "organization": "Suportonline Telecom Ltda",
-    "document": "29.222.116/0001-57",
+    "organization": "ESTRUTECH SOLUCOES CORPORATIVAS LTDA",
+    "document": "60.448.907/0001-40",
     "ip_blocks": [
       "45.161.160.0/22",
       "2804:51a0::/32"
@@ -53705,8 +53706,8 @@
   },
   {
     "asn": 268775,
-    "organization": "MY ZONE INTERNET",
-    "document": "29.000.267/0001-60",
+    "organization": "LINKA TELECOM LTDA.",
+    "document": "64.993.369/0001-25",
     "ip_blocks": [
       "45.172.148.0/22",
       "2804:5a78::/32"
@@ -63476,8 +63477,8 @@
   },
   {
     "asn": 270502,
-    "organization": "DH NET INTERNET E TELECOMUNICACOES LTDA",
-    "document": "27.114.588/0001-60",
+    "organization": "REDE CONECTA TELECOM",
+    "document": "27.563.729/0001-22",
     "ip_blocks": [
       "24.152.44.0/22",
       "2804:6cf0::/32"
@@ -69272,6 +69273,15 @@
     "ip_blocks": [
       "177.10.136.0/22",
       "2804:7810::/32"
+    ]
+  },
+  {
+    "asn": 271219,
+    "organization": "T T connect TelecomunicaÃ§Ãµes",
+    "document": "31.258.881/0001-79",
+    "ip_blocks": [
+      "179.49.240.0/22",
+      "2804:7814::/32"
     ]
   },
   {
@@ -85579,7 +85589,7 @@
   },
   {
     "asn": 275799,
-    "organization": "Telbit Tecnologia da InformaÃ§Ã£o Ltda",
+    "organization": "Telbit Tecnologia da Informacao Ltda",
     "document": "47.323.543/0001-03",
     "ip_blocks": [
       "2804:99b4::/32"
@@ -85687,6 +85697,14 @@
     "document": "14.935.962/0001-47",
     "ip_blocks": [
       "2804:99e8::/32"
+    ]
+  },
+  {
+    "asn": 275813,
+    "organization": "BIAZI AGRO TELECOM LTDA",
+    "document": "32.908.233/0001-83",
+    "ip_blocks": [
+      "2804:99ec::/32"
     ]
   },
   {
