@@ -6557,7 +6557,7 @@
   },
   {
     "asn": 52567,
-    "organization": "INTERNET FIBRA",
+    "organization": "THADEU REZENDE MUNIZ",
     "document": "08.656.846/0001-96",
     "ip_blocks": [
       "177.86.56.0/21",
@@ -28022,7 +28022,8 @@
       "2804:2558::/32",
       "168.232.188.0/22",
       "45.174.152.0/22",
-      "181.233.56.0/22"
+      "181.233.56.0/22",
+      "170.233.108.0/22"
     ]
   },
   {
@@ -32210,15 +32211,6 @@
     "ip_blocks": [
       "170.233.140.0/22",
       "2804:329c::/32"
-    ]
-  },
-  {
-    "asn": 265090,
-    "organization": "GS TELECOMUNICACOES LTDA",
-    "document": "12.525.276/0001-72",
-    "ip_blocks": [
-      "2804:32a4::/32",
-      "170.233.108.0/22"
     ]
   },
   {
@@ -46722,7 +46714,8 @@
     "document": "12.464.859/0001-30",
     "ip_blocks": [
       "45.71.216.0/22",
-      "2804:4460::/32"
+      "2804:4460::/32",
+      "181.224.20.0/22"
     ]
   },
   {
@@ -48785,7 +48778,7 @@
   },
   {
     "asn": 268141,
-    "organization": "TMK NET - ITZ",
+    "organization": "JALLA TELECOM E TECNOLOGIA LTDA",
     "document": "27.042.677/0001-49",
     "ip_blocks": [
       "45.170.0.0/22",
@@ -50016,15 +50009,6 @@
     "ip_blocks": [
       "45.237.204.0/22",
       "2804:4ee8::/32"
-    ]
-  },
-  {
-    "asn": 268291,
-    "organization": "MI NET TELECOM EIRELI ME",
-    "document": "25.024.980/0001-93",
-    "ip_blocks": [
-      "45.237.224.0/22",
-      "2804:4eec::/32"
     ]
   },
   {
@@ -71406,8 +71390,7 @@
     "organization": "AP SOLUCOES EM NETWORK E INFORMATICA EIRELI",
     "document": "24.528.320/0001-87",
     "ip_blocks": [
-      "2804:7c48::/32",
-      "181.224.20.0/22"
+      "2804:7c48::/32"
     ]
   },
   {
@@ -77146,7 +77129,7 @@
   },
   {
     "asn": 273349,
-    "organization": "CHARLES MENA SCATAMBURLO ME",
+    "organization": "Planalto Net Provedor de Internet Santa Cruz LTDA",
     "document": "12.671.173/0001-10",
     "ip_blocks": [
       "2804:8d50::/32"
@@ -82061,7 +82044,7 @@
   },
   {
     "asn": 274577,
-    "organization": "DEPOSITAR TELECOM LTDA",
+    "organization": "TELOS TELECOM LTDA",
     "document": "09.128.410/0001-97",
     "ip_blocks": [
       "2804:9634::/32"
@@ -84549,7 +84532,8 @@
     "organization": "EDUARDO BEZERRA DA SILVA SERVIÃOS DE INFORMATICA",
     "document": "32.494.801/0001-47",
     "ip_blocks": [
-      "2804:9814::/32"
+      "2804:9814::/32",
+      "45.237.224.0/22"
     ]
   },
   {
