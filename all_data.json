@@ -22545,7 +22545,7 @@
   },
   {
     "asn": 263408,
-    "organization": "gilberto spiller me",
+    "organization": "WEB MAX TELECOM LTDA",
     "document": "04.842.603/0001-91",
     "ip_blocks": [
       "179.97.8.0/21",
@@ -30440,8 +30440,8 @@
   },
   {
     "asn": 264864,
-    "organization": "NVNET PROVEDOR DE INTERNET E SERVICOS LTDA ME",
-    "document": "09.223.491/0001-04",
+    "organization": "ALTAVIA CONEXAO LTDA",
+    "document": "62.420.145/0001-07",
     "ip_blocks": [
       "2804:2efc::/32",
       "168.205.168.0/23"
@@ -39617,7 +39617,7 @@
   },
   {
     "asn": 266447,
-    "organization": "GCOM NETWORKS LTDA ME",
+    "organization": "MAB CONEXAO A INTERNET LTDA",
     "document": "24.822.514/0001-90",
     "ip_blocks": [
       "2804:37f8::/32",
@@ -67443,7 +67443,7 @@
   },
   {
     "asn": 270993,
-    "organization": "edilde menezes noronha",
+    "organization": "IE PROVEDOR DE INTERNET E SERVICOS LTDA",
     "document": "19.169.928/0001-22",
     "ip_blocks": [
       "186.232.220.0/22",
@@ -85724,6 +85724,14 @@
     "document": "28.005.608/0001-28",
     "ip_blocks": [
       "2804:99fc::/32"
+    ]
+  },
+  {
+    "asn": 275818,
+    "organization": "ATIV SoluÃ§Ãµes em Tecnologia",
+    "document": "23.828.704/0001-52",
+    "ip_blocks": [
+      "2804:9a00::/32"
     ]
   },
   {
