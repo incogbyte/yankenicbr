@@ -2655,7 +2655,6 @@
       "191.227.0.0/17",
       "191.226.0.0/16",
       "191.224.0.0/15",
-      "191.160.20.0/22",
       "191.160.24.0/21",
       "191.160.0.0/20",
       "191.128.25.0/24",
@@ -3351,7 +3350,8 @@
       "177.84.64.0/21",
       "177.137.240.0/21",
       "2804:d84::/32",
-      "179.107.128.0/19"
+      "179.107.128.0/19",
+      "191.160.20.0/22"
     ]
   },
   {
@@ -11957,7 +11957,7 @@
   },
   {
     "asn": 61595,
-    "organization": "TGLOBAL NETWORKS DO BRASIL LTDA",
+    "organization": "TGN BRASIL LTDA",
     "document": "53.628.032/0001-00",
     "ip_blocks": [
       "45.165.80.0/22",
@@ -18556,8 +18556,8 @@
   },
   {
     "asn": 262775,
-    "organization": "TECHS TECNOLOGIA EM HARDWARE E SOFTWARE",
-    "document": "00.981.458/0001-79",
+    "organization": "TECHS NET LTDA",
+    "document": "15.166.363/0001-79",
     "ip_blocks": [
       "186.232.248.0/22",
       "2804:df0::/32"
@@ -34912,7 +34912,7 @@
   },
   {
     "asn": 265446,
-    "organization": "FASTNET TELECOM LTDA - ME",
+    "organization": "FNT FAST TELECOM",
     "document": "09.199.192/0001-81",
     "ip_blocks": [
       "2804:3444::/32"
@@ -38159,7 +38159,7 @@
   },
   {
     "asn": 266268,
-    "organization": "JND - AJA -PROVEDOR INTERNTE",
+    "organization": "JND/AJA TELECOMUNICACOES",
     "document": "10.711.334/0001-27",
     "ip_blocks": [
       "45.65.208.0/22",
@@ -66093,7 +66093,7 @@
   },
   {
     "asn": 270826,
-    "organization": "VELiNK INTERNET BR",
+    "organization": "VELiNK FiBRA BR",
     "document": "29.707.456/0001-78",
     "ip_blocks": [
       "200.219.28.0/22",
@@ -85732,6 +85732,30 @@
     "document": "23.828.704/0001-52",
     "ip_blocks": [
       "2804:9a00::/32"
+    ]
+  },
+  {
+    "asn": 275819,
+    "organization": "VCM INTERNET LTDA",
+    "document": "29.331.950/0001-80",
+    "ip_blocks": [
+      "2804:9a04::/32"
+    ]
+  },
+  {
+    "asn": 275820,
+    "organization": "KTREE PENSO LTDA - EPP",
+    "document": "11.319.574/0001-43",
+    "ip_blocks": [
+      "2804:9a08::/32"
+    ]
+  },
+  {
+    "asn": 275821,
+    "organization": "J S Telecom LTDA",
+    "document": "14.355.913/0001-35",
+    "ip_blocks": [
+      "2804:9a0c::/32"
     ]
   },
   {
