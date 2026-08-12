@@ -2700,9 +2700,11 @@
       "186.196.64.0/22",
       "186.196.80.0/20",
       "186.196.96.0/19",
-      "186.196.76.0/22",
       "186.196.74.0/24",
-      "186.196.72.0/23"
+      "186.196.72.0/23",
+      "186.196.77.0/24",
+      "186.196.78.0/23",
+      "191.128.32.0/20"
     ]
   },
   {
@@ -6563,7 +6565,7 @@
   },
   {
     "asn": 52567,
-    "organization": "RMNET FIBRA LTDA",
+    "organization": "THADEU REZENDE MUNIZ",
     "document": "08.656.846/0001-96",
     "ip_blocks": [
       "177.86.56.0/21",
@@ -38417,15 +38419,6 @@
     ]
   },
   {
-    "asn": 266297,
-    "organization": "ANTONIO G. DOS SANTOS NETO",
-    "document": "28.089.780/0001-07",
-    "ip_blocks": [
-      "170.79.204.0/22",
-      "2804:35a0::/32"
-    ]
-  },
-  {
     "asn": 266298,
     "organization": "MWA INTERNET. COM LTDA - ME",
     "document": "20.969.356/0001-45",
@@ -38741,7 +38734,8 @@
     "document": "12.914.389/0001-60",
     "ip_blocks": [
       "170.238.112.0/22",
-      "2804:3640::/32"
+      "2804:3640::/32",
+      "170.79.204.0/22"
     ]
   },
   {
@@ -48110,15 +48104,6 @@
     "ip_blocks": [
       "45.168.136.0/22",
       "2804:575c::/32"
-    ]
-  },
-  {
-    "asn": 268062,
-    "organization": "REDE SMART SOLUCAO EM INTERNET EIRELI",
-    "document": "28.132.410/0001-05",
-    "ip_blocks": [
-      "45.168.140.0/22",
-      "2804:5760::/32"
     ]
   },
   {
@@ -75271,14 +75256,6 @@
     ]
   },
   {
-    "asn": 272550,
-    "organization": "ULTRA SERVICOS E TECNOLOGIA LTDA",
-    "document": "38.658.601/0001-69",
-    "ip_blocks": [
-      "2804:84fc::/32"
-    ]
-  },
-  {
     "asn": 272551,
     "organization": "Acenet SoluÃ§Ãµes de Rede e Internet LTDA - ME",
     "document": "15.768.759/0001-96",
@@ -78526,15 +78503,6 @@
     "ip_blocks": [
       "2804:8ffc::/32",
       "189.89.255.0/24"
-    ]
-  },
-  {
-    "asn": 273527,
-    "organization": "ADDAX TELECOMUNICACOES LTDA",
-    "document": "53.929.945/0001-59",
-    "ip_blocks": [
-      "2804:9000::/32",
-      "45.6.242.0/23"
     ]
   },
   {
@@ -84709,7 +84677,8 @@
     "organization": "Pontual Net Mg TelecomunicaÃ§oes LTDA",
     "document": "30.760.044/0001-80",
     "ip_blocks": [
-      "2804:9860::/32"
+      "2804:9860::/32",
+      "186.196.76.0/24"
     ]
   },
   {
@@ -85355,7 +85324,8 @@
     "organization": "Nord Telecom Ltda",
     "document": "52.974.241/0001-35",
     "ip_blocks": [
-      "2804:9950::/32"
+      "2804:9950::/32",
+      "45.6.242.0/23"
     ]
   },
   {
@@ -85764,6 +85734,14 @@
     "document": "14.355.913/0001-35",
     "ip_blocks": [
       "2804:9a0c::/32"
+    ]
+  },
+  {
+    "asn": 275822,
+    "organization": "CADDI SOLUCOES TECNOLOGICAS LTDA",
+    "document": "65.220.625/0001-04",
+    "ip_blocks": [
+      "2804:9a14::/32"
     ]
   },
   {
