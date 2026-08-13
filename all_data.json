@@ -1449,8 +1449,8 @@
   },
   {
     "asn": 14868,
-    "organization": "Ligga TelecomunicaÃ§Ãµes S.A.",
-    "document": "04.368.865/0001-66",
+    "organization": "LIGGA SERVICOS EM TELECOM S.A.",
+    "document": "65.649.511/0001-84",
     "ip_blocks": [
       "200.195.128.0/18",
       "200.150.64.0/19",
@@ -3097,15 +3097,6 @@
     "ip_blocks": [
       "187.49.96.0/20",
       "2804:5ec::/32"
-    ]
-  },
-  {
-    "asn": 28144,
-    "organization": "G3 TELECOM",
-    "document": "07.999.354/0001-30",
-    "ip_blocks": [
-      "187.49.112.0/20",
-      "2804:10c::/32"
     ]
   },
   {
@@ -11410,7 +11401,10 @@
     "ip_blocks": [
       "186.233.176.0/21",
       "177.11.136.0/21",
-      "2804:295c::/32"
+      "2804:295c::/32",
+      "177.38.24.0/22",
+      "177.38.28.0/22",
+      "168.196.56.0/22"
     ]
   },
   {
@@ -18352,8 +18346,8 @@
   },
   {
     "asn": 262756,
-    "organization": "Ligga TelecomunicaÃ§Ãµes S.A.",
-    "document": "04.368.865/0001-66",
+    "organization": "LIGGA SERVICOS EM TELECOM S.A.",
+    "document": "65.649.511/0001-84",
     "ip_blocks": [
       "186.224.32.0/20",
       "138.59.104.0/22",
@@ -19454,16 +19448,6 @@
     ]
   },
   {
-    "asn": 262901,
-    "organization": "Vcnet Provedora de Internet Ltda.",
-    "document": "07.888.091/0001-92",
-    "ip_blocks": [
-      "177.22.192.0/20",
-      "191.240.176.0/20",
-      "2804:1110::/32"
-    ]
-  },
-  {
     "asn": 262903,
     "organization": "Tubaron Telecom",
     "document": "07.775.840/0001-75",
@@ -19666,12 +19650,9 @@
     "organization": "D. A. Comercio e Servicos de Informatica Ltda",
     "document": "05.396.813/0001-66",
     "ip_blocks": [
-      "177.38.24.0/22",
       "2804:3c8::/32",
-      "177.38.28.0/22",
       "177.52.56.0/22",
-      "177.91.136.0/22",
-      "168.196.56.0/22"
+      "177.91.136.0/22"
     ]
   },
   {
@@ -20573,15 +20554,6 @@
     "ip_blocks": [
       "186.232.136.0/21",
       "2804:3954::/32"
-    ]
-  },
-  {
-    "asn": 263059,
-    "organization": "Cleber Luciano dos Anjos",
-    "document": "02.409.078/0001-90",
-    "ip_blocks": [
-      "2804:934::/32",
-      "186.232.152.0/21"
     ]
   },
   {
@@ -27096,15 +27068,6 @@
     ]
   },
   {
-    "asn": 264153,
-    "organization": "Cable.com TelecomunicaÃ§Ãµes LTDA",
-    "document": "03.904.227/0001-50",
-    "ip_blocks": [
-      "138.59.60.0/22",
-      "2804:2348::/32"
-    ]
-  },
-  {
     "asn": 264155,
     "organization": "DIATEL FIBRA",
     "document": "54.579.081/0001-55",
@@ -31608,7 +31571,7 @@
   },
   {
     "asn": 265008,
-    "organization": "T F DA SILVA RAMOS TELECOMUNICAÃÃES E SISTEMA EPP",
+    "organization": "T.I Connect LTDA",
     "document": "12.308.873/0001-45",
     "ip_blocks": [
       "170.0.60.0/22",
@@ -34206,15 +34169,6 @@
     ]
   },
   {
-    "asn": 265349,
-    "organization": "LAN SOLUTIONS INFORMATICA LTDA.",
-    "document": "06.292.238/0001-14",
-    "ip_blocks": [
-      "168.181.248.0/22",
-      "2804:2e80::/32"
-    ]
-  },
-  {
     "asn": 265350,
     "organization": "CSINET Telecom LTDA",
     "document": "07.356.048/0001-86",
@@ -36658,15 +36612,6 @@
       "45.4.132.0/22",
       "2804:39f8::/32",
       "45.6.128.0/22"
-    ]
-  },
-  {
-    "asn": 266063,
-    "organization": "G.W. DA SILVA SERVICOS DE COMUNICACAO MULTIMIDIA -",
-    "document": "11.690.322/0001-26",
-    "ip_blocks": [
-      "45.4.104.0/22",
-      "2804:39fc::/32"
     ]
   },
   {
@@ -44306,15 +44251,6 @@
     "ip_blocks": [
       "45.233.184.0/22",
       "2804:4bb8::/32"
-    ]
-  },
-  {
-    "asn": 267327,
-    "organization": "NKM RAMOS INFORMATICA LTDA",
-    "document": "09.142.721/0001-00",
-    "ip_blocks": [
-      "45.233.112.0/22",
-      "2804:4bc0::/32"
     ]
   },
   {
@@ -70203,7 +70139,7 @@
   },
   {
     "asn": 271336,
-    "organization": "VIBER TELECOM SERVICOS E TELECOMUNICACAO LTDA",
+    "organization": "GOLDEN LINK BENFICA",
     "document": "29.342.533/0001-33",
     "ip_blocks": [
       "2804:79ec::/32",
@@ -75356,14 +75292,6 @@
     ]
   },
   {
-    "asn": 272566,
-    "organization": "ALTA REDE FIBER TELECOM LTDA",
-    "document": "05.373.396/0001-36",
-    "ip_blocks": [
-      "2804:853c::/32"
-    ]
-  },
-  {
     "asn": 272568,
     "organization": "Fastweb Telecom Sistemas de ComunicaÃ§Ãµes Ltda",
     "document": "28.439.017/0001-69",
@@ -78011,14 +77939,6 @@
     ]
   },
   {
-    "asn": 273466,
-    "organization": "WORLDNET SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "32.146.520/0001-01",
-    "ip_blocks": [
-      "2804:8f14::/32"
-    ]
-  },
-  {
     "asn": 273467,
     "organization": "H R B LACERDA",
     "document": "14.809.276/0002-00",
@@ -79388,14 +79308,6 @@
     "document": "20.514.953/0001-85",
     "ip_blocks": [
       "2804:8a44::/32"
-    ]
-  },
-  {
-    "asn": 273659,
-    "organization": "MLINK TELECOM LTDA",
-    "document": "37.321.974/0001-87",
-    "ip_blocks": [
-      "2804:8a48::/32"
     ]
   },
   {
@@ -85742,6 +85654,22 @@
     "document": "65.220.625/0001-04",
     "ip_blocks": [
       "2804:9a14::/32"
+    ]
+  },
+  {
+    "asn": 275823,
+    "organization": "CONNECT CE LTDA",
+    "document": "34.740.060/0001-62",
+    "ip_blocks": [
+      "2804:9a18::/32"
+    ]
+  },
+  {
+    "asn": 275824,
+    "organization": "SUNO TELECOM LTDA",
+    "document": "33.614.203/0001-27",
+    "ip_blocks": [
+      "2804:9a1c::/32"
     ]
   },
   {
