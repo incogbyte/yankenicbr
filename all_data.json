@@ -6420,15 +6420,6 @@
     ]
   },
   {
-    "asn": 52550,
-    "organization": "Etaf Telecom Eireli",
-    "document": "37.012.190/0001-77",
-    "ip_blocks": [
-      "177.86.44.0/22",
-      "2804:cc0::/32"
-    ]
-  },
-  {
     "asn": 52552,
     "organization": "PARANA EQUIPAMENTOS S.A.",
     "document": "76.527.951/0001-85",
@@ -41536,15 +41527,6 @@
     ]
   },
   {
-    "asn": 266972,
-    "organization": "SIGANET TELECOM",
-    "document": "12.889.706/0001-35",
-    "ip_blocks": [
-      "45.225.208.0/22",
-      "2804:4628::/32"
-    ]
-  },
-  {
     "asn": 266973,
     "organization": "Provnet Internet Ltda",
     "document": "09.576.058/0001-52",
@@ -42550,15 +42532,6 @@
     "ip_blocks": [
       "45.229.80.0/22",
       "2804:4838::/32"
-    ]
-  },
-  {
-    "asn": 267106,
-    "organization": "NETFIBRA TELECOMUNICACOES LTDA - ME",
-    "document": "27.292.443/0001-50",
-    "ip_blocks": [
-      "45.229.88.0/22",
-      "2804:483c::/32"
     ]
   },
   {
@@ -45807,7 +45780,7 @@
   },
   {
     "asn": 267521,
-    "organization": "ULTRANET NETWORK",
+    "organization": "ULTRAFIBER INFORMATICA E TELECOMUNICACOES LTDA",
     "document": "17.793.452/0001-70",
     "ip_blocks": [
       "201.182.48.0/22",
@@ -58813,7 +58786,7 @@
   },
   {
     "asn": 269425,
-    "organization": "RN TELECOMUNICACOES EIRELI",
+    "organization": "RBN TELECOM LTDA",
     "document": "08.178.630/0001-62",
     "ip_blocks": [
       "45.186.32.0/22",
@@ -62153,7 +62126,8 @@
     "document": "18.136.012/0001-03",
     "ip_blocks": [
       "190.89.20.0/22",
-      "2804:6aa4::/32"
+      "2804:6aa4::/32",
+      "45.225.208.0/22"
     ]
   },
   {
@@ -63228,15 +63202,6 @@
     ]
   },
   {
-    "asn": 270481,
-    "organization": "ERBS TECNOLOGIA",
-    "document": "34.642.938/0001-27",
-    "ip_blocks": [
-      "24.152.32.0/22",
-      "2804:6ca0::/32"
-    ]
-  },
-  {
     "asn": 270482,
     "organization": "Raiden Telecom",
     "document": "22.862.271/0001-99",
@@ -63396,15 +63361,6 @@
     "ip_blocks": [
       "24.152.44.0/22",
       "2804:6cf0::/32"
-    ]
-  },
-  {
-    "asn": 270503,
-    "organization": "R LUIZ LEANDRO",
-    "document": "23.714.027/0001-41",
-    "ip_blocks": [
-      "24.152.92.0/22",
-      "2804:6cf4::/32"
     ]
   },
   {
@@ -63932,15 +63888,6 @@
     "ip_blocks": [
       "200.215.244.0/22",
       "2804:6e00::/32"
-    ]
-  },
-  {
-    "asn": 270570,
-    "organization": "JuniorNet Fibra",
-    "document": "19.429.124/0001-15",
-    "ip_blocks": [
-      "201.49.136.0/22",
-      "2804:6e04::/32"
     ]
   },
   {
@@ -72758,15 +72705,6 @@
     ]
   },
   {
-    "asn": 271667,
-    "organization": "OPERADORA JRC TELECOMUNICAÃÃES LTDA",
-    "document": "29.597.360/0001-02",
-    "ip_blocks": [
-      "2804:7f1c::/32",
-      "45.225.248.0/24"
-    ]
-  },
-  {
     "asn": 271668,
     "organization": "REDESUB SERVIÃOS INTERNET LTDA",
     "document": "36.173.906/0001-55",
@@ -72791,15 +72729,6 @@
     "ip_blocks": [
       "2804:7f2c::/32",
       "168.232.120.0/22"
-    ]
-  },
-  {
-    "asn": 271672,
-    "organization": "L OLIVEIRA BARROS",
-    "document": "27.423.294/0001-10",
-    "ip_blocks": [
-      "2804:7f30::/32",
-      "177.105.196.0/22"
     ]
   },
   {
@@ -74315,8 +74244,8 @@
   },
   {
     "asn": 272418,
-    "organization": "INFORLIMA TELECOMUNICACAO EIRELI",
-    "document": "19.937.430/0001-62",
+    "organization": "CONECTA ISP TELECOMUNICACOES",
+    "document": "51.413.484/0001-31",
     "ip_blocks": [
       "2804:80e0::/32",
       "186.65.76.0/22"
@@ -77420,15 +77349,6 @@
     "ip_blocks": [
       "2804:8e0c::/32",
       "201.46.122.0/23"
-    ]
-  },
-  {
-    "asn": 273400,
-    "organization": "MUGO TELECOMUNICACOES LTDA",
-    "document": "14.732.961/0001-03",
-    "ip_blocks": [
-      "2804:8e10::/32",
-      "45.172.174.0/23"
     ]
   },
   {
@@ -85670,6 +85590,22 @@
     "document": "33.614.203/0001-27",
     "ip_blocks": [
       "2804:9a1c::/32"
+    ]
+  },
+  {
+    "asn": 275825,
+    "organization": "Topnet Fibra Ltda",
+    "document": "24.628.565/0001-86",
+    "ip_blocks": [
+      "2804:9a20::/32"
+    ]
+  },
+  {
+    "asn": 275826,
+    "organization": "Universidade Estadual do Centro-Oeste",
+    "document": "77.902.914/0001-72",
+    "ip_blocks": [
+      "2804:1f60::/32"
     ]
   },
   {
