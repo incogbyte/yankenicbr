@@ -3100,6 +3100,15 @@
     ]
   },
   {
+    "asn": 28144,
+    "organization": "G3 TELECOM",
+    "document": "07.999.354/0001-30",
+    "ip_blocks": [
+      "187.49.112.0/20",
+      "2804:10c::/32"
+    ]
+  },
+  {
     "asn": 28145,
     "organization": "RLINE TELECOM LTDA",
     "document": "13.500.755/0001-05",
@@ -34328,8 +34337,8 @@
   },
   {
     "asn": 265374,
-    "organization": "3X TELECOMUNICAÃÃES LTDA",
-    "document": "09.366.738/0001-41",
+    "organization": "Fazzy Telecom Ltda",
+    "document": "08.426.804/0001-69",
     "ip_blocks": [
       "170.254.244.0/22",
       "2804:3320::/32"
@@ -76936,7 +76945,7 @@
   },
   {
     "asn": 273345,
-    "organization": "4EDGE TECNOLOGIA LTDA ME",
+    "organization": "4EDGE TECNOLOGIA LTDA",
     "document": "19.743.092/0001-28",
     "ip_blocks": [
       "2804:8d40::/32",
@@ -79228,6 +79237,14 @@
     "document": "20.514.953/0001-85",
     "ip_blocks": [
       "2804:8a44::/32"
+    ]
+  },
+  {
+    "asn": 273659,
+    "organization": "MLINK TELECOM LTDA",
+    "document": "37.321.974/0001-87",
+    "ip_blocks": [
+      "2804:8a48::/32"
     ]
   },
   {
