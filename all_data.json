@@ -6429,6 +6429,15 @@
     ]
   },
   {
+    "asn": 52550,
+    "organization": "Etaf Telecom Eireli",
+    "document": "37.012.190/0001-77",
+    "ip_blocks": [
+      "177.86.44.0/22",
+      "2804:cc0::/32"
+    ]
+  },
+  {
     "asn": 52552,
     "organization": "PARANA EQUIPAMENTOS S.A.",
     "document": "76.527.951/0001-85",
@@ -20557,6 +20566,15 @@
     ]
   },
   {
+    "asn": 263059,
+    "organization": "Cleber Luciano dos Anjos",
+    "document": "02.409.078/0001-90",
+    "ip_blocks": [
+      "2804:934::/32",
+      "186.232.152.0/21"
+    ]
+  },
+  {
     "asn": 263060,
     "organization": "AtÃ­lio Marcos Marcari e Cia Ltda Me",
     "document": "00.356.249/0001-34",
@@ -22050,15 +22068,6 @@
       "191.36.180.0/22",
       "2804:14a4::/32",
       "168.228.160.0/22"
-    ]
-  },
-  {
-    "asn": 263342,
-    "organization": "W SOUSA T ROSA LTDA",
-    "document": "08.287.067/0001-60",
-    "ip_blocks": [
-      "191.36.224.0/22",
-      "2804:14a8::/32"
     ]
   },
   {
@@ -25811,7 +25820,8 @@
       "191.37.0.0/23",
       "191.37.4.0/23",
       "45.239.166.0/23",
-      "45.239.164.0/24"
+      "45.239.164.0/24",
+      "191.36.224.0/22"
     ]
   },
   {
@@ -34169,6 +34179,15 @@
     ]
   },
   {
+    "asn": 265349,
+    "organization": "LAN SOLUTIONS INFORMATICA LTDA.",
+    "document": "06.292.238/0001-14",
+    "ip_blocks": [
+      "168.181.248.0/22",
+      "2804:2e80::/32"
+    ]
+  },
+  {
     "asn": 265350,
     "organization": "CSINET Telecom LTDA",
     "document": "07.356.048/0001-86",
@@ -36612,6 +36631,15 @@
       "45.4.132.0/22",
       "2804:39f8::/32",
       "45.6.128.0/22"
+    ]
+  },
+  {
+    "asn": 266063,
+    "organization": "G.W. DA SILVA SERVICOS DE COMUNICACAO MULTIMIDIA -",
+    "document": "11.690.322/0001-26",
+    "ip_blocks": [
+      "45.4.104.0/22",
+      "2804:39fc::/32"
     ]
   },
   {
@@ -44233,6 +44261,15 @@
     "ip_blocks": [
       "45.233.184.0/22",
       "2804:4bb8::/32"
+    ]
+  },
+  {
+    "asn": 267327,
+    "organization": "NKM RAMOS INFORMATICA LTDA",
+    "document": "09.142.721/0001-00",
+    "ip_blocks": [
+      "45.233.112.0/22",
+      "2804:4bc0::/32"
     ]
   },
   {
@@ -60804,7 +60841,7 @@
   },
   {
     "asn": 269671,
-    "organization": "MORAIS NET",
+    "organization": "MORAISNET LTDA",
     "document": "31.679.676/0001-87",
     "ip_blocks": [
       "45.191.124.0/22",
@@ -77361,6 +77398,15 @@
     ]
   },
   {
+    "asn": 273400,
+    "organization": "MUGO TELECOMUNICACOES LTDA",
+    "document": "14.732.961/0001-03",
+    "ip_blocks": [
+      "2804:8e10::/32",
+      "45.172.174.0/23"
+    ]
+  },
+  {
     "asn": 273401,
     "organization": "UOLNET PROVEDORES DE INTERNET",
     "document": "41.905.582/0001-32",
@@ -85623,6 +85669,14 @@
     "document": "77.902.914/0001-72",
     "ip_blocks": [
       "2804:1f60::/32"
+    ]
+  },
+  {
+    "asn": 275827,
+    "organization": "VSNET CIPO LTDA",
+    "document": "46.492.875/0001-59",
+    "ip_blocks": [
+      "2804:9a24::/32"
     ]
   },
   {
