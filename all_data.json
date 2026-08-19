@@ -32463,7 +32463,10 @@
     "ip_blocks": [
       "143.208.124.0/22",
       "2804:2af0::/32",
-      "170.84.216.0/22"
+      "170.84.216.0/22",
+      "143.208.112.0/22",
+      "170.239.52.0/23",
+      "170.239.54.0/24"
     ]
   },
   {
@@ -32480,9 +32483,8 @@
     "organization": "SILVA MORAES SERV DE COMUN MULTIMIDIA-SCM EIRELI",
     "document": "10.487.634/0001-74",
     "ip_blocks": [
-      "143.208.112.0/22",
       "2804:2af8::/32",
-      "170.239.52.0/22"
+      "170.239.55.0/24"
     ]
   },
   {
@@ -44921,7 +44923,7 @@
   },
   {
     "asn": 267408,
-    "organization": "Provedor de Acesso a Internet de Pernambuco Ltda",
+    "organization": "NEW NETWORK CONNECTION LTDA",
     "document": "22.800.441/0001-00",
     "ip_blocks": [
       "45.234.8.0/22",
@@ -46294,7 +46296,7 @@
   },
   {
     "asn": 267578,
-    "organization": "WILLIAN MENDES DE OLIVEIRA Â­ ME",
+    "organization": "W LINKS INTERNET LTDA",
     "document": "27.698.903/0001-44",
     "ip_blocks": [
       "45.70.164.0/22",
@@ -62976,8 +62978,9 @@
     "organization": "STAR NET FLEX MULTIMIDIA - LTDA",
     "document": "10.845.559/0001-76",
     "ip_blocks": [
-      "200.50.192.0/22",
-      "2804:6c18::/32"
+      "2804:6c18::/32",
+      "200.50.194.0/24",
+      "200.50.192.0/23"
     ]
   },
   {
@@ -77914,6 +77917,14 @@
     ]
   },
   {
+    "asn": 273466,
+    "organization": "WORLDNET SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "32.146.520/0001-01",
+    "ip_blocks": [
+      "2804:8f14::/32"
+    ]
+  },
+  {
     "asn": 273467,
     "organization": "H R B LACERDA",
     "document": "14.809.276/0002-00",
@@ -83623,7 +83634,8 @@
     "organization": "NEXNET TELECOM LTDA",
     "document": "13.549.714/0001-03",
     "ip_blocks": [
-      "2804:93cc::/32"
+      "2804:93cc::/32",
+      "200.50.195.0/24"
     ]
   },
   {
@@ -85677,6 +85689,14 @@
     "document": "46.492.875/0001-59",
     "ip_blocks": [
       "2804:9a24::/32"
+    ]
+  },
+  {
+    "asn": 275828,
+    "organization": "J C B DE ANDRADE SERVICE INFORMATICA - CHIPSET",
+    "document": "11.979.189/0001-22",
+    "ip_blocks": [
+      "2804:9a28::/32"
     ]
   },
   {
