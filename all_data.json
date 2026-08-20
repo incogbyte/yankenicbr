@@ -17662,8 +17662,8 @@
   },
   {
     "asn": 262648,
-    "organization": "BRAVA TELECOMUNICACOES PONTES E LACERDA LTDA - EPP",
-    "document": "10.300.750/0001-32",
+    "organization": "LSB TELECOMUNICACOES LTDA - BRAVA",
+    "document": "64.208.370/0001-00",
     "ip_blocks": [
       "177.87.56.0/21",
       "2804:76c::/32"
@@ -19454,6 +19454,16 @@
     "ip_blocks": [
       "45.165.128.0/22",
       "2804:554c::/32"
+    ]
+  },
+  {
+    "asn": 262901,
+    "organization": "Vcnet Provedora de Internet Ltda.",
+    "document": "07.888.091/0001-92",
+    "ip_blocks": [
+      "177.22.192.0/20",
+      "191.240.176.0/20",
+      "2804:1110::/32"
     ]
   },
   {
@@ -24982,7 +24992,7 @@
   },
   {
     "asn": 263874,
-    "organization": "Dione Balarim Prieto Tecnologia e Internet",
+    "organization": "WBRNET INTERNET LTDA",
     "document": "04.727.195/0001-27",
     "ip_blocks": [
       "138.186.220.0/22",
@@ -28004,7 +28014,8 @@
       "168.232.188.0/22",
       "45.174.152.0/22",
       "181.233.56.0/22",
-      "170.233.108.0/22"
+      "170.233.108.0/22",
+      "190.111.102.0/23"
     ]
   },
   {
@@ -40792,15 +40803,6 @@
     ]
   },
   {
-    "asn": 266615,
-    "organization": "MEGA LINK PROVEDOR DE INTERNET - LTDA",
-    "document": "13.455.130/0001-60",
-    "ip_blocks": [
-      "45.7.224.0/22",
-      "2804:3eb0::/32"
-    ]
-  },
-  {
     "asn": 266616,
     "organization": "COHAB NET",
     "document": "20.397.069/0001-08",
@@ -50513,7 +50515,7 @@
   },
   {
     "asn": 268366,
-    "organization": "FJ COMERCIO E SERVIÃOS DE INTERNET LTDA-ME",
+    "organization": "FJ COMERCIO E SERVIÃOS DE TECNOLOGIA LTDA-ME",
     "document": "22.483.972/0001-17",
     "ip_blocks": [
       "45.239.132.0/22",
@@ -51398,7 +51400,8 @@
     "document": "24.313.357/0001-98",
     "ip_blocks": [
       "45.161.240.0/22",
-      "2804:51d0::/32"
+      "2804:51d0::/32",
+      "45.7.224.0/22"
     ]
   },
   {
@@ -60488,14 +60491,6 @@
     ]
   },
   {
-    "asn": 269628,
-    "organization": "Matheus dos santos",
-    "document": "25.134.257/0001-67",
-    "ip_blocks": [
-      "2804:6770::/32"
-    ]
-  },
-  {
     "asn": 269630,
     "organization": "JosÃ© Carlos Santana JÃºnior-ME",
     "document": "31.300.970/0001-36",
@@ -62652,8 +62647,8 @@
     "organization": "F.A.A PROVEDOR LTDA - ME",
     "document": "26.133.539/0001-02",
     "ip_blocks": [
-      "190.111.100.0/22",
-      "2804:6b88::/32"
+      "2804:6b88::/32",
+      "190.111.100.0/23"
     ]
   },
   {
@@ -72781,6 +72776,15 @@
     ]
   },
   {
+    "asn": 271672,
+    "organization": "L OLIVEIRA BARROS",
+    "document": "27.423.294/0001-10",
+    "ip_blocks": [
+      "2804:7f30::/32",
+      "177.105.196.0/22"
+    ]
+  },
+  {
     "asn": 271673,
     "organization": "ST NET TELECOM",
     "document": "15.807.607/0001-55",
@@ -74817,14 +74821,6 @@
     ]
   },
   {
-    "asn": 272491,
-    "organization": "Allpha Telecom",
-    "document": "32.681.444/0001-26",
-    "ip_blocks": [
-      "2804:8200::/32"
-    ]
-  },
-  {
     "asn": 272493,
     "organization": "SECRETARIA MUNICIPAL DA FAZENDA",
     "document": "46.392.130/0001-18",
@@ -75237,14 +75233,6 @@
     ]
   },
   {
-    "asn": 272561,
-    "organization": "ONLINE FIBRA",
-    "document": "29.734.292/0001-78",
-    "ip_blocks": [
-      "2804:8528::/32"
-    ]
-  },
-  {
     "asn": 272563,
     "organization": "Z D INFORMATICA LTDA",
     "document": "09.245.039/0001-43",
@@ -75294,14 +75282,6 @@
     ]
   },
   {
-    "asn": 272571,
-    "organization": "JMG TELECOM",
-    "document": "33.909.361/0001-04",
-    "ip_blocks": [
-      "2804:8550::/32"
-    ]
-  },
-  {
     "asn": 272572,
     "organization": "LIVE CONNECT INFORMATICA E SERVICOS LTDA",
     "document": "31.007.266/0001-90",
@@ -75342,22 +75322,6 @@
     ]
   },
   {
-    "asn": 272577,
-    "organization": "B.W SOLUCOES EM CABEAMENTO E FIBRA OPTICA LTDA",
-    "document": "30.443.815/0001-06",
-    "ip_blocks": [
-      "2804:8568::/32"
-    ]
-  },
-  {
-    "asn": 272578,
-    "organization": "7FACILE SOFTWARE E INTERNET",
-    "document": "32.928.007/0001-64",
-    "ip_blocks": [
-      "2804:856c::/32"
-    ]
-  },
-  {
     "asn": 272579,
     "organization": "Avant Net Eireli",
     "document": "25.423.596/0001-63",
@@ -75372,14 +75336,6 @@
     "ip_blocks": [
       "2804:8578::/32",
       "191.160.40.0/23"
-    ]
-  },
-  {
-    "asn": 272583,
-    "organization": "VIVATECH TELECOM",
-    "document": "33.692.990/0001-25",
-    "ip_blocks": [
-      "2804:8580::/32"
     ]
   },
   {
@@ -75406,14 +75362,6 @@
     "document": "32.407.377/0001-56",
     "ip_blocks": [
       "2804:858c::/32"
-    ]
-  },
-  {
-    "asn": 272587,
-    "organization": "LHS SERVICOS DE TELECOMUNICACOES EIRELI",
-    "document": "14.487.660/0001-53",
-    "ip_blocks": [
-      "2804:8590::/32"
     ]
   },
   {
@@ -77877,14 +77825,6 @@
     ]
   },
   {
-    "asn": 273461,
-    "organization": "CYBERWEB ATJP LTDA",
-    "document": "48.214.763/0001-61",
-    "ip_blocks": [
-      "2804:8f00::/32"
-    ]
-  },
-  {
     "asn": 273462,
     "organization": "Veloox - Servicos Internet Ltda",
     "document": "40.607.658/0001-80",
@@ -79188,14 +79128,6 @@
     "document": "26.032.356/0001-09",
     "ip_blocks": [
       "2804:8a0c::/32"
-    ]
-  },
-  {
-    "asn": 273643,
-    "organization": "RICARDO CORREIA DO NASCIMENTO",
-    "document": "27.823.556/0001-34",
-    "ip_blocks": [
-      "2804:8a10::/32"
     ]
   },
   {
@@ -82924,14 +82856,6 @@
     ]
   },
   {
-    "asn": 274714,
-    "organization": "Net-Agro ServiÃ§os de ComunicaÃ§Ã£o LTDA",
-    "document": "36.390.230/0001-51",
-    "ip_blocks": [
-      "2804:9280::/32"
-    ]
-  },
-  {
     "asn": 274715,
     "organization": "CABO SAT PROJETOS E INSTALACOES LTDA",
     "document": "16.815.921/0001-42",
@@ -83247,14 +83171,6 @@
     ]
   },
   {
-    "asn": 274753,
-    "organization": "FN Fibranet",
-    "document": "50.145.459/0001-51",
-    "ip_blocks": [
-      "2804:9310::/32"
-    ]
-  },
-  {
     "asn": 274754,
     "organization": "INOVANETBR TELECOM LTDA",
     "document": "50.905.485/0001-30",
@@ -83292,14 +83208,6 @@
     "document": "36.771.526/0001-12",
     "ip_blocks": [
       "2804:9320::/32"
-    ]
-  },
-  {
-    "asn": 274759,
-    "organization": "BRIGHT TELECOM LTDA",
-    "document": "38.292.523/0001-21",
-    "ip_blocks": [
-      "2804:9324::/32"
     ]
   },
   {
@@ -83360,14 +83268,6 @@
     "document": "28.632.900/0001-70",
     "ip_blocks": [
       "2804:9344::/32"
-    ]
-  },
-  {
-    "asn": 274767,
-    "organization": "S M CORDEIRO DE MIRANDA INFORMÃTICA ME",
-    "document": "21.135.332/0001-53",
-    "ip_blocks": [
-      "2804:9348::/32"
     ]
   },
   {
@@ -85697,6 +85597,30 @@
     "document": "11.979.189/0001-22",
     "ip_blocks": [
       "2804:9a28::/32"
+    ]
+  },
+  {
+    "asn": 275829,
+    "organization": "FREEDOM.AI LTDA",
+    "document": "55.901.865/0001-10",
+    "ip_blocks": [
+      "2804:9a2c::/32"
+    ]
+  },
+  {
+    "asn": 275830,
+    "organization": "VOX WI-FI TELECOMUNICACAO LTDA",
+    "document": "44.051.223/0001-53",
+    "ip_blocks": [
+      "2804:9a30::/32"
+    ]
+  },
+  {
+    "asn": 275831,
+    "organization": "Fybernet Teleinformatica Ltda",
+    "document": "09.004.515/0001-34",
+    "ip_blocks": [
+      "2804:9a34::/32"
     ]
   },
   {
