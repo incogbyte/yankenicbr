@@ -18156,7 +18156,10 @@
     "organization": "GSCOM TECNOLOGIA E SERVIÃOS EM TELECOMUNICAÃÃO LTD",
     "document": "08.824.192/0001-62",
     "ip_blocks": [
-      "187.121.240.0/20"
+      "187.121.243.0/24",
+      "187.121.240.0/23",
+      "187.121.244.0/22",
+      "187.121.248.0/21"
     ]
   },
   {
@@ -39828,15 +39831,6 @@
     ]
   },
   {
-    "asn": 266474,
-    "organization": "KORE TM DATA PROCESSAMENTO DE DADOS LTDA.",
-    "document": "04.077.333/0001-70",
-    "ip_blocks": [
-      "170.83.56.0/23",
-      "2804:1f52::/32"
-    ]
-  },
-  {
     "asn": 266475,
     "organization": "SEM FRONTEIRAS TELECOMUNICACOES LTDA",
     "document": "11.972.556/0001-66",
@@ -60629,15 +60623,6 @@
     ]
   },
   {
-    "asn": 269645,
-    "organization": "WF CONNECT",
-    "document": "26.594.939/0001-15",
-    "ip_blocks": [
-      "45.190.96.0/22",
-      "2804:67b4::/32"
-    ]
-  },
-  {
     "asn": 269646,
     "organization": "G4 Telecom Fibra",
     "document": "25.464.696/0001-38",
@@ -76799,7 +76784,8 @@
     "organization": "AGRO TELECOM",
     "document": "25.535.315/0001-64",
     "ip_blocks": [
-      "2804:8ce4::/32"
+      "2804:8ce4::/32",
+      "187.121.242.0/24"
     ]
   },
   {
@@ -82962,14 +82948,6 @@
     ]
   },
   {
-    "asn": 274728,
-    "organization": "VOE NETWORKS SERVICOS DE TELECOMUNICACOES LTDA",
-    "document": "42.546.857/0001-51",
-    "ip_blocks": [
-      "2804:92b4::/32"
-    ]
-  },
-  {
     "asn": 274729,
     "organization": "NORTECOM TELECOMUNICACOES LTDA",
     "document": "35.161.455/0001-73",
@@ -85621,6 +85599,22 @@
     "document": "09.004.515/0001-34",
     "ip_blocks": [
       "2804:9a34::/32"
+    ]
+  },
+  {
+    "asn": 275832,
+    "organization": "PLANET TELECOM",
+    "document": "39.372.492/0001-81",
+    "ip_blocks": [
+      "2804:9a38::/32"
+    ]
+  },
+  {
+    "asn": 275833,
+    "organization": "J R M Neto Cia LTDA",
+    "document": "33.009.212/0001-99",
+    "ip_blocks": [
+      "2804:9a3c::/32"
     ]
   },
   {
