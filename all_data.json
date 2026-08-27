@@ -42562,6 +42562,15 @@
     ]
   },
   {
+    "asn": 267106,
+    "organization": "NETFIBRA TELECOMUNICACOES LTDA - ME",
+    "document": "27.292.443/0001-50",
+    "ip_blocks": [
+      "45.229.88.0/22",
+      "2804:483c::/32"
+    ]
+  },
+  {
     "asn": 267107,
     "organization": "DataSysNet Telecom Systems",
     "document": "05.508.920/0001-39",
@@ -60617,6 +60626,15 @@
     "ip_blocks": [
       "45.190.88.0/22",
       "2804:67b0::/32"
+    ]
+  },
+  {
+    "asn": 269645,
+    "organization": "WF CONNECT",
+    "document": "26.594.939/0001-15",
+    "ip_blocks": [
+      "45.190.96.0/22",
+      "2804:67b4::/32"
     ]
   },
   {
@@ -79154,6 +79172,14 @@
     "ip_blocks": [
       "2804:8a28::/32",
       "45.186.48.0/22"
+    ]
+  },
+  {
+    "asn": 273652,
+    "organization": "Nova Provedora Tecnologia e Servico LTDA",
+    "document": "13.491.850/0001-81",
+    "ip_blocks": [
+      "2804:8a2c::/32"
     ]
   },
   {
