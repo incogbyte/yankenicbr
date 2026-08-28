@@ -2701,7 +2701,6 @@
       "191.128.32.0/20",
       "191.128.112.0/20",
       "186.196.16.0/21",
-      "186.196.24.0/22",
       "186.196.104.0/21",
       "186.196.112.0/20"
     ]
@@ -23684,7 +23683,7 @@
   },
   {
     "asn": 263551,
-    "organization": "HPNetwork LTDA. ME",
+    "organization": "Qnetfacil Internet JCH",
     "document": "10.827.599/0001-95",
     "ip_blocks": [
       "177.84.156.0/22",
@@ -31645,7 +31644,8 @@
     "document": "18.523.492/0001-65",
     "ip_blocks": [
       "170.84.180.0/22",
-      "2804:3170::/32"
+      "2804:3170::/32",
+      "186.196.24.0/22"
     ]
   },
   {
@@ -48062,6 +48062,15 @@
     ]
   },
   {
+    "asn": 268062,
+    "organization": "REDE SMART SOLUCAO EM INTERNET EIRELI",
+    "document": "28.132.410/0001-05",
+    "ip_blocks": [
+      "45.168.140.0/22",
+      "2804:5760::/32"
+    ]
+  },
+  {
     "asn": 268063,
     "organization": "W E C SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
     "document": "14.149.129/0001-70",
@@ -50898,7 +50907,7 @@
   },
   {
     "asn": 268415,
-    "organization": "Net Sul LTDA - ME",
+    "organization": "QNETFACIL INTERNET ARU",
     "document": "23.816.583/0001-29",
     "ip_blocks": [
       "45.160.92.0/22",
@@ -62203,7 +62212,7 @@
   },
   {
     "asn": 270354,
-    "organization": "SSC TELECOM CIA LTDA",
+    "organization": "SSC TELECOM SERVIÃOS LTDA",
     "document": "10.803.316/0001-75",
     "ip_blocks": [
       "190.83.56.0/22",
@@ -63406,6 +63415,15 @@
     "ip_blocks": [
       "24.152.44.0/22",
       "2804:6cf0::/32"
+    ]
+  },
+  {
+    "asn": 270503,
+    "organization": "R LUIZ LEANDRO",
+    "document": "23.714.027/0001-41",
+    "ip_blocks": [
+      "24.152.92.0/22",
+      "2804:6cf4::/32"
     ]
   },
   {
@@ -72741,6 +72759,15 @@
     ]
   },
   {
+    "asn": 271667,
+    "organization": "OPERADORA JRC TELECOMUNICAÃÃES LTDA",
+    "document": "29.597.360/0001-02",
+    "ip_blocks": [
+      "2804:7f1c::/32",
+      "45.225.248.0/24"
+    ]
+  },
+  {
     "asn": 271668,
     "organization": "REDESUB SERVIÃOS INTERNET LTDA",
     "document": "36.173.906/0001-55",
@@ -77861,7 +77888,7 @@
   },
   {
     "asn": 273468,
-    "organization": "G3 SERVICOS DE TELECOMUNICACOES LTDA",
+    "organization": "INURA BRASIL",
     "document": "44.769.262/0001-90",
     "ip_blocks": [
       "2804:8f1c::/32",
@@ -82840,6 +82867,14 @@
     "document": "33.863.873/0001-87",
     "ip_blocks": [
       "2804:9274::/32"
+    ]
+  },
+  {
+    "asn": 274714,
+    "organization": "Net-Agro ServiÃ§os de ComunicaÃ§Ã£o LTDA",
+    "document": "36.390.230/0001-51",
+    "ip_blocks": [
+      "2804:9280::/32"
     ]
   },
   {
