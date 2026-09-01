@@ -18158,7 +18158,6 @@
     "organization": "GSCOM TECNOLOGIA E SERVIÃOS EM TELECOMUNICAÃÃO LTD",
     "document": "08.824.192/0001-62",
     "ip_blocks": [
-      "187.121.243.0/24",
       "187.121.240.0/23",
       "187.121.244.0/22",
       "187.121.248.0/21"
@@ -21793,7 +21792,7 @@
     "ip_blocks": [
       "2804:13f4::/32",
       "191.7.4.0/23",
-      "191.7.6.0/23"
+      "191.7.6.0/24"
     ]
   },
   {
@@ -79103,7 +79102,8 @@
     "organization": "G MENDES SARAIVA LTDA",
     "document": "28.086.309/0001-65",
     "ip_blocks": [
-      "2804:89f4::/32"
+      "2804:89f4::/32",
+      "187.121.243.0/24"
     ]
   },
   {
@@ -82511,6 +82511,14 @@
     ]
   },
   {
+    "asn": 274665,
+    "organization": "CISLINK TELECOM COMERCIO E SERVICOS LTDA",
+    "document": "43.548.152/0001-36",
+    "ip_blocks": [
+      "2804:91cc::/32"
+    ]
+  },
+  {
     "asn": 274667,
     "organization": "O3 CLOUD SOLUCOES EM TECNOLOGIA LTDA",
     "document": "56.777.698/0001-00",
@@ -84695,7 +84703,8 @@
     "organization": "Abisson-Net LTDA",
     "document": "36.661.847/0001-64",
     "ip_blocks": [
-      "2804:9870::/32"
+      "2804:9870::/32",
+      "191.7.7.0/24"
     ]
   },
   {
@@ -85713,6 +85722,14 @@
     "document": "11.708.092/0001-85",
     "ip_blocks": [
       "2804:9a54::/32"
+    ]
+  },
+  {
+    "asn": 275840,
+    "organization": "BAH TELECOM SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "39.518.452/0001-03",
+    "ip_blocks": [
+      "2804:9a58::/32"
     ]
   },
   {
