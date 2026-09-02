@@ -23991,17 +23991,6 @@
     ]
   },
   {
-    "asn": 263587,
-    "organization": "SOS TELECOM",
-    "document": "09.277.030/0001-14",
-    "ip_blocks": [
-      "177.184.152.0/21",
-      "2804:f78::/32",
-      "143.202.116.0/22",
-      "170.150.216.0/22"
-    ]
-  },
-  {
     "asn": 263588,
     "organization": "INSTITUTO FEDERAL DE EDU, CIENCIA E TECN DO CEARA",
     "document": "10.744.098/0001-45",
@@ -31904,8 +31893,8 @@
   },
   {
     "asn": 265051,
-    "organization": "Speed Max Provedor de Internet Wireless LTDA-ME",
-    "document": "13.914.105/0001-06",
+    "organization": "Fibra Telecom Acesso a Internet LTDA ME",
+    "document": "27.963.096/0001-40",
     "ip_blocks": [
       "170.231.40.0/22",
       "2804:3204::/32"
@@ -38930,8 +38919,8 @@
     "organization": "INTERIP TECNOLOGIA LTDA - EPP",
     "document": "18.220.100/0001-99",
     "ip_blocks": [
-      "2801:80:1ae0::/48",
-      "170.80.4.0/24"
+      "170.80.4.0/24",
+      "2804:9a60::/32"
     ]
   },
   {
@@ -41759,7 +41748,10 @@
       "191.240.208.0/21",
       "168.90.152.0/22",
       "177.67.184.0/21",
-      "170.82.164.0/22"
+      "170.82.164.0/22",
+      "177.184.152.0/21",
+      "170.150.216.0/22",
+      "143.202.116.0/22"
     ]
   },
   {
@@ -51259,8 +51251,8 @@
   },
   {
     "asn": 268463,
-    "organization": "LOG INFORMATICA LTDA",
-    "document": "11.647.730/0001-03",
+    "organization": "VIATEC TELECOMUNICAÃÃES LTDA",
+    "document": "10.356.869/0001-27",
     "ip_blocks": [
       "45.161.96.0/22",
       "2804:5194::/32"
@@ -59661,7 +59653,7 @@
   },
   {
     "asn": 269528,
-    "organization": "T. DE S. ALENCAR",
+    "organization": "ALENCAR NET",
     "document": "24.954.835/0001-49",
     "ip_blocks": [
       "45.187.64.0/22",
@@ -71343,7 +71335,7 @@
   },
   {
     "asn": 271490,
-    "organization": "MAGNA BATISTA DE SOUZA - ME",
+    "organization": "L. BARBOSA SERVICOS DE COMUNICACAO LTDA",
     "document": "26.563.669/0001-85",
     "ip_blocks": [
       "2804:7c58::/32",
@@ -85730,6 +85722,14 @@
     "document": "39.518.452/0001-03",
     "ip_blocks": [
       "2804:9a58::/32"
+    ]
+  },
+  {
+    "asn": 275841,
+    "organization": "PORTAL TELECOM NC LIMITADA",
+    "document": "31.072.019/0001-77",
+    "ip_blocks": [
+      "2804:9a5c::/32"
     ]
   },
   {
