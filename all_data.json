@@ -55468,7 +55468,7 @@
   },
   {
     "asn": 269010,
-    "organization": "CIANET PROVEDOR DE INTERNET E S. DE C. EIRELI",
+    "organization": "UNEX BUSINESS LTDA",
     "document": "07.424.780/0001-46",
     "ip_blocks": [
       "45.177.24.0/22",
@@ -63543,7 +63543,8 @@
     "document": "08.349.155/0001-40",
     "ip_blocks": [
       "24.152.104.0/22",
-      "2804:6d3c::/32"
+      "2804:6d3c::/32",
+      "200.36.196.0/22"
     ]
   },
   {
@@ -70850,15 +70851,6 @@
     "ip_blocks": [
       "2804:7b48::/32",
       "181.189.68.0/22"
-    ]
-  },
-  {
-    "asn": 271423,
-    "organization": "HILINK COMUNICAÃÃES",
-    "document": "19.132.599/0001-45",
-    "ip_blocks": [
-      "2804:7b4c::/32",
-      "200.36.196.0/22"
     ]
   },
   {
@@ -83910,6 +83902,38 @@
     "document": "32.125.563/0001-00",
     "ip_blocks": [
       "2804:9478::/32"
+    ]
+  },
+  {
+    "asn": 275293,
+    "organization": "FR INFORMATICA LTDA",
+    "document": "17.449.347/0001-19",
+    "ip_blocks": [
+      "2804:9a64::/32"
+    ]
+  },
+  {
+    "asn": 275294,
+    "organization": "NOBRE SCM LTDA",
+    "document": "08.673.336/0001-27",
+    "ip_blocks": [
+      "2804:9a68::/32"
+    ]
+  },
+  {
+    "asn": 275295,
+    "organization": "Ronaldo Cezar Faccio",
+    "document": "23.703.896/0001-70",
+    "ip_blocks": [
+      "2804:9a6c::/32"
+    ]
+  },
+  {
+    "asn": 275296,
+    "organization": "SPEEDYFAST TELECOMUNICAÃÃES LTDA",
+    "document": "11.698.301/0001-57",
+    "ip_blocks": [
+      "2804:9a70::/32"
     ]
   },
   {
