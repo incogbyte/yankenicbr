@@ -2702,7 +2702,6 @@
       "186.196.16.0/21",
       "186.196.104.0/21",
       "186.196.112.0/20",
-      "186.198.101.0/24",
       "186.198.102.0/23",
       "186.198.96.0/22",
       "186.198.104.0/21",
@@ -16863,7 +16862,7 @@
   },
   {
     "asn": 262541,
-    "organization": "ITEMNET PROVEDOR DE INTERNET LTDA - ME",
+    "organization": "CONNECT COMUNICACOES DO BRASIL LTDA",
     "document": "07.775.975/0001-30",
     "ip_blocks": [
       "177.72.48.0/21",
@@ -38928,8 +38927,8 @@
     "organization": "INTERIP TECNOLOGIA LTDA - EPP",
     "document": "18.220.100/0001-99",
     "ip_blocks": [
-      "170.80.4.0/24",
-      "2804:9a60::/32"
+      "2804:9a60::/32",
+      "170.80.4.0/24"
     ]
   },
   {
@@ -85321,7 +85320,8 @@
     "organization": "BARUQUE REOBTH EIRELI",
     "document": "31.668.293/0001-03",
     "ip_blocks": [
-      "2804:998c::/32"
+      "2804:998c::/32",
+      "186.198.101.0/24"
     ]
   },
   {
