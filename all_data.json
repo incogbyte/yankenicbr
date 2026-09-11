@@ -54626,7 +54626,7 @@
   },
   {
     "asn": 268908,
-    "organization": "HIPERTV SERVICOS DE COMUNICACAO MULTIMIDIA LTDA",
+    "organization": "L DE SOUZA OLIVEIRA LTDA",
     "document": "31.137.253/0001-35",
     "ip_blocks": [
       "45.174.232.0/22",
@@ -60101,7 +60101,7 @@
   },
   {
     "asn": 269584,
-    "organization": "ASNet Provedor",
+    "organization": "KTELECOM PROVEDOR",
     "document": "29.104.555/0001-65",
     "ip_blocks": [
       "45.189.128.0/22",
@@ -83935,6 +83935,22 @@
     ]
   },
   {
+    "asn": 275297,
+    "organization": "SN TELECOM LTDA",
+    "document": "53.261.804/0001-00",
+    "ip_blocks": [
+      "2804:9a74::/32"
+    ]
+  },
+  {
+    "asn": 275298,
+    "organization": "C. A. NUNES MELCHIADES - EIRELI - ME",
+    "document": "27.486.095/0001-51",
+    "ip_blocks": [
+      "2804:9a78::/32"
+    ]
+  },
+  {
     "asn": 275613,
     "organization": "QUEIROZ FREITAS COMERCIO E SERVIÃOS LTDA",
     "document": "17.756.907/0001-88",
@@ -85735,7 +85751,7 @@
   },
   {
     "asn": 275839,
-    "organization": "KONECTIVA PROVEDOR DE INTERNET CIA LTDA",
+    "organization": "KONECTIVA PROVEDOR DE INTERNET LTDA",
     "document": "11.708.092/0001-85",
     "ip_blocks": [
       "2804:9a54::/32"
