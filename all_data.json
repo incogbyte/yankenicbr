@@ -56173,15 +56173,6 @@
     ]
   },
   {
-    "asn": 269106,
-    "organization": "PREFEITURA DO MUNICIPIO DE CUJUBIM",
-    "document": "84.736.941/0001-88",
-    "ip_blocks": [
-      "2801:80:35e0::/48",
-      "45.179.199.0/24"
-    ]
-  },
-  {
     "asn": 269107,
     "organization": "J L TELECOMUNICACAO E MULTIMIDIA COMERCIO E SERVIC",
     "document": "11.998.532/0001-86",
@@ -60828,15 +60819,6 @@
     "ip_blocks": [
       "45.190.171.0/24",
       "2801:80:3840::/48"
-    ]
-  },
-  {
-    "asn": 269676,
-    "organization": "FORCA E ACAO SERVICOS DE TELECOMUNICACAO EIRELI",
-    "document": "32.990.339/0001-79",
-    "ip_blocks": [
-      "45.191.148.0/22",
-      "2804:6834::/32"
     ]
   },
   {
