@@ -6293,7 +6293,7 @@
   },
   {
     "asn": 52529,
-    "organization": "Nexcorp ServiÃ§os e TelecomunicaÃ§Ãµes Ltda",
+    "organization": "GETRAK SERVIÃOS S/A",
     "document": "06.349.959/0001-13",
     "ip_blocks": [
       "177.129.108.0/23",
@@ -32416,7 +32416,7 @@
   },
   {
     "asn": 265118,
-    "organization": "SKYNET Telecomunicacoes Eireli",
+    "organization": "ELEVY TELECOMUNICACOES LTDA",
     "document": "11.149.154/0001-66",
     "ip_blocks": [
       "143.208.184.0/22",
@@ -54642,7 +54642,7 @@
   },
   {
     "asn": 268914,
-    "organization": "ERIQUELSON SILVA DE SOUTO - ME",
+    "organization": "QUETIM NET TELECOM LTDA",
     "document": "20.769.514/0001-13",
     "ip_blocks": [
       "45.174.4.0/22",
@@ -85791,6 +85791,14 @@
     "document": "05.751.892/0001-86",
     "ip_blocks": [
       "2801:81:290::/48"
+    ]
+  },
+  {
+    "asn": 275848,
+    "organization": "Link Master Telecomunicacoes LTDA",
+    "document": "48.849.998/0001-20",
+    "ip_blocks": [
+      "2804:9a98::/32"
     ]
   },
   {
