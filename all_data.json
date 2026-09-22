@@ -19320,7 +19320,6 @@
     "organization": "Hifive Provedor de Internet Ltda",
     "document": "04.046.040/0001-25",
     "ip_blocks": [
-      "177.21.208.0/20",
       "2804:5b4::/32",
       "170.245.140.0/22"
     ]
@@ -60825,6 +60824,15 @@
     ]
   },
   {
+    "asn": 269676,
+    "organization": "FORCA E ACAO SERVICOS DE TELECOMUNICACAO EIRELI",
+    "document": "32.990.339/0001-79",
+    "ip_blocks": [
+      "45.191.148.0/22",
+      "2804:6834::/32"
+    ]
+  },
+  {
     "asn": 269677,
     "organization": "Gerson Cerqueira",
     "document": "00.333.192/0001-58",
@@ -75212,7 +75220,7 @@
   },
   {
     "asn": 272570,
-    "organization": "ONOFRE DE PAIVA 56881606753",
+    "organization": "ONO TECNOLOGIA E SEGURANCA DIGITAL LTDA",
     "document": "23.131.342/0001-46",
     "ip_blocks": [
       "2804:854c::/32"
@@ -77627,7 +77635,8 @@
       "186.226.216.0/23",
       "186.226.218.0/24",
       "186.196.68.0/22",
-      "186.196.100.0/22"
+      "186.196.100.0/22",
+      "177.21.208.0/20"
     ]
   },
   {
@@ -85799,6 +85808,14 @@
     "document": "48.849.998/0001-20",
     "ip_blocks": [
       "2804:9a98::/32"
+    ]
+  },
+  {
+    "asn": 275849,
+    "organization": "ALCIDES ROCHA DOS SANTOS FILHO LTDA",
+    "document": "41.009.421/0001-60",
+    "ip_blocks": [
+      "2804:9a9c::/32"
     ]
   },
   {
