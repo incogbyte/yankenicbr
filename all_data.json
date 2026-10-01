@@ -14738,7 +14738,7 @@
   },
   {
     "asn": 61951,
-    "organization": "BRASIL-IP TELECOMUNICACOES LTDA - ME",
+    "organization": "PULSE TELECOM LTDA - ME",
     "document": "07.334.084/0001-49",
     "ip_blocks": [
       "201.219.248.0/22",
@@ -50300,7 +50300,7 @@
   },
   {
     "asn": 268348,
-    "organization": "Network Internet ServiÃ§o Provedor",
+    "organization": "NETWORK INTERNET SERVICOS E PROVEDOR LTDA",
     "document": "22.163.107/0001-93",
     "ip_blocks": [
       "45.239.0.0/22",
@@ -59593,7 +59593,9 @@
     "document": "08.766.389/0001-92",
     "ip_blocks": [
       "45.188.180.0/22",
-      "2804:6608::/32"
+      "2804:6608::/32",
+      "187.94.236.0/24",
+      "187.94.239.0/24"
     ]
   },
   {
@@ -68115,8 +68117,8 @@
   },
   {
     "asn": 271097,
-    "organization": "TELGE SERVIÃOS DE TELECOMUNICAÃÃES LTDA",
-    "document": "42.453.105/0001-46",
+    "organization": "ACESSOLINE TELECOMUNICACOES LTDA",
+    "document": "14.798.740/0001-20",
     "ip_blocks": [
       "179.48.116.0/22",
       "2804:7638::/32"
@@ -69838,9 +69840,7 @@
     "organization": "TRINDADE CALDAS LTDA",
     "document": "08.593.660/0001-35",
     "ip_blocks": [
-      "2804:798c::/32",
-      "187.94.236.0/24",
-      "187.94.239.0/24"
+      "2804:798c::/32"
     ]
   },
   {
@@ -85823,6 +85823,22 @@
     "document": "57.506.789/0001-74",
     "ip_blocks": [
       "2804:9ab4::/32"
+    ]
+  },
+  {
+    "asn": 275856,
+    "organization": "Zip Internet Ltda",
+    "document": "53.748.710/0001-60",
+    "ip_blocks": [
+      "2804:9ab8::/32"
+    ]
+  },
+  {
+    "asn": 275857,
+    "organization": "ACAD CONSULTORIA E TREINAMENTOS LTDA",
+    "document": "45.754.113/0001-10",
+    "ip_blocks": [
+      "2804:9abc::/32"
     ]
   },
   {
