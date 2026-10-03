@@ -4464,7 +4464,8 @@
       "177.72.224.0/21",
       "2804:624::/32",
       "201.148.244.0/22",
-      "177.221.184.0/22"
+      "177.221.184.0/22",
+      "45.175.60.0/22"
     ]
   },
   {
@@ -36900,7 +36901,6 @@
     "document": "12.898.470/0001-01",
     "ip_blocks": [
       "2804:3a94::/32",
-      "45.4.179.0/24",
       "45.4.176.0/23"
     ]
   },
@@ -43871,7 +43871,7 @@
   },
   {
     "asn": 267284,
-    "organization": "D S SANTOS COMUNICAÃÃES EIRELI ME",
+    "organization": "SOUSA TELECOMUNICACOES LTDA",
     "document": "12.838.952/0001-68",
     "ip_blocks": [
       "45.232.240.0/22",
@@ -49610,7 +49610,7 @@
   },
   {
     "asn": 268252,
-    "organization": "BAHIA WIFI",
+    "organization": "BAHIA WI-FI TELECOMUNICACOES LTDA",
     "document": "30.219.456/0001-08",
     "ip_blocks": [
       "45.236.252.0/22",
@@ -54391,15 +54391,6 @@
     ]
   },
   {
-    "asn": 268885,
-    "organization": "KINET PROVEDOR DE INTERNET E SERVICOS DE TELECOM",
-    "document": "28.249.863/0001-16",
-    "ip_blocks": [
-      "45.175.60.0/22",
-      "2804:5c10::/32"
-    ]
-  },
-  {
     "asn": 268886,
     "organization": "WILLYNET PROVEDOR",
     "document": "09.720.168/0001-46",
@@ -55203,7 +55194,7 @@
   },
   {
     "asn": 268983,
-    "organization": "NAXOS TELECOM",
+    "organization": "NXPLAY SERVICOS EM TV E VOD - LTDA",
     "document": "12.320.817/0001-26",
     "ip_blocks": [
       "45.177.136.0/22",
@@ -76748,7 +76739,8 @@
     "organization": "Rodolfo Soares dos Santos",
     "document": "18.736.882/0001-13",
     "ip_blocks": [
-      "2804:8d10::/32"
+      "2804:8d10::/32",
+      "45.4.179.0/24"
     ]
   },
   {
