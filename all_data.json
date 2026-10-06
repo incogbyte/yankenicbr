@@ -12336,8 +12336,8 @@
   },
   {
     "asn": 61642,
-    "organization": "Nexnett Brasil TelecomunicaÃ§Ãµes",
-    "document": "10.966.886/0001-86",
+    "organization": "NUVYON TELECOMUNICACOES LTDA",
+    "document": "53.309.518/0001-78",
     "ip_blocks": [
       "131.100.164.0/22",
       "2804:1c3c::/32"
@@ -16985,7 +16985,7 @@
   },
   {
     "asn": 262557,
-    "organization": "VIA SUL TELECOMUNICAÃOES LTDA ME",
+    "organization": "VELLUM TELECOM LTDA",
     "document": "09.254.150/0001-04",
     "ip_blocks": [
       "2804:64c::/32",
@@ -45281,8 +45281,8 @@
   },
   {
     "asn": 267456,
-    "organization": "D N COMERCIO DE EQUIPAMENTOS DE INFORMATICA LTDA",
-    "document": "08.679.117/0001-55",
+    "organization": "INOVANET CE LTDA",
+    "document": "64.201.522/0001-34",
     "ip_blocks": [
       "181.191.240.0/22",
       "2804:41c8::/32"
@@ -85839,6 +85839,14 @@
     "document": "08.585.299/0001-03",
     "ip_blocks": [
       "2804:9ac0::/32"
+    ]
+  },
+  {
+    "asn": 275859,
+    "organization": "FA Solucoes em Tecnologia LTDA",
+    "document": "57.007.737/0001-53",
+    "ip_blocks": [
+      "2804:9ac4::/32"
     ]
   },
   {
