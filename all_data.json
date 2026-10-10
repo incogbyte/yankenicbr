@@ -3516,11 +3516,8 @@
     "document": "04.612.766/0001-88",
     "ip_blocks": [
       "2804:2f8::/32",
-      "189.89.244.0/23",
       "189.89.241.0/24",
-      "177.12.132.0/23",
       "177.12.137.0/24",
-      "177.12.142.0/23",
       "189.89.237.0/24",
       "189.89.232.0/23",
       "189.89.248.0/24",
@@ -3529,7 +3526,8 @@
       "189.89.243.0/24",
       "189.89.224.0/21",
       "177.12.156.0/22",
-      "177.12.139.0/24"
+      "177.12.133.0/24",
+      "189.89.244.0/24"
     ]
   },
   {
@@ -7188,7 +7186,7 @@
   },
   {
     "asn": 52640,
-    "organization": "USCM - COMUNICACAO MULTIMIDIA LTDA.",
+    "organization": "ULTRANET SCM - COMUNICACAO MULTIMIDIA LTDA",
     "document": "15.502.386/0001-07",
     "ip_blocks": [
       "179.96.208.0/21",
@@ -15652,8 +15650,8 @@
   },
   {
     "asn": 262390,
-    "organization": "CESUMAR - CENTRO UNIVERSITARIO DE MARINGA",
-    "document": "79.265.617/0001-99",
+    "organization": "UNIVERSIDADE UNICESUMAR - UNICESUMAR",
+    "document": "20.512.706/0009-05",
     "ip_blocks": [
       "177.129.72.0/23",
       "2801:80:3a0::/48"
@@ -54934,7 +54932,7 @@
   },
   {
     "asn": 268955,
-    "organization": "ALMI SERVICOS ACESSO AS REDES COMUNICACAO LTDA",
+    "organization": "FLYNET RS SERVICOS DE PROVEDOR DE INTERNET LTDA",
     "document": "32.012.881/0001-57",
     "ip_blocks": [
       "45.176.224.0/22",
@@ -78367,7 +78365,7 @@
   },
   {
     "asn": 273544,
-    "organization": "Alex Ferreira dos Santos",
+    "organization": "MEGAMAX FIBRA LTDA",
     "document": "15.574.484/0001-50",
     "ip_blocks": [
       "2804:9050::/32"
@@ -82441,7 +82439,10 @@
     "organization": "INOVANOC SOLUCOES EM SUPORTE LTDA",
     "document": "51.653.705/0001-49",
     "ip_blocks": [
-      "2804:91e0::/32"
+      "2804:91e0::/32",
+      "177.12.142.0/23",
+      "177.12.132.0/24",
+      "189.89.245.0/24"
     ]
   },
   {
@@ -83269,7 +83270,8 @@
     "document": "30.900.000/0001-09",
     "ip_blocks": [
       "2804:9370::/32",
-      "177.12.140.0/24"
+      "177.12.140.0/24",
+      "177.12.139.0/24"
     ]
   },
   {
@@ -85867,6 +85869,14 @@
     "document": "09.212.338/0001-81",
     "ip_blocks": [
       "2804:9ad0::/32"
+    ]
+  },
+  {
+    "asn": 275863,
+    "organization": "JDI INTERNET LTDA ME",
+    "document": "28.401.625/0001-84",
+    "ip_blocks": [
+      "2804:9ad4::/32"
     ]
   },
   {
