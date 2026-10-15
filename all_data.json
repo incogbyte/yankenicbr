@@ -38984,8 +38984,8 @@
   },
   {
     "asn": 266374,
-    "organization": "Ponte Digital",
-    "document": "08.487.083/0001-05",
+    "organization": "PONTE DIGITAL SERVICOS EM REDE LTDA",
+    "document": "28.556.423/0001-01",
     "ip_blocks": [
       "170.80.48.0/22",
       "2804:36d0::/32"
@@ -58490,7 +58490,7 @@
   },
   {
     "asn": 269395,
-    "organization": "C de Souza Leite me",
+    "organization": "AGABYNET SOLUCOES EM TECNOLOGIA LTDA",
     "document": "20.953.127/0001-32",
     "ip_blocks": [
       "45.185.232.0/22",
@@ -73275,7 +73275,9 @@
     "organization": "Velosch TelecomunicaÃ§Ãµes - Eireli",
     "document": "29.985.908/0001-83",
     "ip_blocks": [
-      "2804:8080::/32"
+      "2804:8080::/32",
+      "164.163.243.0/24",
+      "200.1.7.0/24"
     ]
   },
   {
@@ -85221,7 +85223,7 @@
   },
   {
     "asn": 275783,
-    "organization": "BATTLEHOST DATA CENTER SERVICOS DE HOSPEDAGEM NA I",
+    "organization": "BATTLEHOST DATA CENTER",
     "document": "29.769.848/0001-61",
     "ip_blocks": [
       "2804:9980::/32"
@@ -85880,6 +85882,30 @@
     "document": "55.668.477/0001-31",
     "ip_blocks": [
       "2804:9ad8::/32"
+    ]
+  },
+  {
+    "asn": 275865,
+    "organization": "Marcelo Moreira Dionisio GoiÃ¡s TelecomunicaÃ§Ãµes",
+    "document": "01.102.038/0001-38",
+    "ip_blocks": [
+      "2804:9adc::/32"
+    ]
+  },
+  {
+    "asn": 275866,
+    "organization": "Toda internet",
+    "document": "67.921.871/0001-19",
+    "ip_blocks": [
+      "2804:9ae0::/32"
+    ]
+  },
+  {
+    "asn": 275867,
+    "organization": "TRYGON DATA LTDA",
+    "document": "60.345.190/0001-00",
+    "ip_blocks": [
+      "2804:9ae4::/32"
     ]
   },
   {
