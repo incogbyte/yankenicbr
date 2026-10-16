@@ -2715,8 +2715,8 @@
       "186.198.108.0/23",
       "186.198.104.0/22",
       "186.196.116.0/22",
-      "186.196.114.0/23",
-      "186.196.112.0/24"
+      "186.196.112.0/24",
+      "186.196.114.0/24"
     ]
   },
   {
@@ -27455,15 +27455,6 @@
     ]
   },
   {
-    "asn": 264207,
-    "organization": "Ponto Net Telecom",
-    "document": "04.912.330/0001-04",
-    "ip_blocks": [
-      "138.97.212.0/22",
-      "2804:2430::/32"
-    ]
-  },
-  {
     "asn": 264208,
     "organization": "L L NET PROVEDOR DE ACESSO A INTERNET SERVICOS",
     "document": "10.942.277/0001-97",
@@ -35126,7 +35117,7 @@
   },
   {
     "asn": 265476,
-    "organization": "PONTOVIVO INFORMÃTICA COMUNICAÃÃES LTDA - ME",
+    "organization": "PONTOVIVO INTERNET TELECOMUNICAÃÃES LTDA",
     "document": "07.229.330/0001-00",
     "ip_blocks": [
       "168.197.36.0/22",
@@ -54435,7 +54426,8 @@
     "document": "21.958.109/0001-06",
     "ip_blocks": [
       "45.175.88.0/22",
-      "2804:5c28::/32"
+      "2804:5c28::/32",
+      "138.97.212.0/22"
     ]
   },
   {
@@ -56261,7 +56253,8 @@
     "document": "11.509.033/0001-88",
     "ip_blocks": [
       "45.180.0.0/22",
-      "2804:5fc8::/32"
+      "2804:5fc8::/32",
+      "170.78.196.0/24"
     ]
   },
   {
@@ -75481,7 +75474,7 @@
   },
   {
     "asn": 272626,
-    "organization": "N9 TELECOM by Ligpronet",
+    "organization": "N9 TELECOM",
     "document": "29.180.006/0001-70",
     "ip_blocks": [
       "2804:862c::/32"
@@ -76028,8 +76021,8 @@
   },
   {
     "asn": 272710,
-    "organization": "FIBRASIL INFRAESTRUTURA E FIBRA OTICA S.A.",
-    "document": "36.619.747/0001-70",
+    "organization": "TELEFÃNICA BRASIL S.A",
+    "document": "02.558.157/0001-62",
     "ip_blocks": [
       "2804:8774::/32",
       "201.23.32.0/19",
@@ -78372,7 +78365,8 @@
     "organization": "MEGAMAX FIBRA LTDA",
     "document": "15.574.484/0001-50",
     "ip_blocks": [
-      "2804:9050::/32"
+      "2804:9050::/32",
+      "186.196.115.0/24"
     ]
   },
   {
@@ -83869,6 +83863,14 @@
     ]
   },
   {
+    "asn": 275301,
+    "organization": "BIMNET TELECOM LTDA",
+    "document": "35.072.708/0001-32",
+    "ip_blocks": [
+      "2804:9aec::/32"
+    ]
+  },
+  {
     "asn": 275613,
     "organization": "QUEIROZ FREITAS COMERCIO E SERVIÃOS LTDA",
     "document": "17.756.907/0001-88",
@@ -84769,7 +84771,7 @@
     "document": "12.468.282/0001-35",
     "ip_blocks": [
       "2804:98a4::/32",
-      "170.78.196.0/23"
+      "170.78.197.0/24"
     ]
   },
   {
@@ -85906,6 +85908,14 @@
     "document": "60.345.190/0001-00",
     "ip_blocks": [
       "2804:9ae4::/32"
+    ]
+  },
+  {
+    "asn": 275868,
+    "organization": "SkyNett Telecom",
+    "document": "19.025.982/0001-02",
+    "ip_blocks": [
+      "2804:9ae8::/32"
     ]
   },
   {
