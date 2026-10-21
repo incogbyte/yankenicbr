@@ -4365,7 +4365,6 @@
       "201.33.16.0/20",
       "177.47.96.0/19",
       "2804:4c4::/32",
-      "177.223.192.0/19",
       "189.84.24.0/21"
     ]
   },
@@ -10688,7 +10687,8 @@
       "177.104.176.0/20",
       "191.253.80.0/20",
       "177.104.160.0/20",
-      "177.104.128.0/19"
+      "177.104.128.0/19",
+      "177.223.192.0/19"
     ]
   },
   {
@@ -29148,8 +29148,8 @@
   },
   {
     "asn": 264446,
-    "organization": "MIDIX FIBRA",
-    "document": "19.318.873/0001-75",
+    "organization": "NETWORK INTERNET SERVICOS E PROVEDOR LTDA",
+    "document": "22.163.107/0001-93",
     "ip_blocks": [
       "131.221.228.0/22",
       "2804:1ebc::/32",
@@ -40795,8 +40795,8 @@
   },
   {
     "asn": 266620,
-    "organization": "(VIPLANET) E D TELECOMUNICES LTDA - ME",
-    "document": "26.756.731/0001-55",
+    "organization": "B4 TELECOM SERVICOS DE COMUNICACAO E TECNOLOGIA",
+    "document": "51.314.084/0001-79",
     "ip_blocks": [
       "128.201.84.0/22",
       "2804:3ec8::/32"
