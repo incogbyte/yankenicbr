@@ -2695,7 +2695,6 @@
       "186.198.112.0/20",
       "186.198.64.0/19",
       "186.198.0.0/18",
-      "186.198.128.0/17",
       "186.199.0.0/16",
       "186.196.160.0/19",
       "186.196.64.0/23",
@@ -2710,12 +2709,15 @@
       "187.99.0.0/16",
       "191.132.0.0/16",
       "191.134.0.0/15",
-      "186.198.102.0/24",
       "186.198.110.0/24",
       "186.198.108.0/23",
       "186.198.104.0/22",
       "186.196.116.0/22",
-      "186.196.114.0/24"
+      "186.196.114.0/24",
+      "186.198.192.0/18",
+      "186.198.160.0/19",
+      "186.198.128.0/20",
+      "186.198.152.0/21"
     ]
   },
   {
@@ -6692,7 +6694,7 @@
   },
   {
     "asn": 52577,
-    "organization": "Vianna Mehl ServiÃ§os de TelecomunicaÃ§Ãµes Voip Ltda",
+    "organization": "WS SERVICOS DE TELECOMUNICACAO VOIP LTDA",
     "document": "09.311.582/0001-00",
     "ip_blocks": [
       "177.86.216.0/21"
@@ -29415,7 +29417,7 @@
   {
     "asn": 264477,
     "organization": "FLIX FIBRA",
-    "document": "17.821.883/0001-01",
+    "document": "02.314.207/0001-66",
     "ip_blocks": [
       "132.255.108.0/22",
       "2804:2034::/32",
@@ -30766,8 +30768,8 @@
   },
   {
     "asn": 264911,
-    "organization": "POWERNET TELECOM",
-    "document": "19.621.364/0001-17",
+    "organization": "POWER NET FIBRA OPTICA LTDA",
+    "document": "40.221.448/0001-50",
     "ip_blocks": [
       "168.228.156.0/22",
       "2804:2fc4::/32"
@@ -48907,8 +48909,8 @@
   },
   {
     "asn": 268171,
-    "organization": "YOU CONSULTORIA E SERVICOS LTDA",
-    "document": "22.206.937/0001-50",
+    "organization": "NUVYON TELECOMUNICACOES LTDA",
+    "document": "53.309.518/0001-78",
     "ip_blocks": [
       "45.170.196.0/22",
       "2804:5924::/32"
@@ -57752,7 +57754,8 @@
     "document": "11.117.832/0001-09",
     "ip_blocks": [
       "45.184.28.0/22",
-      "2804:6290::/32"
+      "2804:6290::/32",
+      "186.198.102.0/24"
     ]
   },
   {
@@ -75353,7 +75356,7 @@
   },
   {
     "asn": 272607,
-    "organization": "MARANET TELECOM PROVEDOR DE INTERNET LTDA - ME",
+    "organization": "MARAFIBRA TELECOM PROVEDOR DE INTERNET LTDA - ME",
     "document": "41.069.390/0001-33",
     "ip_blocks": [
       "2804:85e4::/32"
@@ -77564,7 +77567,8 @@
       "186.226.218.0/24",
       "186.196.68.0/22",
       "186.196.100.0/22",
-      "177.21.208.0/20"
+      "177.21.208.0/20",
+      "186.198.144.0/21"
     ]
   },
   {
@@ -81354,7 +81358,7 @@
   },
   {
     "asn": 274529,
-    "organization": "M.O. SERVICOS DE TELECOMUNICACOES LTDA",
+    "organization": "M.O. TELECOM LTDA",
     "document": "40.291.217/0001-12",
     "ip_blocks": [
       "2804:958c::/32"
@@ -83877,6 +83881,30 @@
     "document": "29.911.764/0004-63",
     "ip_blocks": [
       "2804:9af4::/32"
+    ]
+  },
+  {
+    "asn": 275304,
+    "organization": "Davi Martins Gomes",
+    "document": "32.906.269/0001-28",
+    "ip_blocks": [
+      "2804:9af8::/32"
+    ]
+  },
+  {
+    "asn": 275305,
+    "organization": "Umbutech InformÃ¡tica e ServiÃ§os LTDA",
+    "document": "59.795.787/0001-78",
+    "ip_blocks": [
+      "2804:9afc::/32"
+    ]
+  },
+  {
+    "asn": 275306,
+    "organization": "BEL CORPORATION LTDA",
+    "document": "27.545.902/0001-60",
+    "ip_blocks": [
+      "2804:9b00::/32"
     ]
   },
   {
