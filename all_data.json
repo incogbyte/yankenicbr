@@ -18185,7 +18185,6 @@
     "ip_blocks": [
       "187.121.240.0/23",
       "187.121.248.0/21",
-      "187.121.245.0/24",
       "187.121.247.0/24"
     ]
   },
@@ -29873,7 +29872,7 @@
   },
   {
     "asn": 264541,
-    "organization": "NET SET TELECOMUNICAÃÃES LTDA - ME",
+    "organization": "NET SET TELECOMUNICAÃÃES LTDA",
     "document": "13.027.142/0001-94",
     "ip_blocks": [
       "138.0.80.0/22",
@@ -49597,8 +49596,8 @@
   },
   {
     "asn": 268252,
-    "organization": "BAHIA WI-FI TELECOMUNICACOES LTDA",
-    "document": "30.219.456/0001-08",
+    "organization": "BAHIA WI-FI INTERNET LTDA",
+    "document": "41.904.180/0001-13",
     "ip_blocks": [
       "45.236.252.0/22",
       "2804:4e4c::/32"
@@ -60170,7 +60169,7 @@
   },
   {
     "asn": 269604,
-    "organization": "JNETCOM TELECOM",
+    "organization": "Jnetcom Tecnologia",
     "document": "22.556.184/0001-03",
     "ip_blocks": [
       "45.189.240.0/22",
@@ -72707,7 +72706,8 @@
     "document": "32.234.136/0001-52",
     "ip_blocks": [
       "2804:7f4c::/32",
-      "200.24.116.0/22"
+      "200.24.118.0/23",
+      "200.24.117.0/24"
     ]
   },
   {
@@ -76846,7 +76846,8 @@
     "organization": "Planalto Net Provedor de Internet Santa Cruz LTDA",
     "document": "12.671.173/0001-10",
     "ip_blocks": [
-      "2804:8d50::/32"
+      "2804:8d50::/32",
+      "200.24.116.0/24"
     ]
   },
   {
@@ -78888,7 +78889,8 @@
     "organization": "CMP TELECOM LTDA",
     "document": "30.400.207/0001-14",
     "ip_blocks": [
-      "2804:89b8::/32"
+      "2804:89b8::/32",
+      "187.121.245.0/24"
     ]
   },
   {
