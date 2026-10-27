@@ -28330,15 +28330,6 @@
     ]
   },
   {
-    "asn": 264326,
-    "organization": "CARTECH INFORMATICA LTDA-ME",
-    "document": "10.711.462/0001-70",
-    "ip_blocks": [
-      "138.122.204.0/22",
-      "2804:262c::/32"
-    ]
-  },
-  {
     "asn": 264327,
     "organization": "ANDERSON MANZANO BACHIEGA",
     "document": "55.740.013/0001-99",
@@ -29495,8 +29486,8 @@
     "organization": "ANDRA TELECOM",
     "document": "13.568.652/0001-79",
     "ip_blocks": [
-      "131.255.160.0/22",
-      "2804:206c::/32"
+      "2804:206c::/32",
+      "131.255.162.0/23"
     ]
   },
   {
@@ -30550,7 +30541,6 @@
     "document": "03.156.388/0001-02",
     "ip_blocks": [
       "2804:2f4c::/32",
-      "168.205.18.0/24",
       "168.205.16.0/23"
     ]
   },
@@ -37869,7 +37859,8 @@
     "document": "26.016.500/0001-05",
     "ip_blocks": [
       "200.9.16.0/22",
-      "2804:3c9c::/32"
+      "2804:3c9c::/32",
+      "138.122.204.0/22"
     ]
   },
   {
@@ -42500,15 +42491,6 @@
     ]
   },
   {
-    "asn": 267102,
-    "organization": "CONECTA INTERNET",
-    "document": "28.973.752/0001-58",
-    "ip_blocks": [
-      "45.228.140.0/22",
-      "2804:482c::/32"
-    ]
-  },
-  {
     "asn": 267103,
     "organization": "TIAGO CAIRES PEREIRA CIA LTDA - ME",
     "document": "17.324.812/0001-95",
@@ -45785,7 +45767,8 @@
     "document": "17.793.452/0001-70",
     "ip_blocks": [
       "201.182.48.0/22",
-      "2804:42b8::/32"
+      "2804:42b8::/32",
+      "45.186.32.0/22"
     ]
   },
   {
@@ -58719,15 +58702,6 @@
     ]
   },
   {
-    "asn": 269425,
-    "organization": "RBN TELECOM LTDA",
-    "document": "08.178.630/0001-62",
-    "ip_blocks": [
-      "45.186.32.0/22",
-      "2804:6464::/32"
-    ]
-  },
-  {
     "asn": 269427,
     "organization": "ONSTARK SISTEMAS INTELIGENTES LTDA -EPP",
     "document": "23.148.394/0001-25",
@@ -66151,15 +66125,6 @@
     "ip_blocks": []
   },
   {
-    "asn": 270857,
-    "organization": "G.F. SERVICOS DE COMUNICACAO LTDA",
-    "document": "35.931.686/0001-19",
-    "ip_blocks": [
-      "132.255.128.0/22",
-      "2804:7280::/32"
-    ]
-  },
-  {
     "asn": 270858,
     "organization": "Diamantino Telecom Provedor de Internet LTDA",
     "document": "07.865.012/0001-28",
@@ -73154,7 +73119,10 @@
     "organization": "H.A. DOS SANTOS SERVIÃO DE INTERNET",
     "document": "29.767.483/0001-36",
     "ip_blocks": [
-      "2804:8040::/32"
+      "2804:8040::/32",
+      "200.23.134.0/23",
+      "192.100.165.0/24",
+      "45.165.152.0/24"
     ]
   },
   {
@@ -77559,7 +77527,7 @@
   },
   {
     "asn": 273443,
-    "organization": "Canal ISP - SoluÃ§Ãµes em Tecnologia LTDA",
+    "organization": "CONEXAO iPV4",
     "document": "31.899.621/0001-82",
     "ip_blocks": [
       "2804:8eb4::/32",
@@ -80074,7 +80042,8 @@
     "organization": "TERA CORPORATION TELECOMUNICACOES EIRELI",
     "document": "07.785.661/0001-19",
     "ip_blocks": [
-      "2804:8c4c::/32"
+      "2804:8c4c::/32",
+      "132.255.128.0/22"
     ]
   },
   {
@@ -83910,6 +83879,14 @@
     ]
   },
   {
+    "asn": 275307,
+    "organization": "SMN SERVICOS DE INTERNET LTDA",
+    "document": "33.166.388/0001-54",
+    "ip_blocks": [
+      "2804:9b04::/32"
+    ]
+  },
+  {
     "asn": 275613,
     "organization": "QUEIROZ FREITAS COMERCIO E SERVIÃOS LTDA",
     "document": "17.756.907/0001-88",
@@ -85123,7 +85100,9 @@
     "organization": "SERRA CLOUD LTDA",
     "document": "47.576.920/0001-16",
     "ip_blocks": [
-      "2804:993c::/32"
+      "2804:993c::/32",
+      "131.255.160.0/24",
+      "131.255.161.0/24"
     ]
   },
   {
@@ -85803,7 +85782,8 @@
     "organization": "ALCIDES ROCHA DOS SANTOS FILHO LTDA",
     "document": "41.009.421/0001-60",
     "ip_blocks": [
-      "2804:9a9c::/32"
+      "2804:9a9c::/32",
+      "168.205.18.0/24"
     ]
   },
   {
