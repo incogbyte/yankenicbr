@@ -2670,7 +2670,6 @@
       "191.227.129.0/24",
       "191.227.130.0/23",
       "186.197.0.0/16",
-      "191.128.30.0/23",
       "191.128.88.0/21",
       "191.128.64.0/20",
       "191.128.252.0/22",
@@ -7405,7 +7404,8 @@
     "organization": "Ultra Prime Fibra Ãptica",
     "document": "52.566.699/0001-55",
     "ip_blocks": [
-      "177.66.180.0/22"
+      "177.66.180.0/22",
+      "2804:9b10::/32"
     ]
   },
   {
@@ -37723,7 +37723,8 @@
     "document": "23.150.425/0001-82",
     "ip_blocks": [
       "192.140.40.0/22",
-      "2804:3c64::/32"
+      "2804:3c64::/32",
+      "191.128.30.0/23"
     ]
   },
   {
@@ -54165,7 +54166,7 @@
   },
   {
     "asn": 268860,
-    "organization": "74JC INFORMATICA EIRELI - ME",
+    "organization": "74 JC INFORMATICA LTDA",
     "document": "24.872.310/0001-64",
     "ip_blocks": [
       "45.173.84.0/22",
@@ -61428,7 +61429,7 @@
     "document": "97.545.417/0001-71",
     "ip_blocks": [
       "2804:697c::/32",
-      "200.124.76.0/23"
+      "200.124.77.0/24"
     ]
   },
   {
@@ -64946,7 +64947,7 @@
   },
   {
     "asn": 270713,
-    "organization": "GUILHERME PORTUGAL FREIXO ME",
+    "organization": "EVO FIBRA INTERNET LTDA",
     "document": "07.221.122/0001-57",
     "ip_blocks": [
       "189.127.176.0/22",
@@ -80286,7 +80287,7 @@
   },
   {
     "asn": 274338,
-    "organization": "SuperNet Sistema De internet E SeguranÃ§a",
+    "organization": "Superneet Telecom",
     "document": "31.810.113/0001-86",
     "ip_blocks": [
       "2804:967c::/32"
@@ -85135,7 +85136,8 @@
     "organization": "NETCENTER FIBRA LTDA",
     "document": "61.731.966/0001-93",
     "ip_blocks": [
-      "2804:994c::/32"
+      "2804:994c::/32",
+      "200.124.76.0/24"
     ]
   },
   {
