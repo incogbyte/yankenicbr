@@ -83874,7 +83874,7 @@
   },
   {
     "asn": 275309,
-    "organization": "Telecom Express Consultoria e ServiÃ§os - LOGFULL",
+    "organization": "LOGFULL LTDA",
     "document": "21.920.650/0001-25",
     "ip_blocks": [
       "2804:9b0c::/32"
@@ -83886,6 +83886,14 @@
     "document": "48.868.375/0001-02",
     "ip_blocks": [
       "2804:9b14::/32"
+    ]
+  },
+  {
+    "asn": 275311,
+    "organization": "E. Lindoso",
+    "document": "05.899.868/0001-99",
+    "ip_blocks": [
+      "2804:9b18::/32"
     ]
   },
   {
