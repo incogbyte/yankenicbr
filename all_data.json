@@ -2684,7 +2684,6 @@
       "191.128.60.0/23",
       "191.128.56.0/22",
       "191.128.48.0/21",
-      "186.196.72.0/23",
       "191.128.32.0/20",
       "191.128.112.0/20",
       "186.196.104.0/21",
@@ -23214,7 +23213,7 @@
   },
   {
     "asn": 263493,
-    "organization": "J. A. OLIVATTI COMUNICAÃÃO MULTIMÃDIA",
+    "organization": "ALLI COMUNICACAO E TELECOMUNICACAO LTDA",
     "document": "31.686.809/0001-42",
     "ip_blocks": [
       "191.243.40.0/22",
@@ -36320,8 +36319,8 @@
   },
   {
     "asn": 266026,
-    "organization": "FABIANO DOS SANTOS FREITAS ME",
-    "document": "09.198.576/0001-80",
+    "organization": "INTERBRAS TELECOMUNICACOES LTDA",
+    "document": "44.446.563/0001-83",
     "ip_blocks": [
       "2804:395c::/32",
       "170.245.156.0/23"
@@ -84507,7 +84506,8 @@
     "organization": "1GLOBAL OPERATIONS (BRAZIL) LTDA",
     "document": "55.961.710/0001-70",
     "ip_blocks": [
-      "2804:9864::/32"
+      "2804:9864::/32",
+      "186.196.72.0/23"
     ]
   },
   {
