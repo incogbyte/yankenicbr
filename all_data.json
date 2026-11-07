@@ -5977,8 +5977,8 @@
   },
   {
     "asn": 28656,
-    "organization": "BTT TELECOMUNICACOES S.A.",
-    "document": "39.565.567/0001-40",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "201.77.160.0/20",
       "177.55.224.0/20",
@@ -16582,8 +16582,8 @@
   },
   {
     "asn": 262504,
-    "organization": "Nova Rede de TelecomunicaÃ§Ãµes Ltda",
-    "document": "07.450.765/0001-72",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "177.66.208.0/21",
       "2804:540::/32",
@@ -16661,8 +16661,8 @@
   },
   {
     "asn": 262514,
-    "organization": "BTT TELECOMUNICACOES S.A.",
-    "document": "39.565.567/0001-40",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "2804:568::/32",
       "177.55.176.0/20",
@@ -17311,8 +17311,8 @@
   },
   {
     "asn": 262595,
-    "organization": "OnNet Telecomunicacoes LTDA",
-    "document": "03.127.257/0001-05",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "177.85.0.0/21",
       "2804:690::/32",
@@ -22660,11 +22660,7 @@
     "organization": "Fonelight TelecomunicaÃ§Ãµes S/A",
     "document": "02.089.242/0001-29",
     "ip_blocks": [
-      "2804:1194::/32",
-      "131.108.8.0/22",
-      "138.121.216.0/22",
-      "170.231.152.0/22",
-      "170.82.116.0/22"
+      "2804:1194::/32"
     ]
   },
   {
@@ -25700,7 +25696,8 @@
       "2804:2884::/32",
       "143.137.116.0/22",
       "190.89.0.0/22",
-      "45.229.220.0/22"
+      "45.229.220.0/22",
+      "200.50.148.0/22"
     ]
   },
   {
@@ -27598,8 +27595,8 @@
   },
   {
     "asn": 264228,
-    "organization": "BTT TELECOMUNICACOES S.A.",
-    "document": "39.565.567/0001-40",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "190.109.64.0/22",
       "2804:2488::/32",
@@ -64945,8 +64942,8 @@
   },
   {
     "asn": 270713,
-    "organization": "EVO FIBRA INTERNET LTDA",
-    "document": "07.221.122/0001-57",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "189.127.176.0/22",
       "2804:7038::/32"
@@ -72427,15 +72424,6 @@
     "ip_blocks": [
       "2804:7ee0::/32",
       "181.191.72.0/22"
-    ]
-  },
-  {
-    "asn": 271652,
-    "organization": "POWER NET",
-    "document": "35.738.265/0001-76",
-    "ip_blocks": [
-      "2804:7edc::/32",
-      "200.50.148.0/22"
     ]
   },
   {
@@ -81877,14 +81865,6 @@
     ]
   },
   {
-    "asn": 274602,
-    "organization": "CONNECT PREMIUM LTDA",
-    "document": "82.307.497/0001-50",
-    "ip_blocks": [
-      "2804:90d8::/32"
-    ]
-  },
-  {
     "asn": 274603,
     "organization": "FJr Telecom",
     "document": "52.510.396/0001-10",
@@ -83896,6 +83876,22 @@
     ]
   },
   {
+    "asn": 275312,
+    "organization": "NETCIA INTERNET LTDA",
+    "document": "40.734.458/0001-99",
+    "ip_blocks": [
+      "2804:9b1c::/32"
+    ]
+  },
+  {
+    "asn": 275313,
+    "organization": "Egoservice - VigilÃ¢ncia e SeguranÃ§a Privada Ltda",
+    "document": "04.814.095/0001-38",
+    "ip_blocks": [
+      "2801:81:2a0::/48"
+    ]
+  },
+  {
     "asn": 275613,
     "organization": "QUEIROZ FREITAS COMERCIO E SERVIÃOS LTDA",
     "document": "17.756.907/0001-88",
@@ -85851,7 +85847,11 @@
     "organization": "Zip Internet Ltda",
     "document": "53.748.710/0001-60",
     "ip_blocks": [
-      "2804:9ab8::/32"
+      "2804:9ab8::/32",
+      "131.108.8.0/22",
+      "138.121.216.0/22",
+      "170.231.152.0/22",
+      "170.82.116.0/22"
     ]
   },
   {
