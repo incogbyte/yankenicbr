@@ -2711,9 +2711,12 @@
       "186.196.114.0/24",
       "186.198.192.0/18",
       "186.198.160.0/19",
-      "186.198.128.0/20",
       "186.198.152.0/21",
-      "191.128.26.0/24"
+      "191.128.26.0/24",
+      "186.198.128.0/24",
+      "186.198.130.0/23",
+      "186.198.132.0/22",
+      "186.198.136.0/21"
     ]
   },
   {
@@ -34269,7 +34272,7 @@
   },
   {
     "asn": 265365,
-    "organization": "GROUP SINTERCOM LTDA",
+    "organization": "INURA BRASIL",
     "document": "46.848.680/0001-07",
     "ip_blocks": [
       "168.205.128.0/22",
@@ -36815,7 +36818,7 @@
   },
   {
     "asn": 266092,
-    "organization": "R. COSTA DO NASCIMENTO",
+    "organization": "IMAX TELECOM",
     "document": "12.943.592/0001-64",
     "ip_blocks": [
       "45.5.108.0/22",
@@ -48654,7 +48657,7 @@
   },
   {
     "asn": 268143,
-    "organization": "MOC INTERNET LTDA",
+    "organization": "Idelink Internet LTDA",
     "document": "24.017.757/0001-56",
     "ip_blocks": [
       "45.170.68.0/22",
@@ -63926,7 +63929,9 @@
     "document": "22.358.848/0001-20",
     "ip_blocks": [
       "177.152.96.0/22",
-      "2804:6e44::/32"
+      "2804:6e44::/32",
+      "181.233.112.0/22",
+      "2804:7bd0::/32"
     ]
   },
   {
@@ -70888,15 +70893,6 @@
     "ip_blocks": [
       "2804:7bcc::/32",
       "187.63.148.0/22"
-    ]
-  },
-  {
-    "asn": 271456,
-    "organization": "NET2YOU NETWORK LTDA",
-    "document": "38.081.679/0001-63",
-    "ip_blocks": [
-      "2804:7bd0::/32",
-      "181.233.112.0/22"
     ]
   },
   {
@@ -79977,14 +79973,6 @@
     ]
   },
   {
-    "asn": 273790,
-    "organization": "ATIVO TELECOM COMUNICACOES LTDA",
-    "document": "48.559.242/0001-46",
-    "ip_blocks": [
-      "2804:8c3c::/32"
-    ]
-  },
-  {
     "asn": 273791,
     "organization": "Triveloz provedor de internet ltda",
     "document": "37.197.655/0001-01",
@@ -81453,7 +81441,7 @@
   },
   {
     "asn": 274549,
-    "organization": "HEAVEN SYSTEM",
+    "organization": "HEAVEN CONECTA",
     "document": "47.119.085/0001-95",
     "ip_blocks": [
       "2804:95d0::/32"
@@ -82071,7 +82059,8 @@
     "organization": "RMNET TELECOM",
     "document": "20.686.208/0001-13",
     "ip_blocks": [
-      "2804:9144::/32"
+      "2804:9144::/32",
+      "186.198.129.0/24"
     ]
   },
   {
