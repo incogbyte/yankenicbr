@@ -29951,8 +29951,8 @@
   },
   {
     "asn": 264552,
-    "organization": "JustWeb TelecomunicaÃ§Ãµes LTDA",
-    "document": "15.699.599/0001-70",
+    "organization": "BRASIL TECPAR AMIGO AVATO",
+    "document": "07.756.651/0001-55",
     "ip_blocks": [
       "138.0.172.0/22",
       "2804:2164::/32",
@@ -83515,7 +83515,7 @@
   },
   {
     "asn": 274820,
-    "organization": "I CEZAR OLIVEIRA FECHINE",
+    "organization": "iLink ServiÃ§os Tecnologicos Ltda",
     "document": "11.040.194/0001-75",
     "ip_blocks": [
       "2804:9414::/32"
@@ -83882,6 +83882,22 @@
     "document": "04.814.095/0001-38",
     "ip_blocks": [
       "2801:81:2a0::/48"
+    ]
+  },
+  {
+    "asn": 275314,
+    "organization": "PROX TELECOM",
+    "document": "64.198.150/0001-34",
+    "ip_blocks": [
+      "2804:9b20::/32"
+    ]
+  },
+  {
+    "asn": 275315,
+    "organization": "Fibraflex Telecom LTDA",
+    "document": "60.184.326/0001-48",
+    "ip_blocks": [
+      "2804:9b24::/32"
     ]
   },
   {
