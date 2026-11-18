@@ -3505,7 +3505,6 @@
       "2804:2f8::/32",
       "189.89.241.0/24",
       "177.12.137.0/24",
-      "189.89.237.0/24",
       "189.89.232.0/23",
       "189.89.250.0/23",
       "189.89.238.0/24",
@@ -12884,7 +12883,7 @@
   },
   {
     "asn": 61713,
-    "organization": "Tangent Telecomunicacoes",
+    "organization": "TANGENT TELECOMUNICACOES",
     "document": "14.411.624/0001-06",
     "ip_blocks": [
       "131.72.16.0/22",
@@ -45291,7 +45290,8 @@
       "192.141.108.0/22",
       "2804:41e8::/32",
       "177.12.135.0/24",
-      "177.12.136.0/24"
+      "177.12.136.0/24",
+      "189.89.237.0/24"
     ]
   },
   {
@@ -76787,8 +76787,8 @@
   },
   {
     "asn": 273355,
-    "organization": "System Computadores LTDA",
-    "document": "06.120.084/0001-83",
+    "organization": "SYSTEM TELECOM LTDA",
+    "document": "52.871.586/0001-63",
     "ip_blocks": [
       "2804:8d68::/32"
     ]
@@ -83886,6 +83886,44 @@
     "document": "60.184.326/0001-48",
     "ip_blocks": [
       "2804:9b24::/32"
+    ]
+  },
+  {
+    "asn": 275316,
+    "organization": "TIPS SUPORTE EM INFORMATICA LTDA",
+    "document": "53.931.896/0001-99",
+    "ip_blocks": []
+  },
+  {
+    "asn": 275317,
+    "organization": "ST COMERCIO E SERVIÃOS LTDA",
+    "document": "41.338.319/0001-09",
+    "ip_blocks": [
+      "2804:9b28::/32"
+    ]
+  },
+  {
+    "asn": 275318,
+    "organization": "3I PROVIDER LTDA",
+    "document": "30.399.592/0001-27",
+    "ip_blocks": [
+      "2804:9b2c::/32"
+    ]
+  },
+  {
+    "asn": 275319,
+    "organization": "TERRANET TELECOM",
+    "document": "46.228.173/0001-62",
+    "ip_blocks": [
+      "2804:9b30::/32"
+    ]
+  },
+  {
+    "asn": 275320,
+    "organization": "JETTURBO NETWORK",
+    "document": "29.663.906/0001-78",
+    "ip_blocks": [
+      "2804:9b34::/32"
     ]
   },
   {
