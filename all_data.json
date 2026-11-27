@@ -51762,7 +51762,7 @@
   },
   {
     "asn": 268549,
-    "organization": "A. G. BRAGA E CIA LTDA",
+    "organization": "Bit Byte SoluÃ§Ãµes TecnolÃ³gicas Ltda",
     "document": "09.328.720/0001-55",
     "ip_blocks": [
       "45.163.44.0/22",
@@ -60272,7 +60272,7 @@
   },
   {
     "asn": 269626,
-    "organization": "Indaiafibra Networking Eireli",
+    "organization": "INDAIAFIBRA NETWORKING LTDA",
     "document": "29.809.799/0001-43",
     "ip_blocks": [
       "45.190.108.0/22",
@@ -83954,6 +83954,38 @@
     "organization": "Internet Systems Consortium",
     "document": "10996639",
     "ip_blocks": []
+  },
+  {
+    "asn": 275328,
+    "organization": "xp telecom",
+    "document": "35.543.134/0001-33",
+    "ip_blocks": [
+      "2804:9b48::/32"
+    ]
+  },
+  {
+    "asn": 275329,
+    "organization": "GIGA 10 INTERNET LTDA",
+    "document": "50.235.469/0001-88",
+    "ip_blocks": [
+      "2804:9b4c::/32"
+    ]
+  },
+  {
+    "asn": 275330,
+    "organization": "J F PONTES LTDA",
+    "document": "33.000.285/0001-10",
+    "ip_blocks": [
+      "2804:9b50::/32"
+    ]
+  },
+  {
+    "asn": 275331,
+    "organization": "MONTKNET SERVICOS DE TELECOMUNICACOES LTDA",
+    "document": "33.055.950/0001-72",
+    "ip_blocks": [
+      "2804:9b54::/32"
+    ]
   },
   {
     "asn": 275613,
